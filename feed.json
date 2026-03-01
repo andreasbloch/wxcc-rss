@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "EU-Reaktionen auf Iran-Konflikt: Überwiegend Zuschauer",
-      "link": "https://www.tagesschau.de/ausland/europa/nahost-iran-krieg-reaktionen-eu-100.html"
-    },
-    {
       "title": "Nahost-Liveblog: ++ Militäreinsatz könnte laut Trump vier Wochen dauern ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-102.html"
+    },
+    {
+      "title": "Eskalation in Iran: Gegenseitige Angriffe und unsichere Aussichten",
+      "link": "https://www.tagesschau.de/ausland/nahost-iran-angriffe-israel-usa-100.html"
+    },
+    {
+      "title": "EU-Reaktionen auf Iran-Konflikt: Überwiegend Zuschauer",
+      "link": "https://www.tagesschau.de/ausland/europa/nahost-iran-krieg-reaktionen-eu-100.html"
     },
     {
       "title": "Nahost-Konflikt: Tausende Flüge ausgesetzt, Kreuzfahrtschiffe gestoppt",
@@ -75,10 +79,6 @@
     {
       "title": "Wie Vandalismus den Bahnverkehr stört",
       "link": "https://www.tagesschau.de/inland/gesellschaft/vandalismus-bahn-100.html"
-    },
-    {
-      "title": "Extremwetter: Schnee satt in Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-schnee-duerre-klimawandel-100.html"
     }
   ]
 }
