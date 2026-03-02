@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Bundesregierung will Kranke und Kinder aus Nahost zurückholen",
+      "link": "https://www.tagesschau.de/inland/wadephul-evakuierung-deutsche-golfregion-100.html"
+    },
+    {
+      "title": "Frankreich sagt Golfstaaten und Jordanien nach Angriffen Hilfe zu",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-golfstaaten-hilfe-100.html"
+    },
+    {
+      "title": "Die Berlinale, Weimer und mehr Fragen als Antworten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-berlinale-tuttle-100.html"
+    },
+    {
+      "title": "Kulturstaatsminister Wolfram Weimers schwierige Mission",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kultur-staatsminister-weimer-berlinale-100.html"
+    },
+    {
+      "title": "Anthropic und das US-Militär: Die nächste Runde im KI-Streit",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-openai-pentagon-trump-100.html"
+    },
+    {
+      "title": "Gestrandet am Golf: So geht es deutschen Touristen in Dubai",
+      "link": "https://www.tagesschau.de/ausland/asien/deutsche-touristen-golfregion-100.html"
+    },
+    {
       "title": "Was über den Beschuss der Mädchenschule in Iran bekannt ist",
       "link": "https://www.tagesschau.de/faktenfinder/iran-angriff-maedchenschule-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Hisbollah greift Israel an: Krieg weitet sich auf den Libanon aus",
       "link": "https://www.tagesschau.de/ausland/asien/hisbollah-israel-iran-100.html"
-    },
-    {
-      "title": "Macron hält Grundsatzrede zu Frankreichs Atomschirm",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-atomschirm-europa-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Birkenholz aus Russland trotz Sanktionen",
-      "link": "https://www.tagesschau.de/ausland/europa/podcast-11km-montag-russland-holz-100.html"
-    },
-    {
-      "title": "Melania Trump leitet Sitzung des UN-Sicherheitsrats",
-      "link": "https://www.tagesschau.de/ausland/amerika/melania-trump-un-sitzung-100.html"
-    },
-    {
-      "title": "Bedroht KI die Geschäftsmodelle von Tech-Unternehmen?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/software-ki-100.html"
-    },
-    {
-      "title": "Israel reagiert mit Raketen auf Beschuss aus dem Libanon",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-libanon-120.html"
-    },
-    {
-      "title": "Iran-Eskalation: Wadephul macht festsitzenden Reisenden wenig Hoffnung",
-      "link": "https://www.tagesschau.de/ausland/asien/reisende-iran-luftraum-geschlossen-100.html"
     }
   ]
 }
