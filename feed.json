@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Kuwait meldet Absturz mehrerer US-Kampfflugzeuge ++",
+      "title": "Nach Medienbericht: Iran lehnt Verhandlungen mit den USA ab",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-ablehnung-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Iran meldet Angriff auf Atomanlage Natans ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-iran-100.html"
     },
     {
-      "title": "Nach Medienbericht: Iran lehnt Verhandlungen mit den USA ab",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-ablehnung-100.html"
+      "title": "Marktbericht: Verkaufswelle trifft Europas Börsen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-angriff-iran-oelpreis-hormuz-100.html"
     },
     {
       "title": "Rauch über US-Botschaft in Kuwait - mehrere US-Kampfjets abgestürzt",
@@ -15,10 +19,6 @@
     {
       "title": "Hisbollah greift Israel an: Krieg weitet sich auf den Libanon aus",
       "link": "https://www.tagesschau.de/ausland/asien/hisbollah-israel-iran-100.html"
-    },
-    {
-      "title": "Marktbericht: Eskalation im Nahen Osten erschüttert Finanzmärkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-angriff-iran-oelpreis-hormuz-100.html"
     },
     {
       "title": "Macron hält Grundsatzrede zu Frankreichs Atomschirm",
@@ -37,7 +37,7 @@
       "link": "https://www.tagesschau.de/wirtschaft/technologie/software-ki-100.html"
     },
     {
-      "title": "Israel greift auch im Libanon an",
+      "title": "Israel reagiert mit Raketen auf Beschuss aus dem Libanon",
       "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-libanon-120.html"
     },
     {
