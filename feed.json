@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Iran meldet Angriff auf Atomanlage Natans ++",
+      "title": "Nahost-Liveblog: ++ Israel startet neuen Angriff auf Teheran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-iran-100.html"
+    },
+    {
+      "title": "Trump-nahe Unternehmer mit immer mehr Medienmacht",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/warner-paramount-cnn-100.html"
+    },
+    {
+      "title": "Kuwaitische Luftwaffe schießt versehentlich US-Kampfjets ab",
+      "link": "https://www.tagesschau.de/ausland/asien/kuwait-abschuss-us-jets-100.html"
+    },
+    {
+      "title": "Liken, posten, teilen - Immer mehr Ältere nutzen Social Media",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/soziale-medien-nutzerzahlen-instagram-statistik-100.html"
     },
     {
       "title": "Warum die Straße von Hormus so wichtig ist",
@@ -67,18 +79,6 @@
     {
       "title": "Nahost-Liveblog: ++ Militäreinsatz könnte laut Trump vier Wochen dauern ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-israel-usa-angriffe-iran-102.html"
-    },
-    {
-      "title": "Eskalation in Iran: Gegenseitige Angriffe und unsichere Aussichten",
-      "link": "https://www.tagesschau.de/ausland/nahost-iran-angriffe-israel-usa-100.html"
-    },
-    {
-      "title": "EU-Reaktionen auf Iran-Konflikt: Überwiegend Zuschauer",
-      "link": "https://www.tagesschau.de/ausland/europa/nahost-iran-krieg-reaktionen-eu-100.html"
-    },
-    {
-      "title": "Nahost-Konflikt: Tausende Flüge ausgesetzt, Kreuzfahrtschiffe gestoppt",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-reisen-luftverkehr-touristen-100.html"
     }
   ]
 }
