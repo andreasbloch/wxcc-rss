@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Brennender Tanker in der Straße von Hormus ++",
+      "title": "Nahost-Liveblog: ++EU kündigt Energie-Krisenstab an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-iran-100.html"
+    },
+    {
+      "title": "Verhandlung am Bundesgerichtshof: Kommt das Verbrenner-Aus zu spät?",
+      "link": "https://www.tagesschau.de/wirtschaft/bundesgerichtshof-klage-verbrenner-aus-100.html"
     },
     {
       "title": "Aus welchen Gründen greifen die USA jetzt Iran an?",
@@ -75,10 +79,6 @@
     {
       "title": "Was über den Beschuss der Mädchenschule in Iran bekannt ist",
       "link": "https://www.tagesschau.de/faktenfinder/iran-angriff-maedchenschule-100.html"
-    },
-    {
-      "title": "Hisbollah und Israel: Zurück im Krieg",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-hisbollah-israel-102.html"
     }
   ]
 }
