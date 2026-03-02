@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Liveblog zum Iran-Krieg: ++ Israel greift Teheran erneut an ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Iran: Straße von Hormus gesperrt ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-iran-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kulturstaatsminister Wolfram Weimers schwierige Mission",
       "link": "https://www.tagesschau.de/inland/gesellschaft/kultur-staatsminister-weimer-berlinale-100.html"
-    },
-    {
-      "title": "Anthropic und das US-Militär: Die nächste Runde im KI-Streit",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-openai-pentagon-trump-100.html"
     }
   ]
 }
