@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Krieg im Nahen Osten: Neue Angriffe auf Iran und Gegenangriffe",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-israel-102.html"
+    },
+    {
+      "title": "Blick von der Seitenlinie - was bedeutet der Iran-Krieg für Deutschland?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/iran-krieg-bundesregierung-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++EU kündigt Energie-Krisenstab an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-iran-100.html"
     },
@@ -33,12 +41,8 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nahost-konflikt-auswirkungen-reisebranche-100.html"
     },
     {
-      "title": "Recht von Nahost-Reisenden die wegen des Iran-Krieges gestrandet sind",
+      "title": "Rechte von Nahost-Reisenden, die wegen des Iran-Krieges gestrandet sind",
       "link": "https://www.tagesschau.de/ausland/asien/rechte-reisende-nahost-100.html"
-    },
-    {
-      "title": "Krieg im Nahen Osten: Neue Angriffe auf Iran und Gegenangriffe",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-israel-102.html"
     },
     {
       "title": "Bundesregierung will Kranke und Kinder aus Nahost zurückholen",
@@ -75,10 +79,6 @@
     {
       "title": "Gestrandet am Golf: So geht es deutschen Touristen in Dubai",
       "link": "https://www.tagesschau.de/ausland/asien/deutsche-touristen-golfregion-100.html"
-    },
-    {
-      "title": "Was über den Beschuss der Mädchenschule in Iran bekannt ist",
-      "link": "https://www.tagesschau.de/faktenfinder/iran-angriff-maedchenschule-100.html"
     }
   ]
 }
