@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ SPD warnt vor Bürgerkrieg und Flüchtlingen ++",
+      "title": "Nahost-Liveblog: ++ Rauch über US-Botschaftsgelände in Kuwait ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-iran-100.html"
+    },
+    {
+      "title": "Hisbollah greift Israel an: Konflikt weitet sich auf den Libanon aus",
+      "link": "https://www.tagesschau.de/ausland/asien/hisbollah-israel-iran-100.html"
+    },
+    {
+      "title": "Marktbericht: Eskalation im Nahen Osten erschüttert Finanzmärkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-angriff-iran-oelpreis-hormuz-100.html"
+    },
+    {
+      "title": "Macron hält Grundsatzrede zu Frankreichs Atomschirm",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-atomschirm-europa-100.html"
     },
     {
       "title": "11KM-Podcast: Birkenholz aus Russland trotz Sanktionen",
@@ -67,18 +79,6 @@
     {
       "title": "Nach Chameneis Tod - Wie geht es in Iran nun weiter?",
       "link": "https://www.tagesschau.de/ausland/asien/iran-fragen-antworten-102.html"
-    },
-    {
-      "title": "Rohstoffe und Sicherheit: Trumps neues Interesse an Afrika",
-      "link": "https://www.tagesschau.de/ausland/afrika/usa-afrika-rohstoffe-100.html"
-    },
-    {
-      "title": "Deutsches Start-up profitiert vom Rüstungsboom",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/germandrones-100.html"
-    },
-    {
-      "title": "Chinas Jugend: Mehr Chancen in der Provinz?",
-      "link": "https://www.tagesschau.de/ausland/asien/china-jugend-aufs-land-100.html"
     }
   ]
 }
