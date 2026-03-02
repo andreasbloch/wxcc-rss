@@ -1,11 +1,15 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Rauch über US-Botschaftsgelände in Kuwait ++",
+      "title": "Nahost-Liveblog: ++ Kuwait meldet Absturz mehrerer US-Kampfflugzeuge ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-iran-100.html"
     },
     {
-      "title": "Hisbollah greift Israel an: Konflikt weitet sich auf den Libanon aus",
+      "title": "Rauch über US-Botschaft in Kuwait",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-kuwait-us-botschaft-100.html"
+    },
+    {
+      "title": "Hisbollah greift Israel an: Krieg weitet sich auf den Libanon aus",
       "link": "https://www.tagesschau.de/ausland/asien/hisbollah-israel-iran-100.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Tausende in Nordrhein-Westfalen feiern Tod von Irans Chamenei",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/iran-demos-nrw-100.html"
-    },
-    {
-      "title": "Nach Chameneis Tod - Wie geht es in Iran nun weiter?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-fragen-antworten-102.html"
     }
   ]
 }
