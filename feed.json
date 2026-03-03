@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Straße von Hormus: Iran droht mit Angriffen auf Schiffe",
+      "link": "https://www.tagesschau.de/wirtschaft/strasse-von-hormus-drohung-iran-100.html"
+    },
+    {
+      "title": "Überblick über die Angriffe der Nacht im Nahen Osten",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-100.html"
+    },
+    {
       "title": "Liveblog zum Iran-Krieg: ++ US-Botschaft in Riad angegriffen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Frankreich erhöht Zahl seiner Atomsprengköpfe",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-macron-atomwaffen-100.html"
-    },
-    {
-      "title": "Neues Bild des Künstlers Rembrandt in Amsterdamer Museum entdeckt",
-      "link": "https://www.tagesschau.de/kultur/rembrandt-gemaelde-kunst-amsterdam-100.html"
-    },
-    {
-      "title": "Frankreich sagt Golfstaaten und Jordanien nach Angriffen Hilfe zu",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-golfstaaten-hilfe-100.html"
     }
   ]
 }
