@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Krieg: ++ Zehntausende im Libanon laut UN auf der Flucht ++",
+      "title": "Iran-Krieg: ++ Angriffe auf Flughäfen in Teheran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-100.html"
+    },
+    {
+      "title": "Marktbericht: Aktienmärkte gehen auf Talfahrt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-oelpreis-aktienmarkt-100.html"
+    },
+    {
+      "title": "Erster Rückholflug deutscher Touristen soll morgen starten",
+      "link": "https://www.tagesschau.de/inland/rueckholflug-nahost-100.html"
+    },
+    {
+      "title": "Affäre um Vetternwirtschaft: AfD-Bundestagsfraktion wirft Abgeordneten raus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-ausschluss-bundestag-abgeordneter-schmidt-100.html"
     },
     {
       "title": "Normalisierung im Südwesten? Warum die AfD dort punktet",
@@ -67,18 +79,6 @@
     {
       "title": "Wie \"Kidfluencer\" in Sozialen Medien ausgebeutet werden",
       "link": "https://www.tagesschau.de/kultur/kidfluencer-ausbeutung-in-social-media-100.html"
-    },
-    {
-      "title": "Asylanträge in der EU 2025 um 19 Prozent gesunken",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-asylzahlen-deutschland-migration-100.html"
-    },
-    {
-      "title": "Marktbericht: Aktienmarkt stürzt immer tiefer",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-oelpreis-aktienmarkt-100.html"
-    },
-    {
-      "title": "AfD-Fraktionsvize verliert Personalverantwortung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-vorwuerfe-vetternwirtschaft-100.html"
     }
   ]
 }
