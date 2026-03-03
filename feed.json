@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Wie effizient werden Steuergelder für die Rüstung ausgegeben?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ruestung-industrie-deutschland-steuergelder-100.html"
+    },
+    {
       "title": "Straße von Hormus: Iran droht mit Angriffen auf Schiffe",
       "link": "https://www.tagesschau.de/wirtschaft/strasse-von-hormus-drohung-iran-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Rechte von Nahost-Reisenden, die wegen des Iran-Krieges gestrandet sind",
       "link": "https://www.tagesschau.de/ausland/asien/rechte-reisende-nahost-100.html"
-    },
-    {
-      "title": "Bundesregierung will Kranke und Kinder aus Nahost zurückholen",
-      "link": "https://www.tagesschau.de/inland/wadephul-evakuierung-deutsche-golfregion-100.html"
     }
   ]
 }
