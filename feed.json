@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Liveblog zum Iran-Krieg: ++ Israel greift Teheran erneut an ++",
+      "title": "Liveblog zum Iran-Krieg: ++ US-Botschaft in Riad angegriffen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-100.html"
+    },
+    {
+      "title": "Berlinale-Intendantin Tuttle will im Amt bleiben",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlinale-tuttle-will-bleiben-100.html"
     },
     {
       "title": "Nahost-Liveblog: ++ Iran: Straße von Hormus gesperrt ++",
@@ -75,10 +79,6 @@
     {
       "title": "Frankreich sagt Golfstaaten und Jordanien nach Angriffen Hilfe zu",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-golfstaaten-hilfe-100.html"
-    },
-    {
-      "title": "Kulturstaatsminister Wolfram Weimers schwierige Mission",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kultur-staatsminister-weimer-berlinale-100.html"
     }
   ]
 }
