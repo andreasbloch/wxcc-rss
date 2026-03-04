@@ -1,8 +1,36 @@
 {
   "items": [
     {
-      "title": "Iran-Krieg: ++ USA wollen Angriffstaktik ändern ++",
+      "title": "Wechsel bei den Wirtschaftsweisen: Kein guter Stil",
+      "link": "https://www.tagesschau.de/kommentar/wirtschaftsweise-felbermayr-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX wieder über 24.000 Punkten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-oelpreis-100.html"
+    },
+    {
+      "title": "SPD und CDU: Koalitionsvertrag in Brandenburg steht",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/koalitionsvertrag-brandenburg-100.html"
+    },
+    {
+      "title": "Iran-Krieg: ++ Zwei weitere Evakuierungsflüge angekündigt ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-102.html"
+    },
+    {
+      "title": "USA bestätigen Angriff: Iranisches Kriegsschiff mit Torpedo versenkt",
+      "link": "https://www.tagesschau.de/ausland/asien/kriegsschiff-sinkt-vor-sri-lanka-100.html"
+    },
+    {
+      "title": "Kampfjet-Projekt FCAS: Dassault-Chef teilt gegen Airbus aus",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fcas-airbus-dassault-100.html"
+    },
+    {
+      "title": "Verfassungsschutz-Einstufung: Wie das AfD-Verfahren weitergeht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-verfahren-verfassungsschutz-100.html"
+    },
+    {
+      "title": "Krieg im Nahen Osten: NATO fängt iranische Rakete ab",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-tuerkei-rakete-nato-100.html"
     },
     {
       "title": "Tricia Tuttle bleibt Berlinale-Intendantin",
@@ -19,14 +47,6 @@
     {
       "title": "Wie der Iran-Krieg Trumps MAGA-Lager spaltet",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-anhaenger-streit-israel-100.html"
-    },
-    {
-      "title": "USA bestätigen Angriff: Iranisches Kriegsschiff vor Sri Lanka versenkt",
-      "link": "https://www.tagesschau.de/ausland/asien/kriegsschiff-sinkt-vor-sri-lanka-100.html"
-    },
-    {
-      "title": "SPD und CDU: Koalitionsvertrag in Brandenburg steht",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/koalitionsvertrag-brandenburg-100.html"
     },
     {
       "title": "Wiener Ökonom Gabriel Felbermayr soll Wirtschaftsweiser werden",
@@ -59,26 +79,6 @@
     {
       "title": "Führung in Iran: Sohn von Chamenei könnte dessen Nachfolger werden",
       "link": "https://www.tagesschau.de/ausland/iran-chamenei-nachfolger-100.html"
-    },
-    {
-      "title": "Dieselpreis springt über die Zwei-Euro-Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-diesel-benzin-100.html"
-    },
-    {
-      "title": "Der DAX klettert nach Kurseinbruch wieder",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-oelpreis-100.html"
-    },
-    {
-      "title": "Wie Journalisten zu Epstein recherchieren",
-      "link": "https://www.tagesschau.de/investigativ/ndr/epstein-recherche-102.html"
-    },
-    {
-      "title": "Seit Kriegsbeginn: USA und Israel melden Tausende Angriffe auf Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-usa-100.html"
-    },
-    {
-      "title": "Warum Trump gegen Spanien wütet und mit einem Handelsstopp droht",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-trump-streit-100.html"
     }
   ]
 }
