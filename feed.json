@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Der freundliche Herr Merz bei Donald Trump",
+      "link": "https://www.tagesschau.de/kommentar/trump-merz-besuch-100.html"
+    },
+    {
       "title": "Iran-Krieg: ++ Frankreich verlegt Flugzeugträger ins Mittelmeer ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Erster Emirates-Flieger mit Urlaubern nach Frankfurt unterwegs",
       "link": "https://www.tagesschau.de/ausland/dubai-flugzeug-touristen-100.html"
-    },
-    {
-      "title": "Wehrbericht: Personalmangel bleibt das große Problem der Bundeswehr",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wehrbericht-bundeswehr-106.html"
     }
   ]
 }
