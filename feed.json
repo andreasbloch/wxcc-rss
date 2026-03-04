@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Krieg: ++ Mehr als 100 Vermisste nach U-Boot-Angriff ++",
+      "title": "Marktbericht: Glyphosat-Klagen sorgen bei Bayer für Milliardenverlust",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktie-des-tages-bayer-100.html"
+    },
+    {
+      "title": "Iran-Krieg: ++ NATO fängt laut Türkei Rakete aus Iran ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-102.html"
+    },
+    {
+      "title": "SPD und CDU: Koalitionsvertrag in Brandenburg steht",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/koalitionsvertrag-brandenburg-100.html"
     },
     {
       "title": "Wie die Kehrtwende bei der Schuldenbremse bis heute nachwirkt",
@@ -71,14 +79,6 @@
     {
       "title": "US-Präsident Trump voll des Lobes für Bundeskanzler Merz",
       "link": "https://www.tagesschau.de/ausland/amerika/merz-trump-treffen-104.html"
-    },
-    {
-      "title": "Ali Laridschani - das neue Gesicht des iranischen Regimes?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-laridschani-portraet-100.html"
-    },
-    {
-      "title": "100 Tage vor Fußball-WM - Wie sicher ist Mexiko?",
-      "link": "https://www.tagesschau.de/ausland/amerika/mexiko-wm-100-tage-100.html"
     }
   ]
 }
