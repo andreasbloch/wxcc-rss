@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "Der DAX klettert nach Kurseinbruch wieder",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-oelpreis-100.html"
+      "title": "Handwerker dringend gesucht",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/handwerk-ausbildungsplaetze-100.html"
     },
     {
-      "title": "Iran-Krieg: ++ Israel meldet neue Angriffe auf Beirut ++",
+      "title": "Iran-Krieg: ++ Mehr als 100 Vermisste nach U-Boot-Angriff ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-102.html"
+    },
+    {
+      "title": "Führung in Iran: Sohn von Chamenei könnte dessen Nachfolger werden",
+      "link": "https://www.tagesschau.de/ausland/iran-chamenei-nachfolger-100.html"
+    },
+    {
+      "title": "Dieselpreis springt über die Zwei-Euro-Marke",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-diesel-benzin-100.html"
+    },
+    {
+      "title": "Der DAX klettert nach Kurseinbruch wieder",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-oelpreis-100.html"
     },
     {
       "title": "Wie Journalisten zu Epstein recherchieren",
@@ -67,18 +79,6 @@
     {
       "title": "Marktbericht: Aktienmärkte gehen auf Talfahrt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-oelpreis-aktienmarkt-100.html"
-    },
-    {
-      "title": "Affäre um Vetternwirtschaft: AfD-Bundestagsfraktion wirft Abgeordneten raus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-ausschluss-bundestag-abgeordneter-schmidt-100.html"
-    },
-    {
-      "title": "Normalisierung im Südwesten? Warum die AfD dort punktet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-afd-100.html"
-    },
-    {
-      "title": "Spritpreise steigen infolge des Iran-Kriegs immer weiter",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-benzin-diesel-tanken-100.html"
     }
   ]
 }
