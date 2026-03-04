@@ -1,16 +1,28 @@
 {
   "items": [
     {
-      "title": "Marktbericht: Glyphosat-Klagen sorgen bei Bayer für Milliardenverlust",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktie-des-tages-bayer-100.html"
-    },
-    {
       "title": "Iran-Krieg: ++ NATO fängt laut Türkei Rakete aus Iran ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-102.html"
     },
     {
+      "title": "BKA-Studie sieht zunehmende Radikalisierung in Deutschland",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/studie-zunehmende-radikalisierung-100.html"
+    },
+    {
+      "title": "Sánchez bekräftigt Kritik am Iran-Krieg",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-trump-iran-krieg-100.html"
+    },
+    {
       "title": "SPD und CDU: Koalitionsvertrag in Brandenburg steht",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/koalitionsvertrag-brandenburg-100.html"
+    },
+    {
+      "title": "Wiener Ökonom Gabriel Felbermayr soll Wirtschaftsweiser werden",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/felbermayr-wird-wirtschaftsweise-100.html"
+    },
+    {
+      "title": "Marktbericht: Glyphosat-Klagen sorgen bei Bayer für Milliardenverlust",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktie-des-tages-bayer-100.html"
     },
     {
       "title": "Wie die Kehrtwende bei der Schuldenbremse bis heute nachwirkt",
@@ -67,18 +79,6 @@
     {
       "title": "Männer zwischen \"Alpha\"-Kult und Unsicherheit",
       "link": "https://www.tagesschau.de/kultur/maenner-alpha-kult-oder-verunsicherung-100.html"
-    },
-    {
-      "title": "Kommentar: Der freundliche Herr Merz bei Donald Trump",
-      "link": "https://www.tagesschau.de/kommentar/trump-merz-besuch-100.html"
-    },
-    {
-      "title": "Interview mit Kanzler Merz: \"Es kann auch einen Zeitpunkt geben, der zu spät ist\"",
-      "link": "https://www.tagesschau.de/inland/merz-interview-tagesthemen-104.html"
-    },
-    {
-      "title": "US-Präsident Trump voll des Lobes für Bundeskanzler Merz",
-      "link": "https://www.tagesschau.de/ausland/amerika/merz-trump-treffen-104.html"
     }
   ]
 }
