@@ -1,8 +1,24 @@
 {
   "items": [
     {
+      "title": "UN beklagen Rückschritte bei Frauenrechten",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-frauenrechte-100.html"
+    },
+    {
       "title": "Iran-Krieg: ++ Rutte sieht keinen NATO-Bündnisfall ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-104.html"
+    },
+    {
+      "title": "Grundsicherung verabschiedet: Was bedeutet das Ende des Bürgergelds?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/grundsicherung-ueberblick-100.html"
+    },
+    {
+      "title": "Grundsicherung statt Bürgergeld: Bundestag beschließt Reform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-grundsicherung-102.html"
+    },
+    {
+      "title": "Marktbericht: DHL-Aktien nach Bilanz auf Tauchstation",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktie-des-tages-dhl-100.html"
     },
     {
       "title": "Welche Börsen durch den Iran-Krieg am stärksten getroffen werden",
@@ -63,22 +79,6 @@
     {
       "title": "Iran-Krieg: Erstes Evakuierungsflugzeug der Bundesregierung gelandet",
       "link": "https://www.tagesschau.de/inland/evakuierung-flug-gelandet-100.html"
-    },
-    {
-      "title": "US-Senat stimmt gegen mehr Mitsprache im Iran-Krieg",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-kongress-irankrieg-100.html"
-    },
-    {
-      "title": "Wer ist die iranische Opposition?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-opposition-100.html"
-    },
-    {
-      "title": "\"Letzte Verteidigungswelle\": Terrorprozess gegen junge Neonazis beginnt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/letzte-verteidigungswelle-prozess-100.html"
-    },
-    {
-      "title": "Bundestag stimmt über Bürgergeld-Reform ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-grundsicherung-bundestag-100.html"
     }
   ]
 }
