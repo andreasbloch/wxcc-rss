@@ -1,8 +1,32 @@
 {
   "items": [
     {
-      "title": "Iran-Krieg: ++ Rutte sieht keinen NATO-Bündnisfall ++",
+      "title": "Iran-Krieg: EU engagiert sich an der Seite der Golfstaaten",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-golfstaaten-iran-102.html"
+    },
+    {
+      "title": "Iran-Krieg: ++ Großbritannien verlegt weitere Kampfjets nach Katar ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-104.html"
+    },
+    {
+      "title": "Marktbericht: Kriegsängste und steigende Ölpreise vertreiben Anleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-iran-dow-100.html"
+    },
+    {
+      "title": "Bundesbank steckt weiter in den roten Zahlen",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bundesbank-defizit-100.html"
+    },
+    {
+      "title": "ARD-DeutschlandTrend: Mehrheit lehnt Angriff auf Iran ab",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-maerz-104.html"
+    },
+    {
+      "title": "Millionen Menschen in Kuba sind ohne Strom",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-stromausfall-116.html"
+    },
+    {
+      "title": "Plötzlich wird die Ukraine um Hilfe bei der Verteidigung gebeten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-nahost-iran-drohnen-100.html"
     },
     {
       "title": "IG Metall bei den Tesla-Betriebsratswahlen erneut unterlegen",
@@ -55,30 +79,6 @@
     {
       "title": "China setzt niedrigstes Wachstumsziel seit Jahrzehnten",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-wachstumsziel-volkskongress-100.html"
-    },
-    {
-      "title": "Sonderstatus für ukrainische Geflüchtete läuft in Polen aus",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-ukraine-gefluechtete-sonderstatus-100.html"
-    },
-    {
-      "title": "Zahlreiche Todesopfer nach Einsturz in Coltan-Mine im Ostkongo",
-      "link": "https://www.tagesschau.de/ausland/afrika/ostkongo-mine-erdrutsch-100.html"
-    },
-    {
-      "title": "Marktbericht: Im DAX bleiben Optimisten am Ruder",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-iran-dow-100.html"
-    },
-    {
-      "title": "13 Jahre Haft für Messerattacke an Holocaust-Mahnmal in Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/haft-messerattacke-holocaust-mahnmal-100.html"
-    },
-    {
-      "title": "Krieg in Nahost: Gegenseitige Angriffe gehen unvermindert weiter",
-      "link": "https://www.tagesschau.de/ausland/asien/irankrieg-angriffe-100.html"
-    },
-    {
-      "title": "Bundeskartellamt soll hohe Spritpreise an Tankstellen überprüfen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-benzin-diesel-bundeskartellamt-100.html"
     }
   ]
 }
