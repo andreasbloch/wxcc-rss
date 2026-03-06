@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Krieg: ++ Emirates und Etihad nehmen Betrieb wieder auf ++",
+      "title": "Iran-Krieg: ++ Festnahmen wegen iranischer Spionage in Großbritannien ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-106.html"
+    },
+    {
+      "title": "30 Tage russisches Öl für Indien",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/indien-oel-aus-russland-100.html"
+    },
+    {
+      "title": "Mehr als 100 Menschen in Nigeria von Dschihadisten entführt",
+      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-ngoshe-entfuehrung-100.html"
     },
     {
       "title": "US-Justizministerium veröffentlicht fehlende Epstein-Akten zu Trump",
@@ -71,14 +79,6 @@
     {
       "title": "Prekäre Finanzlage bei Kommunen - Ministerpräsidenten machen Druck",
       "link": "https://www.tagesschau.de/inland/innenpolitik/soforthilfe-kommunen-ministerpraesidentenkonferenz-100.html"
-    },
-    {
-      "title": "Iran-Krieg: EU engagiert sich an der Seite der Golfstaaten",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-golfstaaten-iran-102.html"
-    },
-    {
-      "title": "Marktbericht: Kriegsängste und steigende Ölpreise vertreiben Anleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-iran-dow-100.html"
     }
   ]
 }
