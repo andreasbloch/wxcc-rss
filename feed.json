@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "Eskalation des Pipeline-Streits zwischen der Slowakei und der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/pipeline-slowakei-ukraine-100.html"
+    },
+    {
+      "title": "Marktbericht: Börsen bleiben weltweit im Krisenmodus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-iran-krise-dow-100.html"
+    },
+    {
       "title": "Iran-Krieg: ++ Trump will \"bedingungslose Kapitulation\" Irans ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-106.html"
+    },
+    {
+      "title": "EU-Kommission bezuschusst Rückholflüge aus dem Nahen Osten",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-bezuschusst-evakuierungsfluege-100.html"
     },
     {
       "title": "Krieg in Iran: Regime-Anhänger demonstrieren nach Freitagsgebet",
@@ -67,18 +79,6 @@
     {
       "title": "Bundeswehr darf künftig notfalls Drohnen abschießen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-drohnen-bundesrat-100.html"
-    },
-    {
-      "title": "Sorge um Ölimporte: Ein Krieg, der China nicht recht ist",
-      "link": "https://www.tagesschau.de/ausland/asien/china-iran-oel-100.html"
-    },
-    {
-      "title": "Flugverkehr im Nahen Osten läuft trotz Krieg teilweise wieder an",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-flugverkehr-100.html"
-    },
-    {
-      "title": "Traditionsverständnis beim Militär: Wo bleibt das Liederbuch der Bundeswehr?",
-      "link": "https://www.tagesschau.de/investigativ/wdr/bundeswehr-liederbuch-tradition-rechtsextremismus-100.html"
     }
   ]
 }
