@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "USA: Trump entlässt Heimatschutzministerin Noem",
-      "link": "https://www.tagesschau.de/ausland/amerika/noem-abberufung-102.html"
-    },
-    {
       "title": "Iran-Krieg: ++ Israel attackiert Vororte von Beirut ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-106.html"
+    },
+    {
+      "title": "Krieg gegen Iran - Könnte den USA die Munition ausgehen?",
+      "link": "https://www.tagesschau.de/ausland/amerika/munition-usa-100.html"
+    },
+    {
+      "title": "USA: Trump entlässt Heimatschutzministerin Noem",
+      "link": "https://www.tagesschau.de/ausland/amerika/noem-abberufung-102.html"
     },
     {
       "title": "Bundestag entscheidet über Änderungen an Krankenhausreform",
@@ -75,10 +79,6 @@
     {
       "title": "US-Angriff auf iranisches Kriegsschiff: Der Krieg vor Indiens Haustür",
       "link": "https://www.tagesschau.de/ausland/asien/sri-lanka-angriff-iranisches-schiff-iris-dena-100.html"
-    },
-    {
-      "title": "Nahost-Krieg: Aserbaidschan wirft Iran Drohnenangriffe vor",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriff-aserbaidschan-100.html"
     }
   ]
 }
