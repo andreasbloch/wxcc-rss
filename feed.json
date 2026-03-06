@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Iran-Krieg: ++ Israel attackiert Vororte von Beirut ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-106.html"
+    },
+    {
+      "title": "US-Repräsentantenhaus lehnt Resolution zum Iran-Krieg ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-repraesentantenhaus-iran-100.html"
+    },
+    {
       "title": "Erste Entlassung im Kabinett: Trump beruft Heimatschutzministerin Noem ab",
       "link": "https://www.tagesschau.de/ausland/amerika/noem-abberufung-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Grundsicherung verabschiedet: Was bedeutet das Ende des Bürgergelds?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/grundsicherung-ueberblick-100.html"
-    },
-    {
-      "title": "Grundsicherung statt Bürgergeld: Bundestag beschließt Reform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-grundsicherung-102.html"
-    },
-    {
-      "title": "Marktbericht: DHL-Aktien nach Bilanz auf Tauchstation",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktie-des-tages-dhl-100.html"
     }
   ]
 }
