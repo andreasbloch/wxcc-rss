@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "USA: Trump entlässt Heimatschutzministerin Noem",
+      "link": "https://www.tagesschau.de/ausland/amerika/noem-abberufung-102.html"
+    },
+    {
       "title": "Iran-Krieg: ++ Israel attackiert Vororte von Beirut ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-106.html"
+    },
+    {
+      "title": "Bundestag entscheidet über Änderungen an Krankenhausreform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/krankenhaus-reform-bundestag-100.html"
+    },
+    {
+      "title": "Warum Baden-Württemberg für die FDP so wichtig ist",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-fdp-100.html"
     },
     {
       "title": "US-Repräsentantenhaus lehnt Resolution zum Iran-Krieg ab",
@@ -67,18 +79,6 @@
     {
       "title": "Nahost-Krieg: Aserbaidschan wirft Iran Drohnenangriffe vor",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriff-aserbaidschan-100.html"
-    },
-    {
-      "title": "Rentenerhöhung um mehr als vier Prozent ab Juli",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-ab-juli-100.html"
-    },
-    {
-      "title": "UN beklagen Rückschritte bei Frauenrechten",
-      "link": "https://www.tagesschau.de/ausland/amerika/un-frauenrechte-100.html"
-    },
-    {
-      "title": "Grundsicherung verabschiedet: Was bedeutet das Ende des Bürgergelds?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/grundsicherung-ueberblick-100.html"
     }
   ]
 }
