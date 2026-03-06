@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Iran-Krieg: ++ Ölpreis steigt auf höchsten Stand seit fast zwei Jahren ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-106.html"
+    },
+    {
+      "title": "Bundesrat will Frauen besser vor Spanner-Aufnahmen schützen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-schutz-spannervideos-frauen-100.html"
+    },
+    {
       "title": "Eskalation des Pipeline-Streits zwischen der Slowakei und der Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/pipeline-slowakei-ukraine-100.html"
     },
     {
       "title": "Marktbericht: Börsen bleiben weltweit im Krisenmodus",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-iran-krise-dow-100.html"
-    },
-    {
-      "title": "Iran-Krieg: ++ Trump will \"bedingungslose Kapitulation\" Irans ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-106.html"
     },
     {
       "title": "EU-Kommission bezuschusst Rückholflüge aus dem Nahen Osten",
@@ -75,10 +79,6 @@
     {
       "title": "Wie die Merz-CDU auf die Wahlen im Südwesten schaut",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-landtagswahl-baden-wuerttemberg-100.html"
-    },
-    {
-      "title": "Bundeswehr darf künftig notfalls Drohnen abschießen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-drohnen-bundesrat-100.html"
     }
   ]
 }
