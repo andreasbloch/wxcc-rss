@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Gewalt in Zügen: Jeder dritte Bahnmitarbeiter denkt an Kündigung",
+      "link": "https://www.tagesschau.de/inland/bahn-kuendigung-gewalt-100.html"
+    },
+    {
+      "title": "Kameras sollen in größeren Schlachthöfen Pflicht werden",
+      "link": "https://www.tagesschau.de/inland/videoueberwachung-schlachthoefe-100.html"
+    },
+    {
       "title": "++ Iran-Krieg: USA wollen laut Trump mehr Waffen produzieren ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-108.html"
     },
     {
-      "title": "US-Börse: Schwächste Woche für Dow Jones seit fast einem Jahr",
-      "link": "https://www.tagesschau.de/wirtschaft/dow-jones-gefallen-100.html"
+      "title": "Iran-Krieg: Eine Woche - und die Kämpfe reißen nicht ab",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-eine-woche-100.html"
     },
     {
-      "title": "Iran-Krieg: ++ Ölpreis steigt auf höchsten Stand seit fast zwei Jahren ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-106.html"
+      "title": "US-Börse: Schwächste Woche für Dow Jones seit fast einem Jahr",
+      "link": "https://www.tagesschau.de/wirtschaft/dow-jones-gefallen-100.html"
     },
     {
       "title": "Trump fordert Irans \"bedingungslose Kapitulation\"",
@@ -71,14 +79,6 @@
     {
       "title": "ASMR und der weltweite Boom sanfter Geräusche",
       "link": "https://www.tagesschau.de/kultur/asmr-und-der-boom-sanfter-geraeusche-100.html"
-    },
-    {
-      "title": "Kriegsalltag in Saporischschja: \"Angst und Panik helfen uns nicht\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-sicherheitslage-saporischschja-100.html"
-    },
-    {
-      "title": "Logistik-Branche fordert Hilfe wegen hoher Spritpreise",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/unternehmen-logistiker-spritpreise-100.html"
     }
   ]
 }
