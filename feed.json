@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Präsident Trump droht Iran \"in die Hölle geprügelt\" zu werden",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-krieg-102.html"
+    },
+    {
       "title": "++ Iran-Krieg: Arabische Liga plant Notfallsitzung ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-108.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "US-Börse: Schwächste Woche für Dow Jones seit fast einem Jahr",
       "link": "https://www.tagesschau.de/wirtschaft/dow-jones-gefallen-100.html"
-    },
-    {
-      "title": "Trump fordert Irans \"bedingungslose Kapitulation\"",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-kapitulation-100.html"
     }
   ]
 }
