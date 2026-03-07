@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Südafrika: Mit der Armee gegen die Banden in Kapstadt",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-armee-kapstadt-cape-flats-100.html"
+    },
+    {
+      "title": "Welche Chancen und Risiken Betriebsrenten für die Altersvorsorge haben",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/betriebsrenten-kosten-100.html"
+    },
+    {
+      "title": "Massive Angriffe der USA und Israels auf Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-teheran-krieg-usa-israel-100.html"
+    },
+    {
       "title": "++ Iran-Krieg: Arabische Liga plant Notfallsitzung ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-108.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Bundesrat will Frauen besser vor Spanner-Aufnahmen schützen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-schutz-spannervideos-frauen-100.html"
-    },
-    {
-      "title": "Eskalation des Pipeline-Streits zwischen der Slowakei und der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/pipeline-slowakei-ukraine-100.html"
-    },
-    {
-      "title": "Marktbericht: Börsen bleiben weltweit im Krisenmodus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-iran-krise-dow-100.html"
-    },
-    {
-      "title": "EU-Kommission bezuschusst Rückholflüge aus dem Nahen Osten",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-bezuschusst-evakuierungsfluege-100.html"
     }
   ]
 }
