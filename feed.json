@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "++ Iran-Krieg: USA wollen laut Trump mehr Waffen produzieren ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-108.html"
+    },
+    {
+      "title": "Bedroht im Amt: Wenn Kommunalpolitiker angegriffen werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/angriffe-kommunalpolitiker-kommunalwahlen-100.html"
+    },
+    {
       "title": "Gewalt in Zügen: Jeder dritte Bahnmitarbeiter denkt an Kündigung",
       "link": "https://www.tagesschau.de/inland/bahn-kuendigung-gewalt-100.html"
     },
     {
       "title": "Kameras sollen in größeren Schlachthöfen Pflicht werden",
       "link": "https://www.tagesschau.de/inland/videoueberwachung-schlachthoefe-100.html"
-    },
-    {
-      "title": "++ Iran-Krieg: USA wollen laut Trump mehr Waffen produzieren ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-108.html"
     },
     {
       "title": "Iran-Krieg: Eine Woche - und die Kämpfe reißen nicht ab",
@@ -75,10 +79,6 @@
     {
       "title": "Studie: Erderwärmung geht seit 2015 wirklich schneller voran",
       "link": "https://www.tagesschau.de/wissen/klima/klimawandek-erderwaermung-folgen-100.html"
-    },
-    {
-      "title": "ASMR und der weltweite Boom sanfter Geräusche",
-      "link": "https://www.tagesschau.de/kultur/asmr-und-der-boom-sanfter-geraeusche-100.html"
     }
   ]
 }
