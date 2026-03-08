@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Wahlverhalten bei der Landtagswahl Baden-Württemberg 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "++ Liveticker: Linke hofft auf Einzug - und schießt gegen Hagel ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "Iran-Krieg: ++ Saudi-Arabien meldet erstmals Todesopfer ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
+    },
+    {
+      "title": "ARD-Hochrechnung zur Wahl: Grüne in Baden-Württemberg vor CDU",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
+    },
+    {
+      "title": "Koalitionsrechner zur Landtagswahl Baden-Württemberg 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "Internationaler Frauentag: Rund 30.000 Menschen bei Demo in Berlin",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/internationaler-frauentag-proteste-in-berlin-und-brandenburg-100.html"
+    },
+    {
+      "title": "Umfragen zur FDP - Landtagswahl Baden-Württemberg 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-fdp-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
       "title": "Umfragen zur Linken - Landtagswahl Baden-Württemberg 2026",
       "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-linke-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
@@ -9,20 +37,8 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-spd-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
     {
-      "title": "++ Liveticker: Linnemann: \"Natürlich hoffen wir noch\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "Internationaler Frauentag: Rund 30.000 Menschen bei Demo in Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/internationaler-frauentag-proteste-in-berlin-und-brandenburg-100.html"
-    },
-    {
       "title": "Umfragen zur AfD - Landtagswahl Baden-Württemberg 2026",
       "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-afd-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "Iran-Krieg: ++ Saudi-Arabien meldet erstmals Todesopfer ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
     },
     {
       "title": "Umfragen zu den Grünen - Landtagswahl Baden-Württemberg 2026",
@@ -39,10 +55,6 @@
     {
       "title": "Umfragen zur CDU - Landtagswahl Baden-Württemberg 2026",
       "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-cdu-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "ARD-Prognose zur Wahl: Grüne in Baden-Württemberg vor CDU",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
     },
     {
       "title": "Chamenei-Nachfolger in Iran steht offenbar fest",
@@ -67,18 +79,6 @@
     {
       "title": "Moped-Autos boomen im ländlichen Raum bei Jugendlichen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/moped-auto-100.html"
-    },
-    {
-      "title": "Iran-Krieg: Israel greift Öllager in Teheran an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-oellager-angriff-100.html"
-    },
-    {
-      "title": "Metall- und Elektroindustrie: Arbeitgeber befürchten Verlust von bis zu 150.000 Jobs",
-      "link": "https://www.tagesschau.de/wirtschaft/metallindustrie-arbeitsplaetze-100.html"
-    },
-    {
-      "title": "Gender Investment Gap: Gründerinnen fehlt oft Kapital",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/gender-investment-gap-gruenderinnen-boerse-100.html"
     }
   ]
 }
