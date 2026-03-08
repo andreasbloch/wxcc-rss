@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "++ Liveticker: Welche Koalition könnte künftig regieren? ++",
+      "title": "Kommunalwahlen in Bayern: Stichwahlen in großen Städten nötig",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-ergebnisse-kommunalwahl-100.html"
+    },
+    {
+      "title": "++ Liveticker: Die Ergebnisse in unserer interaktiven Wahlkreiskarte ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
     {
-      "title": "Kommunalwahlen in Bayern: Stichwahlen in großen Städten nötig",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-ergebnisse-kommunalwahl-100.html"
+      "title": "Iran-Krieg: ++ Mojtaba Chamenei laut Staatsmedien neuer Führer ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
+    },
+    {
+      "title": "Wahl in Baden-Württemberg: Fehlstart für die Kanzlerpartei",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-116.html"
+    },
+    {
+      "title": "Baden-Württemberg: AfD verdoppelt ihr Ergebnis beinahe",
+      "link": "https://www.tagesschau.de/inland/landtagswahl-baden-wuerttemberg-afd-102.html"
     },
     {
       "title": "ARD-Hochrechnung: Grüne in Baden-Württemberg knapp vor CDU",
@@ -15,10 +27,6 @@
     {
       "title": "Wahlkarte zur Landtagswahl in Baden-Württemberg 2026",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "Iran-Krieg: ++ Saudi-Arabien meldet erstmals Todesopfer ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
     },
     {
       "title": "Baden-Württemberg: SPD-Spitzenkandidat Stoch kündigt Rücktritt an",
@@ -71,14 +79,6 @@
     {
       "title": "Wahl in Baden-Württemberg: Grüne verwandeln Aufholjagd in Sieg",
       "link": "https://www.tagesschau.de/inland/wahl-bw-schoenenborn-100.html"
-    },
-    {
-      "title": "Umfragen zur CDU - Landtagswahl Baden-Württemberg 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-cdu-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "Chamenei-Nachfolger in Iran steht offenbar fest",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-nachfolge-chamenei-100.html"
     }
   ]
 }
