@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "++ CDU-Spitzenkandidat Hagel gibt Stimme ab ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "Schweizer Volksabstimmung über Rundfunkbeitrags gescheitert",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-rundfunkabgabe-100.html"
+    },
+    {
       "title": "Baden-Württemberg: 16-Jährige vor ihrer ersten Wahlentscheidung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wahlbw-jugendliche-100.html"
     },
     {
       "title": "Explosion an US-Botschaft in Oslo - Terrorangriff nicht ausgeschlossen",
       "link": "https://www.tagesschau.de/ausland/europa/us-botschaft-oslo-explosion-100.html"
-    },
-    {
-      "title": "++ CDU-Spitzenkandidat Hagel gibt Stimme ab ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
     {
       "title": "Kopf an Kopf in den Wahltag in Baden-Württemberg",
@@ -75,10 +79,6 @@
     {
       "title": "Fast zwei Drittel aller geplanten Abschiebungen gescheitert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-asylbewerber-100.html"
-    },
-    {
-      "title": "US-Präsident Trump droht Iran \"in die Hölle geprügelt\" zu werden",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-krieg-102.html"
     }
   ]
 }
