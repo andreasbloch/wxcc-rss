@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "++ Liveticker: So ist die Ausgangslage für die Linkspartei ++",
+      "title": "Iran-Krieg: ++ Saudi-Arabien meldet erstmals Todesopfer ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
+    },
+    {
+      "title": "++ Liveticker: SPD, FDP und Linke müssen um Einzug bangen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
     {
-      "title": "Iran-Krieg: ++ Emirate dementieren Beteiligung an Angriff ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
+      "title": "ARD-Prognose zur Wahl: Grüne in Baden-Württemberg vor CDU",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
     },
     {
       "title": "Internationaler Frauentag: Rund 30.000 Menschen bei Demo in Berlin",
@@ -63,10 +67,6 @@
     {
       "title": "Przemysław Czarnek wird neuer Spitzenkandidat der PiS",
       "link": "https://www.tagesschau.de/ausland/europa/polen-pis-spitzenkandidat-parlamentswahl-100.html"
-    },
-    {
-      "title": "Iran-Krieg: ++ Öllager bei Teheran nach Angriff in Flammen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-108.html"
     },
     {
       "title": "Bundesregierung zieht Personal der Botschaft in Teheran ab",
