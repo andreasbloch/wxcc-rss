@@ -1,16 +1,20 @@
 {
   "items": [
     {
-      "title": "ARD-Hochrechnung: Grüne in Baden-Württemberg knapp vor CDU",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
+      "title": "Kommunalwahlen in Bayern: Stichwahlen in großen Städten nötig",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-ergebnisse-kommunalwahl-100.html"
     },
     {
-      "title": "++ Liveticker: Spahn sieht \"Schmutzkampagne\" gegen CDU ++",
+      "title": "++ Liveticker: Vorsprung der Grünen schmilzt ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
     {
       "title": "Iran-Krieg: ++ Saudi-Arabien meldet erstmals Todesopfer ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
+    },
+    {
+      "title": "ARD-Hochrechnung: Grüne in Baden-Württemberg knapp vor CDU",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
     },
     {
       "title": "Baden-Württemberg: SPD-Spitzenkandidat Stoch kündigt Rücktritt an",
@@ -75,10 +79,6 @@
     {
       "title": "Schweizer Volksabstimmung über Rundfunkgebühren gescheitert",
       "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-rundfunkabgabe-100.html"
-    },
-    {
-      "title": "Baden-Württemberg: 16-Jährige vor ihrer ersten Wahlentscheidung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlbw-jugendliche-100.html"
     }
   ]
 }
