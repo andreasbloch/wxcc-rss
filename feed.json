@@ -1,20 +1,48 @@
 {
   "items": [
     {
-      "title": "Iran-Krieg: ++ Saudi-Arabien meldet erstmals Todesopfer ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
+      "title": "Umfragen zur Linken - Landtagswahl Baden-Württemberg 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-linke-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
     {
-      "title": "++ Liveticker: SPD, FDP und Linke müssen um Einzug bangen ++",
+      "title": "Umfragen zur SPD - Landtagswahl Baden-Württemberg 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-spd-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "++ Liveticker: Linnemann: \"Natürlich hoffen wir noch\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "ARD-Prognose zur Wahl: Grüne in Baden-Württemberg vor CDU",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
     },
     {
       "title": "Internationaler Frauentag: Rund 30.000 Menschen bei Demo in Berlin",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/internationaler-frauentag-proteste-in-berlin-und-brandenburg-100.html"
+    },
+    {
+      "title": "Umfragen zur AfD - Landtagswahl Baden-Württemberg 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-afd-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "Iran-Krieg: ++ Saudi-Arabien meldet erstmals Todesopfer ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
+    },
+    {
+      "title": "Umfragen zu den Grünen - Landtagswahl Baden-Württemberg 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-gruene-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "Die wichtigsten Umfragen zur Landtagswahl Baden-Württemberg 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/die-wichtigsten-umfragen-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "Wahl in Baden-Württemberg: Grüne verwandeln Aufholjagd in Sieg",
+      "link": "https://www.tagesschau.de/inland/wahl-bw-schoenenborn-100.html"
+    },
+    {
+      "title": "Umfragen zur CDU - Landtagswahl Baden-Württemberg 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-cdu-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "ARD-Prognose zur Wahl: Grüne in Baden-Württemberg vor CDU",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
     },
     {
       "title": "Chamenei-Nachfolger in Iran steht offenbar fest",
@@ -51,34 +79,6 @@
     {
       "title": "Gender Investment Gap: Gründerinnen fehlt oft Kapital",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/gender-investment-gap-gruenderinnen-boerse-100.html"
-    },
-    {
-      "title": "Was die Baden-Württemberg-Wahl zu einer besonderen macht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-wahltag-100.html"
-    },
-    {
-      "title": "Referendum in der Schweiz: Sind 200 Franken Rundfunkbeitrag genug?",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-oerr-100.html"
-    },
-    {
-      "title": "Appelle für mehr Gleichstellung zum Frauentag",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/weltfrauentag-prien-bas-100.html"
-    },
-    {
-      "title": "Przemysław Czarnek wird neuer Spitzenkandidat der PiS",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-pis-spitzenkandidat-parlamentswahl-100.html"
-    },
-    {
-      "title": "Bundesregierung zieht Personal der Botschaft in Teheran ab",
-      "link": "https://www.tagesschau.de/ausland/deutsches-botschaftspersonal-teheran-100.html"
-    },
-    {
-      "title": "Unwetter in Kenia: Mehr als 20 Tote bei Überschwemmungen in Nairobi",
-      "link": "https://www.tagesschau.de/ausland/afrika/unwetter-nairobi-tote-100.html"
-    },
-    {
-      "title": "Nach dem Angriff auf Iran: Was bleibt vom Völkerrecht?",
-      "link": "https://www.tagesschau.de/ausland/asien/voelkerrecht-zukunft-100.html"
     }
   ]
 }
