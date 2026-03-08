@@ -1,20 +1,32 @@
 {
   "items": [
     {
-      "title": "Wahlverhalten bei der Landtagswahl Baden-Württemberg 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-baden-wuerttemberg-2026-100.html"
+      "title": "++ Liveticker: Wähler zweifelten an Kernkompetenzen der SPD ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
     {
-      "title": "++ Liveticker: Linke hofft auf Einzug - und schießt gegen Hagel ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
+      "title": "Baden-Württemberg: SPD-Spitzenkandidat Stoch kündigt Rücktritt an",
+      "link": "https://www.tagesschau.de/inland/wahl-bw-spd-stoch-100.html"
+    },
+    {
+      "title": "Reaktionen auf Landtagswahl: Schock bei den einen, Jubel bei den anderen",
+      "link": "https://www.tagesschau.de/inland/landtagswahl-baden-wuerttemberg-reaktionen-100.html"
     },
     {
       "title": "Iran-Krieg: ++ Saudi-Arabien meldet erstmals Todesopfer ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
     },
     {
+      "title": "Erste Ergebnisse bei Kommunalwahl in Bayern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kommunalwahl-bayern-liveticker-100.html"
+    },
+    {
       "title": "ARD-Hochrechnung zur Wahl: Grüne in Baden-Württemberg vor CDU",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
+    },
+    {
+      "title": "Wahlverhalten bei der Landtagswahl Baden-Württemberg 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
     {
       "title": "Koalitionsrechner zur Landtagswahl Baden-Württemberg 2026",
@@ -67,18 +79,6 @@
     {
       "title": "Baden-Württemberg: 16-Jährige vor ihrer ersten Wahlentscheidung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wahlbw-jugendliche-100.html"
-    },
-    {
-      "title": "Explosion an US-Botschaft in Oslo - Terrorangriff nicht ausgeschlossen",
-      "link": "https://www.tagesschau.de/ausland/europa/us-botschaft-oslo-explosion-100.html"
-    },
-    {
-      "title": "Kopf an Kopf in den Wahltag in Baden-Württemberg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-ausgangslage-100.html"
-    },
-    {
-      "title": "Moped-Autos boomen im ländlichen Raum bei Jugendlichen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/moped-auto-100.html"
     }
   ]
 }
