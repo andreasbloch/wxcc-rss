@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "++ Wahllokale haben geöffnet ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "Iran-Krieg: Israel greift Öllager in Teheran an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-oellager-angriff-100.html"
+    },
+    {
+      "title": "Iran-Krieg: ++ Tote nach Angriff auf Hotel in Beirut ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
+    },
+    {
       "title": "Was die Baden-Württemberg-Wahl zu einer besonderen macht",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-wahltag-100.html"
     },
     {
       "title": "Referendum in der Schweiz: Sind 200 Franken Rundfunkbeitrag genug?",
       "link": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-oerr-100.html"
-    },
-    {
-      "title": "Iran-Krieg: ++ Tote nach Angriff auf Hotel in Beirut ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
     },
     {
       "title": "Appelle für mehr Gleichstellung zum Frauentag",
@@ -71,14 +79,6 @@
     {
       "title": "Spargelsaison könnte bereits Mitte März starten",
       "link": "https://www.tagesschau.de/inland/spargel-ernte-maerz-100.html"
-    },
-    {
-      "title": "Warum es bei der Wahl in Baden-Württemberg für viele Parteien um mehr geht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-baden-wuerttemberg-erwartungen-100.html"
-    },
-    {
-      "title": "Karsten Wildberger: Anpackender Digitalminister oder \"Motivationscoach\"?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wildberger-digitalminister-digitale-unabhaengigkeit-100.html"
     }
   ]
 }
