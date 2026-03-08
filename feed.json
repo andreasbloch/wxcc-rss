@@ -1,16 +1,20 @@
 {
   "items": [
     {
-      "title": "++ Liveticker: Hohe Wahlbeteiligung in Baden-Württemberg ++",
+      "title": "++ Liveticker: Mitarbeitende bei Mercedes-Benz sorgen sich um die Wirtschaft ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
     {
-      "title": "Iran-Krieg: ++ Arabische Liga verurteilt Angriffe auf Golfstaaten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
+      "title": "Chamenei-Nachfolger in Iran steht offenbar fest",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-nachfolge-chamenei-100.html"
     },
     {
       "title": "Internationaler Frauentag: Mehr als 20.000 Menschen bei Demo in Berlin",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/internationaler-frauentag-proteste-in-berlin-und-brandenburg-100.html"
+    },
+    {
+      "title": "Iran-Krieg: ++ Emirate dementieren Beteiligung an Angriff ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
     },
     {
       "title": "Schweizer Volksabstimmung über Rundfunkbeitrags gescheitert",
@@ -75,10 +79,6 @@
     {
       "title": "Nach dem Angriff auf Iran: Was bleibt vom Völkerrecht?",
       "link": "https://www.tagesschau.de/ausland/asien/voelkerrecht-zukunft-100.html"
-    },
-    {
-      "title": "Libanon: Angriffe dauern an, Zivilbevölkerung leidet zunehmend",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-lage-100.html"
     }
   ]
 }
