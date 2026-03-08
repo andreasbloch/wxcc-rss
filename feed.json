@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "++ Liveblog zur Wahl: ++ AfD bietet sich CDU als Partner an ++",
+      "title": "Baden-Württemberg: SPD-Spitzenkandidat Stoch kündigt Rücktritt an",
+      "link": "https://www.tagesschau.de/inland/wahl-bw-spd-stoch-100.html"
+    },
+    {
+      "title": "++ Liveticker: FDP-Landeschef Rülke kündigt Rücktritt an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
+    },
+    {
+      "title": "ARD-Hochrechnung: Grüne in Baden-Württemberg knapp vor CDU",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
     },
     {
       "title": "Iran-Krieg: ++ Saudi-Arabien meldet erstmals Todesopfer ++",
@@ -11,14 +19,6 @@
     {
       "title": "Reaktionen auf Landtagswahl: Schock bei den einen, Jubel bei den anderen",
       "link": "https://www.tagesschau.de/inland/landtagswahl-baden-wuerttemberg-reaktionen-100.html"
-    },
-    {
-      "title": "ARD-Hochrechnung zur Wahl: Grüne in Baden-Württemberg vor CDU",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
-    },
-    {
-      "title": "Baden-Württemberg: SPD-Spitzenkandidat Stoch kündigt Rücktritt an",
-      "link": "https://www.tagesschau.de/inland/wahl-bw-spd-stoch-100.html"
     },
     {
       "title": "Erste Ergebnisse bei Kommunalwahl in Bayern",
