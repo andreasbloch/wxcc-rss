@@ -1,20 +1,28 @@
 {
   "items": [
     {
-      "title": "Teilerfolg für Klage gegen AstraZeneca im Prozess um Impfschaden",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/covid-impfung-astrazeneca-prozess-100.html"
-    },
-    {
-      "title": "++ Liveblog: Spahn schlägt nach Wahl-Patt in Baden-Württemberg Teilung der Amtszeit vor ++",
+      "title": "++ Liveblog: Özdemir lehnt Teilung der Amtszeit strikt ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-104.html"
     },
     {
-      "title": "ORF-Intendant Weißmann tritt zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-ruecktritt-orf-intendant-100.html"
+      "title": "Studie: Frühjahrsmüdigkeit nicht wissenschaftlich belegt",
+      "link": "https://www.tagesschau.de/wissen/studie-fruehjahrsmuedigkeit-100.html"
+    },
+    {
+      "title": "Angriffe lassen nicht nach",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-100.html"
     },
     {
       "title": "Iran-Krieg: ++ Türkei: Erneut Rakete aus Iran abgefangen  ++",
       "link": "https://www.tagesschau.de/newsticker/putin-gratuliert-dem-neuen-obersten-fuehrer-irans,liveblog-iran-krieg-112.html"
+    },
+    {
+      "title": "Teilerfolg für Klage gegen Impfstoffhersteller AstraZeneca",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/covid-impfung-astrazeneca-prozess-100.html"
+    },
+    {
+      "title": "ORF-Intendant Weißmann tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-ruecktritt-orf-intendant-100.html"
     },
     {
       "title": "Ölpreis auf Höhenflug - wie geht es weiter?",
@@ -71,14 +79,6 @@
     {
       "title": "Landtagswahl Baden-Württemberg: Grüne im Aufwind, CDU ernüchtert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-baden-wuerttemberg-reaktionen-100.html"
-    },
-    {
-      "title": "Gabler Group geht in Frankfurt an die Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/gabler-group-boersengang-100.html"
-    },
-    {
-      "title": "Iran und Israel melden weiter gegenseitige Angriffe",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-100.html"
     }
   ]
 }
