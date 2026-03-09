@@ -1,12 +1,32 @@
 {
   "items": [
     {
+      "title": "Teilerfolg vor Bundesgerichtshof: AstraZeneca wird Auskunft geben müssen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bgh-klage-astrazeneca-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Irans Raketenarsenal laut Rubio dezimiert ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html"
+    },
+    {
+      "title": "Wie der Angriff auf Chamenei vorbereitet wurde",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-ablauf-angriff-chamenei-100.html"
+    },
+    {
+      "title": "Welchen Einfluss hatten junge Wähler in Baden-Württemberg?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/junge-waehler-baden-wuerttemberg-100.html"
+    },
+    {
+      "title": "Wissenschaftlerinnen bleiben weniger sichtbar",
+      "link": "https://www.tagesschau.de/wissen/forschung/frauen-wissenschaft-102.html"
+    },
+    {
       "title": "++ Liveblog: Özdemir lehnt Teilung der Amtszeit strikt ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-104.html"
     },
     {
-      "title": "Iran-Krieg: ++ Türkei: Erneut Rakete aus Iran abgefangen  ++",
-      "link": "https://www.tagesschau.de/newsticker/putin-gratuliert-dem-neuen-obersten-fuehrer-irans,liveblog-iran-krieg-112.html"
+      "title": "Kommentar zu Chamenei: Die Hardliner sitzen noch immer im Sattel",
+      "link": "https://www.tagesschau.de/kommentar/modschtaba-chamenei-iran-100.html"
     },
     {
       "title": "Terrorverdacht nach Explosion vor Synagoge in Lüttich",
@@ -59,26 +79,6 @@
     {
       "title": "Verfahren wegen Maskenkäufen gegen Spahn eingestellt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-verfahren-masken-100.html"
-    },
-    {
-      "title": "Deutsche Industrieaufträge brechen im Januar überraschend ein",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-industrie-auftraege-einbruch-100.html"
-    },
-    {
-      "title": "Marktbericht: Konjunktursorgen schicken DAX auf Talfahrt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oelpreis-konjunktur-inflation-100.html"
-    },
-    {
-      "title": "Mammutprozess gegen abgesetzten Istanbuler Oberbürgermeister İmamoğlu",
-      "link": "https://www.tagesschau.de/ausland/asien/imamoglu-prozess-tuerkei-100.html"
-    },
-    {
-      "title": "Europa rüstet auf: Deutschland viertgrößter Waffen-Exporteur",
-      "link": "https://www.tagesschau.de/ausland/europa/sipri-bericht-europa-waffenimporte-aufruestung-100.html"
-    },
-    {
-      "title": "Iran: Wer ist Modschtaba Chamenei?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-modschtaba-chamenei-portraet-100.html"
     }
   ]
 }
