@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "KI-Firma Anthropic wehrt sich vor Gericht gegen Trump-Regierung",
+      "link": "https://www.tagesschau.de/wirtschaft/anthropic-klage-us-regierung-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Trump und Putin telefonieren zu Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Gegen den Markttrend: Ölaktien im Aufwind",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-oelaktien-100.html"
-    },
-    {
-      "title": "Mehr EU-Stärke durch Eurobonds?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/eu-eurobonds-spanien-100.html"
     }
   ]
 }
