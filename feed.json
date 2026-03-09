@@ -1,8 +1,28 @@
 {
   "items": [
     {
-      "title": "Iran-Krieg: ++ Ölpreis schießt über Marke von 100 US-Dollar ++",
+      "title": "++ Liveblog: Schweitzer macht SPD-Ergebnis \"nicht nervös\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-104.html"
+    },
+    {
+      "title": "Iran-Krieg: ++ Feuer in Ölraffinerie in Bahrain ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html"
+    },
+    {
+      "title": "Landtagswahl Baden-Württemberg: Grüne im Aufwind, CDU ernüchtert",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-baden-wuerttemberg-reaktionen-100.html"
+    },
+    {
+      "title": "Gabler Group geht in Frankfurt an die Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/gabler-group-boersengang-100.html"
+    },
+    {
+      "title": "Iran und Israel melden weiter gegenseitige Angriffe",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Iran und USA - Von Partnern zu Feinden",
+      "link": "https://www.tagesschau.de/ausland/asien/podcast-11km-iran-usa-100.html"
     },
     {
       "title": "Ölpreis wegen Iran-Krieg erstmals seit Jahren über 100 Dollar",
@@ -15,10 +35,6 @@
     {
       "title": "Marktbericht: Ölpreis-Schock schüttelt Märkte durch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oelpreis-konjunktur-inflation-100.html"
-    },
-    {
-      "title": "Iran und Israel melden weiter gegenseitige Angriffe",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-100.html"
     },
     {
       "title": "Hausverkauf, Umwandlung, Eigenbedarf: Was Mieter wissen sollten",
@@ -53,8 +69,8 @@
       "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-ergebnisse-kommunalwahl-100.html"
     },
     {
-      "title": "Mojtaba Chamenei folgt als oberster Führer Irans auf seinen Vater",
-      "link": "https://www.tagesschau.de/ausland/asien/mojtaba-chamenei-neuer-fuehrer-iran-100.html"
+      "title": "Modschtaba Chamenei folgt als oberster Führer Irans auf seinen Vater",
+      "link": "https://www.tagesschau.de/ausland/asien/modschtaba-chamenei-neuer-fuehrer-iran-100.html"
     },
     {
       "title": "Iran-Krieg: ++ Mojtaba Chamenei laut Staatsmedien neuer Führer ++",
@@ -63,22 +79,6 @@
     {
       "title": "Welche Lehren die Politik aus der Wahl in Baden-Württemberg ziehen kann",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-fuenf-erkenntnisse-100.html"
-    },
-    {
-      "title": "Wahl in Baden-Württemberg: Fehlstart für die Kanzlerpartei",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-116.html"
-    },
-    {
-      "title": "Baden-Württemberg: AfD verdoppelt ihr Ergebnis beinahe",
-      "link": "https://www.tagesschau.de/inland/landtagswahl-baden-wuerttemberg-afd-102.html"
-    },
-    {
-      "title": "ARD-Hochrechnung: Grüne in Baden-Württemberg knapp vor CDU",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-114.html"
-    },
-    {
-      "title": "Wahlkarte zur Landtagswahl in Baden-Württemberg 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-baden-wuerttemberg-2026-100.html"
     }
   ]
 }
