@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Glasgower Bahnhof wegen Großbrand geschlossen",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-glasgow-bahnhof-grossbrand-100.html"
+    },
+    {
       "title": "++ Liveblog: FDP-Chef Dürr will trotz Wahldesasters im Amt bleiben ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Warum die Grünen die CDU im Südwesten noch überholten",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-infratest-100.html"
-    },
-    {
-      "title": "Kommunalwahlen in Bayern: Stichwahlen in großen Städten nötig",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-ergebnisse-kommunalwahl-100.html"
     }
   ]
 }
