@@ -1,16 +1,28 @@
 {
   "items": [
     {
-      "title": "Glasgower Bahnhof wegen Großbrand geschlossen",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-glasgow-bahnhof-grossbrand-100.html"
+      "title": "Gegen den Markttrend: Ölaktien im Aufwind",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-oelaktien-100.html"
     },
     {
       "title": "++ Liveblog: FDP-Chef Dürr will trotz Wahldesasters im Amt bleiben ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-104.html"
     },
     {
+      "title": "Mehr EU-Stärke durch Eurobonds?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/eu-eurobonds-spanien-100.html"
+    },
+    {
       "title": "Iran-Krieg: ++   Putin gratuliert dem neuen obersten Führer Irans  ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html"
+      "link": "https://www.tagesschau.de/newsticker/putin-gratuliert-dem-neuen-obersten-fuehrer-irans,liveblog-iran-krieg-112.html"
+    },
+    {
+      "title": "\"Gen Z\"-Rapper wird Nepals Regierungschef: Wer ist Balendra Shah?",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-wahl-102.html"
+    },
+    {
+      "title": "Glasgower Bahnhof wegen Großbrand geschlossen",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-glasgow-bahnhof-grossbrand-100.html"
     },
     {
       "title": "Grüner Erfolg in Baden-Württemberg: Mit Disziplin und Cem Özdemir",
@@ -67,18 +79,6 @@
     {
       "title": "Ukraine blickt auf härtesten Kriegswinter zurück",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-winterbilanz-100.html"
-    },
-    {
-      "title": "Wie die Wählenden in Baden-Württemberg wanderten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-landtagswahl-baden-wuerttemberg-100.html"
-    },
-    {
-      "title": "Baden-Württemberg: Grüne entscheiden Kopf-an-Kopf-Rennen für sich",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-118.html"
-    },
-    {
-      "title": "Warum die Grünen die CDU im Südwesten noch überholten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-infratest-100.html"
     }
   ]
 }
