@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Irans Raketenarsenal laut Rubio dezimiert ++",
+      "title": "Nahost-Liveblog: ++ Tausende bei Demonstration für Chamenei in Teheran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html"
+    },
+    {
+      "title": "tagesschau und NDR starten Faktencheck-Format \"rabbit hole\"",
+      "link": "https://www.tagesschau.de/inland/rabbit-hole-tagesschau-ndr-100.html"
     },
     {
       "title": "++ Liveblog: Özdemir lehnt Teilung der Amtszeit strikt ab ++",
@@ -75,10 +79,6 @@
     {
       "title": "\"Gen Z\"-Rapper wird Nepals Regierungschef: Wer ist Balendra Shah?",
       "link": "https://www.tagesschau.de/ausland/asien/nepal-wahl-102.html"
-    },
-    {
-      "title": "Glasgower Bahnhof wegen Großbrand geschlossen",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-glasgow-bahnhof-grossbrand-100.html"
     }
   ]
 }
