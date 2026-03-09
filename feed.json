@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Hausverkauf, Umwandlung, Eigenbedarf: Was Mieter wissen sollten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eigenbedarfskuendingungen-mietrecht-100.html"
+    },
+    {
+      "title": "Ukraine blickt auf härtesten Kriegswinter zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-winterbilanz-100.html"
+    },
+    {
+      "title": "Mammutprozess gegen abgesetzten Istanbuler Oberbürgermeister İmamoğlu beginnt",
+      "link": "https://www.tagesschau.de/ausland/asien/imamoglu-prozess-tuerkei-100.html"
+    },
+    {
       "title": "Iran-Krieg: ++ Ölpreis schießt über Marke von 100 US-Dollar ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Erste Ergebnisse bei Kommunalwahl in Bayern",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kommunalwahl-bayern-liveticker-100.html"
-    },
-    {
-      "title": "Wahlverhalten bei der Landtagswahl Baden-Württemberg 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "Koalitionsrechner zur Landtagswahl Baden-Württemberg 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "Internationaler Frauentag: Rund 30.000 Menschen bei Demo in Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/internationaler-frauentag-proteste-in-berlin-und-brandenburg-100.html"
     }
   ]
 }
