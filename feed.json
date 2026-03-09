@@ -1,7 +1,15 @@
 {
   "items": [
     {
-      "title": "++ Liveticker: ARD-Wahlexperte Schönenborn zur Sitzverteilung ++",
+      "title": "Iran-Krieg: ++ Ölpreis schießt über Marke von 100 US-Dollar ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html"
+    },
+    {
+      "title": "Warum die Grünen die CDU im Südwesten noch überholten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-infratest-100.html"
+    },
+    {
+      "title": "++ Liveticker: Nouripour: Wahlerfolg Özdemirs \"Blaupause\" für grüne Bundespartei ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-100.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "Umfragen zur SPD - Landtagswahl Baden-Württemberg 2026",
       "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-spd-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "Umfragen zur AfD - Landtagswahl Baden-Württemberg 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-afd-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "Umfragen zu den Grünen - Landtagswahl Baden-Württemberg 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-gruene-landtagswahl-baden-wuerttemberg-2026-100.html"
     }
   ]
 }
