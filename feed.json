@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Krieg: ++ Feuer in Ölraffinerie in Bahrain ++",
+      "title": "Iran-Krieg: ++   Putin gratuliert dem neuen obersten Führer Irans  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html"
     },
     {
       "title": "++ Liveblog: Schweitzer macht SPD-Ergebnis \"nicht nervös\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-104.html"
+    },
+    {
+      "title": "Deutsche Industrieaufträge brechen im Januar überraschend ein",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-industrie-auftraege-einbruch-100.html"
+    },
+    {
+      "title": "Marktbericht: Konjunktursorgen schicken DAX auf Talfahrt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oelpreis-konjunktur-inflation-100.html"
     },
     {
       "title": "Mammutprozess gegen abgesetzten Istanbuler Oberbürgermeister İmamoğlu",
@@ -41,10 +49,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/klage-astrazeneca-100.html"
     },
     {
-      "title": "Marktbericht: Ölpreis-Schock schüttelt Märkte durch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oelpreis-konjunktur-inflation-100.html"
-    },
-    {
       "title": "Hausverkauf, Umwandlung, Eigenbedarf: Was Mieter wissen sollten",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eigenbedarfskuendingungen-mietrecht-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Iran-Krieg: ++ Mojtaba Chamenei laut Staatsmedien neuer Führer ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
-    },
-    {
-      "title": "Welche Lehren die Politik aus der Wahl in Baden-Württemberg ziehen kann",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-baden-wuerttemberg-fuenf-erkenntnisse-100.html"
     }
   ]
 }
