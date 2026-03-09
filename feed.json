@@ -1,12 +1,20 @@
 {
   "items": [
     {
+      "title": "++ Liveblog: FDP-Chef Dürr will trotz Wahldesasters im Amt bleiben ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-104.html"
+    },
+    {
       "title": "Iran-Krieg: ++   Putin gratuliert dem neuen obersten Führer Irans  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html"
     },
     {
-      "title": "++ Liveblog: Schweitzer macht SPD-Ergebnis \"nicht nervös\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-104.html"
+      "title": "Grüner Erfolg in Baden-Württemberg: Mit Disziplin und Cem Özdemir",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-wahl-baden-wuerttemberg-100.html"
+    },
+    {
+      "title": "Verfahren wegen Maskenkäufen gegen Spahn eingestellt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-verfahren-masken-100.html"
     },
     {
       "title": "Deutsche Industrieaufträge brechen im Januar überraschend ein",
@@ -71,14 +79,6 @@
     {
       "title": "Kommunalwahlen in Bayern: Stichwahlen in großen Städten nötig",
       "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-ergebnisse-kommunalwahl-100.html"
-    },
-    {
-      "title": "Modschtaba Chamenei folgt als oberster Führer Irans auf seinen Vater",
-      "link": "https://www.tagesschau.de/ausland/asien/modschtaba-chamenei-neuer-fuehrer-iran-100.html"
-    },
-    {
-      "title": "Iran-Krieg: ++ Mojtaba Chamenei laut Staatsmedien neuer Führer ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-110.html"
     }
   ]
 }
