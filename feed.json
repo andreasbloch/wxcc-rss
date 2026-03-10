@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Netanjahu geht nicht von baldigem Kriegsende aus ++",
+      "title": "Nahost-Liveblog: ++ Angriff auf Al-Asrak in Jordanien - auch deutscher Teil getroffen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
+    },
+    {
+      "title": "Von der Leyen hält Atomkraft-Abkehr für \"strategischen Fehler\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-frankreich-atomkraft-von-der-leyen-100.html"
+    },
+    {
+      "title": "Kartellamt macht Weg frei für neue Artilleriemunitionsfirma",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/artilleriemunition-kartellamt-100.html"
+    },
+    {
+      "title": "Ex-FIFA-Präsident Sepp Blatter wird 90",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-genf-sepp-blatter-90-100.html"
     },
     {
       "title": "Bundesanwaltschaft lässt mutmaßliches Hamas-Mitglied festnehmen",
@@ -67,18 +79,6 @@
     {
       "title": "tagesschau und NDR starten Faktencheck-Format \"rabbit hole\"",
       "link": "https://www.tagesschau.de/inland/rabbit-hole-tagesschau-ndr-100.html"
-    },
-    {
-      "title": "++ Liveblog: Özdemir lehnt Teilung der Amtszeit strikt ab ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-baden-wuerttemberg-2026-104.html"
-    },
-    {
-      "title": "Applaus für den Angeklagten - Prozess in Istanbul gegen İmamoğlu",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-prozesse-opposition-justiz-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX bleibt angezählt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oelpreis-konjunktur-inflation-100.html"
     }
   ]
 }
