@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Springers Pläne mit dem \"Telegraph\"",
+      "link": "https://www.tagesschau.de/ausland/europa/telegraph-springer-medien-100.html"
+    },
+    {
       "title": "US-Präsident Trump sieht Iran-Krieg \"so gut wie beendet\"",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-krieg-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "ORF-Intendant Weißmann tritt zurück",
       "link": "https://www.tagesschau.de/ausland/europa/oesterreich-ruecktritt-orf-intendant-100.html"
-    },
-    {
-      "title": "Ölpreis auf Höhenflug - wie geht es weiter?",
-      "link": "https://www.tagesschau.de/wirtschaft/oelpreis-anstieg-100.html"
     }
   ]
 }
