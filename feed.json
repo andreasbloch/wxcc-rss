@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "Hagel bietet Rücktritt an - CDU-Landesvorstand lehnt ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hagel-ruecktritt-abgelehnt-100.html"
-    },
-    {
       "title": "Nahost-Liveblog: ++ Netanjahu geht nicht von baldigem Kriegsende aus ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
+    },
+    {
+      "title": "Bundesanwaltschaft lässt mutmaßliches Hamas-Mitglied festnehmen",
+      "link": "https://www.tagesschau.de/inland/bundesanwaltschaft-festnahme-hamas-zypern-100.html"
+    },
+    {
+      "title": "Hagel bietet Rücktritt an - CDU-Landesvorstand lehnt ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hagel-ruecktritt-abgelehnt-100.html"
     },
     {
       "title": "Deutsche Exporte zu Jahresbeginn gesunken",
@@ -75,10 +79,6 @@
     {
       "title": "Marktbericht: DAX bleibt angezählt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oelpreis-konjunktur-inflation-100.html"
-    },
-    {
-      "title": "SPD - eine Partei ohne Vision",
-      "link": "https://www.tagesschau.de/inland/spd-wahl-baden-wuerttemberg-100.html"
     }
   ]
 }
