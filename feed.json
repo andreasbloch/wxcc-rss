@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "Gewinn bei VW 2025 um fast die Hälfte eingebrochen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-jahreszahlen-verbrenner-e-autos-100.html"
+      "title": "Nahost-Liveblog: ++ Israel verlängert Ausnahmezustand ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
     },
     {
-      "title": "Nahost-Liveblog: ++ Iran dementiert Raketen-Abschuss auf Türkei ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
+      "title": "Tankstellenverband erwartet noch höhere Spritpreise",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-tankstellenverband-100.html"
+    },
+    {
+      "title": "Gewinn bei VW 2025 um fast die Hälfte eingebrochen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-jahreszahlen-verbrenner-e-autos-100.html"
     },
     {
       "title": "Marktbericht: DAX dürfte auf Erholungskurs gehen",
@@ -75,10 +79,6 @@
     {
       "title": "Kommentar zu Chamenei: Die Hardliner sitzen noch immer im Sattel",
       "link": "https://www.tagesschau.de/kommentar/modschtaba-chamenei-iran-100.html"
-    },
-    {
-      "title": "Terrorverdacht nach Explosion vor Synagoge in Lüttich",
-      "link": "https://www.tagesschau.de/ausland/europa/luettich-anschlag-synagoge-100.html"
     }
   ]
 }
