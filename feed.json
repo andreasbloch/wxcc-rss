@@ -1,8 +1,24 @@
 {
   "items": [
     {
+      "title": "Kommentar zur geplanten EU-Förderung: Mini-Atomreaktoren sind keine Lösung",
+      "link": "https://www.tagesschau.de/ausland/europa/kommentar-atomenergie-foederung-eu-100.html"
+    },
+    {
+      "title": "Piloten der Lufthansa zum zweitägigen Streik aufgerufen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/piloten-streik-lufthansa-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Energieagentur berät über Freigabe der Ölreserven ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
+    },
+    {
+      "title": "Repräsentative Studie: \"Man erfährt Diskriminierung überall\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/diskriminierung-untersuchung-100.html"
+    },
+    {
+      "title": "Wie es zum Wirbel um den Buchhandlungspreis kam",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-buchhandlungen-verfassungsschutz-100.html"
     },
     {
       "title": "Marktbericht: Die Hoffnung ist zurück",
@@ -63,22 +79,6 @@
     {
       "title": "Kulturstaatsminister Weimer sagt Verleihung des Buchhandlungspreises ab",
       "link": "https://www.tagesschau.de/kultur/weimer-buchhandlungspreis-abgesagt-100.html"
-    },
-    {
-      "title": "Von der Leyen hält Atomkraft-Abkehr für \"strategischen Fehler\"",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-frankreich-atomkraft-von-der-leyen-100.html"
-    },
-    {
-      "title": "Kartellamt macht Weg frei für neue Artilleriemunitionsfirma",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/artilleriemunition-kartellamt-100.html"
-    },
-    {
-      "title": "Ex-FIFA-Präsident Sepp Blatter wird 90",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-genf-sepp-blatter-90-100.html"
-    },
-    {
-      "title": "Bundesanwaltschaft lässt mutmaßliches Hamas-Mitglied festnehmen",
-      "link": "https://www.tagesschau.de/inland/bundesanwaltschaft-festnahme-hamas-zypern-100.html"
     }
   ]
 }
