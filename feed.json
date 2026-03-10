@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Präsident Trump sieht Iran-Krieg \"so gut wie beendet\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-krieg-104.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Trump und Putin telefonieren zu Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-112.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Ölpreis auf Höhenflug - wie geht es weiter?",
       "link": "https://www.tagesschau.de/wirtschaft/oelpreis-anstieg-100.html"
-    },
-    {
-      "title": "Gegen den Markttrend: Ölaktien im Aufwind",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-oelaktien-100.html"
     }
   ]
 }
