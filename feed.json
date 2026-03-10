@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Nahost-Liveblog: ++ Energieagentur berät über Freigabe der Ölreserven ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
+    },
+    {
+      "title": "Trump und ein mögliches Kriegsende: \"Die USA sind ohne Strategie unterwegs\"",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-perspektive-kriegsende-100.html"
+    },
+    {
       "title": "Kommentar zur geplanten EU-Förderung: Mini-Atomreaktoren sind keine Lösung",
       "link": "https://www.tagesschau.de/ausland/europa/kommentar-atomenergie-foederung-eu-100.html"
     },
     {
       "title": "Piloten der Lufthansa zum zweitägigen Streik aufgerufen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/piloten-streik-lufthansa-100.html"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ Energieagentur berät über Freigabe der Ölreserven ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
     },
     {
       "title": "Repräsentative Studie: \"Man erfährt Diskriminierung überall\"",
@@ -75,10 +79,6 @@
     {
       "title": "Israels Premier Netanjahu widerspricht Trump bei Kurs im Iran-Krieg",
       "link": "https://www.tagesschau.de/ausland/asien/iran-israel-usa-krieg-100.html"
-    },
-    {
-      "title": "Kulturstaatsminister Weimer sagt Verleihung des Buchhandlungspreises ab",
-      "link": "https://www.tagesschau.de/kultur/weimer-buchhandlungspreis-abgesagt-100.html"
     }
   ]
 }
