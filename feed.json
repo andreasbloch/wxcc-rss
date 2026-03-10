@@ -1,8 +1,28 @@
 {
   "items": [
     {
+      "title": "Wie zwei Exil-Iranerinnen auf die Zukunft blicken",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/exiliraner-zukunft-iran-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Angriff auf Al-Asrak in Jordanien - auch deutscher Teil getroffen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
+    },
+    {
+      "title": "EU-Parlament zeichnet Merkel mit Europäischem Verdienstorden aus",
+      "link": "https://www.tagesschau.de/ausland/europa/europaeischer-verdienstorden-merkel-100.html"
+    },
+    {
+      "title": "Neue Vorwürfe gegen Gemeinschaftsunterkunft in Wismar",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/fluechtlingsunterkunft-haffburg-100.html"
+    },
+    {
+      "title": "DLRG: Zahl der Badetoten 2025 leicht zurückgegangen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/dlrg-badetote-2025-100.html"
+    },
+    {
+      "title": "Besuch in der Kriegsregion: Außenminister Wadephul in Israel",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wadephul-israel-krieg-iran-100.html"
     },
     {
       "title": "DAX gewinnt über zwei Prozent - Airlines im Aufwind",
@@ -59,26 +79,6 @@
     {
       "title": "Tankstellenverband erwartet noch höhere Spritpreise",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-tankstellenverband-100.html"
-    },
-    {
-      "title": "US-Präsident Trump sieht Iran-Krieg \"so gut wie beendet\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-krieg-104.html"
-    },
-    {
-      "title": "Auswärtiges Amt: Lage in Syrien offenbar nur leicht verbessert",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/syrien-auswaertiges-amt-100.html"
-    },
-    {
-      "title": "Sorgen im Irak vor einer Ausweitung des Iran-Krieges",
-      "link": "https://www.tagesschau.de/ausland/asien/irak-krieg-iran-ausweitung-100.html"
-    },
-    {
-      "title": "Springers Pläne mit dem britischen Telegraph",
-      "link": "https://www.tagesschau.de/ausland/europa/telegraph-springer-medien-100.html"
-    },
-    {
-      "title": "KI-Firma Anthropic wehrt sich vor Gericht gegen Trump-Regierung",
-      "link": "https://www.tagesschau.de/wirtschaft/anthropic-klage-us-regierung-100.html"
     }
   ]
 }
