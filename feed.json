@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Gewinn bei VW 2025 um fast die Hälfte eingebrochen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-jahreszahlen-verbrenner-e-autos-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Iran dementiert Raketen-Abschuss auf Türkei ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Terrorverdacht nach Explosion vor Synagoge in Lüttich",
       "link": "https://www.tagesschau.de/ausland/europa/luettich-anschlag-synagoge-100.html"
-    },
-    {
-      "title": "Beschuss aus Iran: Wie verwundbar sind die Golfstaaten?",
-      "link": "https://www.tagesschau.de/ausland/asien/golfstaaten-verteidigung-militaer-100.html"
     }
   ]
 }
