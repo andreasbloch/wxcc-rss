@@ -1,8 +1,32 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Angriff auf Al-Asrak in Jordanien - auch deutscher Teil getroffen ++",
+      "title": "Nahost-Liveblog: ++ Energieagentur berät über Freigabe der Ölreserven ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
+    },
+    {
+      "title": "Marktbericht: Die Hoffnung ist zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-naher-osten-boerse-100.html"
+    },
+    {
+      "title": "Bundesgerichtshof: Polizei darf nicht alle Chat-Nachrichten lesen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/polizei-chat-nachrichten-bgh-100.html"
+    },
+    {
+      "title": "Angriff auf Schule in Iran wird laut Trump untersucht",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-schule-100.html"
+    },
+    {
+      "title": "Besuch in Israel: Wadephul warnt vor Chaos in Iran",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wadephul-israel-krieg-iran-100.html"
+    },
+    {
+      "title": "Gewinneinbruch bei VW: Wohin wird der Konzern steuern?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-volkswagen-jahreszahlen-analyse-100.html"
+    },
+    {
+      "title": "Tote nach russischem Angriff auf ukrainische Stadt Slowjansk",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-slowjansk-100.html"
     },
     {
       "title": "Wie weit ist die Forschung bei der Kernfusion?",
@@ -27,10 +51,6 @@
     {
       "title": "DLRG: Zahl der Badetoten 2025 leicht zurückgegangen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/dlrg-badetote-2025-100.html"
-    },
-    {
-      "title": "Besuch in der Kriegsregion: Außenminister Wadephul in Israel",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wadephul-israel-krieg-iran-100.html"
     },
     {
       "title": "DAX gewinnt über zwei Prozent - Airlines im Aufwind",
@@ -59,26 +79,6 @@
     {
       "title": "Bundesanwaltschaft lässt mutmaßliches Hamas-Mitglied festnehmen",
       "link": "https://www.tagesschau.de/inland/bundesanwaltschaft-festnahme-hamas-zypern-100.html"
-    },
-    {
-      "title": "Hagel bietet Rücktritt an - CDU-Landesvorstand lehnt ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hagel-ruecktritt-abgelehnt-100.html"
-    },
-    {
-      "title": "Deutsche Exporte zu Jahresbeginn gesunken",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-deutschland-116.html"
-    },
-    {
-      "title": "New Yorker Weinhändler kippte Trumps Zölle",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/weinhaendler-new-york-trump-zoelle-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX-Käufer kehren mit Schwung zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-naher-osten-boerse-100.html"
-    },
-    {
-      "title": "Welche Folgen der Iran-Krieg für Somaliland hat",
-      "link": "https://www.tagesschau.de/ausland/afrika/somaliland-auswirkung-krieg-nahost-100.html"
     }
   ]
 }
