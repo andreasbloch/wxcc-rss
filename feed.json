@@ -1,8 +1,28 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Offenbar Wohnhaus im Zentrum Beiruts getroffen  ++",
+      "title": "Forbes-Liste: So viele Milliardäre wie noch nie",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/milliardaere-forbes-musk-trump-ki-100.html"
+    },
+    {
+      "title": "Neue Angriffe an vielen Fronten im Nahost-Krieg",
+      "link": "https://www.tagesschau.de/ausland/asien/krieg-iran-israel-libanon-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Verletzte nach Angriff am Flughafen in Dubai  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-116.html"
+    },
+    {
+      "title": "Warum auch 2026 ein schwieriges Jahr für Porsche werden könnte",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/porsche-gewinneinbruch-verbrenner-strategie-100.html"
+    },
+    {
+      "title": "Auswahl von Exzellenzunis: Warum es Kritik am Wettbewerb gibt",
+      "link": "https://www.tagesschau.de/wissen/forschung/exzellenzuniversitaeten-deutschland-100.html"
+    },
+    {
+      "title": "Energieagentur laut US-Medienbericht für Freigabe von Ölvorräten",
+      "link": "https://www.tagesschau.de/wirtschaft/iea-oelreserven-freigabe-100.html"
     },
     {
       "title": "Wie stark heizt der Krieg die Inflation an?",
@@ -41,10 +61,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/schweiz-bus-brand-100.html"
     },
     {
-      "title": "Nahost-Liveblog: ++ Energieagentur berät über Freigabe der Ölreserven ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
-    },
-    {
       "title": "Wadephul zu Iran-Krieg: \"Müssen uns noch auf eine gewisse Zeit einrichten\"",
       "link": "https://www.tagesschau.de/ausland/asien/wadephul-tagesthemen-iran-krieg-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Repräsentative Studie: \"Man erfährt Diskriminierung überall\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/diskriminierung-untersuchung-100.html"
-    },
-    {
-      "title": "Wie es zum Wirbel um den Buchhandlungspreis kam",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-buchhandlungen-verfassungsschutz-100.html"
-    },
-    {
-      "title": "Marktbericht: Die Hoffnung ist zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-naher-osten-boerse-100.html"
-    },
-    {
-      "title": "Bundesgerichtshof: Polizei darf nicht alle Chat-Nachrichten lesen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/polizei-chat-nachrichten-bgh-100.html"
-    },
-    {
-      "title": "Angriff auf Schule in Iran wird laut Trump untersucht",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-schule-100.html"
     }
   ]
 }
