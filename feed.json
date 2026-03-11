@@ -1,16 +1,32 @@
 {
   "items": [
     {
-      "title": "Forbes-Liste: So viele Milliardäre wie noch nie",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/milliardaere-forbes-musk-trump-ki-100.html"
+      "title": "Europaweite Razzien gegen rechten Verlag \"Der Schelm\"",
+      "link": "https://www.tagesschau.de/investigativ/rbb/razzia-rechter-verlag-derschelm-100.html"
+    },
+    {
+      "title": "SPD pocht auf Reform der Schuldenbremse",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schuldenbremse-debatte-108.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Verletzte nach Angriff am Flughafen in Dubai  ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-116.html"
+    },
+    {
+      "title": "Bundestagspräsidentin Klöckner in Kiew eingetroffen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-besuch-kloeckner-100.html"
     },
     {
       "title": "Neue Angriffe an vielen Fronten im Nahost-Krieg",
       "link": "https://www.tagesschau.de/ausland/asien/krieg-iran-israel-libanon-100.html"
     },
     {
-      "title": "Nahost-Liveblog: ++ Verletzte nach Angriff am Flughafen in Dubai  ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-116.html"
+      "title": "Teile der Dresdner Innenstadt nach Bombenfund evakuiert",
+      "link": "https://www.tagesschau.de/inland/regional/sachsen/bombenfund-dresden-evakuierung-100.html"
+    },
+    {
+      "title": "Forbes-Liste: So viele Milliardäre wie noch nie",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/milliardaere-forbes-musk-trump-ki-100.html"
     },
     {
       "title": "Warum auch 2026 ein schwieriges Jahr für Porsche werden könnte",
@@ -31,10 +47,6 @@
     {
       "title": "DAX hin- und hergerissen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-100.html"
-    },
-    {
-      "title": "SPD pocht auf Reform der Schuldenbremse",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/schuldenbremse-debatte-108.html"
     },
     {
       "title": "Geben steigende Öl- und Gaspreise der Inflation neuen Schub?",
@@ -67,18 +79,6 @@
     {
       "title": "Trump und ein mögliches Kriegsende: \"Die USA sind ohne Strategie unterwegs\"",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-perspektive-kriegsende-100.html"
-    },
-    {
-      "title": "Kommentar zur geplanten EU-Förderung: Mini-Atomreaktoren sind keine Lösung",
-      "link": "https://www.tagesschau.de/ausland/europa/kommentar-atomenergie-foederung-eu-100.html"
-    },
-    {
-      "title": "Piloten der Lufthansa zum zweitägigen Streik aufgerufen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/piloten-streik-lufthansa-100.html"
-    },
-    {
-      "title": "Repräsentative Studie: \"Man erfährt Diskriminierung überall\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/diskriminierung-untersuchung-100.html"
     }
   ]
 }
