@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Nahost-Liveblog: ++ Netanjahu erneuert Aufruf zu Regimesturz ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-116.html"
+    },
+    {
+      "title": "Drohnenabwehr: Ukraine entsendet Experten nach Nahost",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-experten-nahost-102.html"
+    },
+    {
+      "title": "Mindestens sechs Tote bei Busbrand in der Schweiz",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-bus-brand-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Energieagentur berät über Freigabe der Ölreserven ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-114.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "EU-Parlament zeichnet Merkel mit Europäischem Verdienstorden aus",
       "link": "https://www.tagesschau.de/ausland/europa/europaeischer-verdienstorden-merkel-100.html"
-    },
-    {
-      "title": "Neue Vorwürfe gegen Gemeinschaftsunterkunft in Wismar",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/fluechtlingsunterkunft-haffburg-100.html"
-    },
-    {
-      "title": "DLRG: Zahl der Badetoten 2025 leicht zurückgegangen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/dlrg-badetote-2025-100.html"
-    },
-    {
-      "title": "DAX gewinnt über zwei Prozent - Airlines im Aufwind",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-airlines-100.html"
     }
   ]
 }
