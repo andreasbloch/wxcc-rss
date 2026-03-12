@@ -1,20 +1,24 @@
 {
   "items": [
     {
-      "title": "Marktbericht: Hängepartie zehrt an den Nerven",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html"
-    },
-    {
       "title": "Nahost-Liveblog: ++ Wadephul fordert rasches Kriegsende ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html"
     },
     {
-      "title": "ARD-Vorwahlumfrage für Rheinland-Pfalz: CDU liegt knapp vor SPD",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-rp-100.html"
+      "title": "Wie viel Macht hat das Kartellamt bei gestiegenen Kraftstoffpreisen?",
+      "link": "https://www.tagesschau.de/wirtschaft/macht-kartellamt-energiepreise-100.html"
     },
     {
       "title": "Katholische Kirche: Erzbischof Degenhardt soll Jungen missbraucht haben",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/missbrauchsskandal-erzbistum-paderborn-100.html"
+    },
+    {
+      "title": "Marktbericht: Hängepartie zehrt an den Nerven",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html"
+    },
+    {
+      "title": "ARD-Vorwahlumfrage für Rheinland-Pfalz: CDU liegt knapp vor SPD",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-rp-100.html"
     },
     {
       "title": "Irans Religionsführer Chamenei fordert Rache für Kriegsopfer",
@@ -75,10 +79,6 @@
     {
       "title": "Nahost-Wirtschaft entgehen pro Tag 600 Millionen Dollar",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reiseverband-nahost-wirtschaft-millionenverlust-100.html"
-    },
-    {
-      "title": "Jury gibt Grimme-Preisträger bekannt: Atai, Elstner und ein \"Tatort\"",
-      "link": "https://www.tagesschau.de/kultur/grimme-preise-2026-100.html"
     }
   ]
 }
