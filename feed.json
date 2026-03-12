@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "Marktbericht: Konjunktursorgen treiben die Anleger um",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html"
+      "title": "Das BKA und seine NS-Wurzeln: Aufarbeitung mit Lücken",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/75-jahre-bka-ns-vergangenheit-100.html"
     },
     {
-      "title": "Nahost-Liveblog: ++ Italienischer Militärstützpunkt im Nordirak angegriffen ++",
+      "title": "Nahost-Wirtschaft entgehen pro Tag 600 Millionen Dollar",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reiseverband-nahost-wirtschaft-millionenverlust-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Iran warnt vor Angriff auf Inseln im Persischen Golf ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html"
+    },
+    {
+      "title": "Jury gibt Grimme-Preisträger bekannt: Atai, Elstner und ein \"Tatort\"",
+      "link": "https://www.tagesschau.de/kultur/grimme-preise-2026-100.html"
+    },
+    {
+      "title": "Marktbericht: Konjunktursorgen treiben die Anleger um",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html"
     },
     {
       "title": "Gewinn von Daimler Truck um 34 Prozent eingebrochen",
@@ -67,18 +79,6 @@
     {
       "title": "Marktbericht: Die Märkte bleiben angespannt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-100.html"
-    },
-    {
-      "title": "Weimer und der Buchhandlungspreis: Die Erkenntnisse bleiben dünn",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-buchhandlungspreis-vorwurf-luege-100.html"
-    },
-    {
-      "title": "Krieg im Nahen Osten: Angriffe auf Tausende Ziele in Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/krieg-iran-usa-israel-100.html"
-    },
-    {
-      "title": "Bombenentschärfung in Dresden erfolgreich",
-      "link": "https://www.tagesschau.de/inland/regional/sachsen/bombenfund-dresden-evakuierung-100.html"
     }
   ]
 }
