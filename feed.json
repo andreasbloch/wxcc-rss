@@ -1,16 +1,28 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Wadephul fordert rasches Kriegsende ++",
+      "title": "Nahost-Liveblog: ++ Angriffe auf Beiruts Zentrum durch Israel ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html"
+    },
+    {
+      "title": "Experte zur Straße von Hormus: \"Sollten davon ausgehen, dass dort Minen sind\"",
+      "link": "https://www.tagesschau.de/ausland/asien/interview-brake-minen-schifffahrt-iran-100.html"
+    },
+    {
+      "title": "Fast 500 Kinder und Jugendliche im Erzbistum Paserborn missbraucht",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/missbrauchsskandal-erzbistum-paderborn-100.html"
+    },
+    {
+      "title": "Ungarn vor der Parlamentswahl: Warum Orban nicht mehr begeistert",
+      "link": "https://www.tagesschau.de/ausland/europa/orban-ungarn-wahl-2026-100.html"
+    },
+    {
+      "title": "Kommentar zu Spritpreisen: Der Staat ist keine Vollkaskoversicherung",
+      "link": "https://www.tagesschau.de/kommentar/kommentar-girschick-energiekosten-100.html"
     },
     {
       "title": "Wie viel Macht hat das Kartellamt bei gestiegenen Kraftstoffpreisen?",
       "link": "https://www.tagesschau.de/wirtschaft/macht-kartellamt-energiepreise-100.html"
-    },
-    {
-      "title": "Katholische Kirche: Erzbischof Degenhardt soll Jungen missbraucht haben",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/missbrauchsskandal-erzbistum-paderborn-100.html"
     },
     {
       "title": "Marktbericht: Hängepartie zehrt an den Nerven",
@@ -67,18 +79,6 @@
     {
       "title": "Warum wurde die Mädchenschule in Iran zum Ziel?",
       "link": "https://www.tagesschau.de/ausland/asien/iran-angriff-maedchenschule-102.html"
-    },
-    {
-      "title": "Lebenslange Haft für Anschlag auf Moskauer Konzerthalle",
-      "link": "https://www.tagesschau.de/ausland/europa/urteil-moskau-konzerthalle-100.html"
-    },
-    {
-      "title": "Das BKA und seine NS-Wurzeln: Aufarbeitung mit Lücken",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/75-jahre-bka-ns-vergangenheit-100.html"
-    },
-    {
-      "title": "Nahost-Wirtschaft entgehen pro Tag 600 Millionen Dollar",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reiseverband-nahost-wirtschaft-millionenverlust-100.html"
     }
   ]
 }
