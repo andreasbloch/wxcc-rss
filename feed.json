@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Hängepartie zehrt an den Nerven",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Wadephul fordert rasches Kriegsende ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html"
+    },
+    {
+      "title": "ARD-Vorwahlumfrage für Rheinland-Pfalz: CDU liegt knapp vor SPD",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-rp-100.html"
     },
     {
       "title": "Katholische Kirche: Erzbischof Degenhardt soll Jungen missbraucht haben",
@@ -17,7 +25,7 @@
       "link": "https://www.tagesschau.de/kultur/wolfram-weimer-widerstand-kulturszene-100.html"
     },
     {
-      "title": "Volkskongresses: China treibt Modernisierung voran - und sorgt sich",
+      "title": "Volkskongress: China treibt Modernisierung voran - und sorgt sich",
       "link": "https://www.tagesschau.de/ausland/asien/china-abschluss-volkskongress-100.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "Jury gibt Grimme-Preisträger bekannt: Atai, Elstner und ein \"Tatort\"",
       "link": "https://www.tagesschau.de/kultur/grimme-preise-2026-100.html"
-    },
-    {
-      "title": "Marktbericht: Konjunktursorgen treiben die Anleger um",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html"
-    },
-    {
-      "title": "Gewinn von Daimler Truck um 34 Prozent eingebrochen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/daimler-truck-gewinneinbruch-100.html"
     }
   ]
 }
