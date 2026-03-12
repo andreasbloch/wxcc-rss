@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Rechtsruck in Chile: Kast als neuer Präsident vereidigt",
+      "link": "https://www.tagesschau.de/ausland/amerika/chile-kast-praesident-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Irak meldet Angriff auf Öltanker ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "150 Jahre Telefon - 150 Jahre Fluch und Segen",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/telefon-jubilaeum-100.html"
-    },
-    {
-      "title": "Bremst der Iran-Krieg die Konjunktur?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur-prognosen-bip-wirtschaftswachstum-100.html"
     }
   ]
 }
