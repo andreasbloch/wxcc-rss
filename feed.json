@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Nahost-Liveblog: ++ Israel will Libanon-Einsatz ausweiten ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html"
+    },
+    {
+      "title": "Warum wurde die Mädchenschule in Iran zum Ziel?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriff-maedchenschule-102.html"
+    },
+    {
+      "title": "Lebenslange Haft für Anschlag auf Moskauer Konzerthalle",
+      "link": "https://www.tagesschau.de/ausland/europa/urteil-moskau-konzerthalle-100.html"
+    },
+    {
       "title": "Das BKA und seine NS-Wurzeln: Aufarbeitung mit Lücken",
       "link": "https://www.tagesschau.de/inland/gesellschaft/75-jahre-bka-ns-vergangenheit-100.html"
     },
@@ -9,12 +21,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reiseverband-nahost-wirtschaft-millionenverlust-100.html"
     },
     {
-      "title": "Nahost-Liveblog: ++ Iran warnt vor Angriff auf Inseln im Persischen Golf ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html"
-    },
-    {
       "title": "Jury gibt Grimme-Preisträger bekannt: Atai, Elstner und ein \"Tatort\"",
       "link": "https://www.tagesschau.de/kultur/grimme-preise-2026-100.html"
+    },
+    {
+      "title": "Katholische Kirche: Erzbischof Degenhardt soll Jungen missbraucht haben",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/missbrauchsskandal-erzbistum-paderborn-100.html"
     },
     {
       "title": "Marktbericht: Konjunktursorgen treiben die Anleger um",
@@ -67,18 +79,6 @@
     {
       "title": "Iran-Krieg: Auch die USA geben Ölreserven teils frei",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-freigabe-oelreserve-100.html"
-    },
-    {
-      "title": "Sechs Tote in der Schweiz: Mutmaßlicher Brandstifter offenbar psychisch krank",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-busbrand-102.html"
-    },
-    {
-      "title": "Buchbranche empört über Weimer-Vorgehen",
-      "link": "https://www.tagesschau.de/kultur/wolfram-weimer-buchhandlungspreis-reaktionen-100.html"
-    },
-    {
-      "title": "Marktbericht: Die Märkte bleiben angespannt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-100.html"
     }
   ]
 }
