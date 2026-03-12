@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Chamenei fordert Rache für Kriegstote ++",
+      "title": "Kritik an Staatsminister Weimer: Kulturszene sorgt sich um die Kunstfreiheit",
+      "link": "https://www.tagesschau.de/kultur/wolfram-weimer-widerstand-kulturszene-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Wadephul fordert rasches Kriegsende ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Wie das Bewegen der Hände das Gehirn trainiert",
       "link": "https://www.tagesschau.de/wissen/gesundheit/feinmotorik-gehirn-funktion-100.html"
-    },
-    {
-      "title": "Betrieb am BER wegen Sichtung von Flugobjekten zweimal eingestellt",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/ber-flugobjekte-sperrung-100.html"
     }
   ]
 }
