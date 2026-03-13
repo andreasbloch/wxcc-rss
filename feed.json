@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "ÖPNV soll in Nordrhein-Westfalen stillstehen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/warnstreik-oepnv-nrw-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Vier Tote bei Absturz von Tankflugzeug im Irak ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Trump und der Iran-Krieg: \"Dafür haben wir nicht gestimmt\"",
       "link": "https://www.tagesschau.de/ausland/iran-trump-maga-100.html"
-    },
-    {
-      "title": "Gastarbeiter am Golf: Arbeiten unter Beschuss",
-      "link": "https://www.tagesschau.de/ausland/asien/dubai-gastarbeiter-vae-100.html"
     }
   ]
 }
