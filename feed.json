@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Gastarbeiter am Golf: Arbeiten unter Beschuss",
+      "link": "https://www.tagesschau.de/ausland/asien/dubai-gastarbeiter-vae-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Angriffe auf Beiruts Zentrum durch Israel ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Streik der Piloten: Hunderte Flugausfälle bei der Lufthansa",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streik-326.html"
-    },
-    {
-      "title": "Pläne der Bundesregierung für mehr digitale Befugnisse von Ermittlern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/digitale-ermittlungsbefugnisse-entwurf-faq-100.html"
     }
   ]
 }
