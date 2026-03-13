@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ US-Militär meldet Absturz von Tankflugzeug im Irak ++",
+      "title": "Pilotenstreik bei Lufthansa: Hunderte Flüge fallen aus",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-fluege-ausfall-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Fast alle deutschen Touristen zurück aus Nahost ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html"
+    },
+    {
+      "title": "Jahresbilanz 2025 : Chemiebranche rutscht weiter ab",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chemie-branche-100.html"
     },
     {
       "title": "Aberglaube: Ist Freitag, der 13., wirklich ein Unglückstag?",
@@ -71,14 +79,6 @@
     {
       "title": "Marktbericht: Hängepartie zehrt an den Nerven",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html"
-    },
-    {
-      "title": "ARD-Vorwahlumfrage für Rheinland-Pfalz: CDU liegt knapp vor SPD",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-rp-100.html"
-    },
-    {
-      "title": "Irans Religionsführer Chamenei fordert Rache für Kriegsopfer",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-chamenei-modschtaba-100.html"
     }
   ]
 }
