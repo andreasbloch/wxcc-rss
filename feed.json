@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "Pilotenstreik bei Lufthansa: Hunderte Flüge fallen aus",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-fluege-ausfall-100.html"
-    },
-    {
       "title": "Iran-Liveblog: ++ Fast alle deutschen Touristen zurück aus Nahost ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html"
+    },
+    {
+      "title": "Ölblockade - Kuba steuert auf humanitäre Katastrophe zu",
+      "link": "https://www.tagesschau.de/ausland/kuba-humanitaere-krise-100.html"
+    },
+    {
+      "title": "Pilotenstreik bei Lufthansa: Hunderte Flüge fallen aus",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-fluege-ausfall-100.html"
     },
     {
       "title": "Jahresbilanz 2025 : Chemiebranche rutscht weiter ab",
@@ -75,10 +79,6 @@
     {
       "title": "Fast 500 Kinder und Jugendliche im Erzbistum Paserborn missbraucht",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/missbrauchsskandal-erzbistum-paderborn-100.html"
-    },
-    {
-      "title": "Marktbericht: Hängepartie zehrt an den Nerven",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-100.html"
     }
   ]
 }
