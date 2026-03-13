@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ USA setzen hohe Belohnung für Chamenei aus ++",
+      "title": "Iran-Liveblog: ++ USA verstärken Militär im Nahen Osten ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html"
+    },
+    {
+      "title": "Interview: \"Russland ist einer der großen Profiteure\"",
+      "link": "https://www.tagesschau.de/ausland/europa/us-sanktionen-russland-oel-100.html"
     },
     {
       "title": "Ukraine in Sorge über US-Entscheidung zu Russland-Sanktionen",
@@ -75,10 +79,6 @@
     {
       "title": "Deutschland schnürt neues \"Patriot\"-Paket für Ukraine",
       "link": "https://www.tagesschau.de/inland/patriot-ukraine-100.html"
-    },
-    {
-      "title": "Krieg in Nahost: Israel greift Ziele in Teheran und Libanon an",
-      "link": "https://www.tagesschau.de/ausland/asien/lage-nahost-angriffe-teheran-100.html"
     }
   ]
 }
