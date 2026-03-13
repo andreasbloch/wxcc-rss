@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Krieg im Nahen Osten: Unklarheit über US-Ziele in der Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-israel-golf-100.html"
+    },
+    {
+      "title": "Wer verdient am Musikstreaming?",
+      "link": "https://www.tagesschau.de/kultur/musik-streaming-verguetung-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iranisches Geschoss über der Türkei abgefangen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Ölblockade - Kuba steuert auf humanitäre Katastrophe zu",
       "link": "https://www.tagesschau.de/ausland/kuba-humanitaere-krise-100.html"
-    },
-    {
-      "title": "Pilotenstreik bei Lufthansa: Hunderte Flüge fallen aus",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-fluege-ausfall-100.html"
-    },
-    {
-      "title": "Jahresbilanz 2025 : Chemiebranche rutscht weiter ab",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chemie-branche-100.html"
     }
   ]
 }
