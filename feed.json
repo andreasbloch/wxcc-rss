@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "Missbrauchsskandal in Paderborn: Erzbischof bittet Opfer um Verzeihung",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/missbrauchsstudie-paderborn-100.html"
-    },
-    {
       "title": "Iran-Liveblog: ++ Iranisches Geschoss über der Türkei abgefangen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html"
+    },
+    {
+      "title": "EU hält an Russland-Sanktionen fest",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-198.html"
+    },
+    {
+      "title": "Kriminalität durch KI: Wie die EU gegen Deepfakes vorgehen will",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-deepfakes-100.html"
     },
     {
       "title": "Kleine Tricks gegen Schlafwandeln - das hilft laut Forschung",
@@ -23,6 +27,10 @@
     {
       "title": "ÖPNV soll in Nordrhein-Westfalen stillstehen",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/warnstreik-oepnv-nrw-100.html"
+    },
+    {
+      "title": "Missbrauchsskandal in Paderborn: Erzbischof bittet Opfer um Verzeihung",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/missbrauchsstudie-paderborn-100.html"
     },
     {
       "title": "ZDF-Intendant Himmler wiedergewählt",
@@ -71,14 +79,6 @@
     {
       "title": "USA erlauben vorübergehend Kauf von russischem Öl",
       "link": "https://www.tagesschau.de/ausland/usa-russisches-erdoel-100.html"
-    },
-    {
-      "title": "Mann steuert Auto in Synagoge in Michigan - FBI ermittelt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-synagoge-michigan-100.html"
-    },
-    {
-      "title": "Profitiert Putin vom Iran-Krieg?",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-iran-krieg-100.html"
     }
   ]
 }
