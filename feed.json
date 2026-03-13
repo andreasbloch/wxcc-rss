@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ US-Militär meldet Absturz von Tankflugzeug im Irak ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html"
+    },
+    {
+      "title": "Profitiert Putin vom Iran-Krieg?",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-iran-krieg-100.html"
+    },
+    {
+      "title": "USA erlauben vorübergehend Kauf von russischem Öl",
+      "link": "https://www.tagesschau.de/ausland/usa-russisches-erdoel-100.html"
+    },
+    {
       "title": "Weltschlaftag: So wichtig ist guter Schlaf für die Gesundheit",
       "link": "https://www.tagesschau.de/wissen/gesundheit/schlafforschung-fruejahrsmuedigkeit-schlafstoerungen-100.html"
     },
@@ -15,10 +27,6 @@
     {
       "title": "Gastarbeiter am Golf: Arbeiten unter Beschuss",
       "link": "https://www.tagesschau.de/ausland/asien/dubai-gastarbeiter-vae-100.html"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ Angriffe auf Beiruts Zentrum durch Israel ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-118.html"
     },
     {
       "title": "Polen Präsident Nawrocki lehnt milliardenschweren EU-Rüstungskredit ab",
@@ -71,14 +79,6 @@
     {
       "title": "Trotz Ermittlungen - Gröner will weitere Bauprojekte umsetzen",
       "link": "https://www.tagesschau.de/investigativ/fakt/groener-bauunternehmer-100.html"
-    },
-    {
-      "title": "EU-Parlament beschließt mehr Schutz bei Pauschalreisen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-fluggastrechte-pauschalreisen-100.html"
-    },
-    {
-      "title": "Wie das iranische Regime die Medien kontrolliert",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-medien-100.html"
     }
   ]
 }
