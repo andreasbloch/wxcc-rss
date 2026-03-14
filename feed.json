@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Max Richter ist für seine Filmmusik zu \"Hamnet\" für Oscar nominiert",
+      "link": "https://www.tagesschau.de/kultur/max-richter-oscar-nominierung-hamnet-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump: US-Eskorte für Tanker beginnt \"bald\" ++",
       "link": "https://www.tagesschau.de/ausland/asien/liveblog-iran-samstag-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Erste Warnsignale vom Rentenmarkt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/rentenmaerkte-marktbericht-100.html"
-    },
-    {
-      "title": "ÖPNV soll in Nordrhein-Westfalen stillstehen",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/warnstreik-oepnv-nrw-100.html"
     }
   ]
 }
