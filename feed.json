@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Explosion vor jüdischer Schule in Amsterdam - gezielter Angriff vermutet",
+      "link": "https://www.tagesschau.de/ausland/europa/amsterdam-explosion-juedische-schule-100.html"
+    },
+    {
+      "title": "Tote und Verletzte nach russischem Angriff im Großraum Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/russische-angriffe-ukraine-104.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump: US-Eskorte für Tanker beginnt \"bald\" ++",
       "link": "https://www.tagesschau.de/ausland/asien/liveblog-iran-samstag-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Kriminalität durch KI: Wie die EU gegen Deepfakes vorgehen will",
       "link": "https://www.tagesschau.de/ausland/europa/eu-deepfakes-100.html"
-    },
-    {
-      "title": "Kleine Tricks gegen Schlafwandeln - das hilft laut Forschung",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/schlaf-schlafwandeln-wissen-100.html"
-    },
-    {
-      "title": "Energiepreise: Vom Iran-Schock zum Energiewende-Motor?",
-      "link": "https://www.tagesschau.de/wissen/klima/erneuerbare-energien-gaspreise-oelpreise-100.html"
     }
   ]
 }
