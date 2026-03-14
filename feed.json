@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Brandmauer im Europaparlament: Bericht über Kooperation mit AfD",
+      "link": "https://www.tagesschau.de/ausland/europa/evp-europaparlament-afd-brandmauer-weber-100.html"
+    },
+    {
+      "title": "Iran: Welche Folgen könnte der Angriff auf Charg haben?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-charg-faq-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump: Viele Länder sollen Straße von Hormus sichern ++",
       "link": "https://www.tagesschau.de/ausland/asien/liveblog-iran-samstag-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Schnieder will Comeback der Magnetschwebebahn",
       "link": "https://www.tagesschau.de/inland/gesellschaft/magnetschwebebahn-108.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ USA verstärken Militär im Nahen Osten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-krieg-freitag-100.html"
-    },
-    {
-      "title": "Interview: \"Russland ist einer der großen Profiteure\"",
-      "link": "https://www.tagesschau.de/ausland/europa/us-sanktionen-russland-oel-100.html"
     }
   ]
 }
