@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Trump: US-Eskorte für Tanker beginnt \"bald\" ++",
+      "title": "Bilanz für 2025: Klimaschutz in Deutschland tritt auf der Stelle ",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klimaschutz-bilanz-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Katar evakuiert Stadtteile in Doha ++",
       "link": "https://www.tagesschau.de/ausland/asien/liveblog-iran-samstag-100.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Schönenborn wird Moderator der tagesthemen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/tagesthemen-schoenenborn-100.html"
-    },
-    {
-      "title": "Nach Brandanschlag auf Synagoge in Rotterdam wächst die Angst",
-      "link": "https://www.tagesschau.de/ausland/europa/anschlag-synagoge-rotterdam-100.html"
     }
   ]
 }
