@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Sachsen-Anhalts Ministerpräsident Schulze fordert Senkung der Energiesteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schulze-energiesteuer-100.html"
+    },
+    {
+      "title": "CSU-Chef Söder fordert Rückkehr zur Atomkraft mit Mini-AKW in Bayern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/atomkraft-bayern-soeder-csu-wirbt-fuer-mini-akw-100.html"
+    },
+    {
       "title": "Trump dringt auf Hilfe bei Absicherung von Straße von Hormus",
       "link": "https://www.tagesschau.de/ausland/asien/nahost-iran-trump-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Iran-Krieg: Welche Rolle die iranisch-kurdischen Milizen im Irak spielen",
       "link": "https://www.tagesschau.de/ausland/asien/milizen-irak-100.html"
-    },
-    {
-      "title": "Einst sichere Anlage heute umstritten: Indexpolicen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/indexpolicen-100.html"
-    },
-    {
-      "title": "Hass im Netz: Warum Politikerinnen besonders betroffen sind",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/digitale-gewalt-gegen-politikerinnen-100.html"
     }
   ]
 }
