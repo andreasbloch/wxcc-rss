@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "Wadephul schließt deutsche Beteiligung an Hormus-Mission aus",
-      "link": "https://www.tagesschau.de/inland/wadephul-iran-hormus-100.html"
-    },
-    {
       "title": "Iran-Liveblog: ++ Iran lehnt Gespräche mit den USA ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-100.html"
+    },
+    {
+      "title": "Wie die Bundesregierung hohe Spritpreise bremsen will",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-massnahmenpaket-100.html"
+    },
+    {
+      "title": "Wadephul schließt deutsche Beteiligung an Hormus-Mission aus",
+      "link": "https://www.tagesschau.de/inland/wadephul-iran-hormus-100.html"
     },
     {
       "title": "Wie politisch werden die Oscars?",
@@ -75,10 +79,6 @@
     {
       "title": "Russland: Indische Arbeitskräfte als Helfer in der Not",
       "link": "https://www.tagesschau.de/ausland/europa/arbeitsmarkt-russland-100.html"
-    },
-    {
-      "title": "Demonstranten in Kuba verwüsten Parteibüro",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-proteste-partei-100.html"
     }
   ]
 }
