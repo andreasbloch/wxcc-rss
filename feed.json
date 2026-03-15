@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Lieferengpässe bei Medikamenten: Warum Hersteller abwandern",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lieferengpaesse-medikamente-pharmaindustrie-100.html"
+    },
+    {
+      "title": "Künstliche Intelligenz drängt in die Filmproduktion",
+      "link": "https://www.tagesschau.de/wissen/technologie/ki-filmindustrie-oscar-100.html"
+    },
+    {
       "title": "Russland: Indische Arbeitskräfte als Helfer in der Not",
       "link": "https://www.tagesschau.de/ausland/europa/arbeitsmarkt-russland-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Explosion vor jüdischer Schule in Amsterdam - gezielter Angriff vermutet",
       "link": "https://www.tagesschau.de/ausland/europa/amsterdam-explosion-juedische-schule-100.html"
-    },
-    {
-      "title": "Tote und Verletzte nach russischem Angriff im Großraum Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/russische-angriffe-ukraine-104.html"
-    },
-    {
-      "title": "US-Angriffe auf iranische Öl-Insel Charg",
-      "link": "https://www.tagesschau.de/ausland/asien/charg-us-angriff-102.html"
     }
   ]
 }
