@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Iran lehnt Gespräche mit den USA ab ++",
+      "title": "Iran-Liveblog: ++ Spanien zieht Militärkräfte aus Irak ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-100.html"
+    },
+    {
+      "title": "Nahost: Tote bei israelischen Angriffen in Palästinensergebieten",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-gaza-westjordanland-100.html"
     },
     {
       "title": "EU-Abgeordnete kritisieren EVP nach Medienbericht über Absprachen mit AfD",
@@ -75,10 +79,6 @@
     {
       "title": "Lieferengpässe bei Medikamenten: Warum Hersteller abwandern",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lieferengpaesse-medikamente-pharmaindustrie-100.html"
-    },
-    {
-      "title": "Künstliche Intelligenz drängt in die Filmproduktion",
-      "link": "https://www.tagesschau.de/wissen/technologie/ki-filmindustrie-oscar-100.html"
     }
   ]
 }
