@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "US-Medienaufsichtsbehörde droht Sendern wegen Iran-Berichterstattung",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-iran-krieg-berichterstattung-druck-medienaufsicht-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++  Israel startet neue Angriffswelle im Westen Irans   ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-100.html"
+    },
+    {
+      "title": "EU-Abgeordnete kritisieren EVP nach Medienbericht über Absprachen mit AfD",
+      "link": "https://www.tagesschau.de/ausland/europa/europaparlament-evp-brandmauer-100.html"
     },
     {
       "title": "Fluggast-Klagen belasten Gerichte zunehmend",
@@ -71,14 +79,6 @@
     {
       "title": "NATO-Partner Serbien kauft Raketen in China",
       "link": "https://www.tagesschau.de/ausland/europa/serbien-waffen-ruestung-china-100.html"
-    },
-    {
-      "title": "Der Weg für Rot-Schwarz in Brandenburg ist frei",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/koalitionsvertrag-brandenburg-102.html"
-    },
-    {
-      "title": "Belarusische Aktivistin Kolesnikowa erhält Karlspreis nachträglich",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-nach-haftentlassung-buergerrechtlerin-kalesnikava-erhaelt-karlspreis-100.html"
     }
   ]
 }
