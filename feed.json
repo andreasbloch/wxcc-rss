@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Trump warnt NATO ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-100.html"
+    },
+    {
+      "title": "15-Minuten-Podcast: Weniger Geld für Therapieplätze, Folgen von Lärm, Paralympics",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/15-minuten-podcast-therapie-laerm-paralympics-100.html"
+    },
+    {
+      "title": "Sechs Oscars für Politthriller \"One Battle After Another\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-oscar-filme-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Spanien zieht Militärkräfte aus Irak ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Eizellspende - warum Paare dafür ins Ausland gehen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/eizellen-spende-gesetz-100.html"
-    },
-    {
-      "title": "Lettland: Sprache lernen oder Ausweisung riskieren",
-      "link": "https://www.tagesschau.de/ausland/europa/lettland-russen-sprache-100.html"
-    },
-    {
-      "title": "Kommunalwahl in Frankreich: Paris als Test-Labor fürs ganze Land",
-      "link": "https://www.tagesschau.de/ausland/europa/buergermeisterwahl-paris-100.html"
-    },
-    {
-      "title": "Lieferengpässe bei Medikamenten: Warum Hersteller abwandern",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lieferengpaesse-medikamente-pharmaindustrie-100.html"
     }
   ]
 }
