@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Israel bestätigt Bodeneinsätze im Libanon ++",
+      "title": "Brandenburger Antisemitismus-Beauftragter tritt aus Linke aus",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/brandenburger-antisemitismusbeauftragter-austritt-linke-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Israel greift erneut Teheran an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-100.html"
+    },
+    {
+      "title": "Neue Generation der türkischen Mafia in Deutschland",
+      "link": "https://www.tagesschau.de/investigativ/kontraste/organisierte-kriminalitaet-berlin-tuerkei-russland-100.html"
     },
     {
       "title": "Ver.di ruft für Donnerstag zu neuen Warnstreiks im Nahverkehr auf",
@@ -49,10 +57,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/zuckersteuer-118.html"
     },
     {
-      "title": "15-Minuten-Podcast: Weniger Geld für Therapieplätze, Folgen von Lärm, Paralympics",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/15-minuten-podcast-therapie-laerm-paralympics-100.html"
-    },
-    {
       "title": "Sechs Oscars für Politthriller \"One Battle After Another\"",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-oscar-filme-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Wie die Bundesregierung hohe Spritpreise bremsen will",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-massnahmenpaket-100.html"
-    },
-    {
-      "title": "Wadephul schließt deutsche Beteiligung an Hormus-Mission aus",
-      "link": "https://www.tagesschau.de/inland/wadephul-iran-hormus-100.html"
     }
   ]
 }
