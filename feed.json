@@ -1,12 +1,24 @@
 {
   "items": [
     {
+      "title": "Brandenburger Antisemitismus-Beauftragter tritt aus Linke aus",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/brandenburger-antisemitismusbeauftragter-austritt-linke-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX leicht erholt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-iran-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Iran wird Krieg \"so weit wie nötig\" weiterführen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-100.html"
     },
     {
-      "title": "Ver.di ruft für Mittwoch zu Warnstreik am Flughafen BER auf",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-verdi-ruft-fuer-mittwoch-zu-warnstreik-am-flughafen-ber-auf-102.html"
+      "title": "Warnstreik am Flughafen BER - Flugbetrieb am Mittwoch eingestellt",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/verdi-warnstreik-flughafen-ber-100.html"
+    },
+    {
+      "title": "Interview zu Iran: \"Trumps Forderung kommt bei vielen nicht gut an\"",
+      "link": "https://www.tagesschau.de/ausland/asien/groitl-iran-hormus-100.html"
     },
     {
       "title": "Was Schülern zu mehr Finanzbildung verhelfen kann",
@@ -61,24 +73,12 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/armut-gesundheit-100.html"
     },
     {
-      "title": "Brandenburger Antisemitismus-Beauftragter tritt aus Linke aus",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/brandenburger-antisemitismusbeauftragter-austritt-linke-100.html"
-    },
-    {
       "title": "Neue Generation der türkischen Mafia in Deutschland",
       "link": "https://www.tagesschau.de/investigativ/kontraste/organisierte-kriminalitaet-berlin-tuerkei-russland-100.html"
     },
     {
-      "title": "Marktbericht: DAX versucht zu Wochenbeginn Stabilisierung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-iran-100.html"
-    },
-    {
       "title": "Politische Filme und politische Kommentare prägen die Oscar-Gala",
       "link": "https://www.tagesschau.de/ausland/oscars-la-100.html"
-    },
-    {
-      "title": "Ukrainischer Militärsender Armija: Rock, Rap und Neues von der Front",
-      "link": "https://www.tagesschau.de/ausland/europa/militaerradio-ukraine-100.html"
     }
   ]
 }
