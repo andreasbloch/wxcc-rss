@@ -1,20 +1,36 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Israel startet \"großangelegte\" Angriffswelle ++",
+      "title": "Nahost-Liveblog: ++ Israel meldet Angriffe auf iranische Führung ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-100.html"
+    },
+    {
+      "title": "Trump deutet mögliche \"Übernahme\" Kubas an",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-uebernahme-kubas-100.html"
+    },
+    {
+      "title": "Sondervermögen wird laut Studien zweckentfremdet",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sondervermoegen-zweckentfremdung-studien-100.html"
     },
     {
       "title": "100. Geburtstag: Siegfried Lenz und die Fragen nach Krieg und Klima",
       "link": "https://www.tagesschau.de/kultur/siegfried-lenz-118.html"
     },
     {
-      "title": "Warnstreik im ÖPNV: Busse und Bahnen in NRW stehen still",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/warnstreik-oepnv-nrw-100.html"
+      "title": "Chile beginnt mit Bau von neuen Grenzanlagen nahe Peru und Bolivien",
+      "link": "https://www.tagesschau.de/ausland/amerika/chile-grenzanlagen-100.html"
+    },
+    {
+      "title": "Rechtsextremismus: Weitere Razzien bei der \"Letzten Verteidigungswelle\"",
+      "link": "https://www.tagesschau.de/investigativ/ndr/razzien-letzte-verteidigungswelle-100.html"
     },
     {
       "title": "Zwei Menschen in Bistro in Hessen erschossen - Täter flieht",
       "link": "https://www.tagesschau.de/inland/regional/hessen/toetungsdelikt-hessen-100.html"
+    },
+    {
+      "title": "Warnstreik im ÖPNV: Busse und Bahnen in NRW stehen still",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/warnstreik-oepnv-nrw-100.html"
     },
     {
       "title": "Fünf Staaten warnen Israel vor Bodenoffensive im Libanon",
@@ -63,22 +79,6 @@
     {
       "title": "Freiwillige \"Chatkontrolle\" vor dem Aus - EU-Einigung gescheitert",
       "link": "https://www.tagesschau.de/ausland/chatkontrolle-eu-kindesmissbrauch-104.html"
-    },
-    {
-      "title": "Warnstreik am Flughafen BER - Flugbetrieb am Mittwoch eingestellt",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/verdi-warnstreik-flughafen-ber-100.html"
-    },
-    {
-      "title": "Neue Recherche: Wurde Banksys Identität endgültig enthüllt?",
-      "link": "https://www.tagesschau.de/ausland/europa/banksy-name-herkunft-100.html"
-    },
-    {
-      "title": "Mini-AKW - wie sinnvoll sind sie?",
-      "link": "https://www.tagesschau.de/wissen/technologie/mini-akw-atomkraft-kraftwerke-energiemix-100.html"
-    },
-    {
-      "title": "Bahnhofsmission: Warum die Nachfrage stark steigt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bahnhofsmission-muenchen-100.html"
     }
   ]
 }
