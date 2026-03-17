@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Nahost-Liveblog: ++ Angriff auf US-Botschaft im Irak abgewehrt ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ 200 verletzte US-Soldaten seit Kriegsbeginn ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Israelische Truppen rücken im Südlibanon vor",
       "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-truppen-100.html"
-    },
-    {
-      "title": "Ver.di ruft für Donnerstag zu neuen Warnstreiks im Nahverkehr auf",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/warnstreik-oepnv-verdi-102.html"
     }
   ]
 }
