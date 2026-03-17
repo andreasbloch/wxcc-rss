@@ -1,16 +1,32 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Israel meldet Angriffe auf iranische Führung ++",
+      "title": "Kirchenaustritt laut EuGH-Urteil allein kein Kündigungsgrund",
+      "link": "https://www.tagesschau.de/ausland/europa/eugh-kuendigung-kirchenaustritt-100.html"
+    },
+    {
+      "title": "Fünf Staaten warnen Israel vor Bodenoffensive im Libanon",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-bodenoffensive-libanon-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Israel meldet Tötung von Irans Sicherheitschef ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-100.html"
     },
     {
-      "title": "Trump deutet mögliche \"Übernahme\" Kubas an",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-uebernahme-kubas-100.html"
+      "title": "Marktbericht: DAX recht stabil - Anleger warten ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-gas-iran-100.html"
     },
     {
       "title": "Sondervermögen wird laut Studien zweckentfremdet",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sondervermoegen-zweckentfremdung-studien-100.html"
+    },
+    {
+      "title": "Bundespräsident Steinmeier ruft zur Verteidigung der Demokratie auf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-demokratie-stolz-100.html"
+    },
+    {
+      "title": "Trump deutet mögliche \"Übernahme\" Kubas an",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-uebernahme-kubas-100.html"
     },
     {
       "title": "100. Geburtstag: Siegfried Lenz und die Fragen nach Krieg und Klima",
@@ -31,14 +47,6 @@
     {
       "title": "Warnstreik im ÖPNV: Busse und Bahnen in NRW stehen still",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/warnstreik-oepnv-nrw-100.html"
-    },
-    {
-      "title": "Fünf Staaten warnen Israel vor Bodenoffensive im Libanon",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-bodenoffensive-libanon-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX kaum verändert",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-gas-iran-100.html"
     },
     {
       "title": "Taliban melden Hunderte Tote bei Angriff auf Klinik in Kabul",
@@ -71,14 +79,6 @@
     {
       "title": "EU erteilt Hormus-Mission Absage - \"Das ist nicht unser Krieg\"",
       "link": "https://www.tagesschau.de/ausland/strasse-von-hormus-militaereinsatz-eu-usa-100.html"
-    },
-    {
-      "title": "Merz kritisiert EVP-Absprachen mit Rechten im Europaparlament",
-      "link": "https://www.tagesschau.de/inland/merz-weber-evp-rechte-100.html"
-    },
-    {
-      "title": "Freiwillige \"Chatkontrolle\" vor dem Aus - EU-Einigung gescheitert",
-      "link": "https://www.tagesschau.de/ausland/chatkontrolle-eu-kindesmissbrauch-104.html"
     }
   ]
 }
