@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "Wie Jeffrey Epstein offenbar mit Steuern trickste",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/epstein-geld-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Israel startet \"großangelegte\" Angriffswelle ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-100.html"
+    },
+    {
+      "title": "Taliban melden Hunderte Tote bei Angriff auf Klinik in Kabul",
+      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-angriff-108.html"
     },
     {
       "title": "Prozess gegen \"Wegwerfagenten\": Sabotage im Auftrag Russlands?",
@@ -71,14 +79,6 @@
     {
       "title": "Spritpreise: Welche Ideen die Politik beim Tanken diskutiert",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-massnahmen-100.html"
-    },
-    {
-      "title": "UniCredit kündigt Übernahmeangebot für Commerzbank an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-commerzbank-uebernahmeangebot-100.html"
-    },
-    {
-      "title": "Tarifkonflikt: Jetzt könnten auch Eurowings-Piloten streiken",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/streik-eurowings-tarifkonflikt-urabstimmung-100.html"
     }
   ]
 }
