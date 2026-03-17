@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Nahost-Liveblog: ++ UN warnen vor Massenvertreibungen im Libanon ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-100.html"
+    },
+    {
+      "title": "Israel meldet Tötung von Irans Sicherheitschef Laridschani",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-sicherheitschef-laridschani-100.html"
+    },
+    {
       "title": "Kirchenaustritt laut EuGH-Urteil allein kein Kündigungsgrund",
       "link": "https://www.tagesschau.de/ausland/europa/eugh-kuendigung-kirchenaustritt-100.html"
     },
     {
       "title": "Fünf Staaten warnen Israel vor Bodenoffensive im Libanon",
       "link": "https://www.tagesschau.de/ausland/asien/israel-bodenoffensive-libanon-100.html"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ Israel meldet Tötung von Irans Sicherheitschef ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-100.html"
     },
     {
       "title": "Marktbericht: DAX recht stabil - Anleger warten ab",
@@ -75,10 +79,6 @@
     {
       "title": "Totaler Stromausfall in Kuba - Trump deutet \"Übernahme\" des Landes an",
       "link": "https://www.tagesschau.de/ausland/amerika/kuba-stromausfall-trump-100.html"
-    },
-    {
-      "title": "EU erteilt Hormus-Mission Absage - \"Das ist nicht unser Krieg\"",
-      "link": "https://www.tagesschau.de/ausland/strasse-von-hormus-militaereinsatz-eu-usa-100.html"
     }
   ]
 }
