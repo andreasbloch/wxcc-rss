@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Liveblog zum Iran-Krieg: ++ Irans Geheimdienstminister laut Israel getötet ++",
+      "title": "Liveblog zum Iran-Krieg: ++ Iran meldet Angriff auf Gasanlagen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-100.html"
+    },
+    {
+      "title": "Marktbericht: HelloFresh rechnet auch 2026 mit Umsatzminus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/aktie-des-tages-hellofresh-100.html"
     },
     {
       "title": "Zentralrat kritisiert Anti-Zionismus-Beschluss der Linken in Hannover",
@@ -75,10 +79,6 @@
     {
       "title": "Besuch in Großbritannien: Selenskyj ringt um Aufmerksamkeit",
       "link": "https://www.tagesschau.de/ausland/europa/selenskyj-london-108.html"
-    },
-    {
-      "title": "Bericht zum Westjordanland: UN warnen Israel vor Kriegsverbrechen",
-      "link": "https://www.tagesschau.de/ausland/asien/un-israel-westjordanland-102.html"
     }
   ]
 }
