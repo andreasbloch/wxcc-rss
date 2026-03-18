@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Liveblog zum Iran-Krieg: ++ Zwei Tote bei Angriff auf Israel ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-100.html"
+    },
+    {
+      "title": "Wie sich die deutsche Außenpolitik in Großmachtzeiten aufstellt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-aussenpolitik-100.html"
+    },
+    {
+      "title": "Wofür Forschende 2026 den Leibniz-Preis bekommen",
+      "link": "https://www.tagesschau.de/wissen/forschung/leibniz-preis-2026-100.html"
+    },
+    {
       "title": "Neue Kursgewinne",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-boerse-dow-jones-oel-100.html"
     },
     {
       "title": "Nach Hisbollah-Angriff: Israel bombardiert erneut Beirut",
       "link": "https://www.tagesschau.de/ausland/beirut-angriff-libanon-israel-100.html"
-    },
-    {
-      "title": "Liveblog zum Iran-Krieg: ++ Zwei Tote bei Angriff auf Israel ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-100.html"
     },
     {
       "title": "Sorge um den Buchmarkt auf der Leipziger Buchmesse",
@@ -71,14 +79,6 @@
     {
       "title": "Was bringt Österreichs neue Spritpreisregel?",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreisbremse-oesterreich-100.html"
-    },
-    {
-      "title": "Wirtschaftsministerin Katherina Reiche: Kann sie Krisenmanagerin?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-krisenmanagement-vieweger-100.html"
-    },
-    {
-      "title": "Stromausfall in Berlin: Neue Vorwürfe gegen Bürgermeister Wegner",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-stromausfall-vorwuerfe-wegner-100.html"
     }
   ]
 }
