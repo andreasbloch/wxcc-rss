@@ -1,12 +1,28 @@
 {
   "items": [
     {
-      "title": "Tote und verletzte Tiere - Skandalöse Zustände in spanischer Schweinemast",
-      "link": "https://www.tagesschau.de/investigativ/schweinemast-spanien-deutschland-100.html"
+      "title": "Neue Kursgewinne",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-boerse-dow-jones-oel-100.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Irak: Wieder Ölexporte über Pipeline in Kurdenregion geplant ++",
+      "title": "Nach Hisbollah-Angriff: Israel bombardiert erneut Beirut",
+      "link": "https://www.tagesschau.de/ausland/beirut-angriff-libanon-israel-100.html"
+    },
+    {
+      "title": "Liveblog zum Iran-Krieg: ++ Zwei Tote bei Angriff auf Israel ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-100.html"
+    },
+    {
+      "title": "Sorge um den Buchmarkt auf der Leipziger Buchmesse",
+      "link": "https://www.tagesschau.de/kultur/leipziger-buchmesse-2026-100.html"
+    },
+    {
+      "title": "Ver.di-Warnstreiks: BER, München und Köln betroffen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verdi-warnstreiks-ber-muenchen-koeln-100.html"
+    },
+    {
+      "title": "Tote und verletzte Tiere - Skandalöse Zustände in spanischer Schweinemast",
+      "link": "https://www.tagesschau.de/investigativ/schweinemast-spanien-deutschland-100.html"
     },
     {
       "title": "Plus von 20 Prozent: Bewerbungen bei Bundeswehr nehmen deutlich zu",
@@ -17,20 +33,12 @@
       "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-voa-justiz-100.html"
     },
     {
-      "title": "DAX vor weiterer Erholung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-boerse-dow-jones-oel-100.html"
-    },
-    {
       "title": "Trump-Regierung droht US-Medien wegen Kriegsberichterstattung",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-iran-krieg-medien-100.html"
     },
     {
       "title": "Iran-Krieg: Trump wirft NATO \"sehr dummen Fehler\" vor",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-nato-146.html"
-    },
-    {
-      "title": "Sorge um den Buchmarkt auf der Leipziger Buchmesse",
-      "link": "https://www.tagesschau.de/kultur/leipziger-buchmesse-2026-100.html"
     },
     {
       "title": "Trumps Medikamentenpreise weiter höher als in Deutschland",
@@ -71,14 +79,6 @@
     {
       "title": "Stromausfall in Berlin: Neue Vorwürfe gegen Bürgermeister Wegner",
       "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-stromausfall-vorwuerfe-wegner-100.html"
-    },
-    {
-      "title": "Kommentar: Eine verantwortungslose Trickserei beim Sondervermögen",
-      "link": "https://www.tagesschau.de/kommentar/sonderschulden-investitionen-100.html"
-    },
-    {
-      "title": "Scharfe Kritik am Einsatz des Sondervermögens",
-      "link": "https://www.tagesschau.de/wirtschaft/sondervermoegen-kritik-100.html"
     }
   ]
 }
