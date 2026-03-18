@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Liveblog zum Iran-Krieg: ++ Zwei Tote bei Angriff auf Israel ++",
+      "title": "Liveblog zum Iran-Krieg: ++ Irans Geheimdienstminister laut Israel getötet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-100.html"
+    },
+    {
+      "title": "Zentralrat kritisiert Anti-Zionismus-Beschluss der Linken in Hannover",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-vorwuefer-zentralrat-der-juden-100.html"
+    },
+    {
+      "title": "Aus Protest gegen Iran-Krieg: Trumps Anti-Terror-Chef tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/usa-ruecktritt-kent-100.html"
     },
     {
       "title": "Wie sich die deutsche Außenpolitik in Großmachtzeiten aufstellt",
@@ -65,20 +73,12 @@
       "link": "https://www.tagesschau.de/ausland/asien/iran-tod-lardidschani-100.html"
     },
     {
-      "title": "Israel meldet Tötung von Irans Sicherheitschef Laridschani",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-sicherheitschef-laridschani-100.html"
-    },
-    {
       "title": "Besuch in Großbritannien: Selenskyj ringt um Aufmerksamkeit",
       "link": "https://www.tagesschau.de/ausland/europa/selenskyj-london-108.html"
     },
     {
       "title": "Bericht zum Westjordanland: UN warnen Israel vor Kriegsverbrechen",
       "link": "https://www.tagesschau.de/ausland/asien/un-israel-westjordanland-102.html"
-    },
-    {
-      "title": "Was bringt Österreichs neue Spritpreisregel?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreisbremse-oesterreich-100.html"
     }
   ]
 }
