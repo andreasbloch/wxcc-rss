@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Liveblog zum Iran-Krieg: ++ WHO: Mehr als 2.300 tote Zivilisten im Nahen Osten ++",
+      "title": "Liveblog zum Iran-Krieg: ++ Chamenei droht mit Rache für Laridschanis Tod ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-100.html"
+    },
+    {
+      "title": "Krieg im Nahen Osten: Die NATO schweigt zur Kritik aus Washington",
+      "link": "https://www.tagesschau.de/ausland/europa/rutte-nato-trump-100.html"
     },
     {
       "title": "Iranische Fußballerinnen: Protest, Asyl - und nun zurück in Iran",
@@ -75,10 +79,6 @@
     {
       "title": "Sorge um den Buchmarkt auf der Leipziger Buchmesse",
       "link": "https://www.tagesschau.de/kultur/leipziger-buchmesse-2026-100.html"
-    },
-    {
-      "title": "Ver.di-Warnstreiks: BER, München und Köln betroffen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verdi-warnstreiks-ber-muenchen-koeln-100.html"
     }
   ]
 }
