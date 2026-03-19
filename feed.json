@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Raffinerie von Haifa bei Angriff getroffen ++",
+      "title": "Iran-Liveblog: ++ Raffinerie in Haifa bei Angriff getroffen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-100.html"
+    },
+    {
+      "title": "Marktbericht: Nahost-Eskalation zwingt Börsen in die Knie",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-110.html"
     },
     {
       "title": "Hormus-Blockade trifft europäische Länder unterschiedlich stark",
@@ -63,10 +67,6 @@
     {
       "title": "Was Kristalle über Vulkane verraten",
       "link": "https://www.tagesschau.de/wissen/forschung/mikrosonde-sagt-vulkanausbrueche-voraus-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX fällt unter 23.000 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-110.html"
     },
     {
       "title": "Rheinland-Pfalz: Welche Themen den Wahlkampf-Endspurt prägen",
