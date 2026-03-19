@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Europäische Zentralbank: Wann steigen die Zinsen?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-ratssitzung-zinsen-104.html"
-    },
-    {
       "title": "Iran-Liveblog: ++ Ziele der USA gegen Iran sind unverändert ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-100.html"
+    },
+    {
+      "title": "EZB lässt Leitzins trotz Ölpreisschock unverändert",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsentscheid-leitzinsen-100.html"
+    },
+    {
+      "title": "Verfassungsschutz-Präsident setzt auf mehr Unabhängigkeit von US-Diensten",
+      "link": "https://www.tagesschau.de/inland/verfassungsschutz-unabhaenigkeit-selen-praesident-100.html"
+    },
+    {
+      "title": "Europäische Zentralbank: Wann steigen die Zinsen?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-ratssitzung-zinsen-104.html"
     },
     {
       "title": "Schienen-Nahverkehr: EuGH kippt deutsche Trassenpreisbremse",
@@ -71,14 +79,6 @@
     {
       "title": "Zehntausende demonstrieren für Freilassung İmamoğlus in Istanbul",
       "link": "https://www.tagesschau.de/ausland/asien/protest-istanbul-imamoglu-100.html"
-    },
-    {
-      "title": "Liveblog zum Iran-Krieg: ++ Chamenei droht mit Rache für Laridschanis Tod ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-100.html"
-    },
-    {
-      "title": "Finnen zum neunten Mal in Folge am glücklichsten",
-      "link": "https://www.tagesschau.de/wissen/forschung/weltgluecksbericht-2026-100.html"
     }
   ]
 }
