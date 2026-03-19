@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "Die Dollar-Stärke, die eigentlich gar keine ist",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dollar-iran-krieg-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Raketen schlagen im Westjordanland ein ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX deutlich schwächer erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-110.html"
     },
     {
       "title": "Trump droht Iran mit Bombardierung von iranischem Gasfeld",
@@ -71,14 +79,6 @@
     {
       "title": "Gericht untersagt Fällung - Waldkiefer gewinnt gegen Photovoltaik",
       "link": "https://www.tagesschau.de/inland/gesellschaft/umweltschutz-baum-photovoltaik-100.html"
-    },
-    {
-      "title": "Regierungserklärung von Merz: \"Nicht länger unter Wert verkaufen\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-114.html"
-    },
-    {
-      "title": "Israel meldet Tötung von Irans Geheimdienstminister Chatib",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-israel-krieg-100.html"
     }
   ]
 }
