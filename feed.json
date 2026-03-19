@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "Prozess gegen Marius Borg Høiby beendet - Urteil steht noch aus",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-prozess-hoiby-beendet-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Raffinerie in Haifa bei Angriff getroffen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-100.html"
+    },
+    {
+      "title": "Schriftstellerin Poladjan gewinnt Preis der Leipziger Buchmesse",
+      "link": "https://www.tagesschau.de/kultur/buchmesse-leipzig-poladjan-100.html"
     },
     {
       "title": "Marktbericht: Nahost-Eskalation zwingt Börsen in die Knie",
@@ -71,14 +79,6 @@
     {
       "title": "Rheinland-Pfalz: Welche Themen den Wahlkampf-Endspurt prägen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-themen-100.html"
-    },
-    {
-      "title": "Nach Protesten: Iran richtet drei Männer hin",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-proteste-hinrichtungen-102.html"
-    },
-    {
-      "title": "Auf den wiedergewählten Premier in Thailand warten große Aufgaben",
-      "link": "https://www.tagesschau.de/ausland/asien/thailand-neuer-premier-100.html"
     }
   ]
 }
