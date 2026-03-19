@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Rheinland-Pfalz: Welche Themen den Wahlkampf-Endspurt prägen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-themen-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Raketen schlagen im Westjordanland ein ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-100.html"
+    },
+    {
       "title": "Nach Protesten: Iran richtet drei Männer hin",
       "link": "https://www.tagesschau.de/ausland/asien/iran-proteste-hinrichtungen-102.html"
     },
     {
       "title": "Europäische Zentralbank: Wann steigen die Zinsen?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-ratssitzung-zinsen-104.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Raketen schlagen im Westjordanland ein ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-100.html"
     },
     {
       "title": "Auf den wiedergewählten Premier in Thailand warten große Aufgaben",
@@ -75,10 +79,6 @@
     {
       "title": "Ölpreise steigen nach Angriffen auf Irans Gasindustrie deutlich",
       "link": "https://www.tagesschau.de/ausland/asien/iran-angriff-gasanlagen-100.html"
-    },
-    {
-      "title": "Wofür Forschende 2026 den Leibniz-Preis bekommen",
-      "link": "https://www.tagesschau.de/wissen/forschung/leibniz-preis-2026-100.html"
     }
   ]
 }
