@@ -1,8 +1,28 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Ziele der USA gegen Iran sind unverändert ++",
+      "title": "Iran-Liveblog: ++ Raffinerie von Haifa bei Angriff getroffen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-100.html"
+    },
+    {
+      "title": "Hormus-Blockade trifft europäische Länder unterschiedlich stark",
+      "link": "https://www.tagesschau.de/ausland/asien/hormus-blockade-laender-100.html"
+    },
+    {
+      "title": "Falsche Gerüchte über den Tod Netanjahus",
+      "link": "https://www.tagesschau.de/faktenfinder/netanjahu-falsche-geruechte-100.html"
+    },
+    {
+      "title": "Saudi-Arabien und Irak suchen Alternativen zur Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/hormus-iran-alternativen-erdoel-100.html"
+    },
+    {
+      "title": "Orban verhindert auf EU-Gipfel Einigung bei Ukraine-Hilfen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-orban-ukraine-100.html"
+    },
+    {
+      "title": "Trump droht Iran: Warum die Gaspreise jetzt so stark steigen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/gaspreise-trump-iran-katar-lng-100.html"
     },
     {
       "title": "EZB lässt Leitzins trotz Ölpreisschock unverändert",
@@ -59,26 +79,6 @@
     {
       "title": "Auf den wiedergewählten Premier in Thailand warten große Aufgaben",
       "link": "https://www.tagesschau.de/ausland/asien/thailand-neuer-premier-100.html"
-    },
-    {
-      "title": "Die Dollar-Stärke, die eigentlich gar keine ist",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dollar-iran-krieg-100.html"
-    },
-    {
-      "title": "Trump droht Iran mit Bombardierung von iranischem Gasfeld",
-      "link": "https://www.tagesschau.de/ausland/asien/irankrieg-usa-gas-angriffe-100.html"
-    },
-    {
-      "title": "Wie ARD-Korrespondenten trotz Einschränkungen aus dem Ausland berichten",
-      "link": "https://www.tagesschau.de/ausland/asien/auslandsberichterstattung-beschraenkungen-100.html"
-    },
-    {
-      "title": "EU-Gipfel in Brüssel berät über Iran-Krieg",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-bruessel-krieg-iran-100.html"
-    },
-    {
-      "title": "Zehntausende demonstrieren für Freilassung İmamoğlus in Istanbul",
-      "link": "https://www.tagesschau.de/ausland/asien/protest-istanbul-imamoglu-100.html"
     }
   ]
 }
