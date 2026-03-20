@@ -1,16 +1,28 @@
 {
   "items": [
     {
+      "title": "Pentagon will 200 Milliarden extra für den Iran-Krieg",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kosten-irankrieg-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX startet Stabilisierungsversuch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-gas-inflation-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: US-Kampfjet laut Medien von Beschuss getroffen",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-100.html"
+    },
+    {
+      "title": "Hausärzteverband rät Krankenkassen zum Sparen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hausaerzte-krankenkassen-sparen-100.html"
+    },
+    {
       "title": "Nach Pause: Ukraine kündigt neue Gespräche mit den USA an",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-usa-100.html"
     },
     {
       "title": "Weltglückstag: Wie wird man glücklich?",
       "link": "https://www.tagesschau.de/wissen/forschung/gluecklich-werden-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: US-Kampfjet laut Medien von Beschuss getroffen",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-100.html"
     },
     {
       "title": "Deutsche Bank: Möglicher Steuerbetrug durch Cum-Cum-Geschäfte",
@@ -67,18 +79,6 @@
     {
       "title": "Falsche Gerüchte über den Tod Netanjahus",
       "link": "https://www.tagesschau.de/faktenfinder/netanjahu-falsche-geruechte-100.html"
-    },
-    {
-      "title": "Saudi-Arabien und Irak suchen Alternativen zur Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/hormus-iran-alternativen-erdoel-100.html"
-    },
-    {
-      "title": "Orban verhindert auf EU-Gipfel Einigung bei Ukraine-Hilfen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-orban-ukraine-100.html"
-    },
-    {
-      "title": "Trump droht Iran: Warum die Gaspreise jetzt so stark steigen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/gaspreise-trump-iran-katar-lng-100.html"
     }
   ]
 }
