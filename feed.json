@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: Israel sieht Iran nach drei Wochen Krieg stark geschwächt",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-100.html"
+    },
+    {
+      "title": "Iran begeht Feiertage im Krieg: Nowruz und Eid-e-Fetr getrübt",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-fastenbrechen-nowruz-100.html"
+    },
+    {
       "title": "Pentagon will 200 Milliarden extra für den Iran-Krieg",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-kosten-irankrieg-100.html"
     },
     {
       "title": "Marktbericht: DAX startet Stabilisierungsversuch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-gas-inflation-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: US-Kampfjet laut Medien von Beschuss getroffen",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-100.html"
     },
     {
       "title": "Hausärzteverband rät Krankenkassen zum Sparen",
@@ -75,10 +79,6 @@
     {
       "title": "Hormus-Blockade trifft europäische Länder unterschiedlich stark",
       "link": "https://www.tagesschau.de/ausland/asien/hormus-blockade-laender-100.html"
-    },
-    {
-      "title": "Falsche Gerüchte über den Tod Netanjahus",
-      "link": "https://www.tagesschau.de/faktenfinder/netanjahu-falsche-geruechte-100.html"
     }
   ]
 }
