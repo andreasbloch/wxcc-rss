@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: Israel und Iran setzen Angriffe fort",
+      "title": "Deutsche Bank: Möglicher Steuerbetrug durch Cum-Cum-Geschäfte",
+      "link": "https://www.tagesschau.de/investigativ/wdr/cum-cum-deutsche-bank-100.html"
+    },
+    {
+      "title": "Wie das Referendum über eine Justizreform Italien spaltet",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-justizreform-104.html"
+    },
+    {
+      "title": "Landeskriminalämter: Angriffe auf Verkehrsinfrastruktur meist von links",
+      "link": "https://www.tagesschau.de/investigativ/angriffe-verkehrsinfrastruktur-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: US-Kampfjet laut Medien von Beschuss getroffen",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-100.html"
+    },
+    {
+      "title": "Wie die Ukrainer fürchten, über den Iran-Krieg vergessen zu werden",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-folgen-iran-krieg-100.html"
     },
     {
       "title": "Scharfe Kritik aus der EU nach Orbans \"Nein\" zu Ukraine-Kredit",
@@ -63,22 +79,6 @@
     {
       "title": "Verfassungsschutz-Präsident setzt auf mehr Unabhängigkeit von US-Diensten",
       "link": "https://www.tagesschau.de/inland/verfassungsschutz-unabhaenigkeit-selen-praesident-100.html"
-    },
-    {
-      "title": "Europäische Zentralbank: Wann steigen die Zinsen?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-ratssitzung-zinsen-104.html"
-    },
-    {
-      "title": "Schienen-Nahverkehr: EuGH kippt deutsche Trassenpreisbremse",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/trassenpreisbremse-eugh-infrago-100.html"
-    },
-    {
-      "title": "EU-Gipfel beginnt mit Kritik an Orban wegen Ukraine-Blockade",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-orban-102.html"
-    },
-    {
-      "title": "Krieg in Nahost: Angriffe auf Energieanlagen - Preise steigen massiv",
-      "link": "https://www.tagesschau.de/ausland/iran-krieg-angriffe-raffinerien-golfstaaten-100.html"
     }
   ]
 }
