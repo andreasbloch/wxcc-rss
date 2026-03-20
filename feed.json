@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Abschluss des EU-Gipfels: Ärger über Orban und Iran-Sorgen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-irankrieg-ukraine-100.html"
+    },
+    {
+      "title": "IEA drängt in Ölkrise auf Tempolimit und Homeoffice",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/iea-oelkrise-tempolimit-homeoffice-reserven-100.html"
+    },
+    {
       "title": "Iran-Liveblog: Israel sieht Iran nach drei Wochen Krieg stark geschwächt",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Schriftstellerin Poladjan gewinnt Preis der Leipziger Buchmesse",
       "link": "https://www.tagesschau.de/kultur/buchmesse-leipzig-poladjan-100.html"
-    },
-    {
-      "title": "Marktbericht: Nahost-Eskalation zwingt Börsen in die Knie",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-110.html"
-    },
-    {
-      "title": "Hormus-Blockade trifft europäische Länder unterschiedlich stark",
-      "link": "https://www.tagesschau.de/ausland/asien/hormus-blockade-laender-100.html"
     }
   ]
 }
