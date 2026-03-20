@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: Israel und Iran setzen Angriffe fort",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-100.html"
+    },
+    {
       "title": "Scharfe Kritik aus der EU nach Orbans \"Nein\" zu Ukraine-Kredit",
       "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-orban-ukraine-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Krieg in Nahost: Angriffe auf Energieanlagen - Preise steigen massiv",
       "link": "https://www.tagesschau.de/ausland/iran-krieg-angriffe-raffinerien-golfstaaten-100.html"
-    },
-    {
-      "title": "Marktbericht: Iran-Krieg lässt auch dienDüngerpreise stiegen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/thema-des-tages-duenger-100.html"
     }
   ]
 }
