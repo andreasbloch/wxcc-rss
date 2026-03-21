@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Italien: Anstieg von Hepatitis-A-Fällen in Region Neapel",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-hepatitis-100.html"
+    },
+    {
+      "title": "Konflikt mit Intendanten: Salzburger Festspiele vor ungewisser Zukunft",
+      "link": "https://www.tagesschau.de/kultur/salzburger-festspiele-konflikt-100.html"
+    },
+    {
+      "title": "Kommentar zum Iran-Krieg: Absurd und hoffnungslos",
+      "link": "https://www.tagesschau.de/kommentar/iran-krieg-102.html"
+    },
+    {
+      "title": "Warum es bei der Wahl in Rheinland-Pfalz für viele Parteien um mehr geht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-rheinland-pfalz-erwartungen-100.html"
+    },
+    {
+      "title": "Schärferes Vorgehen gegen digitale Gewalt gefordert",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/digitale-gewalt-gesetz-100.html"
+    },
+    {
       "title": "Iran-Liveblog: Israel kündigt Verstärkung der Angriffe auf Iran an",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Wie eine Grundschule in Cottbus gegen Gewalt vorgeht",
       "link": "https://www.tagesschau.de/inland/mittendrin/gewalt-schule-cottbus-100.html"
-    },
-    {
-      "title": "Sicherheit, Rüstung, Iran-Krieg: Pistorius besucht Japan",
-      "link": "https://www.tagesschau.de/ausland/asien/pistorius-asien-reise-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ USA schicken amphibisches Angriffsschiff ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-100.html"
-    },
-    {
-      "title": "Großbritannien erlaubt USA im Iran-Krieg Nutzung von Militärbasen",
-      "link": "https://www.tagesschau.de/ausland/europa/uk-usa-nutzung-militaerbasen-100.html"
-    },
-    {
-      "title": "Wie kann die Ukraine trotz Ungarns Blockade finanziert werden?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-finanzierung-ukraine-100.html"
-    },
-    {
-      "title": "Debatte um Weimer - Kulturstaatsminister unter Druck",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-aktuelle-stunde-bundestag-100.html"
     }
   ]
 }
