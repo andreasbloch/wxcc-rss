@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: Israel und Iran melden erneut gegenseitige Angriffe",
+      "title": "Kriegsfolgen im Supermarkt: Einkaufsverhalten in der Krise",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-supermarkt-einkaufsverhalten-100.html"
+    },
+    {
+      "title": "Folgen des Iran-Kriegs: Koalition will gegen steigende Lebensmittelpreise vorgehen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/irankrieg-lebensmittelpreise-taskforce-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: Israel meldet Raketeneinschläge im Raum Tel Aviv",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html"
     },
     {
       "title": "ARD-Bericht: Taliban-Mitglied leitet afghanische Botschaft Berlin",
-      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-botschaft-berlin-taliban-100.html"
+      "link": "https://www.tagesschau.de/investigativ/afghanistan-botschaft-berlin-taliban-100.html"
     },
     {
       "title": "Rheinland-Pfalz: Wahlkampf ohne Ahrtal",
@@ -71,14 +79,6 @@
     {
       "title": "Abgeordnete fordern Prüfung von Bluttests bei Schwangeren",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-debatte-bluttest-schwangerschaft-trisomie-down-syndrom-100.html"
-    },
-    {
-      "title": "US-Schauspieler Chuck Norris ist tot",
-      "link": "https://www.tagesschau.de/kultur/chuck-norris-gestorben-100.html"
-    },
-    {
-      "title": "\"Operation Alice\": Polizei gelingt Schlag gegen Darknet-Seiten",
-      "link": "https://www.tagesschau.de/inland/operation-alice-darknet-ermittlungen-100.html"
     }
   ]
 }
