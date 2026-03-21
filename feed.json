@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Wie eine Grundschule in Cottbus gegen Gewalt vorgeht",
+      "link": "https://www.tagesschau.de/inland/mittendrin/gewalt-schule-cottbus-100.html"
+    },
+    {
+      "title": "Sicherheit, Rüstung, Iran-Krieg: Pistorius besucht Japan",
+      "link": "https://www.tagesschau.de/ausland/asien/pistorius-asien-reise-100.html"
+    },
+    {
       "title": "Iran-Liveblog: USA lockern Sanktionen auf iranisches Öl",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Drohungen der USA: Welche Optionen bleiben Kubas Führung?",
       "link": "https://www.tagesschau.de/ausland/amerika/kuba-usa-112.html"
-    },
-    {
-      "title": "Wie das Referendum über eine Justizreform Italien spaltet",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-justizreform-104.html"
-    },
-    {
-      "title": "Marktbericht: Infineon auf Erholungskurs",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/infineon-mb-100.html"
     }
   ]
 }
