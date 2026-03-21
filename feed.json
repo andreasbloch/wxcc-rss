@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: Israel kündigt Verstärkung der Angriffe auf Iran an",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html"
+    },
+    {
+      "title": "Zehntausende demonstrieren gegen Regierung in Prag",
+      "link": "https://www.tagesschau.de/ausland/europa/prag-proteste-102.html"
+    },
+    {
       "title": "Wie steht es um die Ernährungssicherheit in Deutschland?",
       "link": "https://www.tagesschau.de/wissen/klima/ernaehrungssicherheit-deutschland-100.html"
     },
     {
       "title": "Beschaffungsamt der Bundeswehr will innovativer werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-beschaffung-ruestung-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: Israel kündigt Verstärkung der Angriffe auf Iran an",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html"
     },
     {
       "title": "Italien: Anstieg von Hepatitis-A-Fällen in Region Neapel",
@@ -75,10 +79,6 @@
     {
       "title": "Der Versuch, mit \"Herr der Ringe\" zu den Guten zu gehören",
       "link": "https://www.tagesschau.de/kultur/tolkien-herr-der-ringe-instrumentalisierung-100.html"
-    },
-    {
-      "title": "\"Der Krieg ist für die Golfstaaten der 'worst case'\"",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-golfstaaten-usa-100.html"
     }
   ]
 }
