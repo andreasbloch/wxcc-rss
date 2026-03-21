@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Wie steht es um die Ernährungssicherheit in Deutschland?",
+      "link": "https://www.tagesschau.de/wissen/klima/ernaehrungssicherheit-deutschland-100.html"
+    },
+    {
+      "title": "Beschaffungsamt der Bundeswehr will innovativer werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-beschaffung-ruestung-100.html"
+    },
+    {
       "title": "Iran-Liveblog: Israel kündigt Verstärkung der Angriffe auf Iran an",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "\"Der Krieg ist für die Golfstaaten der 'worst case'\"",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-golfstaaten-usa-100.html"
-    },
-    {
-      "title": "Trumps Zick-Zack-Kurs im Iran-Krieg",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-irankrieg-entsendung-soldaten-100.html"
-    },
-    {
-      "title": "Wie eine Grundschule in Cottbus gegen Gewalt vorgeht",
-      "link": "https://www.tagesschau.de/inland/mittendrin/gewalt-schule-cottbus-100.html"
     }
   ]
 }
