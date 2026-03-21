@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-britischer Stützpunkt: Was ist über Irans Angriff auf Diego Garcia bekannt?",
+      "link": "https://www.tagesschau.de/ausland/asien/diego-garcia-angriff-100.html"
+    },
+    {
       "title": "Iran-Liveblog: Israel kündigt Verstärkung der Angriffe auf Iran an",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Rheinland-Pfalz: Wahlkampf ohne Ahrtal",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pflalz-ahrtal-flut-100.html"
-    },
-    {
-      "title": "Der Versuch, mit \"Herr der Ringe\" zu den Guten zu gehören",
-      "link": "https://www.tagesschau.de/kultur/tolkien-herr-der-ringe-instrumentalisierung-100.html"
     }
   ]
 }
