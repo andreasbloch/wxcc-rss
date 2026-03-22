@@ -1,20 +1,24 @@
 {
   "items": [
     {
-      "title": "Landtagswahl Rheinland-Pfalz: CDU jubelt, SPD enttäuscht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-landtagswahl-reaktionen-100.html"
+      "title": "Wahlkarte zur Landtagswahl in Rheinland-Pfalz 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-rheinland-pfalz-2026-100.html"
     },
     {
       "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Schweitzer: \"Wir haben gekämpft wie die Löwen\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-100.html"
     },
     {
-      "title": "Verluste in Rheinland-Pfalz: SPD taumelt in die nächste Krise",
-      "link": "https://www.tagesschau.de/inland/spd-wahl-krise-100.html"
-    },
-    {
       "title": "Grünen-Kandidat Krause bei Münchner OB-Wahl vorne",
       "link": "https://www.tagesschau.de/inland/regional/bayern/muenchen-ob-wahl-102.html"
+    },
+    {
+      "title": "Landtagswahl Rheinland-Pfalz: CDU jubelt, SPD enttäuscht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-landtagswahl-reaktionen-100.html"
+    },
+    {
+      "title": "Verluste in Rheinland-Pfalz: SPD taumelt in die nächste Krise",
+      "link": "https://www.tagesschau.de/inland/spd-wahl-krise-100.html"
     },
     {
       "title": "Landtagswahl in Rheinland-Pfalz: CDU punktet bei Rentnern und Selbstständigen",
@@ -75,10 +79,6 @@
     {
       "title": "So teuer ist das Leben in der Rente",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/rentenluecke-private-altersvorsorge-100.html"
-    },
-    {
-      "title": "Zweite Runde der Kommunalwahl: Gewinnt Le Pens Partei in Marseille?",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-kommunalwahl-marseille-100.html"
     }
   ]
 }
