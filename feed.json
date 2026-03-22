@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Schweitzer: \"Wir haben gekämpft wie die Löwen\" ++",
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Kanzler Merz gratuliert Schnieder zum Wahlerfolg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Israel will Bodeneinsatz im Libanon ausweiten ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html"
+    },
+    {
+      "title": "Herausforderungen im Bund: Nicht nur Grund zum Jubeln für die CDU",
+      "link": "https://www.tagesschau.de/inland/cdu-wahl-rheinland-pfalz-100.html"
+    },
+    {
+      "title": "Grünen-Kandidat Krause siegt bei Münchner OB-Wahl - Reiter abgewählt",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/muenchen-ob-wahl-102.html"
     },
     {
       "title": "Landtagswahl in Rheinland-Pfalz: CDU siegt vor SPD",
@@ -10,19 +22,15 @@
     },
     {
       "title": "Wählerwanderung bei der Landtagswahl Rheinland-Pfalz 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-landtagswahl-baden-wuerttemberg-2026-100.html"
-    },
-    {
-      "title": "Wahlkarte zur Landtagswahl in Rheinland-Pfalz 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-rheinland-pfalz-2026-100.html"
-    },
-    {
-      "title": "Grünen-Kandidat Krause bei Münchner OB-Wahl vorne",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/muenchen-ob-wahl-102.html"
+      "link": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-landtagswahl-rheinland-pfalz-2026-100.html"
     },
     {
       "title": "Landtagswahl Rheinland-Pfalz: CDU jubelt, SPD enttäuscht",
       "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-landtagswahl-reaktionen-100.html"
+    },
+    {
+      "title": "Wahlkarte zur Landtagswahl in Rheinland-Pfalz 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-rheinland-pfalz-2026-100.html"
     },
     {
       "title": "Verluste in Rheinland-Pfalz: SPD taumelt in die nächste Krise",
@@ -31,10 +39,6 @@
     {
       "title": "Landtagswahl in Rheinland-Pfalz: CDU punktet bei Rentnern und Selbstständigen",
       "link": "https://www.tagesschau.de/inland/ltw-rheinland-pfalz-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Israel will Bodeneinsatz im Libanon ausweiten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html"
     },
     {
       "title": "Tausende protestieren in Berlin gegen digitale Gewalt",
@@ -75,10 +79,6 @@
     {
       "title": "Wahl in Rheinland-Pfalz: Zweikampf an der Spitze",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-108.html"
-    },
-    {
-      "title": "Dobrindt fordert angesichts von Krisen Zivilschutz-Schulunterricht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zivilschutz-schulen-minister-dobrindt-100.html"
     }
   ]
 }
