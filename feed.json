@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Angriffe auf Gedenkstätten: Wenn Antisemitismus sichtbar wird",
+      "link": "https://www.tagesschau.de/inland/antisemitismus-angriffe-gedenkstaetten-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iran reagiert mit Gegendrohung auf Trump  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kommentar zum Iran-Krieg: Absurd und hoffnungslos",
       "link": "https://www.tagesschau.de/kommentar/iran-krieg-102.html"
-    },
-    {
-      "title": "Warum es bei der Wahl in Rheinland-Pfalz für viele Parteien um mehr geht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-rheinland-pfalz-erwartungen-100.html"
     }
   ]
 }
