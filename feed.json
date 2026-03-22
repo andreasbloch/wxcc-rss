@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Iran reagiert mit Gegendrohung auf Trump  ++",
+      "title": "Iran-Liveblog: ++ Israel meldet neue Angriffe auf Tel Aviv  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html"
+    },
+    {
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Wahlbeteiligung bis zum Mittag bei 50 Prozent ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-100.html"
+    },
+    {
+      "title": "Knappes Rennen in Italien bei Abstimmung über Justizreform erwartet",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-justiz-reform-meloni-100.html"
     },
     {
       "title": "Wahl in Rheinland-Pfalz: Zweikampf an der Spitze",
@@ -65,20 +73,12 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/digitale-gewalt-gesetz-100.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Riad weist iranisches Botschaftspersonal aus ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-102.html"
-    },
-    {
       "title": "Tote bei gegenseitigen Luftangriffen in der Ukraine und Russland",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-146.html"
     },
     {
       "title": "US-britischer Stützpunkt: Was ist über Irans Angriff auf Diego Garcia bekannt?",
       "link": "https://www.tagesschau.de/ausland/asien/diego-garcia-angriff-100.html"
-    },
-    {
-      "title": "Zehntausende demonstrieren gegen Regierung in Prag",
-      "link": "https://www.tagesschau.de/ausland/europa/prag-proteste-102.html"
     }
   ]
 }
