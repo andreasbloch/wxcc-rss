@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "title": "Landtagswahl in Rheinland-Pfalz: CDU siegt vor SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-ergebnis-100.html"
+      "title": "Grünen-Kandidat Krause bei Münchner OB-Wahl vorne",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/br-sensation-bahnt-sich-an-krause-fuehrt-in-muenchen-vor-reiter-100.html"
     },
     {
       "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ FDP-Spitzenkandidatin will Verantwortung übernehmen ++",
@@ -17,8 +17,16 @@
       "link": "https://www.tagesschau.de/inland/regional/berlin/demo-berlin-sexualisierte-digitale-gewalt-100.html"
     },
     {
+      "title": "Wahlverhalten bei der Landtagswahl in Rheinland-Pfalz 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-rheinland-pfalz-2026-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Israel zerstört wichtige Brücke im Süden des Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html"
+    },
+    {
+      "title": "Landtagswahl in Rheinland-Pfalz: CDU siegt vor SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-ergebnis-100.html"
     },
     {
       "title": "48-Stunden-Ultimatum: Welche Folgen könnte Trumps Drohung haben?",
@@ -71,14 +79,6 @@
     {
       "title": "Wieder landesweiter Stromausfall in Kuba",
       "link": "https://www.tagesschau.de/ausland/amerika/kuba-stromausfall-122.html"
-    },
-    {
-      "title": "Angriffe auf Gedenkstätten: Wenn Antisemitismus sichtbar wird",
-      "link": "https://www.tagesschau.de/inland/antisemitismus-angriffe-gedenkstaetten-100.html"
-    },
-    {
-      "title": "So gesund sind schon wenige Minuten Spaziergang",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-bewegung-spazieren-100.html"
     }
   ]
 }
