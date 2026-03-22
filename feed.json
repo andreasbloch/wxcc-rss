@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Was zur Wahl in Rheinland-Pfalz wichtig ist",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-104.html"
+    },
+    {
       "title": "Krieg gegen Iran: Viele Verletzte bei Angriffen in Israel",
       "link": "https://www.tagesschau.de/ausland/asien/verletzte-angriffe-israel-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Wo Wälder die Erde kühlen - und wo nicht",
       "link": "https://www.tagesschau.de/wissen/klima/studie-aufforstung-100.html"
-    },
-    {
-      "title": "Collien Fernandes in den tagesthemen: \"Deutschland ist ein absolutes Täterparadies\"",
-      "link": "https://www.tagesschau.de/inland/collien-fernandes-interview-ulmen-100.html"
     }
   ]
 }
