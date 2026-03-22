@@ -1,16 +1,24 @@
 {
   "items": [
     {
-      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Klüssendorf sieht \"herben Rückschlag\" für SPD ++",
+      "title": "Landtagswahl in Rheinland-Pfalz: CDU siegt vor SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-ergebnis-100.html"
+    },
+    {
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ FDP-Spitzenkandidatin will Verantwortung übernehmen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-100.html"
+    },
+    {
+      "title": "Landtagswahl Rheinland-Pfalz: CDU jubelt, SPD enttäuscht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-landtagswahl-reaktionen-100.html"
+    },
+    {
+      "title": "Tausende protestieren in Berlin gegen digitale Gewalt",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/demo-berlin-sexualisierte-digitale-gewalt-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Israel zerstört wichtige Brücke im Süden des Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html"
-    },
-    {
-      "title": "Landtagswahl in Rheinland-Pfalz: CDU liegt in Rheinland-Pfalz vor SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-ergebnis-100.html"
     },
     {
       "title": "48-Stunden-Ultimatum: Welche Folgen könnte Trumps Drohung haben?",
@@ -23,10 +31,6 @@
     {
       "title": "Koalitionsrechner zur Landtagswahl Rheinland-Pfalz 2026",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-landtagswahl-rheinland-pfalz-2026-100.html"
-    },
-    {
-      "title": "Tausende protestieren in Berlin gegen digitale Gewalt",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/demo-berlin-sexualisierte-digitale-gewalt-100.html"
     },
     {
       "title": "Trumps internationale Allianz gegen Kartelle: Bündnis mit Leerstellen",
@@ -75,10 +79,6 @@
     {
       "title": "So gesund sind schon wenige Minuten Spaziergang",
       "link": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-bewegung-spazieren-100.html"
-    },
-    {
-      "title": "Trump droht wegen Haushaltsblockade mit ICE-Einsatz an US-Flughäfen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-ice-einsaetzen-100.html"
     }
   ]
 }
