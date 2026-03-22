@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Kanzler Merz gratuliert Schnieder zum Wahlerfolg ++",
+      "title": "Landtagswahl Rheinland-Pfalz: Ein CDU-Sieg mit vielen Warnsignalen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-analyse-102.html"
+    },
+    {
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Schnieder kündigt Gespräche mit SPD an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-100.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Warum der Ort über die Wasserrechnung entscheidet",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/wasser-preise-versorgung-100.html"
-    },
-    {
-      "title": "Knappes Rennen in Italien bei Abstimmung über Justizreform erwartet",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-justiz-reform-meloni-100.html"
     }
   ]
 }
