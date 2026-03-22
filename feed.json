@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Tausende protestieren in Berlin gegen digitale Gewalt",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/demo-berlin-sexualisierte-digitale-gewalt-100.html"
+      "title": "Koalitionsrechner zur Landtagswahl Rheinland-Pfalz 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-landtagswahl-rheinland-pfalz-2026-100.html"
     },
     {
-      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Wahlbeteiligung bis zum Mittag bei 50 Prozent ++",
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Jubel bei der CDU ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-100.html"
+    },
+    {
+      "title": "ARD-Prognose zur Landtagswahl in Rheinland-Pfalz: CDU liegt vor SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-ergebnis-100.html"
+    },
+    {
+      "title": "Tausende protestieren in Berlin gegen digitale Gewalt",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/demo-berlin-sexualisierte-digitale-gewalt-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Israel zerstört wichtige Brücke im Süden des Libanon ++",
@@ -71,14 +79,6 @@
     {
       "title": "Straße von Hormus: Trump stellt Iran 48-Stunden-Ultimatum",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-ultimatum-100.html"
-    },
-    {
-      "title": "Wie sich der Dschihadismus in Brüssel ausbreiten konnte",
-      "link": "https://www.tagesschau.de/ausland/europa/jahrestag-anschlaege-bruessel-100.html"
-    },
-    {
-      "title": "Was zur Wahl in Rheinland-Pfalz wichtig ist",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-104.html"
     }
   ]
 }
