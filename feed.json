@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Wahl in Rheinland-Pfalz: Zweikampf an der Spitze",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-108.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iran reagiert mit Gegendrohung auf Trump  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Zehntausende demonstrieren gegen Regierung in Prag",
       "link": "https://www.tagesschau.de/ausland/europa/prag-proteste-102.html"
-    },
-    {
-      "title": "Wie steht es um die Ernährungssicherheit in Deutschland?",
-      "link": "https://www.tagesschau.de/wissen/klima/ernaehrungssicherheit-deutschland-100.html"
     }
   ]
 }
