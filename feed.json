@@ -1,24 +1,32 @@
 {
   "items": [
     {
-      "title": "Koalitionsrechner zur Landtagswahl Rheinland-Pfalz 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-landtagswahl-rheinland-pfalz-2026-100.html"
-    },
-    {
-      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Jubel bei der CDU ++",
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Klüssendorf sieht \"herben Rückschlag\" für SPD ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-100.html"
-    },
-    {
-      "title": "ARD-Prognose zur Landtagswahl in Rheinland-Pfalz: CDU liegt vor SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-ergebnis-100.html"
-    },
-    {
-      "title": "Tausende protestieren in Berlin gegen digitale Gewalt",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/demo-berlin-sexualisierte-digitale-gewalt-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Israel zerstört wichtige Brücke im Süden des Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html"
+    },
+    {
+      "title": "Landtagswahl in Rheinland-Pfalz: CDU liegt in Rheinland-Pfalz vor SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-ergebnis-100.html"
+    },
+    {
+      "title": "48-Stunden-Ultimatum: Welche Folgen könnte Trumps Drohung haben?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-israel-krieg-102.html"
+    },
+    {
+      "title": "Landtagswahl in Rheinland-Pfalz: Alle Zeichen stehen auf Machtwechsel",
+      "link": "https://www.tagesschau.de/inland/ltw-rheinland-pfalz-100.html"
+    },
+    {
+      "title": "Koalitionsrechner zur Landtagswahl Rheinland-Pfalz 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-landtagswahl-rheinland-pfalz-2026-100.html"
+    },
+    {
+      "title": "Tausende protestieren in Berlin gegen digitale Gewalt",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/demo-berlin-sexualisierte-digitale-gewalt-100.html"
     },
     {
       "title": "Trumps internationale Allianz gegen Kartelle: Bündnis mit Leerstellen",
@@ -71,14 +79,6 @@
     {
       "title": "Trump droht wegen Haushaltsblockade mit ICE-Einsatz an US-Flughäfen",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-ice-einsaetzen-100.html"
-    },
-    {
-      "title": "Parlamentswahl in Slowenien: Führt Janša das Land Richtung Orban?",
-      "link": "https://www.tagesschau.de/ausland/europa/slowenien-wahl-110.html"
-    },
-    {
-      "title": "Straße von Hormus: Trump stellt Iran 48-Stunden-Ultimatum",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-ultimatum-100.html"
     }
   ]
 }
