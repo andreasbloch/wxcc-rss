@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "So gesund sind schon wenige Minuten Spaziergang",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-bewegung-spazieren-100.html"
+    },
+    {
+      "title": "Trump droht wegen Haushaltsblockade mit ICE-Einsatz an US-Flughäfen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-ice-einsaetzen-100.html"
+    },
+    {
+      "title": "Parlamentswahl in Slowenien: Führt Janša das Land Richtung Orban?",
+      "link": "https://www.tagesschau.de/ausland/europa/slowenien-wahl-110.html"
+    },
+    {
       "title": "Straße von Hormus: Trump stellt Iran 48-Stunden-Ultimatum",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-ultimatum-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Warum es bei der Wahl in Rheinland-Pfalz für viele Parteien um mehr geht",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-rheinland-pfalz-erwartungen-100.html"
-    },
-    {
-      "title": "Norwegens \"Folkehøgskole\": Erwachsenwerden in Krisenzeiten",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-jugendliche-training-natur-100.html"
-    },
-    {
-      "title": "Iran meldet Angriff auf Atomanlage Natans",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-luftangriffe-atomanlage-natans-100.html"
-    },
-    {
-      "title": "Mit Downsyndrom im Parlament: \"Wir sind nur eine Sekunde langsamer\"",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-parlamentarierin-down-syndrom-100.html"
     }
   ]
 }
