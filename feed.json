@@ -1,12 +1,32 @@
 {
   "items": [
     {
-      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Miersch: Personaldebatte nicht zielführend ++",
+      "title": "Iran-Liveblog: ++ Hisbollah meldet mehr als 60 Angriffe auf Israel ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-104.html"
+    },
+    {
+      "title": "Mieten für Studierende bleiben auf Rekordhoch",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/studenten-mieten-rekordhoch-100.html"
+    },
+    {
+      "title": "Trumps Ultimatum - Iran droht mit Verminung des Persischen Golfs",
+      "link": "https://www.tagesschau.de/ausland/iran-usa-israel-krieg-104.html"
+    },
+    {
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Statement der SPD-Chefs erwartet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-montag-100.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Israel fliegt Angriffe auf Teheran ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-104.html"
+      "title": "Früherer französischer Regierungschef Jospin mit 88 gestorben",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ex-premier-jospin-tot-100.html"
+    },
+    {
+      "title": "Gold- und Silberpreise sinken drastisch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-silber-edelmetalle-einbruch-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX stürzt unter 22.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-leitzins-fed-ezb-100.html"
     },
     {
       "title": "Flugzeug kollidiert auf New Yorker Flughafen mit Fahrzeug - zwei Tote",
@@ -19,10 +39,6 @@
     {
       "title": "Iran-Krieg gefährdet Chip-Produktion",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/chipindustrie-iran-krieg-100.html"
-    },
-    {
-      "title": "Marktbericht: Anleger befürchten Zinserhöhungen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-leitzins-fed-ezb-100.html"
     },
     {
       "title": "IEA befürchtet schwerste Energiekrise seit Jahrzehnten",
@@ -63,22 +79,6 @@
     {
       "title": "Landtagswahl in Rheinland-Pfalz: CDU siegt vor SPD",
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-rheinland-pfalz-ergebnis-100.html"
-    },
-    {
-      "title": "Herausforderungen im Bund: Nicht nur Grund zum Jubeln für die CDU",
-      "link": "https://www.tagesschau.de/inland/cdu-wahl-rheinland-pfalz-100.html"
-    },
-    {
-      "title": "Grünen-Kandidat Krause siegt bei Münchner OB-Wahl - Reiter abgewählt",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/muenchen-ob-wahl-102.html"
-    },
-    {
-      "title": "Wählerwanderung bei der Landtagswahl Rheinland-Pfalz 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-landtagswahl-rheinland-pfalz-2026-100.html"
-    },
-    {
-      "title": "Landtagswahl Rheinland-Pfalz: CDU jubelt, SPD enttäuscht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-landtagswahl-reaktionen-100.html"
     }
   ]
 }
