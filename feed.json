@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Bundesweiter Protesttag: Apotheken bleiben vielerorts geschlossen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/apotheken-protest-100.html"
+    },
+    {
+      "title": "Parlamentswahl in Slowenien: Golob gewinnt knapp - verliert aber Regierungsmehrheit",
+      "link": "https://www.tagesschau.de/ausland/europa/slowenien-parlamentswahl-102.html"
+    },
+    {
       "title": "Sozialisten gewinnen Kommunalwahlen in Paris und Marseille",
       "link": "https://www.tagesschau.de/ausland/europa/kommunalwahl-frankreich-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Koalitionsrechner zur Landtagswahl Rheinland-Pfalz 2026",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-landtagswahl-rheinland-pfalz-2026-100.html"
-    },
-    {
-      "title": "Trumps internationale Allianz gegen Kartelle: Bündnis mit Leerstellen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-kampf-drogenkartelle-verbuendete-100.html"
-    },
-    {
-      "title": "52-jähriger SPD-Bundestagsabgeordneter Träger stirbt im Skiurlaub",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-staatssekretaer-traeger-gestorben-100.html"
     }
   ]
 }
