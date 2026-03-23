@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Iran dementiert Verhandlungen mit den USA ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-104.html"
+    },
+    {
+      "title": "Frankreich: Eine Kommunalwahl mit beschränktem Erkenntnisgewinn",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-kommunalwahl-108.html"
+    },
+    {
       "title": "Rheinland-Pfalz: Schwierige Gespräche trotz großer Schnittmengen",
       "link": "https://www.tagesschau.de/inland/sondierungen-rlp-100.html"
     },
@@ -19,10 +27,6 @@
     {
       "title": "Erste ICE-Mitarbeiter patrouillieren an US-Flughäfen",
       "link": "https://www.tagesschau.de/ausland/amerika/ice-flughaefen-usa-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Iran dementiert Verhandlungen mit den USA ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-104.html"
     },
     {
       "title": "Iran-Drohungen ausgesetzt: Wechselbad à la Trump",
@@ -75,10 +79,6 @@
     {
       "title": "Früherer französischer Regierungschef Jospin mit 88 gestorben",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-ex-premier-jospin-tot-100.html"
-    },
-    {
-      "title": "Gold- und Silberpreise sinken drastisch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-silber-edelmetalle-einbruch-100.html"
     }
   ]
 }
