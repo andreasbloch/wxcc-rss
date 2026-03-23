@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "Landtagswahl Rheinland-Pfalz: Parteien beraten über die Lehren aus Mainz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-landtagswahl-reaktionen-montag-100.html"
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Korrespondent: Probleme haben Wahl entschieden ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-montag-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger befürchten Zinserhöhungen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-leitzins-fed-ezb-100.html"
+    },
+    {
+      "title": "IEA befürchtet schwerste Energiekrise seit Jahrzehnten",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-energie-iea-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Israel fliegt Angriffe auf Teheran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-104.html"
+    },
+    {
+      "title": "Landtagswahl Rheinland-Pfalz: Parteien beraten über die Lehren aus Mainz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-landtagswahl-reaktionen-montag-100.html"
     },
     {
       "title": "Bundesweiter Protesttag: Apotheken bleiben vielerorts geschlossen",
@@ -23,10 +35,6 @@
     {
       "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Schnieder kündigt Gespräche mit SPD an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Pahlavi fordert Umdenken von Trump ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-102.html"
     },
     {
       "title": "Landtagswahl Rheinland-Pfalz: Ein CDU-Sieg mit vielen Warnsignalen",
@@ -71,14 +79,6 @@
     {
       "title": "Landtagswahl in Rheinland-Pfalz: CDU punktet bei Rentnern und Selbstständigen",
       "link": "https://www.tagesschau.de/inland/ltw-rheinland-pfalz-100.html"
-    },
-    {
-      "title": "Tausende protestieren in Berlin gegen digitale Gewalt",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/demo-berlin-sexualisierte-digitale-gewalt-100.html"
-    },
-    {
-      "title": "Wahlverhalten bei der Landtagswahl in Rheinland-Pfalz 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-rheinland-pfalz-2026-100.html"
     }
   ]
 }
