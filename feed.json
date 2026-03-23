@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Korrespondent: Probleme haben Wahl entschieden ++",
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Miersch: Personaldebatte nicht zielführend ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-montag-100.html"
+    },
+    {
+      "title": "Flugzeug kollidiert auf New Yorker Flughafen mit Fahrzeug",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-flughafen-unglueck-verletzte-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Israel fliegt Angriffe auf Teheran ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-104.html"
+    },
+    {
+      "title": "Iran-Krieg gefährdet Chip-Produktion",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/chipindustrie-iran-krieg-100.html"
     },
     {
       "title": "Marktbericht: Anleger befürchten Zinserhöhungen",
@@ -11,10 +23,6 @@
     {
       "title": "IEA befürchtet schwerste Energiekrise seit Jahrzehnten",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-energie-iea-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Israel fliegt Angriffe auf Teheran ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-104.html"
     },
     {
       "title": "Landtagswahl Rheinland-Pfalz: Parteien beraten über die Lehren aus Mainz",
@@ -71,14 +79,6 @@
     {
       "title": "Wahlkarte zur Landtagswahl in Rheinland-Pfalz 2026",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-rheinland-pfalz-2026-100.html"
-    },
-    {
-      "title": "Verluste in Rheinland-Pfalz: SPD taumelt in die nächste Krise",
-      "link": "https://www.tagesschau.de/inland/spd-wahl-krise-100.html"
-    },
-    {
-      "title": "Landtagswahl in Rheinland-Pfalz: CDU punktet bei Rentnern und Selbstständigen",
-      "link": "https://www.tagesschau.de/inland/ltw-rheinland-pfalz-100.html"
     }
   ]
 }
