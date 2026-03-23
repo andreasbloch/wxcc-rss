@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "Erste ICE-Beamte patrouillieren an US-Flughäfen",
-      "link": "https://www.tagesschau.de/ausland/amerika/ice-flughaefen-usa-100.html"
+      "title": "Rheinland-Pfalz: Schwierige Gespräche trotz großer Schnittmengen",
+      "link": "https://www.tagesschau.de/inland/sondierungen-rlp-100.html"
     },
     {
       "title": "Referendum in Italien: Meloni scheitert mit Justizreform",
       "link": "https://www.tagesschau.de/ausland/europa/melonis-justizreform-gescheitert-100.html"
+    },
+    {
+      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Schweitzer will Mandat behalten ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-montag-100.html"
+    },
+    {
+      "title": "AfD-Rekord in Rheinland-Pfalz: \"Der kleine Osten im Westen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-erfolg-pfalz-100.html"
+    },
+    {
+      "title": "Erste ICE-Mitarbeiter patrouillieren an US-Flughäfen",
+      "link": "https://www.tagesschau.de/ausland/amerika/ice-flughaefen-usa-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Iran dementiert Verhandlungen mit den USA ++",
@@ -27,10 +39,6 @@
     {
       "title": "Nach Wahlpleiten: FDP-Spitze um Parteichef Dürr tritt zurück",
       "link": "https://www.tagesschau.de/inland/duerr-fdp-ruecktritt-100.html"
-    },
-    {
-      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Schweitzer will Mandat behalten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-montag-100.html"
     },
     {
       "title": "Öffnung der Straße von Hormus: Trump verlängert sein Ultimatum an Iran",
@@ -71,14 +79,6 @@
     {
       "title": "Gold- und Silberpreise sinken drastisch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-silber-edelmetalle-einbruch-100.html"
-    },
-    {
-      "title": "Prozess nach Zugunglück in Griechenland: 57 Tote, viele Vorwürfe und noch mehr Wut",
-      "link": "https://www.tagesschau.de/ausland/europa/prozessauftakt-zugunglueck-griechenland-100.html"
-    },
-    {
-      "title": "Flugzeug kollidiert auf New Yorker Flughafen mit Fahrzeug - zwei Tote",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-flughafen-unglueck-verletzte-100.html"
     }
   ]
 }
