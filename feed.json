@@ -1,16 +1,28 @@
 {
   "items": [
     {
+      "title": "Referendum in Italien: Meloni scheitert mit Justizreform",
+      "link": "https://www.tagesschau.de/ausland/europa/melonis-justizreform-gescheitert-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iran dementiert Verhandlungen mit den USA ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-104.html"
     },
     {
-      "title": "Nach Wahlpleiten: FDP-Spitze um Parteichef Dürr tritt zurück",
-      "link": "https://www.tagesschau.de/inland/duerr-fdp-ruecktritt-100.html"
+      "title": "Iran-Drohungen ausgesetzt: Wechselbad à la Trump",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-leitzins-fed-ezb-100.html"
     },
     {
-      "title": "Referendum in Italien: Melonis Justizreform wohl gescheitert",
-      "link": "https://www.tagesschau.de/ausland/europa/melonis-justizreform-gescheitert-100.html"
+      "title": "Bundesinnenministerium stoppt Fördergelder für Anti-Extremismusprojekt",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/foerderstopp-bmi-radikale-toechter-100.html"
+    },
+    {
+      "title": "Krise in der SPD: Der Mangel an personellen Alternativen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-bas-klingbeil-100.html"
+    },
+    {
+      "title": "Nach Wahlpleiten: FDP-Spitze um Parteichef Dürr tritt zurück",
+      "link": "https://www.tagesschau.de/inland/duerr-fdp-ruecktritt-100.html"
     },
     {
       "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Schweitzer will Mandat behalten ++",
@@ -19,10 +31,6 @@
     {
       "title": "Öffnung der Straße von Hormus: Trump verlängert sein Ultimatum an Iran",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-ultimatum-iran-100.html"
-    },
-    {
-      "title": "Iran-Drohungen ausgesetzt: Trump-Wende treibt die Kurse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-leitzins-fed-ezb-100.html"
     },
     {
       "title": "EU besorgt über Berichte zu ungarischer Weitergabe von Infos an Moskau",
@@ -71,14 +79,6 @@
     {
       "title": "Iran-Krieg gefährdet Chip-Produktion",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/chipindustrie-iran-krieg-100.html"
-    },
-    {
-      "title": "IEA befürchtet schwerste Energiekrise seit Jahrzehnten",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-energie-iea-100.html"
-    },
-    {
-      "title": "Landtagswahl Rheinland-Pfalz: Parteien beraten über die Lehren aus Mainz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz-landtagswahl-reaktionen-montag-100.html"
     }
   ]
 }
