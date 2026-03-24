@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "Anschlag auf Stromnetz - Razzien in Berlin und weiteren Städten",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-stromnetz-anschlage-razzia-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Israel will Gebiete im Libanon kontrollieren ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-102.html"
+    },
+    {
+      "title": "Wie die Astrologie die Wissenschaften voran brachte",
+      "link": "https://www.tagesschau.de/wissen/forschung/astrologie-wissenschaft-tierkreiszeichen-100.html"
     },
     {
       "title": "Vom Senat bestätigt: Wer ist US-Heimatschutzminister Mullin?",
@@ -15,10 +23,6 @@
     {
       "title": "Marktbericht: Anleger können Unsicherheit nicht abschütteln",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-trump-oelpreis-dax-dow-iran-100.html"
-    },
-    {
-      "title": "Anschlag auf Stromnetz - Razzien in Berlin und weiteren Städten",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-stromnetz-anschlage-razzia-100.html"
     },
     {
       "title": "Pentagon verschärft Restriktionen für Journalisten trotz Gerichtsurteils",
@@ -75,10 +79,6 @@
     {
       "title": "Referendum in Italien: Meloni scheitert mit Justizreform",
       "link": "https://www.tagesschau.de/ausland/europa/melonis-justizreform-gescheitert-100.html"
-    },
-    {
-      "title": "Liveblog zur Wahl in Rheinland-Pfalz: ++ Schweitzer will Mandat behalten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-rheinland-pfalz-montag-100.html"
     }
   ]
 }
