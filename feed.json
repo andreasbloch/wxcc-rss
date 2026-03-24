@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Bremen, Hamburg und Mecklenburg-Vorpommern wollen Übergewinnsteuer",
+      "link": "https://www.tagesschau.de/inland/uebergewinnsteuer-mineraloelkonzerne-100.html"
+    },
+    {
+      "title": "Weltpremiere am CERN - Erfolgreicher Antimaterie-Transport per Lkw",
+      "link": "https://www.tagesschau.de/ausland/antimaterie-transport-lkw-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Israel meldet Tote durch Beschuss aus Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Statistik: Jeder zehnte Erwerbstätige arbeitet teilweise nachts",
       "link": "https://www.tagesschau.de/wirtschaft/statistik-nachtarbeit-deutschland-100.html"
-    },
-    {
-      "title": "Juso-Chef Türmer: \"Die Doppelrolle funktioniert überhaupt nicht\"",
-      "link": "https://www.tagesschau.de/inland/spd-krise-debatte-personal-100.html"
-    },
-    {
-      "title": "Betreiben die Taliban in der Berliner Botschaft Etikettenschwindel?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-taliban-botschaft-100.html"
     }
   ]
 }
