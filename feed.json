@@ -1,8 +1,36 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Iran ernennt neuen Sicherheitschef ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-102.html"
+    },
+    {
+      "title": "Krieg im Nahen Osten: Israel will Libanon bis Litani-Fluss kontrollieren",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-litani-100.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Mehrere Tote bei russischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-kiew-102.html"
+    },
+    {
+      "title": "Namibia verweigert Elon Musks Starlink die Lizenz",
+      "link": "https://www.tagesschau.de/ausland/afrika/namibia-musk-starlink-100.html"
+    },
+    {
       "title": "Anschlag auf Stromnetz - Razzien in Berlin und weiteren Städten",
       "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-stromnetz-anschlage-razzia-100.html"
+    },
+    {
+      "title": "Steinmeier kritisiert Iran-Krieg als Völkerrechtsbruch",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-iran-krieg-102.html"
+    },
+    {
+      "title": "Kurswende am Montag: Spekulationen um Insiderhandel",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-trump-oel-spekulation-100.html"
+    },
+    {
+      "title": "Statistik: Jeder zehnte Erwerbstätige arbeitet teilweise nachts",
+      "link": "https://www.tagesschau.de/wirtschaft/statistik-nachtarbeit-deutschland-100.html"
     },
     {
       "title": "Juso-Chef Türmer: \"Die Doppelrolle funktioniert überhaupt nicht\"",
@@ -11,14 +39,6 @@
     {
       "title": "Betreiben die Taliban in der Berliner Botschaft Etikettenschwindel?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-taliban-botschaft-100.html"
-    },
-    {
-      "title": "Krieg im Nahen Osten: Israel will Libanon bis Litani-Fluss kontrollieren",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-litani-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Iran ernennt neuen Sicherheitschef ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-102.html"
     },
     {
       "title": "15 Jahre ausgesetzte Wehrpflicht: Wenn Freiwilligkeit nicht ausreicht",
@@ -59,26 +79,6 @@
     {
       "title": "Europas Hotspot: Der lange Kampf gegen die Masern in Rumänien",
       "link": "https://www.tagesschau.de/wissen/gesundheit/masern-rumaenien-100.html"
-    },
-    {
-      "title": "Wahl in Dänemark: Frederiksen hofft auf gutes Ergebnis dank Grönland-Kurs",
-      "link": "https://www.tagesschau.de/ausland/europa/wahl-daenemark-106.html"
-    },
-    {
-      "title": "Melonis gescheiterte Justizreform in Italien und die Folgen",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-justizrefom-100.html"
-    },
-    {
-      "title": "Staat steuert auf Zinskosten bis 150 Milliarden Euro pro Jahr zu",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/renditeanstieg-bundesanleihen-zinskosten-100.html"
-    },
-    {
-      "title": "Militärflugzeug in Kolumbien abgestürzt - Tote und Verletzte",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-militaerflugzeug-absturz-100.html"
-    },
-    {
-      "title": "EU und Australien schließen Freihandelsabkommen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-australien-abkommen-100.html"
     }
   ]
 }
