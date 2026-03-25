@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "Kabinett macht Public Viewing zur Fußball-WM auch nach 22 Uhr möglich",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/fussball-wm-public-viewing-100.html"
+      "title": "Forschende sehen das Klimaschutzprogramm der Bundesregierung kritisch",
+      "link": "https://www.tagesschau.de/wissen/klima/klimaziele-hoehne-100.html"
     },
     {
       "title": "Liveblog zum Iran-Krieg: ++ Iran lehnt US-Plan laut Staatsfernsehen ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-102.html"
+    },
+    {
+      "title": "SPD-Finanzminister Klingbeil stellt einschneidende Reformpläne vor",
+      "link": "https://www.tagesschau.de/inland/bundesregierung-reformen-100.html"
+    },
+    {
+      "title": "Bundeskabinett bringt Recht auf Reparatur auf den Weg",
+      "link": "https://www.tagesschau.de/inland/recht-auf-reparatur-bundeskabinett-100.html"
+    },
+    {
+      "title": "Kabinett macht Public Viewing zur Fußball-WM auch nach 22 Uhr möglich",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/fussball-wm-public-viewing-100.html"
     },
     {
       "title": "Raketenangriffe auf Israel: Viele falsche Bilder und Videos im Umlauf",
@@ -67,18 +79,6 @@
     {
       "title": "Deutsche Raumfahrt: Zweiter Test von Isar Aerospace-Rakete",
       "link": "https://www.tagesschau.de/wissen/forschung/isar-aerospace-rakete-100.html"
-    },
-    {
-      "title": "Nahost-Krieg sorgt für Stimmungsdämpfer in der Wirtschaft",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-maerz-stimmung-100.html"
-    },
-    {
-      "title": "Demokratin erobert Trumps Wahlkreis in Florida",
-      "link": "https://www.tagesschau.de/ausland/amerika/florida-wahl-demokratin-100.html"
-    },
-    {
-      "title": "Psychotherapie: Weniger Honorar trotz fehlender Plätze",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/psychotherapie-honorare-kuerzungen-100.html"
     }
   ]
 }
