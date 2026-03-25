@@ -1,16 +1,44 @@
 {
   "items": [
     {
+      "title": "Kabinett macht Public Viewing zur Fußball-WM auch nach 22 Uhr möglich",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/fussball-wm-public-viewing-100.html"
+    },
+    {
+      "title": "Liveblog zum Iran-Krieg: ++ Iran lehnt US-Plan laut Staatsfernsehen ab ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-102.html"
+    },
+    {
+      "title": "Raketenangriffe auf Israel: Viele falsche Bilder und Videos im Umlauf",
+      "link": "https://www.tagesschau.de/faktenfinder/irankrieg-israel-fakes-100.html"
+    },
+    {
+      "title": "In der Slowakei tanken Ausländer jetzt teurer",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-tanken-auslaender-100.html"
+    },
+    {
+      "title": "Nach gescheiterter Justizreform - Melonis Ministerin will nicht zurücktreten",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-justizreform-meloni-100.html"
+    },
+    {
+      "title": "Kammergericht Berlin: Mehrjährige Haftstrafen für Hamas-Mitglieder",
+      "link": "https://www.tagesschau.de/inland/urteil-hamas-berlin-100.html"
+    },
+    {
+      "title": "273 Millionen Kinder können weltweit keine Schule besuchen",
+      "link": "https://www.tagesschau.de/ausland/unesco-bericht-kinder-schulzugang-100.html"
+    },
+    {
       "title": "Ukrainische Drohnen stürzen in Estland und Lettland ab",
       "link": "https://www.tagesschau.de/ausland/europa/drohnen-estland-lettland-100.html"
     },
     {
-      "title": "Liveblog Iran-Krieg: ++ Erneut iranische Angriffe auf Golfstaaten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-102.html"
-    },
-    {
       "title": "Rüstungsbranche im Visier der russischen Geheimdienste",
       "link": "https://www.tagesschau.de/investigativ/wdr/ruestungsindustrie-spionage-100.html"
+    },
+    {
+      "title": "Nach Wahl in Rheinland-Pfalz: AfD-Spitzenkandidat als Fraktionschef abgewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz--bollinger-afd-100.html"
     },
     {
       "title": "Vergleichsportal: Strompreise steigen für Neukunden um 16 Prozent",
@@ -27,10 +55,6 @@
     {
       "title": "Kabinett verabschiedet neues Klimaschutzprogramm",
       "link": "https://www.tagesschau.de/inland/innenpolitik/klimaschutzprogramm-bundesregierung-100.html"
-    },
-    {
-      "title": "Nach Wahl in Rheinland-Pfalz: AfD-Spitzenkandidat als Fraktionschef abgewählt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rheinland-pfalz--bollinger-afd-100.html"
     },
     {
       "title": "Angriffe in Tel Aviv: Israel wird kriegsmüde",
@@ -55,30 +79,6 @@
     {
       "title": "Psychotherapie: Weniger Honorar trotz fehlender Plätze",
       "link": "https://www.tagesschau.de/inland/gesellschaft/psychotherapie-honorare-kuerzungen-100.html"
-    },
-    {
-      "title": "Milliardenloch bei Krankenkassen - Debatte über Familienversicherung",
-      "link": "https://www.tagesschau.de/inland/debatte-gesundheitswesen-finanzierung-100.html"
-    },
-    {
-      "title": "Hoffnung auf Waffenruhe in Nahost: DAX startet deutlich im Plus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-ifo-100.html"
-    },
-    {
-      "title": "Psychologie: Wie Träume den Schlaf beeinflussen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/schlaf-traeume-100.html"
-    },
-    {
-      "title": "OpenAI stellt KI-Video-App Sora ein - keine Kooperation mit Disney",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-sora-disney-100.html"
-    },
-    {
-      "title": "Was über mögliche Friedensgespräche bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-iran-verhandlungen-108.html"
-    },
-    {
-      "title": "USA legen Iran laut Berichten 15-Punkte-Plan für Waffenruhe vor",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-15-punkte-plan-100.html"
     }
   ]
 }
