@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "Forschende sehen das Klimaschutzprogramm der Bundesregierung kritisch",
-      "link": "https://www.tagesschau.de/wissen/klima/klimaziele-hoehne-100.html"
+      "title": "Marktbericht: Hoffnung bei Investoren - DAX schließt im Plus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-iran-ifo-100.html"
+    },
+    {
+      "title": "Kommentar: Klimaschutz - besser als jeder Tankrabatt",
+      "link": "https://www.tagesschau.de/kommentar/klimaschutzprogramm-bundesregierung-102.html"
+    },
+    {
+      "title": "Iran-Krieg und das Völkerrecht: Steinmeiers Klartext hallt nach",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-kritik-iran-100.html"
     },
     {
       "title": "Liveblog zum Iran-Krieg: ++ Iran lehnt US-Plan laut Staatsfernsehen ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-102.html"
+    },
+    {
+      "title": "Forschende sehen das Klimaschutzprogramm der Bundesregierung kritisch",
+      "link": "https://www.tagesschau.de/wissen/klima/klimaziele-hoehne-100.html"
     },
     {
       "title": "SPD-Finanzminister Klingbeil stellt einschneidende Reformpläne vor",
@@ -67,18 +79,6 @@
     {
       "title": "Kabinett verabschiedet neues Klimaschutzprogramm",
       "link": "https://www.tagesschau.de/inland/innenpolitik/klimaschutzprogramm-bundesregierung-100.html"
-    },
-    {
-      "title": "Angriffe in Tel Aviv: Israel wird kriegsmüde",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-kriegsmuedigkeit-100.html"
-    },
-    {
-      "title": "Immobilienpreise 2025 wieder gestiegen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/immobilienpreise-anstieg-100.html"
-    },
-    {
-      "title": "Deutsche Raumfahrt: Zweiter Test von Isar Aerospace-Rakete",
-      "link": "https://www.tagesschau.de/wissen/forschung/isar-aerospace-rakete-100.html"
     }
   ]
 }
