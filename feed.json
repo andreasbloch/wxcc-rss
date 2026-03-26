@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Iran übermittelt laut Agentur Antwort auf US-Plan ++",
+      "title": "Iran-Liveblog: ++ Golfstaaten: Iran hat rote Linien überschritten ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html"
+    },
+    {
+      "title": "Iran verlangt offenbar Gebühren für Durchfahrt in Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-gebuehr-100.html"
+    },
+    {
+      "title": "Ghalibaf und Araghtschi - wer die derzeit Mächtigen in Iran sind",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-wer-sind-die-maechtigen-100.html"
+    },
+    {
+      "title": "Streiks an spanischen Flughäfen zu Ferienbeginn",
+      "link": "https://www.tagesschau.de/ausland/europa/streiks-ferien-flughafen-100.html"
     },
     {
       "title": "Gebeine von Musketier D'Artagnan gefunden? DNA-Test soll Rätsel lösen",
@@ -67,18 +79,6 @@
     {
       "title": "Bundestag beschließt erste Maßnahmen gegen hohe Tankstellenpreise",
       "link": "https://www.tagesschau.de/inland/bundestag-spritpreis-paket-100.html"
-    },
-    {
-      "title": "EU-Parlament: EVP stimmt mit Rechtsaußen-Parteien für härtere Asylregeln",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-bruessel-abschiebezentren-100.html"
-    },
-    {
-      "title": "Heiner Wilmer wird neuer Bischof in Münster",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/muenster-wilmer-bischof-100.html"
-    },
-    {
-      "title": "Iran-Krieg: Ein Friedensplan und Verhandlungen - was ist dran?",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-nahost-plan-100.html"
     }
   ]
 }
