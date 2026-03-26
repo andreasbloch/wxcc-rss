@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "Kampf gegen Kindesmissbrauch: EU-Parlament stoppt Chatkontrollen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-chat-kontrolle-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Pakistan bestätigt Vermittlung zwischen Iran und USA ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html"
+    },
+    {
+      "title": "Filmemacher und Autor Alexander Kluge gestorben",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-kluge-tot-100.html"
     },
     {
       "title": "EU-Parlament stimmt für Handelsdeal mit den USA",
@@ -21,7 +29,7 @@
       "link": "https://www.tagesschau.de/inland/bundestag-spritpreis-paket-100.html"
     },
     {
-      "title": "EU-Parlament: Konservative und Rechte stimmen für härtere Asylregeln",
+      "title": "EU-Parlament: EVP stimmt mit Rechtsaußen-Parteien für härtere Asylregeln",
       "link": "https://www.tagesschau.de/ausland/europa/eu-bruessel-abschiebezentren-100.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "Reform der Schuldenbremse: Wie geht es weiter mit den Staatsfinanzen?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/schuldenbremse-reform-sondervermoegen-100.html"
-    },
-    {
-      "title": "\"Kaum noch Puffer\" - wo mit steigenden Preisen zu rechnen ist",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-verbraucherpreise-energiekrise-100.html"
-    },
-    {
-      "title": "UN nennen Sklavenhandel \"schwerstes Verbrechen gegen Menschlichkeit\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/un-resolution-sklavenhandel-100.html"
     }
   ]
 }
