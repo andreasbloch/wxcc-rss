@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "Kampf gegen Kindesmissbrauch: EU-Parlament stoppt Chatkontrollen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-chat-kontrolle-100.html"
+      "title": "Iran-Liveblog: ++ Iran übermittelt laut Agentur Antwort auf US-Plan ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Pakistan bestätigt Vermittlung zwischen Iran und USA ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html"
+      "title": "EU-Parlament will KI für Nacktbilder verbieten",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-ki-nacktbilder-verbot-100.html"
+    },
+    {
+      "title": "AfD zwischen Friedensrhetorik und Trump-Nähe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-maga-usa-bundestag-100.html"
+    },
+    {
+      "title": "Wie die ukrainischen Museen ihre Kulturschätze im Krieg retten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-museumskonferenz-100.html"
+    },
+    {
+      "title": "Kampf gegen Kindesmissbrauch: EU-Parlament stoppt Chatkontrollen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-chat-kontrolle-100.html"
     },
     {
       "title": "Filmemacher und Autor Alexander Kluge gestorben",
@@ -67,18 +79,6 @@
     {
       "title": "Konsumklima sinkt: Iran-Krieg verunsichert die Verbraucher",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gfk-konsum-iran-krieg-konjunktur-100.html"
-    },
-    {
-      "title": "Iran-Krieg und Ölkrise: Was das für Nordafrika bedeutet",
-      "link": "https://www.tagesschau.de/ausland/afrika/iran-krieg-nordafrika-100.html"
-    },
-    {
-      "title": "Venezuelas Ex-Präsident Maduro erneut zu Anhörung vor US-Gericht",
-      "link": "https://www.tagesschau.de/ausland/amerika/maduro-anhoerung-new-york-100.html"
-    },
-    {
-      "title": "Reform der Schuldenbremse: Wie geht es weiter mit den Staatsfinanzen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/schuldenbremse-reform-sondervermoegen-100.html"
     }
   ]
 }
