@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Marine-Chef der Revolutionsgarden laut Israel getötet ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html"
+    },
+    {
+      "title": "EU-Parlament stimmt für Handelsdeal mit den USA",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-parlament-usa-handelsdeal-100.html"
+    },
+    {
+      "title": "EU-Parlament: Konservative und Rechte stimmen für härtere Asylregeln",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-bruessel-abschiebezentren-100.html"
+    },
+    {
+      "title": "Iran-Krieg: Ein Friedensplan und Verhandlungen - was ist dran?",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-nahost-plan-100.html"
+    },
+    {
       "title": "Bundestag beschließt erste Maßnahmen gegen hohe Tankstellenpreise",
       "link": "https://www.tagesschau.de/inland/bundestag-spritpreis-paket-100.html"
     },
@@ -15,10 +31,6 @@
     {
       "title": "Marktbericht: Pessimisten haben die Oberhand",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-388.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Pistorius stellt Hilfe bei Waffenruhe in Aussicht ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html"
     },
     {
       "title": "Wohnungsbautag in Berlin: Bürokratie bremst Bauen aus",
@@ -67,18 +79,6 @@
     {
       "title": "Neues Abwehrzentrum - Warum die Drohnenabwehr bislang kaum Erfolge zeigt",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohnen-abwehr-zentrum-100.html"
-    },
-    {
-      "title": "EU-Migrationsgesetz: Hält die Brüsseler Brandmauer gegen rechts?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-rueckfuehrungsrichtlinie-migration-abstimmung-100.html"
-    },
-    {
-      "title": "Strafen für Meta und Google: Schadensersatz wegen Social-Media-Sucht",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-meta-urteil-100.html"
-    },
-    {
-      "title": "Iran will laut Außenminister Araghtschi nicht mit den USA verhandeln",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-lehnt-verhandlungen-ab-100.html"
     }
   ]
 }
