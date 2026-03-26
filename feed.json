@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Liveblog zum Iran-Krieg: ++ Kuwait bestellt iranischen Botschafter ein ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-102.html"
+      "title": "Bundestag stimmt über Spritpreispaket ab",
+      "link": "https://www.tagesschau.de/inland/bundestag-spritpreispaket-100.html"
+    },
+    {
+      "title": "Strafen für Meta und Google: Schadensersatz wegen Social-Media-Sucht",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-meta-urteil-100.html"
     },
     {
       "title": "Iran will laut Außenminister Araghtschi nicht mit den USA verhandeln",
@@ -75,10 +79,6 @@
     {
       "title": "Ukrainische Drohnen stürzen in Estland und Lettland ab",
       "link": "https://www.tagesschau.de/ausland/europa/drohnen-estland-lettland-100.html"
-    },
-    {
-      "title": "Rüstungsbranche im Visier der russischen Geheimdienste",
-      "link": "https://www.tagesschau.de/investigativ/wdr/ruestungsindustrie-spionage-100.html"
     }
   ]
 }
