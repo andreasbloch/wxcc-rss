@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Wadephul: Wohl bald direkte Gespräche zwischen USA und Iran ++",
+      "title": "Iran-Liveblog: ++ Israel will Angriffe auf Iran ausweiten ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html"
+    },
+    {
+      "title": "Lufthansa einigt sich im Tarifstreit mit Bodenpersonal",
+      "link": "https://www.tagesschau.de/wirtschaft/lufthansa-tarifeinigung-100.html"
+    },
+    {
+      "title": "Bundestag beschließt Reform der privaten Altersvorsorge",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-beschluss-altersvorsorge-100.html"
+    },
+    {
+      "title": "Fernverkehr brockt Deutscher Bahn 2025 Milliardenverlust ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-bilanz-milliardenverlust-100.html"
+    },
+    {
+      "title": "Gericht stoppt vorerst Pentagon-Sperre gegen KI-Firma Anthropic",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-kuenstliche-intelligenz-pentagon-100.html"
     },
     {
       "title": "Marktbericht: Ölpreis bleibt der entscheidende Faktor",
@@ -63,22 +79,6 @@
     {
       "title": "Iran-Liveblog: ++ Trump verlängert Ultimatum an Iran bis 6. April ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-102.html"
-    },
-    {
-      "title": "Verkehrsministerkonferenz: Führerschein, Deutschlandticket und Schutz in Bahnen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/verkehrsminister-fuehrerschein-reform-100.html"
-    },
-    {
-      "title": "Welche Reformen die Bundesregierung bis zum Sommer umsetzen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-spd-cdu-klingbeil-100.html"
-    },
-    {
-      "title": "Instagram und YouTube: Was das US-Urteil gegen Online-Plattformen bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/urteil-meta-google-sucht-100.html"
-    },
-    {
-      "title": "Iran verlangt offenbar Gebühren für Durchfahrt in Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-gebuehr-100.html"
     }
   ]
 }
