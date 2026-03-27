@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ WSJ: USA erwägen Entsendung 10.000 weiterer Soldaten ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html"
+    },
+    {
       "title": "Trump verlängert Ultimatum an Iran erneut",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-ultimatum-iran-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Filmemacher und Autor Alexander Kluge gestorben",
       "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-kluge-tot-100.html"
-    },
-    {
-      "title": "EU-Parlament stimmt für Handelsdeal mit den USA",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-parlament-usa-handelsdeal-100.html"
     }
   ]
 }
