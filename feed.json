@@ -1,8 +1,32 @@
 {
   "items": [
     {
+      "title": "Bundesgerichtshof kippt Regel zu Vergleichsangeboten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-wohnungseigentuemer-vergleichsangebote-100.html"
+    },
+    {
+      "title": "Streiks an Spaniens Flughäfen verschoben",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-streik-flughafen-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX-Konzerne machen weniger Gewinn",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-konzerne-ey-umsatz-gewinn-2025-100.html"
+    },
+    {
+      "title": "Bundesrat macht Jagd auf Wölfe unter strengen Bedingungen möglich",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wolf-jagd-abschuss-bundesrat-100.html"
+    },
+    {
+      "title": "SPD-Chefin Bas fordert von der CSU konkrete Vorschläge für Reformen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-forderung-reformen-csu-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Israel will Angriffe auf Iran ausweiten ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html"
+    },
+    {
+      "title": "Spritpreise sinken vor dem Start der Osterferien",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-deutschland-europa-tanken-100.html"
     },
     {
       "title": "Krise am Himmel: Iran-Krieg stellt Airlines vor Probleme",
@@ -55,30 +79,6 @@
     {
       "title": "11KM-Podcast: Hendrik Holt - Aufstieg und Fall des Windpark-Betrügers",
       "link": "https://www.tagesschau.de/podcast-11km-windpark-betrug-holt-100.html"
-    },
-    {
-      "title": "Pistorius stärkt auf Reise durch Indopazifik Beziehungen",
-      "link": "https://www.tagesschau.de/ausland/pistorius-singapur-australien-100.html"
-    },
-    {
-      "title": "Mehrwertsteuer erhöhen? Das würde Preise und Konsum treffen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/mehrwertsteuer-preise-konjunktur-inflation-100.html"
-    },
-    {
-      "title": "Streiks an spanischen Flughäfen zu Ferienbeginn",
-      "link": "https://www.tagesschau.de/ausland/europa/streiks-ferien-flughafen-100.html"
-    },
-    {
-      "title": "Wie Simbabwes Regierungspartei die Macht ausbauen will",
-      "link": "https://www.tagesschau.de/ausland/afrika/simbabwe-regierungspartei-machterhalt-100.html"
-    },
-    {
-      "title": "Textilhersteller sollen für Entsorgung zahlen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/eckpunkte-textilgesetz-100.html"
-    },
-    {
-      "title": "SPD berät bei Krisengipfel über Zukunft",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krisengipfel-spd-100.html"
     }
   ]
 }
