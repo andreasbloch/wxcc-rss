@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Golfstar Tiger Woods nach Autounfall festgenommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/tiger-woods-unfall-102.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Merz wirft Trump \"massive Eskalation\" im Krieg vor ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Marktbericht: DAX-Konzerne machen weniger Gewinn",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-konzerne-ey-umsatz-gewinn-2025-100.html"
-    },
-    {
-      "title": "Bundesrat macht Jagd auf Wölfe unter strengen Bedingungen möglich",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wolf-jagd-abschuss-bundesrat-100.html"
     }
   ]
 }
