@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Rubio rechnet mit Kriegsende in wenigen Wochen ++",
+      "title": "Iran-Liveblog: ++ Merz wirft Trump \"massive Eskalation\" im Krieg vor ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html"
+    },
+    {
+      "title": "Krisentreffen: SPD will Bürger bei Spritpreisen entlasten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-reformen-uebergewinnsteuer-100.html"
     },
     {
       "title": "Marktbericht: Ölpreis treibt DAX ins Minus",
@@ -75,10 +79,6 @@
     {
       "title": "SPD-Chefin Bas fordert von der CSU konkrete Vorschläge für Reformen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bas-forderung-reformen-csu-100.html"
-    },
-    {
-      "title": "Spritpreise sinken vor dem Start der Osterferien",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-deutschland-europa-tanken-100.html"
     }
   ]
 }
