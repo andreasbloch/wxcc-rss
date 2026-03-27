@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ WSJ: USA erwägen Entsendung 10.000 weiterer Soldaten ++",
+      "title": "Iran-Liveblog: ++ Wadephul: Wohl bald direkte Gespräche zwischen USA und Iran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html"
+    },
+    {
+      "title": "Marktbericht: DAX-Anleger bleiben skeptisch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-390.html"
+    },
+    {
+      "title": "Deutsche Bahn stellt Bilanz für 2025 vor - offenbar Fahrgastrekord",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-bilanz-fahrgastrekord-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Hendrik Holt - Aufstieg und Fall des Windpark-Betrügers",
+      "link": "https://www.tagesschau.de/podcast-11km-windpark-betrug-holt-100.html"
+    },
+    {
+      "title": "Pistorius stärkt auf Reise durch Indopazifik Beziehungen",
+      "link": "https://www.tagesschau.de/ausland/pistorius-singapur-australien-100.html"
     },
     {
       "title": "Mehrwertsteuer erhöhen? Das würde Preise und Konsum treffen",
@@ -63,22 +79,6 @@
     {
       "title": "Mutmaßliches RAF-Mitglied: Bundesanwaltschaft erhebt Anklage gegen Klette",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/klette-anklage-bundesanwaltschaft-100.html"
-    },
-    {
-      "title": "BASF eröffnet Mega-Werk in China - eine Milliardeninvestition mit Risiken",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-china-werk-zhanjiang-100.html"
-    },
-    {
-      "title": "Russland sperrt Internet - und verbietet Proteste dagegen",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-online-sperren-100.html"
-    },
-    {
-      "title": "Queere Kunst in der DDR - gab es die?",
-      "link": "https://www.tagesschau.de/kultur/queere-kunst-ddr-100.html"
-    },
-    {
-      "title": "EU-Parlament will KI für Nacktbilder verbieten",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-ki-nacktbilder-verbot-100.html"
     }
   ]
 }
