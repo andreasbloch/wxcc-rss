@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Offenbar iranische Diplomaten im Libanon getötet ++",
+      "title": "Wissenschaftsakademien: Vorbeugung von Demenz durch Gesundheitsdaten",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/demenz-praevention-akademien-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Rubio rechnet mit Kriegsende in wenigen Wochen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-102.html"
+    },
+    {
+      "title": "Hohe Nachfrage nach Förderprogrammen der staatlichen KfW",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/kfw-foerderbank-bilanz-100.html"
+    },
+    {
+      "title": "Sterbehilfe in Spanien: Suizid einer 25-Jährigen sorgt für Bestürzung",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-sterbehilfe-106.html"
+    },
+    {
+      "title": "Rentenreform: Das ändert sich bei der privaten Altersvorsorge",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/reform-private-altersvorsorge-100.html"
     },
     {
       "title": "Interview zum Iran-Krieg: Warum Trump auf Zeit spielt",
@@ -63,22 +79,6 @@
     {
       "title": "Lufthansa einigt sich im Tarifstreit mit Bodenpersonal",
       "link": "https://www.tagesschau.de/wirtschaft/lufthansa-tarifeinigung-100.html"
-    },
-    {
-      "title": "Bundestag beschließt Reform der privaten Altersvorsorge",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-beschluss-altersvorsorge-100.html"
-    },
-    {
-      "title": "Fernverkehr brockt Deutscher Bahn 2025 Milliardenverlust ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-bilanz-milliardenverlust-100.html"
-    },
-    {
-      "title": "Gericht stoppt vorerst Pentagon-Sperre gegen KI-Firma Anthropic",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-kuenstliche-intelligenz-pentagon-100.html"
-    },
-    {
-      "title": "Marktbericht: Ölpreis bleibt der entscheidende Faktor",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-390.html"
     }
   ]
 }
