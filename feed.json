@@ -1,12 +1,24 @@
 {
   "items": [
     {
+      "title": "US-Golfstar Tiger Woods nach Autounfall festgenommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/tiger-woods-unfall-102.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump stellt Beistand für NATO-Partner infrage ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-104.html"
     },
     {
-      "title": "US-Golfstar Tiger Woods nach Autounfall festgenommen",
-      "link": "https://www.tagesschau.de/ausland/amerika/tiger-woods-unfall-102.html"
+      "title": "Israelisch-libanesische Grenze: Leben in der Eskalationszone",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-110.html"
+    },
+    {
+      "title": "Angriffe auf Iran treffen Zivilbevölkerung",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-zivilisten-100.html"
+    },
+    {
+      "title": "Vier Wochen nach Kriegsbeginn: Unmut am Golf",
+      "link": "https://www.tagesschau.de/ausland/afrika/iran-krieg-golfstaaten-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Merz wirft Trump \"massive Eskalation\" im Krieg vor ++",
@@ -67,18 +79,6 @@
     {
       "title": "Österreich will Social-Media-Verbot für Kinder",
       "link": "https://www.tagesschau.de/ausland/europa/oesterreich-social-media-verbot-100.html"
-    },
-    {
-      "title": "Ex-Rapper Shah als neuer Regierungschef von Nepal vereidigt",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-regierungschef-100.html"
-    },
-    {
-      "title": "Vergleichsangebote laut Bundesgerichtshof keine Pflicht",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-wohnungseigentuemer-vergleichsangebote-100.html"
-    },
-    {
-      "title": "Streiks an Spaniens Flughäfen verschoben",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-streik-flughafen-100.html"
     }
   ]
 }
