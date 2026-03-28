@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Spanien vor Touristenansturm: 100 Millionen Besucher erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/spanien-urlaub-ferien-tourismus-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump stellt Beistand für NATO-Partner infrage ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Putin soll Reiche um Spenden für Ukraine-Krieg gebeten haben",
       "link": "https://www.tagesschau.de/ausland/europa/russland-kosten-krieg-100.html"
-    },
-    {
-      "title": "Österreich will Social-Media-Verbot für Kinder",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-social-media-verbot-100.html"
     }
   ]
 }
