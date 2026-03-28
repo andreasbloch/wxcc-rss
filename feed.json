@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Israel tötet Reporter im Südlibanon ++",
+      "title": "\"No Kings\"-Motto: Erneut Demonstrationen gegen Trump in den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-demonstrationen-no-kings-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ \"USS Tripoli\" erreicht Nahen Osten ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-104.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Spanien vor Touristenansturm: 100 Millionen Besucher erwartet",
       "link": "https://www.tagesschau.de/wirtschaft/spanien-urlaub-ferien-tourismus-100.html"
-    },
-    {
-      "title": "US-Golfstar Tiger Woods nach Autounfall festgenommen",
-      "link": "https://www.tagesschau.de/ausland/amerika/tiger-woods-unfall-102.html"
     }
   ]
 }
