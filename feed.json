@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "Myanmar ein Jahr nach dem Erdbeben",
+      "link": "https://www.tagesschau.de/ausland/asien/erdbeben-myanmar-jahrestag-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ ++ Flughafen Kuwait bei Angriff beschädigt  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-104.html"
+    },
+    {
+      "title": "Sterbehilfe in Spanien: Suizid einer 25-Jährigen sorgt für Bestürzung",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-sterbehilfe-106.html"
+    },
+    {
+      "title": "Mehrere Tote bei gegenseitigen Angriffen zwischen Ukraine und Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-russland-tote-100.html"
     },
     {
       "title": "Schwarz-Rote Reformvorhaben werden für die SPD zur Existenzfrage",
@@ -67,18 +79,6 @@
     {
       "title": "Marktbericht: Ölpreis treibt DAX ins Minus",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-390.html"
-    },
-    {
-      "title": "Wissenschaftsakademien: Vorbeugung von Demenz durch Gesundheitsdaten",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/demenz-praevention-akademien-100.html"
-    },
-    {
-      "title": "Hohe Nachfrage nach Förderprogrammen der staatlichen KfW",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/kfw-foerderbank-bilanz-100.html"
-    },
-    {
-      "title": "Sterbehilfe in Spanien: Suizid einer 25-Jährigen sorgt für Bestürzung",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-sterbehilfe-106.html"
     }
   ]
 }
