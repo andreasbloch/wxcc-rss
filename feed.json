@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Rakete trifft Büro von katarischem Sender in Teheran ++",
+      "title": "Iran-Liveblog: ++ Saudischer Außenminister für Gespräche in Pakistan ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-104.html"
+    },
+    {
+      "title": "Medienbericht: USA bereiten offenbar Bodenoffensive in Iran vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-iran-krieg-bodenoffensive-100.html"
     },
     {
       "title": "Social-Media-Verbot für Kinder: Hohe rechtliche Hürden",
@@ -75,10 +79,6 @@
     {
       "title": "Polens Rechte forciert Debatte über Polexit",
       "link": "https://www.tagesschau.de/ausland/europa/polen-debatte-eu-austritt-100.html"
-    },
-    {
-      "title": "Besuch in Monaco: Papst Leo XIV. prangert Kluft zwischen Arm und Reich an",
-      "link": "https://www.tagesschau.de/ausland/monaco-papst-besuch-100.html"
     }
   ]
 }
