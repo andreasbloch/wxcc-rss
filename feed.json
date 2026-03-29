@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Iran droht mit Angriffen auf Universitäten ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-104.html"
+    },
+    {
+      "title": "\"No Kings\"-Motto: Erneut Demonstrationen gegen Trump in den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-demonstrationen-no-kings-100.html"
+    },
+    {
       "title": "Brandenburger Tor im Dunkeln - \"Earth Hour\" für mehr Klimaschutz",
       "link": "https://www.tagesschau.de/inland/earth-hour-190.html"
     },
@@ -15,10 +23,6 @@
     {
       "title": "Berliner Schüler testen den digitalen Verzicht",
       "link": "https://www.tagesschau.de/inland/gesellschaft/handyverzicht-schule-100.html"
-    },
-    {
-      "title": "\"No Kings\"-Motto: Erneut Demonstrationen gegen Trump in den USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-demonstrationen-no-kings-100.html"
     },
     {
       "title": "Tausende bei Demo gegen sexualisierte Gewalt in Köln",
@@ -75,10 +79,6 @@
     {
       "title": "Staatsanwaltschaft Itzehoe ermittelt wieder im Fall Collien Fernandes",
       "link": "https://www.tagesschau.de/inland/gesellschaft/staatsanwaltschaft-anfangsverdacht-christian-ulmen-100.html"
-    },
-    {
-      "title": "Krieg in Iran: Trump kritisiert Merz und droht der NATO",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-merz-iran-krieg-nato-100.html"
     }
   ]
 }
