@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Social-Media-Verbot für Kinder: Hohe rechtliche Hürden",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/social-media-verbot-gutachten-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Rakete trifft Büro von katarischem Sender in Teheran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Besuch in Monaco: Papst Leo XIV. prangert Kluft zwischen Arm und Reich an",
       "link": "https://www.tagesschau.de/ausland/monaco-papst-besuch-100.html"
-    },
-    {
-      "title": "Vier Wochen Iran-Krieg: Wechsel zwischen Diplomatie und Drohkulissen",
-      "link": "https://www.tagesschau.de/ausland/amerika/bilanz-monat-krieg-iran-100.html"
     }
   ]
 }
