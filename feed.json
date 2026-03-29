@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ UN meldet getöteten Blauhelmsoldaten im Libanon ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-108.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iran meldet Angriff auf Stromversorgung ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Landesweite \"No Kings\"-Proteste gegen US-Präsident Trump",
       "link": "https://www.tagesschau.de/ausland/amerika/nokings-proteste-trump-100.html"
-    },
-    {
-      "title": "\"No Kings\"-Motto: Erneut Demonstrationen gegen Trump in den USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-demonstrationen-no-kings-100.html"
     }
   ]
 }
