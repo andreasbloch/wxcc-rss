@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Iran droht mit Angriffen auf Universitäten ++",
+      "title": "Iran-Liveblog: ++ Rakete trifft Büro von katarischem Sender in Teheran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-104.html"
+    },
+    {
+      "title": "Tourismus in Russland: Dann eben nach Nordkorea",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-urlaub-sanktionen-100.html"
     },
     {
       "title": "Digitalminister Wildberger warnt vor Jobverlust durch KI",
@@ -75,10 +79,6 @@
     {
       "title": "Vier Wochen Iran-Krieg: Wechsel zwischen Diplomatie und Drohkulissen",
       "link": "https://www.tagesschau.de/ausland/amerika/bilanz-monat-krieg-iran-100.html"
-    },
-    {
-      "title": "Myanmar ein Jahr nach dem Erdbeben",
-      "link": "https://www.tagesschau.de/ausland/asien/erdbeben-myanmar-jahrestag-100.html"
     }
   ]
 }
