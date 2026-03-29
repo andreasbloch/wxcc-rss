@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Saudischer Außenminister für Gespräche in Pakistan ++",
+      "title": "Iran-Liveblog: ++ Golfstaaten melden weitere Angriffe ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-104.html"
+    },
+    {
+      "title": "Fahrradsaison-Start mit Hindernissen wegen Personalmangel",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fachkraeftemangel-fahrradwerkstaetten-100.html"
     },
     {
       "title": "Medienbericht: USA bereiten offenbar Bodenoffensive in Iran vor",
@@ -75,10 +79,6 @@
     {
       "title": "AfD-Jugend in Hessen: \"Generation Deutschland\" in Fulda gegründet",
       "link": "https://www.tagesschau.de/inland/regional/hessen/afd-jugend-hessen-100.html"
-    },
-    {
-      "title": "Polens Rechte forciert Debatte über Polexit",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-debatte-eu-austritt-100.html"
     }
   ]
 }
