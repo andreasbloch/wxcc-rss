@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Reform der Krankenversicherung: GKV gegen Einsparungen bei Patienten",
+      "link": "https://www.tagesschau.de/inland/gkv-gesundheitsreform-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Golfstaaten melden weitere Angriffe ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Arbeitgeber fordern Ausgabenmoratorium bei gesetzlichen Krankenkassen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/krankenversicherung-leistungskuerzungen-gesundheitswesen-100.html"
-    },
-    {
-      "title": "AfD-Jugend in Hessen: \"Generation Deutschland\" in Fulda gegründet",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/afd-jugend-hessen-100.html"
     }
   ]
 }
