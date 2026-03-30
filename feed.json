@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Trump spekuliert über Einnahme iranischer Insel ++",
+      "title": "Iran-Liveblog: ++ Angriff auf Petrochemie-Anlage gemeldet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-108.html"
+    },
+    {
+      "title": "Trump heizt Spekulationen um Bodenoffensive in Iran an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-trump-100.html"
+    },
+    {
+      "title": "CPAC 2026: Iran-Krieg sorgt für Uneinigkeit bei Republikanern",
+      "link": "https://www.tagesschau.de/ausland/amerika/cpac-iran-krieg-republikaner-100.html"
+    },
+    {
+      "title": "UN-Konferenz beschließt strengeren Schutz für mehr als 40 wandernde Tierarten",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-un-artenschutz-konferenz-beschluss-100.html"
     },
     {
       "title": "Marktbericht: Nahost-Krieg schickt Börsen auf Talfahrt",
@@ -34,7 +46,7 @@
     },
     {
       "title": "Al-Scharaa in Berlin: Ein umstrittener Gast aus Syrien",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-al-scharaa-berlin-100.html"
+      "link": "https://www.tagesschau.de/inland/innenpolitik/syrien-al-scharaa-berlin-100.html"
     },
     {
       "title": "Bei Caren Miosga: Fernandes fordert schärfere Gesetze zu digitaler Gewalt",
@@ -67,18 +79,6 @@
     {
       "title": "Iran-Krieg und die Auswirkungen: Geht das Thailand das Öl aus?",
       "link": "https://www.tagesschau.de/ausland/asien/thailand-oel-gas-iran-hormus-100.html"
-    },
-    {
-      "title": "Iran-Krieg laut Bundestags-Experten völkerrechtswidrig",
-      "link": "https://www.tagesschau.de/inland/bundestag-wissenschaftlicher-dienst-iran-krieg-voelkerrecht-100.html"
-    },
-    {
-      "title": "Reform der Krankenversicherung: GKV gegen Einsparungen bei Patienten",
-      "link": "https://www.tagesschau.de/inland/gkv-gesundheitsreform-100.html"
-    },
-    {
-      "title": "Fahrradsaison-Start mit Hindernissen wegen Personalmangel",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fachkraeftemangel-fahrradwerkstaetten-100.html"
     }
   ]
 }
