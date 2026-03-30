@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "Israels Parlament billigt Todesstrafe für Terroristen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-todesstrafe-102.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Zwei UN-Soldaten im Libanon getötet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-108.html"
+    },
+    {
+      "title": "Interview zu Pakistan als Vermittler: Mehr als nur ein Imagegewinn",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-iran-usa-vermittlung-100.html"
     },
     {
       "title": "Besuch des umstrittenen Präsidenten al-Scharaa",
@@ -71,14 +79,6 @@
     {
       "title": "Viele unbelegte Ernährungsmythen für Krebserkrankte im Umlauf",
       "link": "https://www.tagesschau.de/faktenfinder/krebs-ernaehrung-100.html"
-    },
-    {
-      "title": "Trump heizt Spekulationen über Bodenoffensive in Iran an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-trump-100.html"
-    },
-    {
-      "title": "CPAC 2026: Iran-Krieg sorgt für Uneinigkeit bei Republikanern",
-      "link": "https://www.tagesschau.de/ausland/amerika/cpac-iran-krieg-republikaner-100.html"
     }
   ]
 }
