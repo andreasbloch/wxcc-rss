@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ UN meldet getöteten Blauhelmsoldaten im Libanon ++",
+      "title": "Iran-Liveblog: ++ UN melden getöteten Blauhelmsoldaten im Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-108.html"
+    },
+    {
+      "title": "Bei Caren Miosga: Fernandes fordert schärfere Gesetze zu digitaler Gewalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fernandes-hubig-miosga-100.html"
+    },
+    {
+      "title": "Jerusalem: Kirchenvertreter an Zugang zu Grabeskirche gehindert",
+      "link": "https://www.tagesschau.de/ausland/asien/pizzaballa-jerusalem-grabeskirche-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Iran meldet Angriff auf Stromversorgung ++",
@@ -27,10 +35,6 @@
     {
       "title": "Iran-Krieg und die Auswirkungen: Geht das Thailand das Öl aus?",
       "link": "https://www.tagesschau.de/ausland/asien/thailand-oel-gas-iran-hormus-100.html"
-    },
-    {
-      "title": "Jerusalem: Kirchenvertreter an Zugang zu Grabeskirche gehindert",
-      "link": "https://www.tagesschau.de/ausland/asien/pizzaballa-jerusalem-grabeskirche-100.html"
     },
     {
       "title": "Iran-Krieg laut Bundestags-Experten völkerrechtswidrig",
@@ -75,10 +79,6 @@
     {
       "title": "Sommerzeit: Ist die Zeitumstellung wirklich so schlimm?",
       "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-134.html"
-    },
-    {
-      "title": "Landesweite \"No Kings\"-Proteste gegen US-Präsident Trump",
-      "link": "https://www.tagesschau.de/ausland/amerika/nokings-proteste-trump-100.html"
     }
   ]
 }
