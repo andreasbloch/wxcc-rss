@@ -1,8 +1,28 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ UN melden getöteten Blauhelmsoldaten im Libanon ++",
+      "title": "Iran-Liveblog: ++ Trump spekuliert über Einnahme iranischer Insel ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-108.html"
+    },
+    {
+      "title": "USA lassen offenbar russischen Öltanker nach Kuba",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-schiff-russland-oel-100.html"
+    },
+    {
+      "title": "Besorgnis über Israels Pläne zur Todesstrafe - Appell europäischer Außenminister",
+      "link": "https://www.tagesschau.de/ausland/asien/kritik-todesstrafe-israel-100.html"
+    },
+    {
+      "title": "Nahost-Krieg: Die Huthi greifen ein - und Israel kämpft an weiterer Front",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-huthi-100.html"
+    },
+    {
+      "title": "Syrien - plötzlich friedlicher als der Rest der Region?",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-nahost-100.html"
+    },
+    {
+      "title": "Al-Scharaa in Berlin: Ein umstrittener Gast aus Syrien",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-al-scharaa-berlin-100.html"
     },
     {
       "title": "Bei Caren Miosga: Fernandes fordert schärfere Gesetze zu digitaler Gewalt",
@@ -59,26 +79,6 @@
     {
       "title": "Tourismus in Russland: Dann eben nach Nordkorea",
       "link": "https://www.tagesschau.de/ausland/europa/russland-urlaub-sanktionen-100.html"
-    },
-    {
-      "title": "Digitalminister Wildberger warnt vor Jobverlust durch KI",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wildberger-ki-jobs-100.html"
-    },
-    {
-      "title": "Was sich mit Wärmepumpen an Heizkosten einsparen lässt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/waermepumpen-heizung-energieverbrauch-100.html"
-    },
-    {
-      "title": "Huthi-Miliz greift Israel an - und in den Nahost-Krieg ein",
-      "link": "https://www.tagesschau.de/ausland/asien/huthi-iran-krieg-100.html"
-    },
-    {
-      "title": "Vier Wochen Krieg: \"Für Irans Bevölkerung ist das eine desaströse Situation\"",
-      "link": "https://www.tagesschau.de/iran-krieg-bevoelkerung-opposition-100.html"
-    },
-    {
-      "title": "Sommerzeit: Ist die Zeitumstellung wirklich so schlimm?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-134.html"
     }
   ]
 }
