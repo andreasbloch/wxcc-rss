@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Zwei UN-Soldaten im Libanon getötet ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-108.html"
+    },
+    {
+      "title": "Besuch des umstrittenen Präsidenten al-Scharaa",
+      "link": "https://www.tagesschau.de/inland/analyse-besuch-al-scharaa-100.html"
+    },
+    {
+      "title": "Rückkehr von 80 Prozent der Syrer als Ziel",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/al-sharaa-merz-100.html"
+    },
+    {
       "title": "Marktbericht: Trump treibt die Kurse",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-stagflation-100.html"
     },
     {
       "title": "Wirtschaftsministerin Reiche wirbt für langfristige Gasverträge",
       "link": "https://www.tagesschau.de/wirtschaft/reiche-gasversorgung-deutschland-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Merz will nach Krieg Beitrag zur Sicherung der Straße von Hormus leisten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-108.html"
     },
     {
       "title": "Spanien sperrt Luftraum für US-Jets im Iran-Krieg",
@@ -27,10 +35,6 @@
     {
       "title": "Expertenkommission sieht Milliarden-Sparpotenzial bei Krankenkassen",
       "link": "https://www.tagesschau.de/inland/kommission-krankenversicherung-empfehlungen-100.html"
-    },
-    {
-      "title": "Merz will Rückkehr syrischer Geflüchteter vorantreiben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/al-sharaa-merz-100.html"
     },
     {
       "title": "Colonia Dignidad: Chiles Regierung stoppt Gedenkstätte für Opfer",
@@ -75,10 +79,6 @@
     {
       "title": "CPAC 2026: Iran-Krieg sorgt für Uneinigkeit bei Republikanern",
       "link": "https://www.tagesschau.de/ausland/amerika/cpac-iran-krieg-republikaner-100.html"
-    },
-    {
-      "title": "UN-Konferenz beschließt strengeren Schutz für mehr als 40 wandernde Tierarten",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-un-artenschutz-konferenz-beschluss-100.html"
     }
   ]
 }
