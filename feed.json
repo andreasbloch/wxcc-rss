@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Tanker vor der Küste von Dubai beschossen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-104.html"
+    },
+    {
+      "title": "Ägypten und Jordanien spüren die indirekten Folgen des Iran-Kriegs",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-folgen-aegypten-jordanien-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Zwei UN-Soldaten im Libanon getötet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-108.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Kleinere Brote backen - wie Bäcker auf die teure Energie reagieren",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baeckereien-inflation-100.html"
-    },
-    {
-      "title": "Iran-Krieg: Auch Aluminium wird knapper",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-iran-aluminium-100.html"
-    },
-    {
-      "title": "Woher kommt die Kostenexplosion im Gesundheitssystem?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitssystem-finanzierung-krankenkassen-100.html"
     }
   ]
 }
