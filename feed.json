@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ 200.000 Menschen aus dem Libanon nach Syrien geflohen ++",
+      "title": "Iran-Liveblog: ++ Lässt die Lufthansa Flugzeuge am Boden? ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-104.html"
+    },
+    {
+      "title": "Ukrainische Angriffe auf Ölanlagen treffen Russland hart",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-oelanlagen-braende-100.html"
+    },
+    {
+      "title": "80-Prozent-Ziel - worum geht es in der Syrien-Debatte?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/syrer-deutschland-merz-100.html"
+    },
+    {
+      "title": "DWD erwartet mehr Hitzewellen - vor allem im Süden und Osten",
+      "link": "https://www.tagesschau.de/wissen/klima/klima-projektion-deutschland-100.html"
     },
     {
       "title": "Kritik an Merz-Aussage zur Ausreise von Syrern",
@@ -67,18 +79,6 @@
     {
       "title": "Viel Kritik und etwas Lob für Sparvorschläge im Gesundheitssystem",
       "link": "https://www.tagesschau.de/inland/reform-krankenkassen-vorschlaege-kommission-100.html"
-    },
-    {
-      "title": "Sprit, Grenzen, Lachgas: Was sich im April ändert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/neu-april-2026-100.html"
-    },
-    {
-      "title": "Vier Jahre Befreiung von Butscha: \"Augen öffnen für die Gräueltaten\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-butscha-jahrestag-befreiung-100.html"
-    },
-    {
-      "title": "Ägypten und Jordanien spüren die indirekten Folgen des Iran-Kriegs",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-folgen-aegypten-jordanien-100.html"
     }
   ]
 }
