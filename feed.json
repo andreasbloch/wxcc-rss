@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ EU bereitet sich auf lange Energiekrise vor ++",
+      "title": "UN-Sicherheitsrat verurteilt Tod von UN-Soldaten im Libanon",
+      "link": "https://www.tagesschau.de/ausland/asien/un-blauhelme-libanon-102.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Costa und Irans Präsident telefonieren ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-104.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Personalmangel in Stellwerken soll behoben sein",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-stellwerke-100.html"
-    },
-    {
-      "title": "Warnung vor \"Super-El-Niño\": Droht ein globaler Hitzeschub?",
-      "link": "https://www.tagesschau.de/wissen/klima/super-el-nino-100.html"
     }
   ]
 }
