@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Iran bestreitet Bitte nach Waffenruhe ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-104.html"
+    },
+    {
+      "title": "19 tote Migranten im Mittelmeer geborgen",
+      "link": "https://www.tagesschau.de/ausland/europa/tote-fluechtlingsboot-lampedusa-100.html"
+    },
+    {
+      "title": "Im Darknet zu Anschlägen aufgerufen - Bundesanwaltschaft erhebt Anklage",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/anklage-todesliste-darknet-bundesanwaltschaft-100.html"
+    },
+    {
       "title": "Orbans Wahlkampagne in Ungarn: Die Nervosität steigt",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-orban-102.html"
     },
     {
       "title": "Kommentar: Und wieder verstolpert sich der Kanzler",
       "link": "https://www.tagesschau.de/kommentar/merz-syrer-quote-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Iran bestreitet Bitte nach Waffenruhe ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-104.html"
     },
     {
       "title": "Marktbericht: Trumps Aussagen zu Iran-Krieg lösen Börsenrally aus",
@@ -39,10 +47,6 @@
     {
       "title": "Trump nennt NATO einen Papiertiger - und droht mit Austritt",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-nato-austritt-100.html"
-    },
-    {
-      "title": "Im Darknet zu Anschlägen aufgerufen - Bundesanwaltschaft erhebt Anklage",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/anklage-todesliste-darknet-bundesanwaltschaft-100.html"
     },
     {
       "title": "50 Jahre Apple: Bröckelt die Macht des Tech-Riesen?",
@@ -75,10 +79,6 @@
     {
       "title": "Konjunkturprognose: Fällt der Aufschwung aus?",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunkturprognose-2026-100.html"
-    },
-    {
-      "title": "Trotz steigender Einnahmen - Kommunen machen 2025 Rekordschulden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kommunen-rekordschulden-100.html"
     }
   ]
 }
