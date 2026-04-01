@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Brand an Kuwaits Flughafen nach Drohnenangriffen ++",
+      "title": "Iran-Liveblog: ++ Israel meldet Beschuss aus dem Jemen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-104.html"
+    },
+    {
+      "title": "EU-Beistandsklausel - \"Noch nicht in geopolitischer Realität angekommen\"",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/eu-beistandsklausel-100.html"
+    },
+    {
+      "title": "Was die neue Spritpreis-Regelung für Verbraucher bedeutet",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-regeleung-faq-100.html"
+    },
+    {
+      "title": "US-Präsident Trump verschärft Regeln für Briefwahl",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-briefwahl-100.html"
     },
     {
       "title": "Kino-Hype und Konsolen-Dilemma: Wohin steuert Nintendo?",
@@ -67,18 +79,6 @@
     {
       "title": "Kritik an Merz-Aussage zur Ausreise von Syrern",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-syrer-102.html"
-    },
-    {
-      "title": "Marktbericht: Führende Institute senken Konjunkturprognosen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/konjunktur-wachstumsprognosen-100.html"
-    },
-    {
-      "title": "Wadephul über Massaker in Butscha: \"Hölle auf Erden\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gedenken-butscha-102.html"
-    },
-    {
-      "title": "Nachwuchswerbung bei Tesla: Die \"geheime Fabrik\" öffnet die Türen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-nachwuchs-100.html"
     }
   ]
 }
