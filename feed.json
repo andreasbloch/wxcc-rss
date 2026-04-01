@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Katar meldet iranischen Angriff auf Öltanker ++",
+      "title": "Trotz steigender Einnahmen - Kommunen machen 2025 Rekordschulden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kommunen-rekordschulden-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Trump: Ziehen NATO-Austritt ernsthaft in Erwägung ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-104.html"
+    },
+    {
+      "title": "Hintermänner russischer Sabotage: Wo ist \"Lucky Strike\"?",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-sabotage-wegwerfagenten-100.html"
+    },
+    {
+      "title": "Viele Tote bei Absturz von russischem Flugzeug über der Krim",
+      "link": "https://www.tagesschau.de/ausland/europa/russisches-flugzeug-absturz-krim-100.html"
     },
     {
       "title": "Friedenshoffnungen treiben den DAX",
@@ -67,18 +79,6 @@
     {
       "title": "Frankfurt ehrt Frauenrechtlerin Masih Alinejad mit Europäischem Paulskirchenpreis",
       "link": "https://www.tagesschau.de/inland/regional/hessen/frauenrechtlerin-masih-alinejad-paulskirchenpreis-100.html"
-    },
-    {
-      "title": "Marktbericht: Vage Hoffnungen auf Entspannung in Nahost",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-122.html"
-    },
-    {
-      "title": "Ukrainische Angriffe auf Ölanlagen treffen Russland hart",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-oelanlagen-braende-100.html"
-    },
-    {
-      "title": "80-Prozent-Ziel - worum geht es in der Syrien-Debatte?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/syrer-deutschland-merz-100.html"
     }
   ]
 }
