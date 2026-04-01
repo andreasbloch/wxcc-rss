@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Orbans Wahlkampagne in Ungarn: Die Nervosität steigt",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-orban-102.html"
+    },
+    {
+      "title": "Kommentar: Und wieder verstolpert sich der Kanzler",
+      "link": "https://www.tagesschau.de/kommentar/merz-syrer-quote-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iran bestreitet Bitte nach Waffenruhe ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-104.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Trotz steigender Einnahmen - Kommunen machen 2025 Rekordschulden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kommunen-rekordschulden-100.html"
-    },
-    {
-      "title": "Hintermänner russischer Sabotage: Wo ist \"Lucky Strike\"?",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-sabotage-wegwerfagenten-100.html"
-    },
-    {
-      "title": "Wachstumsprognose für 2026 mehr als halbiert",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsprognose-institute-100.html"
     }
   ]
 }
