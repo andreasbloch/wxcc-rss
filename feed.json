@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Krisensitzung zur Straße von Hormus ++",
+      "title": "Iran-Liveblog: ++ Straße von Hormus: Italien für humanitären Korridor ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-104.html"
+    },
+    {
+      "title": "Rund 40 Länder beraten über Öffnung der Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/konferenz-strasse-hormus-100.html"
+    },
+    {
+      "title": "In Niederlande gestohlener Goldhelm nach einem Jahr wieder zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/niederlande-goldhelm-rumaenien-100.html"
     },
     {
       "title": "Long Covid: Krankenkassen übernehmen bald einzelne Medikamente",
@@ -71,14 +79,6 @@
     {
       "title": "Artemis 2: NASA jubelt über erfolgreichen Raketenstart",
       "link": "https://www.tagesschau.de/ausland/amerika/artemis-2-start-102.html"
-    },
-    {
-      "title": "Nachfolge von UN-Generalsekretär: Wer folgt auf Guterres?",
-      "link": "https://www.tagesschau.de/ausland/amerika/guterres-nachfolge-100.html"
-    },
-    {
-      "title": "Erdbeben der Stärke 7,4 in Indonesien",
-      "link": "https://www.tagesschau.de/ausland/asien/erdbeben-indonesien-154.html"
     }
   ]
 }
