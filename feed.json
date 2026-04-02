@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Erdbeben der Stärke 7,4 in Indonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/erdbeben-indonesien-154.html"
+    },
+    {
+      "title": "Geflügelpest und hohe Nachfrage: Reichen die Eier für alle?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eier-ostern-gefluegelpest-100.html"
+    },
+    {
+      "title": "Rede an die Nation: Trump sieht US-Ziele in Iran fast erreicht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-nation-102.html"
+    },
+    {
       "title": "NASA-Mondmission Artemis 2 ins All gestartet",
       "link": "https://www.tagesschau.de/ausland/amerika/artemis-2-mission-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Zwei Jahre Cannabisgesetz: Unions-Minister fordern Nachbesserung",
       "link": "https://www.tagesschau.de/inland/gesellschaft/studie-cannabis-teillegalisierung-union-100.html"
-    },
-    {
-      "title": "Viele Tote bei Absturz von russischem Flugzeug über der Krim",
-      "link": "https://www.tagesschau.de/ausland/europa/russisches-flugzeug-absturz-krim-100.html"
-    },
-    {
-      "title": "Marktbericht: Nahost-Krieg bremst Börsengänge",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-thema-des-tages-boersengaenge-100.html"
-    },
-    {
-      "title": "Pessach in Israel: Fest der Freiheit zwischen Sirenen und Bunkern",
-      "link": "https://www.tagesschau.de/ausland/asien/pessach-israel-krieg-100.html"
     }
   ]
 }
