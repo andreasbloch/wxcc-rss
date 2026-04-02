@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "Finanzminister Klingbeil will Ehegattensplittung ersetzen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzminsterium-ersatz-ehegattensplitting-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Straße von Hormus: Italien für humanitären Korridor ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-104.html"
+    },
+    {
+      "title": "Marktbericht: ein Funken Hoffnung bei Hormus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ende-erholung-rede-trump-100.html"
     },
     {
       "title": "Rund 40 Länder beraten über Öffnung der Straße von Hormus",
@@ -53,10 +61,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/liberation-day-trump-zoelle-100.html"
     },
     {
-      "title": "Marktbericht: DAX fällt unter 23.000 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ende-erholung-rede-trump-100.html"
-    },
-    {
       "title": "Griechenland: Unwetter und Saharastaub sorgen für Probleme",
       "link": "https://www.tagesschau.de/ausland/europa/griechenland-unwetter-saharastaub-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Trumps Ansprache zum Iran-Krieg: Viele Worte, wenig Klarheit",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ansprache-100.html"
-    },
-    {
-      "title": "Artemis 2: NASA jubelt über erfolgreichen Raketenstart",
-      "link": "https://www.tagesschau.de/ausland/amerika/artemis-2-start-102.html"
     }
   ]
 }
