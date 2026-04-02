@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Israel meldet Raketenangriffe ++",
+      "title": "Iran-Liveblog: ++ Iran droht mit \"vernichtenden Angriffen\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-104.html"
+    },
+    {
+      "title": "Trumps Ansprache zum Iran-Krieg: Viele Worte, wenig Klarheit",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ansprache-100.html"
     },
     {
       "title": "Marktbericht: DAX-Erholung wohl von kurzer Dauer",
@@ -75,10 +79,6 @@
     {
       "title": "Warum der \"Trump-Trade\" im Iran-Krieg riskanter wird",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-boersen-iran-100.html"
-    },
-    {
-      "title": "Spritpreise springen auf Jahreshoch",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-regelung-100.html"
     }
   ]
 }
