@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ USA bestätigen Abschuss von Kampfjet über Iran ++",
+      "title": "Medienberichte: US-Kampfjet in Iran abgeschossen - Crewmitglied gerettet",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-kampfjet-iran-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ US-Bürger sollen Libanon verlassen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-106.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Artemis-Crew verlässt Erdumlaufbahn Richtung Mond",
       "link": "https://www.tagesschau.de/wissen/artemis-erdumlaufbahn-verlassen-100.html"
-    },
-    {
-      "title": "Trump entlässt Justizministerin Pam Bondi",
-      "link": "https://www.tagesschau.de/ausland/amerika/bondi-justizministerin-trump-100.html"
     }
   ]
 }
