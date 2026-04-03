@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Papst leitet erstmals Karfreitags-Prozession",
+      "link": "https://www.tagesschau.de/ausland/europa/rom-kreuzweg-100.html"
+    },
+    {
       "title": "Diese Maßnahmen gegen hohe Spritpreise werden diskutiert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreise-massnahmen-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Ex-Junta-Chef wird Präsident in Myanmar",
       "link": "https://www.tagesschau.de/ausland/asien/myanmar-junta-praesident-100.html"
-    },
-    {
-      "title": "Hohe Spritpreise: Wirtschaftsweise Grimm bringt Tempolimit ins Spiel",
-      "link": "https://www.tagesschau.de/inland/wirtschaftsweise-grimm-tempolimit-100.html"
     }
   ]
 }
