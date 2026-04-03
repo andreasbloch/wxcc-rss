@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Papst ruft zu Dialog über Kriegsende auf ++",
+      "title": "Iran-Liveblog: ++ Netanjahu kündigt weitere Angriffe in Iran an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-106.html"
+    },
+    {
+      "title": "Mythos \"Geisterschiff\": Der lange Schatten der \"Mary Celeste\"",
+      "link": "https://www.tagesschau.de/kultur/geisterschiff-mythos-mary-celeste-100.html"
+    },
+    {
+      "title": "Studie zeigt neue Erkenntnisse zum Aussterben der Neandertaler",
+      "link": "https://www.tagesschau.de/wissen/forschung/neandertaler-europa-aussterben-100.html"
+    },
+    {
+      "title": "Drohungen und Pyrotechnik - Polizei nimmt Mann in ICE fest",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/siegburg-polizei-nimmt-vermummten-mann-fest-100.html"
     },
     {
       "title": "Schweden setzt russischen Öltanker in der Ostsee fest",
@@ -11,10 +23,6 @@
     {
       "title": "Hegseth drängt Stabschef des US-Heeres zum Rücktritt",
       "link": "https://www.tagesschau.de/ausland/amerika/generalstabschef-army-george-entlassen-100.html"
-    },
-    {
-      "title": "Pyrotechnik in ICE gezündet: Polizei nimmt Mann bei Siegburg fest",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-ice-in-siegburg-gestoppt-polizei-nimmt-vermummten-mann-fest-100.html"
     },
     {
       "title": "Vor zehn Jahren kam der Skandal um die Panama Papers ins Rollen",
@@ -71,14 +79,6 @@
     {
       "title": "Bissig-satirische Mottowagen: Karnevalist Tilly in Moskau verurteilt",
       "link": "https://www.tagesschau.de/ausland/asien/tilly-urteil-moskau-100.html"
-    },
-    {
-      "title": "Finanzminister Klingbeil stellt Ersatz für Ehegattensplitting vor",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzminsterium-ersatz-ehegattensplitting-100.html"
-    },
-    {
-      "title": "Marktbericht: ein Funken Hoffnung bei Hormus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ende-erholung-rede-trump-100.html"
     }
   ]
 }
