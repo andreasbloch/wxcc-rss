@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Netanjahu kündigt weitere Angriffe in Iran an ++",
+      "title": "Iran-Liveblog: ++ USA bestätigen Abschuss von Kampfjet über Iran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-106.html"
+    },
+    {
+      "title": "Wenn ein Offizier im Klassenzimmer steht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendoffizier-bundeswehr-schule-100.html"
+    },
+    {
+      "title": "Versehrtensport in Butscha: Zurück ins Leben",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-versehrtensport-100.html"
+    },
+    {
+      "title": "Drohungen und Pyrotechnik - Polizei nimmt Mann in ICE fest",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/siegburg-polizei-nimmt-vermummten-mann-fest-100.html"
     },
     {
       "title": "Mythos \"Geisterschiff\": Der lange Schatten der \"Mary Celeste\"",
@@ -11,10 +23,6 @@
     {
       "title": "Studie zeigt neue Erkenntnisse zum Aussterben der Neandertaler",
       "link": "https://www.tagesschau.de/wissen/forschung/neandertaler-europa-aussterben-100.html"
-    },
-    {
-      "title": "Drohungen und Pyrotechnik - Polizei nimmt Mann in ICE fest",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/siegburg-polizei-nimmt-vermummten-mann-fest-100.html"
     },
     {
       "title": "Schweden setzt russischen Öltanker in der Ostsee fest",
@@ -65,20 +73,12 @@
       "link": "https://www.tagesschau.de/wissen/artemis-erdumlaufbahn-verlassen-100.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Israel meldet Tod von Irans Öl-Kommandeur ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-104.html"
-    },
-    {
       "title": "Trump entlässt Justizministerin Pam Bondi",
       "link": "https://www.tagesschau.de/ausland/amerika/bondi-justizministerin-trump-100.html"
     },
     {
       "title": "Wo es auf deutschen Straßen zu Ostern voll wird",
       "link": "https://www.tagesschau.de/inland/gesellschaft/verkehr-ostern-100.html"
-    },
-    {
-      "title": "Bissig-satirische Mottowagen: Karnevalist Tilly in Moskau verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/tilly-urteil-moskau-100.html"
     }
   ]
 }
