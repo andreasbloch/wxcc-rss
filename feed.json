@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Mythen um den Eierkonsum",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/ernaehrung-eierkonsum-cholesterin-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iran meldet Angriff nahe Atomanlage Buschehr ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-106.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Studie zeigt neue Erkenntnisse zum Aussterben der Neandertaler",
       "link": "https://www.tagesschau.de/wissen/forschung/neandertaler-europa-aussterben-100.html"
-    },
-    {
-      "title": "Schweden setzt russischen Öltanker in der Ostsee fest",
-      "link": "https://www.tagesschau.de/ausland/europa/schattenflotte-russland-schweden-100.html"
     }
   ]
 }
