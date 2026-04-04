@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "Papst Leo geht seinen ersten Kreuzweg",
-      "link": "https://www.tagesschau.de/ausland/europa/rom-kreuzweg-100.html"
-    },
-    {
       "title": "Diese Maßnahmen gegen hohe Spritpreise werden diskutiert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spritpreise-massnahmen-102.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Israel greift Ziele in Beirut an ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-106.html"
+    },
+    {
+      "title": "Papst Leo geht seinen ersten Kreuzweg",
+      "link": "https://www.tagesschau.de/ausland/europa/rom-kreuzweg-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ US-Bürger sollen Libanon verlassen ++",
@@ -75,10 +79,6 @@
     {
       "title": "Friedensbewegungen für mehr Diplomatie - wie sagt die Bundespolitik dazu?",
       "link": "https://www.tagesschau.de/inland/gesellschaft/ostermaersche-friedensbewegungen-100.html"
-    },
-    {
-      "title": "Ex-Junta-Chef wird Präsident in Myanmar",
-      "link": "https://www.tagesschau.de/ausland/asien/myanmar-junta-praesident-100.html"
     }
   ]
 }
