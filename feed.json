@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Trump: Deal mit Iran bis Montag ++",
+      "title": "Trump verlängert Ultimatum für Iran bis Dienstag",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-ultimatum-104.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Iran warnt vor \"gefährlichem Spiel\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-106.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Schengenraum: Polen verlängert Grenzkontrollen zu Deutschland",
       "link": "https://www.tagesschau.de/ausland/europa/grenzkontrolle-verlaengerung-polen-100.html"
-    },
-    {
-      "title": "Deshalb könnte der nächste Krieg am Horn von Afrika drohen",
-      "link": "https://www.tagesschau.de/ausland/afrika/horn-von-afrika-aethiopien-eritrea-100.html"
     }
   ]
 }
