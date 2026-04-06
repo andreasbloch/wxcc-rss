@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Revolutionsgarde meldet Tod von Geheimdienstchef ++",
+      "title": "Iran-Liveblog: ++ Iran meldet Angriffe auf Gasfeld South Pars ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-110.html"
+    },
+    {
+      "title": "Krieg gegen Iran: Zeigt der pakistanische Vorschlag einen Ausweg?",
+      "link": "https://www.tagesschau.de/ausland/iran-usa-trump-waffenruhe-100.html"
+    },
+    {
+      "title": "Wie Christen im Gazastreifen Ostern feiern",
+      "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-ostern-christen-100.html"
     },
     {
       "title": "NASA-Raumkapsel erreicht Einflusssphäre des Mondes",
@@ -71,14 +79,6 @@
     {
       "title": "USA: Mit Mini-Bunkern der Weltlage trotzen",
       "link": "https://www.tagesschau.de/ausland/amerika/schutzbunker-usa-rekordnachfrage-100.html"
-    },
-    {
-      "title": "Niederlande: Deep Canvassing soll gesellschaftliche Brücken bauen",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-deep-canvassing-100.html"
-    },
-    {
-      "title": "Osterbotschaft von Leo XIV.: Deutliche Worte an die, die Kriege beginnen",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-ostersonntag-100.html"
     }
   ]
 }
