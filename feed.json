@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Leverkusen: Clanfeier endet in Massenschlägerei - drei Polizisten verletzt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/massenschlaegerei-clan-feier-leverkusen-100.html"
+    },
+    {
+      "title": "Tote und Verletzte bei israelischen Angriffen auf den Libanon",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-angriffe-ostern-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iran meldet Angriffe auf Gasfeld South Pars ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-110.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Vermutlich viele Tote nach Bootsunglück im Mittelmeer",
       "link": "https://www.tagesschau.de/ausland/europa/bootsunglueck-mittelmeer-migranten-100.html"
-    },
-    {
-      "title": "Zwischen Glaube und Zweifel - die Deutschen und die Religion",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/glaube-ostern-kirche-100.html"
-    },
-    {
-      "title": "USA: Mit Mini-Bunkern der Weltlage trotzen",
-      "link": "https://www.tagesschau.de/ausland/amerika/schutzbunker-usa-rekordnachfrage-100.html"
     }
   ]
 }
