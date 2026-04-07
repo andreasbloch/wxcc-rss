@@ -1,15 +1,27 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ \"Heute Nacht wird eine ganze Zivilisation untergehen\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-106.html"
+    },
+    {
+      "title": "Reform der Krankenversicherung: GKV-Chef für höhere Tabak- und Alkoholsteuern",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gkv-krankenversicherung-steuern-alkohol-tabak-100.html"
+    },
+    {
+      "title": "Artemis-2-Crew beginnt Rückflug zur Erde",
+      "link": "https://www.tagesschau.de/ausland/artemis-mission-rueckflug-100.html"
+    },
+    {
+      "title": "DAX unter Druck - Dividendenrekord in schwierigen Zeiten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-dividenden-100.html"
+    },
+    {
       "title": "Politologe zu Trumps Iran-Kurs: Er werde \"immer nervöser\"",
       "link": "https://www.tagesschau.de/ausland/trump-ultimatum-iran-interview-100.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Offenbar Explosionen auf iranischer Ölinsel ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-106.html"
-    },
-    {
-      "title": "Schüsse nahe des israelischen Konsulats in Istanbul",
+      "title": "Schüsse nahe dem israelischen Konsulat in Istanbul",
       "link": "https://www.tagesschau.de/ausland/europa/istanbul-schusswechsel-100.html"
     },
     {
@@ -61,24 +73,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/wolfram-preis-iran-krieg-industrie-100.html"
     },
     {
-      "title": "Artemis 2-Crew kommt Mond am nächsten",
+      "title": "Artemis-2-Crew kommt Mond am nächsten",
       "link": "https://www.tagesschau.de/ausland/artemis-rekord-102.html"
     },
     {
       "title": "Wie ist die Strategie des US-Präsidenten im Iran-Krieg?",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-pressekonferenz-iran-krieg-100.html"
-    },
-    {
-      "title": "Ukraine: Handy-Standortdaten gefährden deutsche Rüstungsfirmen",
-      "link": "https://www.tagesschau.de/investigativ/br-recherche/ruestungsindustrie-spionage-bewegungsdaten-ukraine-100.html"
-    },
-    {
-      "title": "Selenskyj schlägt Russland Waffenruhe für Kraftwerke vor",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-vorschlag-waffenruhe-energieanlagen-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Trump droht erneut mit Zerstörung von Infrastruktur ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-110.html"
     }
   ]
 }
