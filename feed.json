@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Mögliche Eskalation im Iran-Krieg belastet Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-osterfest-100.html"
+    },
+    {
+      "title": "Hormus-Blockade bringt Russland milliardenschwere Zusatzerlöse",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/hormus-blockade-russland-rohstoffe-milliarden-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Israels Militär warnt Iraner vor Bahnreisen  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-106.html"
     },
@@ -21,15 +29,11 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-schwarzfahren-100.html"
     },
     {
-      "title": "Marktbericht: Ölpreise bestimmen weiter das Marktgeschehen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-osterfest-100.html"
-    },
-    {
       "title": "Iran-Krieg und China-Knappheit: Warum Wolfram knapp wird",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/wolfram-preis-iran-krieg-industrie-100.html"
     },
     {
-      "title": "\"Artemis 2\"-Crew kommt Mond am nächsten",
+      "title": "Artemis 2-Crew kommt Mond am nächsten",
       "link": "https://www.tagesschau.de/ausland/artemis-rekord-102.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "NASA-Raumkapsel erreicht Einflusssphäre des Mondes",
       "link": "https://www.tagesschau.de/ausland/amerika/nasa-artemis-mondmission-mondphase-100.html"
-    },
-    {
-      "title": "Ärztemangel in Rumänien: Wie eine Ärztin ein Dorf versorgt",
-      "link": "https://www.tagesschau.de/ausland/europa/aerztemangel-rumaenien-100.html"
     }
   ]
 }
