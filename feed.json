@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Gewerkschaft ver.di hat zu neuen Warnstreiks im ÖPNV in Bayern aufgerufen",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-oepnv-warnstreiks-100.html"
+      "title": "Schüsse nahe des israelischen Konsulats in Istanbul",
+      "link": "https://www.tagesschau.de/ausland/europa/istanbul-schusswechsel-100.html"
+    },
+    {
+      "title": "Ehemaliger Postminister Schwarz-Schilling gestorben",
+      "link": "https://www.tagesschau.de/inland/schwarz-schilling-gestorben-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Israels Militär warnt Iraner vor Bahnreisen  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-106.html"
+    },
+    {
+      "title": "Gewerkschaft ver.di hat zu neuen Warnstreiks im ÖPNV in Bayern aufgerufen",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-oepnv-warnstreiks-100.html"
     },
     {
       "title": "Zahl der Lawinentoten in Europa auf Höchststand seit 2018",
@@ -17,7 +25,7 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-schwarzfahren-100.html"
     },
     {
-      "title": "Israelische Angriffe in Gaza: Mehrere Tote und Verletzte",
+      "title": "Mehrere Tote nach israelischen Angriffen in Gaza",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-todesopfer-100.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "Iran weist Vorschlag für Waffenruhe zurück",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-waffenruhe-ablehnung-100.html"
-    },
-    {
-      "title": "Friedensbewegung: Mehrere Zehntausend demonstrieren bei Ostermärschen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ostermaersche-bilanz-104.html"
-    },
-    {
-      "title": "Tote und Verletzte bei israelischen Angriffen auf den Libanon",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-angriffe-ostern-100.html"
     }
   ]
 }
