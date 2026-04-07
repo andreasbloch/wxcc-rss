@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ \"Heute Nacht wird eine ganze Zivilisation untergehen\" ++",
+      "title": "Iran-Liveblog: ++ US-Bürger in Bahrain sollen Schutz suchen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-106.html"
+    },
+    {
+      "title": "Iran meldet landesweite Angriffe auf Verkehrsinfrastruktur",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-ultimatum-100.html"
+    },
+    {
+      "title": "Schüsse nahe dem israelischen Konsulat in Istanbul",
+      "link": "https://www.tagesschau.de/ausland/europa/istanbul-schusswechsel-100.html"
     },
     {
       "title": "Wie die Politik auf den Preisschub reagiert",
@@ -35,10 +43,6 @@
     {
       "title": "Politologe zu Trumps Iran-Kurs: Er werde \"immer nervöser\"",
       "link": "https://www.tagesschau.de/ausland/trump-ultimatum-iran-interview-100.html"
-    },
-    {
-      "title": "Schüsse nahe dem israelischen Konsulat in Istanbul",
-      "link": "https://www.tagesschau.de/ausland/europa/istanbul-schusswechsel-100.html"
     },
     {
       "title": "Ehemaliger Postminister Schwarz-Schilling gestorben",
@@ -75,10 +79,6 @@
     {
       "title": "UN-Chef Guterres warnt vor Angriffen auf Irans zivile Infrastruktur",
       "link": "https://www.tagesschau.de/ausland/amerika/un-guterres-iran-krieg-100.html"
-    },
-    {
-      "title": "DGB-Chefin Fahimi kritisiert Klingbeils Forderung nach Mehrarbeit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fahimi-klingbeil-erbeitsvolumen-dgb-100.html"
     }
   ]
 }
