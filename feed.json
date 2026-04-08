@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Trotz Waffenruhe melden Kuwait, Bahrain und VAE weiter Angriffe",
+      "link": "https://www.tagesschau.de/ausland/asien/kuwait-vae-angriffe-100.html"
+    },
+    {
+      "title": "Spritpreise steigen weiter, aber nicht mehr so stark wie zuvor",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-oelpreis-adac-tankstellen-100.html"
+    },
+    {
+      "title": "Griechenland plant Social-Media-Verbot für unter 15-Jährige",
+      "link": "https://www.tagesschau.de/ausland/europa/social-media-griechenland-100.html"
+    },
+    {
       "title": "Waffenruhe am Persischen Golf: euphorische Reaktionen der Börsen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-reaktionen-iran-102.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Wie Deutschland auf Trumps Iran-Drohungen reagieren könnte",
       "link": "https://www.tagesschau.de/inland/trump-drohungen-deutschland-100.html"
-    },
-    {
-      "title": "US-Vize in Ungarn: Kann Vance Orban vor der Wahl noch helfen?",
-      "link": "https://www.tagesschau.de/ausland/europa/vance-orban-usa-ungarn-100.html"
-    },
-    {
-      "title": "Fahren ohne Ticket - was könnte sich ändern?",
-      "link": "https://www.tagesschau.de/inland/fahren-ohne-ticket-debatte-100.html"
-    },
-    {
-      "title": "100 Jahre Lufthansa: Schwieriger Umgang mit eigener Geschichte",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/100-jahre-lufthansa-100.html"
     }
   ]
 }
