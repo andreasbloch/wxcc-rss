@@ -1,20 +1,24 @@
 {
   "items": [
     {
+      "title": "Internationales Aufatmen nach Ankündigung von Waffenruhe in Nahost",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-waffenruhe-reaktionen-100.html"
+    },
+    {
+      "title": "Marktbericht: Waffenruhe löst Aktienrally aus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-waffenruhe-100.html"
+    },
+    {
       "title": "Wie teilen wir gerecht? Machen Sie mit bei \"ARD - Deine Meinung zählt\"",
       "link": "https://www.tagesschau.de/ard-deine-meinung-zaehlt-102.html"
     },
     {
-      "title": "\"Artemis 2\": Spektakuläre Bilder und ungewöhnliches Ferngespräch",
+      "title": "Artemis 2: Spektakuläre Bilder und ungewöhnliches Ferngespräch",
       "link": "https://www.tagesschau.de/ausland/europa/artemis-rueckflug-erde-100.html"
     },
     {
       "title": "Pistorius: Keine Genehmigungspflicht für Auslandsaufenthalte",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wehrdienst-meldepflicht-auslandsaufenthalte-pistorius-100.html"
-    },
-    {
-      "title": "Marktbericht: Waffenruhe sorgt für Gewinne an den Börsen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-waffenruhe-100.html"
     },
     {
       "title": "11KM-Podcast: Russifizierung einer Stadt - Warum Putin Mariupol umbaut",
@@ -75,10 +79,6 @@
     {
       "title": "Tote bei Drohnenangriff auf Bus in ukrainischem Nikopol",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriff-nikopol-100.html"
-    },
-    {
-      "title": "Ein Jahr US-Zölle: Alles halb so schlimm?",
-      "link": "https://www.tagesschau.de/wirtschaft/us-zoelle-bilanz-donald-trump-100.html"
     }
   ]
 }
