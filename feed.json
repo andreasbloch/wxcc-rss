@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Waffenruhe im Iran-Krieg: Viel Unklarheit vor Verhandlungen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-waffenruhe-100.html"
+    },
+    {
+      "title": "Gratis durch Europa - EU verschenkt Zugtickets an Jugendliche",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-bahn-jugend-tickets-100.html"
+    },
+    {
       "title": "Internationales Aufatmen nach Ankündigung von Waffenruhe in Nahost",
       "link": "https://www.tagesschau.de/ausland/asien/iran-waffenruhe-reaktionen-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Schüsse nahe dem israelischen Konsulat in Istanbul",
       "link": "https://www.tagesschau.de/ausland/europa/istanbul-schusswechsel-100.html"
-    },
-    {
-      "title": "Wie die Politik auf den Preisschub reagiert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-bundesregierung-preisschub-100.html"
-    },
-    {
-      "title": "Tote bei Drohnenangriff auf Bus in ukrainischem Nikopol",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriff-nikopol-100.html"
     }
   ]
 }
