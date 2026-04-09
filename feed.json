@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ US-Soldaten bleiben laut Trump in der Region ++",
+      "title": "Iran-Liveblog: ++ Kallas: Angriffe im Libanon gefährden Feuerpause ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-106.html"
+    },
+    {
+      "title": "Jesidische Schwestern aus Hannover kämpfen für Menschenrechte",
+      "link": "https://www.tagesschau.de/kultur/tekkal-schwestern-menschenrechte-jesiden-100.html"
+    },
+    {
+      "title": "Wie kann Deutschland in der Straße von Hormus helfen?",
+      "link": "https://www.tagesschau.de/inland/deutscher-beitrag-strasse-von-hormus-100.html"
+    },
+    {
+      "title": "Scharfe Kritik an Libanon-Eskalation",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-libanon-israel-100.html"
     },
     {
       "title": "Marktbericht: Zweifel an Waffenruhe drücken die Kurse",
@@ -27,10 +39,6 @@
     {
       "title": "Artemis-2-Crew bereitet sich auf die Landung vor",
       "link": "https://www.tagesschau.de/ausland/artemis-zwei-landeanflug-100.html"
-    },
-    {
-      "title": "Scharfe Kritik an Libanon-Eskalation",
-      "link": "https://www.tagesschau.de/ausland/asien/angriffe-libanon-israel-100.html"
     },
     {
       "title": "Straße von Hormus: Keine Anzeichen für ein Ende der Blockade",
@@ -71,14 +79,6 @@
     {
       "title": "Auslandsreisen und Wehrdienst: Was gilt wirklich?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-meldepflicht-auslandsreisen-100.html"
-    },
-    {
-      "title": "Kommentar: Das Verteidigungsministerium hat die Sprengkraft unterschätzt",
-      "link": "https://www.tagesschau.de/kommentar/pistorius-meldepflicht-auslandsreisen-100.html"
-    },
-    {
-      "title": "Kommentar: US-Präsident Trump ist mit seinen Zielen in Iran gescheitert",
-      "link": "https://www.tagesschau.de/kommentar/trump-iran-192.html"
     }
   ]
 }
