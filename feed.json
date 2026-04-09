@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Liveblog: ++ Israel will direkt mit Libanon verhandeln ++",
+      "title": "Liveblog: ++ Ministerium meldet mehr als 300 Tote im Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-106.html"
+    },
+    {
+      "title": "Marktbericht: Anleger werden wieder skeptischer",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-katerstimmung-100.html"
+    },
+    {
+      "title": "Merz zum Iran-Krieg: Ein offenkundig ratloser Bundeskanzler",
+      "link": "https://www.tagesschau.de/kommentar/irankrieg-bundeskanzler-merz-statement-100.html"
     },
     {
       "title": "Brüssel will Aufklärung über Spionage-Vorwürfe gegen Ungarn",
@@ -71,14 +79,6 @@
     {
       "title": "Touristenboom in den Armenvierteln von Rio de Janeiro",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-favelas-tourismus-100.html"
-    },
-    {
-      "title": "Wie kann Deutschland in der Straße von Hormus helfen?",
-      "link": "https://www.tagesschau.de/inland/deutscher-beitrag-strasse-von-hormus-100.html"
-    },
-    {
-      "title": "Scharfe Kritik an Libanon-Eskalation",
-      "link": "https://www.tagesschau.de/ausland/asien/angriffe-libanon-israel-100.html"
     }
   ]
 }
