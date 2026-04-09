@@ -1,8 +1,36 @@
 {
   "items": [
     {
-      "title": "Liveblog: ++ Israel: Evakuierungswarnung für Vororte in Beirut ++",
+      "title": "Brüssel will Aufklärung über Spionage-Vorwürfe gegen Ungarn",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-aufklaerung-spionage-ungarn-russland-100.html"
+    },
+    {
+      "title": "Untergetauchte Rechtsextremistin Liebich in Tschechien gefasst",
+      "link": "https://www.tagesschau.de/inland/rechtsextremismus-liebich-in-tschechien-gefasst-100.html"
+    },
+    {
+      "title": "Liveblog: ++ Israel will direkt mit Libanon verhandeln ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-106.html"
+    },
+    {
+      "title": "Welche Folgen Trumps Treffen mit Rutte für die NATO haben könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-nato-trump-rutte-treffen-analyse-100.html"
+    },
+    {
+      "title": "Von der Dachterrasse das Weltgeschehen im Blick",
+      "link": "https://www.tagesschau.de/ausland/asien/schattenflotte-singapur-hobbyfotograf-100.html"
+    },
+    {
+      "title": "Straße von Hormus: Wann können die Schiffe wieder normal fahren?",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/strasse-von-hormus-schiffe-maut-iran-100.html"
+    },
+    {
+      "title": "Hunderte Flüge von Lufthansa-Streik betroffen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streik-336.html"
+    },
+    {
+      "title": "Erinnerung am Mario Adorf: Filmschurke mit Witz und Tiefgang",
+      "link": "https://www.tagesschau.de/kultur/mario-adorf-nachruf-100.html"
     },
     {
       "title": "Ankündigung von Merz: Deutschland will wieder Gespräche mit Iran aufnehmen",
@@ -11,10 +39,6 @@
     {
       "title": "Russland verbietet NGO Memorial - Einstufung als \"extremistisch\"",
       "link": "https://www.tagesschau.de/ausland/europa/russland-menschenrechte-memorial-verbot-100.html"
-    },
-    {
-      "title": "Welche Folgen Trumps Treffen mit Rutte für die NATO haben könnte",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-nato-trump-rutte-treffen-analyse-100.html"
     },
     {
       "title": "Artenschutz: Kaiserpinguine gelten jetzt als gefährdete Art",
@@ -55,30 +79,6 @@
     {
       "title": "Scharfe Kritik an Libanon-Eskalation",
       "link": "https://www.tagesschau.de/ausland/asien/angriffe-libanon-israel-100.html"
-    },
-    {
-      "title": "Marktbericht: Zweifel an Waffenruhe drücken die Kurse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-katerstimmung-100.html"
-    },
-    {
-      "title": "Schauspieler Mario Adorf im Alter von 95 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/mario-adorf-tod-100.html"
-    },
-    {
-      "title": "Besuch in heiklen Zeiten: Taiwans Oppositionsführerin reist nach China",
-      "link": "https://www.tagesschau.de/ausland/taiwan-oppositionsfuehrerin-china-100.html"
-    },
-    {
-      "title": "EU-Preisvergleich: Benzinpreis steigt in Deutschland stärker",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/benzinpreis-deutschland-preisvergleich-merz-100.html"
-    },
-    {
-      "title": "Wird die Pendlerpauschale erhöht?",
-      "link": "https://www.tagesschau.de/inland/pendlerpauschale-merz-spritpreise-100.html"
-    },
-    {
-      "title": "Artemis-2-Crew bereitet sich auf die Landung vor",
-      "link": "https://www.tagesschau.de/ausland/artemis-zwei-landeanflug-100.html"
     }
   ]
 }
