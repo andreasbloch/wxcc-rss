@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Krieg gegen die Ukraine: Putin kündigt Feuerpause zu Ostern an",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-102.html"
+    },
+    {
       "title": "Liveblog: ++ Ministerium meldet mehr als 300 Tote im Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-106.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Jesidische Schwestern aus Hannover kämpfen für Menschenrechte",
       "link": "https://www.tagesschau.de/kultur/tekkal-schwestern-menschenrechte-jesiden-100.html"
-    },
-    {
-      "title": "Vor Wahl in Ungarn: Schleichender Übergang in die \"illiberale Demokratie\"",
-      "link": "https://www.tagesschau.de/ausland/europa/illiberale-demokratie-ungarn-100.html"
     }
   ]
 }
