@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Lufthansa-Streik um Mitternacht begonnen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streik-338.html"
+    },
+    {
       "title": "Krieg gegen die Ukraine: Putin kündigt Feuerpause zu Ostern an",
       "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Leichte Entspannung an der Zapfsäule",
       "link": "https://www.tagesschau.de/wirtschaft/spritpreis-rueckgang-100.html"
-    },
-    {
-      "title": "Jesidische Schwestern aus Hannover kämpfen für Menschenrechte",
-      "link": "https://www.tagesschau.de/kultur/tekkal-schwestern-menschenrechte-jesiden-100.html"
     }
   ]
 }
