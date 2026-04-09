@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Trump kritisiert NATO-Partner erneut scharf ++",
+      "title": "Iran-Liveblog: ++ Hisbollah meldet neue Angriffe auf Israel ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-106.html"
+    },
+    {
+      "title": "Straße von Hormus: Keine Anzeichen für ein Ende der Blockade",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-waffenruhe-hormus-100.html"
     },
     {
       "title": "Israel weitet Angriffe auf Hisbollah-Ziele im Libanon aus",
@@ -75,10 +79,6 @@
     {
       "title": "Krieg in Nahost: Netanjahus Kurs führt zu Kritik und Enttäuschung",
       "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-waffenruhe-iran-100.html"
-    },
-    {
-      "title": "Straße von Hormus: Reedereien bleiben weiter vorsichtig",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/strasse-von-hormus-reedereien-waffenruhe-100.html"
     }
   ]
 }
