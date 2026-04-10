@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "Anschlag auf israelisches Restaurant in München",
+      "link": "https://www.tagesschau.de/inland/anschlag-israelisches-restaurant-muenchen-100.html"
+    },
+    {
       "title": "Liveblog: ++ Mehr als 10.000 Sicherheitskräfte in Islamabad ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-108.html"
+    },
+    {
+      "title": "Straße von Hormus: EU strebt mehr Unabhängigkeit bei Energie an",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-energie-strasse-hormus-100.html"
+    },
+    {
+      "title": "Klimawandel: Zweitwärmster März seit Aufzeichnungsbeginn",
+      "link": "https://www.tagesschau.de/wissen/klima/copernicus-klimabilanz-maerz-100.html"
     },
     {
       "title": "Hunderte Lufthansa-Flüge wegen Streiks ausgefallen",
@@ -67,18 +79,6 @@
     {
       "title": "Marktbericht: Anleger werden wieder skeptischer",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-katerstimmung-100.html"
-    },
-    {
-      "title": "Merz zum Iran-Krieg: Ein offenkundig ratloser Bundeskanzler",
-      "link": "https://www.tagesschau.de/kommentar/irankrieg-bundeskanzler-merz-statement-100.html"
-    },
-    {
-      "title": "Untergetauchte Rechtsextremistin Liebich in Tschechien gefasst",
-      "link": "https://www.tagesschau.de/inland/rechtsextremismus-liebich-in-tschechien-gefasst-100.html"
-    },
-    {
-      "title": "Welche Folgen Trumps Treffen mit Rutte für die NATO haben könnte",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-nato-trump-rutte-treffen-analyse-100.html"
     }
   ]
 }
