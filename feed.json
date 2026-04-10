@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Liveblog: ++ Trump kritisiert Iran wegen Straße von Hormus ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-108.html"
+    },
+    {
       "title": "Lufthansa-Streik um Mitternacht begonnen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streik-338.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Ein Jahr Koalitionsvertrag: Von Liebe, Brücken und Reformen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ein-jahr-koalitionsvertrag-schwarz-rot-100.html"
-    },
-    {
-      "title": "Leichte Entspannung an der Zapfsäule",
-      "link": "https://www.tagesschau.de/wirtschaft/spritpreis-rueckgang-100.html"
     }
   ]
 }
