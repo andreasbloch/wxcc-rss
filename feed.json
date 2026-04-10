@@ -1,8 +1,24 @@
 {
   "items": [
     {
+      "title": "Reiche teilt gegen SPD-Vorschläge für Entlastungen aus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-energiepreise-koalition-100.html"
+    },
+    {
+      "title": "Wenn das Öl knapper wird",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oel-preise-marktbericht-100.html"
+    },
+    {
       "title": "Liveblog: ++ DRK warnt vor humanitärer Katastrophe im Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-108.html"
+    },
+    {
+      "title": "Dolce&amp;Gabbana: Stefano Gabbana tritt als Unternehmenschef zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dolce-rueckzug-gabbana-100.html"
+    },
+    {
+      "title": "Netanjahu will mit dem Libanon verhandeln - und dabei weiter kämpfen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-verhandlungen-kaempfe-100.html"
     },
     {
       "title": "Anschlag auf israelisches Restaurant in München",
@@ -63,22 +79,6 @@
     {
       "title": "Was über die geplanten Iran-Friedensgespräche bekannt ist",
       "link": "https://www.tagesschau.de/pakistan-gespraeche-nahost-faq-100.html"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Putin kündigt Feuerpause zu Ostern an",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-102.html"
-    },
-    {
-      "title": "Brüssel will Aufklärung der Spionage-Vorwürfe gegen Ungarn",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-aufklaerung-spionage-ungarn-russland-100.html"
-    },
-    {
-      "title": "Israel will mit Libanon direkt über Hisbollah-Entwaffnung verhandeln",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-190.html"
-    },
-    {
-      "title": "Marktbericht: Anleger werden wieder skeptischer",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-katerstimmung-100.html"
     }
   ]
 }
