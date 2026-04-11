@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Demokraten vor Präsidentschaftswahl: Kehrt Kamala Harris zurück?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-demokraten-kamala-harris-kandidatur-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ US-Delegation in Pakistan gelandet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-108.html"
     },
@@ -13,7 +17,7 @@
       "link": "https://www.tagesschau.de/ausland/asien/pakistan-verhandlungen-iran-usa-100.html"
     },
     {
-      "title": "Wie Lachgas und K.o.-Tropfen jetzt eingeschränkt werden",
+      "title": "Lachgas und K.o.-Tropfen sollen zurückgedrängt werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/lachgas-ko-tropfen-gesetz-100.html"
     },
     {
@@ -21,7 +25,7 @@
       "link": "https://www.tagesschau.de/ausland/europa/irland-proteste-spritpreise-100.html"
     },
     {
-      "title": "Artemis-Astronauten gelandet",
+      "title": "Artemis-Astronauten im Pazifik gelandet",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-raumfahrt-artemis-landung-100.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Hunderte Lufthansa-Flüge wegen Streiks ausgefallen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streik-338.html"
-    },
-    {
-      "title": "Analyse von Verbraucherschützern: Stromkosten-Entlastung nur gering",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verbraucherschuetzer-zu-stromkosten-102.html"
     }
   ]
 }
