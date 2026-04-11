@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Trump kündigt Räumung der Straße von Hormus an ++",
+      "title": "Wahl in Ungarn: Orbans größter Konkurrent - wer ist Peter Magyar?",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-peter-magyar-104.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Macron appelliert an Führung in Teheran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-108.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Warum die Artemis-2-Mission kein Fake ist",
       "link": "https://www.tagesschau.de/faktenfinder/artemis-2-mondmission-100.html"
-    },
-    {
-      "title": "Artemis 2: Rückkehr unter extremen Bedingungen",
-      "link": "https://www.tagesschau.de/ausland/amerika/artemis-rueckkehr-landung-100.html"
     }
   ]
 }
