@@ -1,8 +1,28 @@
 {
   "items": [
     {
+      "title": "Lufthansa-Piloten streiken am Montag und Dienstag",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/pilotenstreik-lufthansa-102.html"
+    },
+    {
+      "title": "Nach Flug um den Mond: Jubel über erfolgreiche Artemis-2-Mission",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-raumfahrt-artemis-104.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump kündigt Räumung der Straße von Hormus an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-108.html"
+    },
+    {
+      "title": "AfD Sachsen-Anhalt will Wahlprogramm beschließen",
+      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/afd-sachsen-anhalt-wahlprogramm-100.html"
+    },
+    {
+      "title": "Sachsen-Anhalt: Oberleitung stürzt auf ICE - 600 Reisende sitzen fest",
+      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/sachsen-anhalt-ice-600-reisende-sitzen-fest-100.html"
+    },
+    {
+      "title": "Verhandlungen zwischen Iran und USA haben begonnen",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-iran-usa-verhandlungen-100.html"
     },
     {
       "title": "Neuseeland bereitet sich mit Evakuierungen auf Zyklon \"Vaianu\" vor",
@@ -15,10 +35,6 @@
     {
       "title": "Russland und Ukraine fliegen Drohnenangriffe: Tote und Verletzte",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-196.html"
-    },
-    {
-      "title": "AfD Sachsen-Anhalt will Wahlprogramm beschließen",
-      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/afd-sachsen-anhalt-wahlprogramm-100.html"
     },
     {
       "title": "Bayern: Ganztägige Warnstreiks im Nahverkehr am Dienstag",
@@ -63,22 +79,6 @@
     {
       "title": "Artemis 2: Rückkehr unter extremen Bedingungen",
       "link": "https://www.tagesschau.de/ausland/amerika/artemis-rueckkehr-landung-100.html"
-    },
-    {
-      "title": "Vor Verhandlungen in Pakistan: Trump droht - Iran stellt Bedingungen",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-110.html"
-    },
-    {
-      "title": "Krieg im Nahen Osten: Wie Israel den Siedlungsbau fortsetzt",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungsbau-westjordanland-106.html"
-    },
-    {
-      "title": "Vor der Wahl in Ungarn: Warum Orban so lange an der Macht ist",
-      "link": "https://www.tagesschau.de/ausland/europa/orban-ungarn-120.html"
-    },
-    {
-      "title": "Ein Toter bei schwerem Busunglück auf Kanareninsel La Gomera",
-      "link": "https://www.tagesschau.de/ausland/europa/la-gomera-busunglueck-100.html"
     }
   ]
 }
