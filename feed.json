@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Pakistan ruft zur Einhaltung der Waffenruhe auf++",
+      "title": "Iran-Liveblog: ++ Trump kündigt Blockade der Straße von Hormus an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-108.html"
+    },
+    {
+      "title": "Neuseeland: Zyklon \"Vaianu\" richtet Schäden an",
+      "link": "https://www.tagesschau.de/ausland/zyklon-vaianu-100.html"
     },
     {
       "title": "Ungarn am Tag der Wahl: Wandel oder weiter mit Orban?",
@@ -75,10 +79,6 @@
     {
       "title": "Wahl in Ungarn: Orbans größter Konkurrent - wer ist Peter Magyar?",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-peter-magyar-104.html"
-    },
-    {
-      "title": "Lufthansa-Piloten streiken am Montag und Dienstag",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/pilotenstreik-lufthansa-102.html"
     }
   ]
 }
