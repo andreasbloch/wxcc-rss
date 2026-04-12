@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Ungarn: Magyar steuert auf Sieg zu - Orban räumt Niederlage ein",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-100.html"
+    },
+    {
       "title": "Gedenken im KZ Buchenwald: Kerkeling warnt vor \"Kultur des Wegsehens\"",
       "link": "https://www.tagesschau.de/inland/regional/thueringen/gedenken-buchenwald-128.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Parlamentswahl in Ungarn: Ein Land am Scheideweg",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-108.html"
-    },
-    {
-      "title": "Hohe Energiepreise: Bisher keine Einigung der Koalition in Sicht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-treffen-100.html"
     }
   ]
 }
