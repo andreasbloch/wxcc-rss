@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Papst Leo XIV. will auf erster Afrikareise Zeichen setzen",
+      "link": "https://www.tagesschau.de/ausland/papst-leo-afrikareise-100.html"
+    },
+    {
+      "title": "Marktbericht: US-Seeblockade macht Anleger nervös",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-blockade-hormus-100.html"
+    },
+    {
+      "title": "Kommentar zur Wahl in Ungarn: Das System Orban ist zerplatzt",
+      "link": "https://www.tagesschau.de/kommentar/ungarn-wahl-kommentar-100.html"
+    },
+    {
+      "title": "Orban in Ungarn abgewählt: Budapest feiert Wahlsieger Magyar",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-114.html"
+    },
+    {
+      "title": "Straße von Hormus: Was steckt hinter Trumps Seeblockade?",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-blockade-hormus-102.html"
+    },
+    {
       "title": "Zweitägiger Streik beginnt: Lufthansa-Piloten legen Arbeit nieder",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-108.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Ungarn am Tag der Wahl: Wandel oder weiter mit Orban?",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-110.html"
-    },
-    {
-      "title": "Gedenkstätte Buchenwald: \"Das Ende der Zeitzeugenschaft ist gekommen\"",
-      "link": "https://www.tagesschau.de/kultur/leiter-gedenkstaette-buchenwald-erinnerungskultur-100.html"
-    },
-    {
-      "title": "Sachsen-Anhalt: Oberleitung stürzt auf ICE - 600 Reisende sitzen fest",
-      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/sachsen-anhalt-ice-600-reisende-sitzen-fest-100.html"
-    },
-    {
-      "title": "Bauernverband fordert Unterstützung wegen steigender Spritpreise",
-      "link": "https://www.tagesschau.de/wirtschaft/bauernverband-spritpreise-100.html"
-    },
-    {
-      "title": "Deutsche Händler entdecken Temu",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/temu-wachstum-deutschland-100.html"
-    },
-    {
-      "title": "Mehr als 500 Festnahmen bei pro-palästinensischer Demo in London",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-london-festnahmen-demonstration-100.html"
     }
   ]
 }
