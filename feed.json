@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Trump droht mit Angriffen auf Revolutionsgarde-Boote ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-112.html"
+    },
+    {
+      "title": "Nach Wahl in Ungarn: \"Magyar muss zerstörtes Vertrauen aufbauen\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-orban-magyar-erwartungen-100.html"
+    },
+    {
+      "title": "Wahlsieger Magyar kündigt neue Ära für Ungarn an",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-magyar-neue-area-100.html"
+    },
+    {
+      "title": "Zahl der Hinrichtungen in Iran laut Menschenrechtlern deutlich gestiegen",
+      "link": "https://www.tagesschau.de/ausland/asien/hinrichtungen-iran-menschenrechte-100.html"
+    },
+    {
+      "title": "Präsidentenwahl in Peru: Stichwahl zeichnet sich ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/peru-praesidentenwahl-106.html"
+    },
+    {
       "title": "Solingen-Anschlag: Hat Wüst Aufklärung verzögert?",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/solingen-anschlag-wuest-aufklaerung-100.html"
     },
@@ -19,10 +39,6 @@
     {
       "title": "Was der Wahlsieg von Magyar in Ungarn für die EU bedeutet",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-eu-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Paris und London planen Hormus-Konferenz ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-112.html"
     },
     {
       "title": "Vor US-Blockade: Ölmarkt erneut in Aufruhr",
@@ -63,22 +79,6 @@
     {
       "title": "Gedenken im KZ Buchenwald: Kerkeling warnt vor \"Kultur des Wegsehens\"",
       "link": "https://www.tagesschau.de/inland/regional/thueringen/gedenken-buchenwald-128.html"
-    },
-    {
-      "title": "Faktenfinder: Falschbehauptungen rund ums Tanken verbreitet",
-      "link": "https://www.tagesschau.de/faktenfinder/gestreckter-kraftstoff-100.html"
-    },
-    {
-      "title": "Papst Leo XIV. will auf erster Afrikareise Zeichen setzen",
-      "link": "https://www.tagesschau.de/ausland/papst-leo-afrikareise-100.html"
-    },
-    {
-      "title": "Kommentar zur Wahl in Ungarn: Das System Orban ist zerplatzt",
-      "link": "https://www.tagesschau.de/kommentar/ungarn-wahl-kommentar-100.html"
-    },
-    {
-      "title": "Orban in Ungarn abgewählt: Budapest feiert Wahlsieger Magyar",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-114.html"
     }
   ]
 }
