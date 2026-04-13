@@ -1,8 +1,24 @@
 {
   "items": [
     {
+      "title": "Zuspitzung am Persischen Golf: Nur leichte Verluste im DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-blockade-hormus-100.html"
+    },
+    {
+      "title": "Wie die EU aus der Energiekrise kommen will",
+      "link": "https://www.tagesschau.de/ausland/europa/energiekrise-eu-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump droht mit Angriffen auf Revolutionsgarde-Boote ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-112.html"
+    },
+    {
+      "title": "Verteidigungspolitischer Sprecher der AfD-Fraktion zurückgetreten",
+      "link": "https://www.tagesschau.de/inland/afd-lucassen-ruecktritt-100.html"
+    },
+    {
+      "title": "\"Soziale Schieflage\": Deutliche Kritik an Entlastungsplänen der Koalition",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-kritik-koalitionsausschuss-entlastungsplaene-100.html"
     },
     {
       "title": "Nach Wahl in Ungarn: \"Magyar muss zerstörtes Vertrauen aufbauen\"",
@@ -13,16 +29,16 @@
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-magyar-neue-area-100.html"
     },
     {
+      "title": "Solingen-Anschlag: Hat Wüst Aufklärung verzögert?",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/solingen-anschlag-wuest-aufklaerung-100.html"
+    },
+    {
       "title": "Zahl der Hinrichtungen in Iran laut Menschenrechtlern deutlich gestiegen",
       "link": "https://www.tagesschau.de/ausland/asien/hinrichtungen-iran-menschenrechte-100.html"
     },
     {
       "title": "Präsidentenwahl in Peru: Stichwahl zeichnet sich ab",
       "link": "https://www.tagesschau.de/ausland/amerika/peru-praesidentenwahl-106.html"
-    },
-    {
-      "title": "Solingen-Anschlag: Hat Wüst Aufklärung verzögert?",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/solingen-anschlag-wuest-aufklaerung-100.html"
     },
     {
       "title": "Tankrabatt 2.0: Was die Senkung der Energiesteuer bringt",
@@ -63,22 +79,6 @@
     {
       "title": "Blitzermarathon: Polizei verstärkt Radarkontrollen in Deutschland",
       "link": "https://www.tagesschau.de/inland/kontrollwoche-strassenverkehr-100.html"
-    },
-    {
-      "title": "US-Präsident Trump attackiert Papst Leo XIV.",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-papst-konflikt-100.html"
-    },
-    {
-      "title": "Koalition will Autofahrer durch Steuersenkung entlasten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-ergebnisse-mineraloelsteuer-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX startet mit Verlusten in die Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-blockade-hormus-100.html"
-    },
-    {
-      "title": "Gedenken im KZ Buchenwald: Kerkeling warnt vor \"Kultur des Wegsehens\"",
-      "link": "https://www.tagesschau.de/inland/regional/thueringen/gedenken-buchenwald-128.html"
     }
   ]
 }
