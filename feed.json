@@ -1,16 +1,32 @@
 {
   "items": [
     {
+      "title": "Warum die US-Seeblockade an der Straße von Hormus nicht ohne Risiko ist",
+      "link": "https://www.tagesschau.de/ausland/asien/seeblockade-persischer-golf-strasse-hormus-usa-iran-100.html"
+    },
+    {
       "title": "Aufatmen in Berlin und Brüssel nach Magyars Wahlsieg in Ungarn",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-102.html"
     },
     {
-      "title": "Marktbericht: DAX startet mit Verlusten in die Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-blockade-hormus-100.html"
+      "title": "Iran-Liveblog: ++ Paris und London planen Hormus-Konferenz ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-112.html"
+    },
+    {
+      "title": "Blitzermarathon: Polizei verstärkt Radarkontrollen in Deutschland",
+      "link": "https://www.tagesschau.de/inland/kontrollwoche-strassenverkehr-100.html"
+    },
+    {
+      "title": "US-Präsident Trump attackiert Papst Leo XIV.",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-papst-konflikt-100.html"
     },
     {
       "title": "Koalition will Autofahrer durch Steuersenkung entlasten",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-ergebnisse-mineraloelsteuer-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX startet mit Verlusten in die Woche",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-blockade-hormus-100.html"
     },
     {
       "title": "Herbert Grönemeyer: Ein deutscher Barde wird 70",
@@ -23,14 +39,6 @@
     {
       "title": "Faktenfinder: Falschbehauptungen rund ums Tanken verbreitet",
       "link": "https://www.tagesschau.de/faktenfinder/gestreckter-kraftstoff-100.html"
-    },
-    {
-      "title": "Sachsen-Anhalt: Oberleitung stürzt auf ICE - 600 Reisende sitzen fest",
-      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/sachsen-anhalt-ice-600-reisende-sitzen-fest-100.html"
-    },
-    {
-      "title": "US-Präsident Trump attackiert Papst Leo XIV.",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-papst-konflikt-100.html"
     },
     {
       "title": "Papst Leo XIV. will auf erster Afrikareise Zeichen setzen",
@@ -71,14 +79,6 @@
     {
       "title": "USA und Iran: Verhandlungen gescheitert - wie geht es weiter?",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-gescheiterte-verhandlungen-100.html"
-    },
-    {
-      "title": "AfD spricht bei Fraktionsklausur kaum über strittige Themen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-fraktionsklausur-100.html"
-    },
-    {
-      "title": "Wie Archäologen auf Vitruvs Basilika stießen",
-      "link": "https://www.tagesschau.de/wissen/forschung/basilika-aus-roemerzeit-entdeckt-100.html"
     }
   ]
 }
