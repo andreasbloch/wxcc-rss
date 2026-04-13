@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Aufatmen in Berlin und Brüssel nach Magyars Wahlsieg in Ungarn",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-102.html"
+    },
+    {
+      "title": "Zweitägiger Streik beginnt: Lufthansa-Piloten legen Arbeit nieder",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-pilotenstreik-108.html"
+    },
+    {
       "title": "Ungarn: Magyar siegt deutlich - Orban räumt Niederlage ein",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Mehr als 500 Festnahmen bei pro-palästinensischer Demo in London",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-london-festnahmen-demonstration-100.html"
-    },
-    {
-      "title": "AfD in Sachsen-Anhalt beschließt Wahlprogramm",
-      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/afd-sachsen-anhalt-wahlprogramm-100.html"
-    },
-    {
-      "title": "Parlamentswahl in Ungarn: Ein Land am Scheideweg",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-108.html"
     }
   ]
 }
