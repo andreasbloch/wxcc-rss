@@ -1,12 +1,40 @@
 {
   "items": [
     {
-      "title": "Papst Leo XIV. will auf erster Afrikareise Zeichen setzen",
-      "link": "https://www.tagesschau.de/ausland/papst-leo-afrikareise-100.html"
+      "title": "Aufatmen in Berlin und Brüssel nach Magyars Wahlsieg in Ungarn",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-102.html"
     },
     {
-      "title": "Marktbericht: US-Seeblockade macht Anleger nervös",
+      "title": "Marktbericht: DAX startet mit Verlusten in die Woche",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-blockade-hormus-100.html"
+    },
+    {
+      "title": "Koalition will Autofahrer durch Steuersenkung entlasten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-ergebnisse-mineraloelsteuer-100.html"
+    },
+    {
+      "title": "Herbert Grönemeyer: Ein deutscher Barde wird 70",
+      "link": "https://www.tagesschau.de/kultur/herbert-groenemeyer-70-geburtstag-100.html"
+    },
+    {
+      "title": "Gedenken im KZ Buchenwald: Kerkeling warnt vor \"Kultur des Wegsehens\"",
+      "link": "https://www.tagesschau.de/inland/regional/thueringen/gedenken-buchenwald-128.html"
+    },
+    {
+      "title": "Faktenfinder: Falschbehauptungen rund ums Tanken verbreitet",
+      "link": "https://www.tagesschau.de/faktenfinder/gestreckter-kraftstoff-100.html"
+    },
+    {
+      "title": "Sachsen-Anhalt: Oberleitung stürzt auf ICE - 600 Reisende sitzen fest",
+      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/sachsen-anhalt-ice-600-reisende-sitzen-fest-100.html"
+    },
+    {
+      "title": "US-Präsident Trump attackiert Papst Leo XIV.",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-papst-konflikt-100.html"
+    },
+    {
+      "title": "Papst Leo XIV. will auf erster Afrikareise Zeichen setzen",
+      "link": "https://www.tagesschau.de/ausland/papst-leo-afrikareise-100.html"
     },
     {
       "title": "Kommentar zur Wahl in Ungarn: Das System Orban ist zerplatzt",
@@ -29,16 +57,8 @@
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-100.html"
     },
     {
-      "title": "Aufatmen in Berlin und Brüssel nach Magyars Wahlsieg in Ungarn",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-magyar-102.html"
-    },
-    {
       "title": "Iran-Liveblog: ++ Trump rechnet noch über Monate mit hohem Ölpreis ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-108.html"
-    },
-    {
-      "title": "Gedenken im KZ Buchenwald: Kerkeling warnt vor \"Kultur des Wegsehens\"",
-      "link": "https://www.tagesschau.de/inland/regional/thueringen/gedenken-buchenwald-128.html"
     },
     {
       "title": "25 Jahre Guantánamo - und noch kein Prozess für 9/11-Verdächtige",
@@ -59,26 +79,6 @@
     {
       "title": "Wie Archäologen auf Vitruvs Basilika stießen",
       "link": "https://www.tagesschau.de/wissen/forschung/basilika-aus-roemerzeit-entdeckt-100.html"
-    },
-    {
-      "title": "US-Präsident Trump kündigt Blockade der Straße von Hormus an",
-      "link": "https://www.tagesschau.de/ausland/us-blockade-hormus-100.html"
-    },
-    {
-      "title": "Waffenruhe in der Ukraine: Osternacht ohne Luftalarm",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-ostern-104.html"
-    },
-    {
-      "title": "Ukraine und Russland melden gegenseitige Verstöße der Osterwaffenruhe",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-feuerpause-russland-100.html"
-    },
-    {
-      "title": "Neuseeland: Zyklon \"Vaianu\" richtet Schäden an",
-      "link": "https://www.tagesschau.de/ausland/zyklon-vaianu-100.html"
-    },
-    {
-      "title": "Ungarn am Tag der Wahl: Wandel oder weiter mit Orban?",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-110.html"
     }
   ]
 }
