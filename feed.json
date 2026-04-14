@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Gespräche zwischen Israel und Libanon gestartet ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-110.html"
+    },
+    {
+      "title": "Pakistan drängt vor Ablauf der Waffenruhe auf neue Iran-Gespräche",
+      "link": "https://www.tagesschau.de/ausland/asien/krieg-iran-usa-waffenruhe-pakistan-neue-gespraeche-100.html"
+    },
+    {
+      "title": "Regenwälder erholen sich Studie zufolge schneller als gedacht",
+      "link": "https://www.tagesschau.de/wissen/klima/studie-erholung-regenwald-flaechen-100.html"
+    },
+    {
+      "title": "Nach Magyars Wahlsieg: Wie geht es in Ungarn weiter?",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahlsieg-naechste-schritte-100.html"
+    },
+    {
+      "title": "Gesundheitsreform sieht Einschnitte für alle Bereiche vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reform-gesundheitssystem-warken-100.html"
+    },
+    {
+      "title": "DAX über 24.000 Punkten: Die Zuversicht ist zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boersen-dow-jones-nikkei-100.html"
+    },
+    {
       "title": "Start der Zeckensaison: 2024 starben 24 Menschen an FSME und Borreliose",
       "link": "https://www.tagesschau.de/inland/gesellschaft/zecken-borreliose-fsme-todeszahlen-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Liebich lehnt Auslieferung nach Deutschland ab",
       "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/liebich-auslieferung-100.html"
-    },
-    {
-      "title": "Warnstreiks bremsen Nahverkehr in Bayern",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/warnstreiks-bayern-nahverkehr-100.html"
-    },
-    {
-      "title": "Deutsch-ukrainische Regierungskonsultationen in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutsch-ukrainische-konsultationen-100.html"
-    },
-    {
-      "title": "Holocaust-Gedenktag in Israel: \"Wohin man auch ging - dieser Geruch des Todes\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-holocaust-gedenktag-108.html"
-    },
-    {
-      "title": "Iran-Krieg: Was kann die US-Blockade bewirken?",
-      "link": "https://www.tagesschau.de/ausland/asien/hormus-blockade-iran-usa-100.html"
-    },
-    {
-      "title": "Interview: \"Tsunami an Material von Kindesmissbrauch\" durch Live-Streaming",
-      "link": "https://www.tagesschau.de/ausland/amerika/online-missbrauch-kinder-100.html"
-    },
-    {
-      "title": "Marktbericht: Friedenshoffnungen treiben DAX auf 24.000 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boersen-dow-jones-nikkei-100.html"
     }
   ]
 }
