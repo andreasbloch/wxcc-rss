@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Israel und Libanon verhandeln erstmals miteinander",
+      "link": "https://www.tagesschau.de/ausland/asien/gespraeche-libanon-israel-100.html"
+    },
+    {
+      "title": "US-Blockade der Straße von Hormus hat begonnen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-blockade-usa-hormus-100.html"
+    },
+    {
+      "title": "EU beschließt Schutzmaßnahmen für Stahlindustrie",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-stahlimporte-zoll-100.html"
+    },
+    {
       "title": "Lufthansa-Flugbegleiter streiken erneut am Mittwoch und Donnerstag",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streiks-mittwoch-donnerstag-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Ungarn-Wahl: Orbans Niederlage beflügelt die Börse",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/wahl-ungarn-boerse-orban-magyar-100.html"
-    },
-    {
-      "title": "Was der Wahlsieg von Magyar in Ungarn für die EU bedeutet",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahl-eu-100.html"
-    },
-    {
-      "title": "Vor US-Blockade: Ölmarkt erneut in Aufruhr",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-blockade-100.html"
-    },
-    {
-      "title": "Pilotenstreik bei Lufthansa und Eurowings sorgt für viele Flugausfälle",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-piloten-streik-106.html"
     }
   ]
 }
