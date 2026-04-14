@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Hunderte Flugausfälle wegen Lufthansa-Piloten-Streiks",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streik-346.html"
+    },
+    {
+      "title": "Supertaifun \"Sinlaku\" fegt über Westpazifik - Touristen sitzen fest",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/taifun-marianen-100.html"
+    },
+    {
       "title": "Liebich lehnt Auslieferung nach Deutschland ab",
       "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/liebich-auslieferung-100.html"
     },
@@ -27,6 +35,10 @@
     {
       "title": "Marktbericht: Friedenshoffnungen treiben DAX auf 24.000 Punkte",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boersen-dow-jones-nikkei-100.html"
+    },
+    {
+      "title": "Solingen-Anschlag: Hat Wüst Aufklärung verzögert?",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/solingen-anschlag-wuest-aufklaerung-100.html"
     },
     {
       "title": "KI-Bild und Papst-Kritik: Trump auf Konfrontationskurs mit Vatikan",
@@ -67,18 +79,6 @@
     {
       "title": "Lufthansa-Flugbegleiter streiken erneut am Mittwoch und Donnerstag",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streiks-mittwoch-donnerstag-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Trump droht mit Angriffen auf Revolutionsgarde-Boote ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-112.html"
-    },
-    {
-      "title": "Trump scheitert vorerst mit Klage gegen Wall Street Journal",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-klage-abgewiesen-100.html"
-    },
-    {
-      "title": "Papst weist Kritik von US-Präsident Trump zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/konflikt-papst-leo-xiv-us-regierung-trump-100.html"
     }
   ]
 }
