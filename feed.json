@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Iran-Krise: Erste Ölkonzerne melden sprudelnde Gewinne",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelkonzerne-100.html"
+    },
+    {
+      "title": "Gesundheitsreform: Warken schlägt Milliarden-Einsparungen vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-einsparungen-gesundheit-100.html"
+    },
+    {
+      "title": "Spitzentreffen in Berlin: Deutschland und Ukraine vertiefen Militärkooperation",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutsch-ukrainische-konsultationen-102.html"
+    },
+    {
+      "title": "FAQ: Was Magyars Wahlsieg in Ungarn für die Ukraine ändert",
+      "link": "https://www.tagesschau.de/ausland/ukraine-ungarn-hilfen-100.html"
+    },
+    {
       "title": "Hunderte Flugausfälle wegen Lufthansa-Piloten-Streiks",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streik-346.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Holocaust-Überlebende führen \"Marsch der Lebenden\" in Auschwitz an",
       "link": "https://www.tagesschau.de/ausland/europa/holocaust-marsch-der-lebenden-100.html"
-    },
-    {
-      "title": "Israel und Libanon verhandeln erstmals miteinander",
-      "link": "https://www.tagesschau.de/ausland/asien/gespraeche-libanon-israel-100.html"
-    },
-    {
-      "title": "US-Blockade der Straße von Hormus hat begonnen",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-blockade-usa-hormus-100.html"
-    },
-    {
-      "title": "EU beschließt Schutzmaßnahmen für Stahlindustrie",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-stahlimporte-zoll-100.html"
-    },
-    {
-      "title": "Lufthansa-Flugbegleiter streiken erneut am Mittwoch und Donnerstag",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streiks-mittwoch-donnerstag-100.html"
     }
   ]
 }
