@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Trump legt gegen Papst Leo XIV. nach ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-110.html"
+    },
+    {
+      "title": "Hunderte Flugausfälle - Streikwelle zum Lufthansa-Jubiläum",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/lufthansa-streiks-104.html"
+    },
+    {
+      "title": "Kanadas Premier Carney: Erfolgreich auf Anti-Trump-Kurs",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-carney-mehrheitsregierung-100.html"
+    },
+    {
+      "title": "Zwei Tote bei Flugzeugabsturz in Nordrhein-Westfalen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flugzeugabsturz-bei-aachen-100.html"
+    },
+    {
       "title": "Tausende Slowaken protestieren gegen Wahlrechtsänderung",
       "link": "https://www.tagesschau.de/ausland/europa/slowakei-protest-briefwahl-100.html"
     },
@@ -27,10 +43,6 @@
     {
       "title": "Erstes Gespräch beendet - Israel und Libanon wollen weiter verhandeln",
       "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-gespraeche-krieg-100.html"
-    },
-    {
-      "title": "Zwei Tote bei Flugzeugabsturz in Nordrhein-Westfalen",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flugzeugabsturz-bei-aachen-100.html"
     },
     {
       "title": "Loskäufer aus Paris gewinnt Picasso im Wert von 850.000 Euro",
@@ -67,18 +79,6 @@
     {
       "title": "Gesundheitsreform sieht Einschnitte für alle Bereiche vor",
       "link": "https://www.tagesschau.de/inland/innenpolitik/reform-gesundheitssystem-warken-100.html"
-    },
-    {
-      "title": "DAX über 24.000 Punkten: Die Zuversicht ist zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boersen-dow-jones-nikkei-100.html"
-    },
-    {
-      "title": "Start der Zeckensaison: 2024 starben 24 Menschen an FSME und Borreliose",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zecken-borreliose-fsme-todeszahlen-100.html"
-    },
-    {
-      "title": "München: Haftstrafe für Vergewaltigung betäubter Frau",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/vergewaltigung-betaeubung-urteil-100.html"
     }
   ]
 }
