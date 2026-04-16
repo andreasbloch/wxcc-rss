@@ -1,12 +1,32 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Trump kündigt Israel-Libanon-Gespräche an ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-110.html"
+    },
+    {
+      "title": "Mehrere Tote und Verletzte bei russischen Angriffen auf ukrainische Großstädte",
+      "link": "https://www.tagesschau.de/ausland/europa/tote-russische-angriffe-ukraine-100.html"
+    },
+    {
+      "title": "Marktbericht: Friedenshoffnung macht Anleger mutiger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-102.html"
+    },
+    {
+      "title": "Pantisano will als Nachfolger von Jan van Aken Linken-Chef werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/parteien-linke-nachfolger-100.html"
+    },
+    {
+      "title": "Hunderte Flugausfälle - Lufthansa-Streiks gehen weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streiks-108.html"
+    },
+    {
       "title": "Bundestag debattiert Tankrabatt um 17 Cent pro Liter ab Mai",
       "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-debatte-100.html"
     },
     {
       "title": "Papst in Kamerun: Mahnung an den Präsidenten und die Hoffnung auf Frieden",
-      "link": "https://www.tagesschau.de/ausland/afrika/papstbesuch-kamerum-100.html"
+      "link": "https://www.tagesschau.de/ausland/afrika/papstbesuch-kamerun-100.html"
     },
     {
       "title": "Deutschland diskutiert, andere handeln: Wie EU-Länder in der Energiekrise helfen",
@@ -59,26 +79,6 @@
     {
       "title": "Ungarischer Wahlsieger Magyar fordert Präsidenten zum Rücktritt auf",
       "link": "https://www.tagesschau.de/ausland/ungarn-magyar-reformen-100.html"
-    },
-    {
-      "title": "Wie die Blockade der Straße von Hormus Asiens Lebensader trifft",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oel-forderung-singapur-australien-100.html"
-    },
-    {
-      "title": "Bund fördert E-Ladepunkte in Mehrparteienhäusern",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-ladeinfrastruktur-foerderung-mehrparteienhaeuser-100.html"
-    },
-    {
-      "title": "Asylmissbrauch in Großbritannien - Fake-Identitäten und falsche Asylgründe",
-      "link": "https://www.tagesschau.de/ausland/bbc-recherche-asylantraege-100.html"
-    },
-    {
-      "title": "Aixtron an der MDAX-Spitze",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-102.html"
-    },
-    {
-      "title": "Preisentwicklung: Tanken wird weiter billiger",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-entwicklung-104.html"
     }
   ]
 }
