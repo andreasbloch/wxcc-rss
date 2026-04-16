@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Südlibanon: Israelischer Angriff zerstört letzte Brücke ++",
+      "title": "Russland hat die Ukraine wieder massiv angegriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-luftangriffe-alarmzustand-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Trump verkündet zehntägige Waffenruhe im Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-110.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Hunderte Flugausfälle - Lufthansa-Streiks gehen weiter",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-streiks-108.html"
-    },
-    {
-      "title": "Tarifeinigung für den öffentlichen Nahverkehr in Bayern",
-      "link": "https://www.tagesschau.de/inland/regional/bayern-nahverkehr-tarifeinigung-100.html"
     }
   ]
 }
