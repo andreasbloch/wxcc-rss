@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Bundestag debattiert Tankrabatt um 17 Cent pro Liter ab Mai",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-debatte-100.html"
+    },
+    {
+      "title": "Papst in Kamerun: Mahnung an den Präsidenten und die Hoffnung auf Frieden",
+      "link": "https://www.tagesschau.de/ausland/afrika/papstbesuch-kamerum-100.html"
+    },
+    {
+      "title": "Deutschland diskutiert, andere handeln: Wie EU-Länder in der Energiekrise helfen",
+      "link": "https://www.tagesschau.de/ausland/europa/energiekosten-eu-entlastungen-100.html"
+    },
+    {
+      "title": "Der fast vergessene Krieg im Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/gazastreifen-krieg-106.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ UN geben Notfallhilfe für Iran frei ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-110.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Preisentwicklung: Tanken wird weiter billiger",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreis-entwicklung-104.html"
-    },
-    {
-      "title": "Wie wichtig sind Abiturnoten heute noch für einen Studienplatz?",
-      "link": "https://www.tagesschau.de/wissen/forschung/bedeutung-abiturnote-100.html"
-    },
-    {
-      "title": "Kriegsfolgen: Was gibt es zu feiern für die Lufthansa?",
-      "link": "https://www.tagesschau.de/wirtschaft/luftverkehr-krieg-iran-lufthansa-100.html"
-    },
-    {
-      "title": "Finanzspritze vom Bund: Eine Milliarde Euro für Länder und Kommunen",
-      "link": "https://www.tagesschau.de/wirtschaft/milliarde-finanzspritze-laender-kommunen-100.html"
-    },
-    {
-      "title": "Warkens Sparpaket: Was auf Patienten zukommen könnte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/warken-gesundheit-faq-100.html"
     }
   ]
 }
