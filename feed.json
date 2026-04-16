@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "Kandidat für Linken-Vorsitz: Welche Pläne hat Luigi Pantisano?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-luigi-pantisano-100.html"
+    },
+    {
+      "title": "EU-Kommission genehmigt deutschen Industriestrompreis",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-industriestrompreis-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump kündigt Israel-Libanon-Gespräche an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-110.html"
+    },
+    {
+      "title": "Bundestag zum Tankrabatt: \"Gerechte Maßnahme\" oder \"Schnapsidee\"?",
+      "link": "https://www.tagesschau.de/inland/bundestag-debatte-entlastungen-100.html"
     },
     {
       "title": "Tote und Verletzte bei russischen Angriffen auf ukrainische Großstädte",
@@ -67,18 +79,6 @@
     {
       "title": "BBC will bis zu 2.000 Stellen streichen",
       "link": "https://www.tagesschau.de/ausland/europa/bbc-entlassungen-100.html"
-    },
-    {
-      "title": "Kommentar zu Entlastungen: Es muss Schluss sein mit der Vollkasko-Mentalität",
-      "link": "https://www.tagesschau.de/kommentar/regierung-entlastung-spritpreise-100.html"
-    },
-    {
-      "title": "Hohe Spritpreise: Klingbeil stellt weitere Entlastungen in Aussicht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/regierung-spritpreise-entlastung-100.html"
-    },
-    {
-      "title": "Pistorius ruft zur weiteren Unterstützung der Ukraine auf",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-ukraine-hilfen-100.html"
     }
   ]
 }
