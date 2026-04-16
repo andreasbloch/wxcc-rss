@@ -1,12 +1,28 @@
 {
   "items": [
     {
-      "title": "Tote und Verletzte bei russischen Angriffen auf ukrainische Großstädte",
-      "link": "https://www.tagesschau.de/ausland/europa/tote-russische-angriffe-ukraine-100.html"
-    },
-    {
       "title": "Iran-Liveblog: ++ Südlibanon: Israelischer Angriff zerstört letzte Brücke ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-110.html"
+    },
+    {
+      "title": "EU-Kommission genehmigt deutschen Industriestrompreis",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-industriestrompreis-100.html"
+    },
+    {
+      "title": "Lufthansa stellt Betrieb der Tochtergesellschaft CityLine ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-cityline-stilllegung-100.html"
+    },
+    {
+      "title": "Teure Energie: Iran-Krieg befeuert Inflation in der Eurozone",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-energiepreise-iran-krieg-100.html"
+    },
+    {
+      "title": "Bilanz 2025: Bosch schreibt das erst Mal seit 2009 Verluste",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-verluste-100.html"
+    },
+    {
+      "title": "Tote und Verletzte bei russischen Angriffen auf ukrainische Großstädte",
+      "link": "https://www.tagesschau.de/ausland/europa/tote-russische-angriffe-ukraine-100.html"
     },
     {
       "title": "Marktbericht:  Chip-Supermacht Taiwan - TSMC ist nicht zu bremsen",
@@ -14,7 +30,7 @@
     },
     {
       "title": "Urteil: Klage gegen App-Rabatte bei Discounter Penny abgewiesen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-penny-app-rabatte-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/urteil-penny-app-rabatte-100.html"
     },
     {
       "title": "Glücksspiel-Verluste: EuGH ebnet Weg für Rückforderungen",
@@ -31,10 +47,6 @@
     {
       "title": "Kandidat für Linken-Vorsitz: Welche Pläne hat Luigi Pantisano?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/linke-luigi-pantisano-100.html"
-    },
-    {
-      "title": "EU-Kommission genehmigt deutschen Industriestrompreis",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-industriestrompreis-100.html"
     },
     {
       "title": "Bundestag zum Tankrabatt: \"Gerechte Maßnahme\" oder \"Schnapsidee\"?",
@@ -67,18 +79,6 @@
     {
       "title": "Tarifeinigung für den öffentlichen Nahverkehr in Bayern",
       "link": "https://www.tagesschau.de/inland/regional/bayern-nahverkehr-tarifeinigung-100.html"
-    },
-    {
-      "title": "Menschen in Iran fühlen sich als Spielball zwischen den USA und dem Regime",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-bevoelkerung-krieg-100.html"
-    },
-    {
-      "title": "Pantisano will als Nachfolger von Jan van Aken Linken-Chef werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/parteien-linke-nachfolger-100.html"
-    },
-    {
-      "title": "Bundestag debattiert Tankrabatt um 17 Cent pro Liter ab Mai",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-debatte-100.html"
     }
   ]
 }
