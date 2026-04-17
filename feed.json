@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Flugausfälle in Düsseldorf und Köln wegen Lufthansa-Streik",
+      "link": "https://www.tagesschau.de/inland/streik-lufthansa-piloten-102.html"
+    },
+    {
+      "title": "Debatte über Atom-Wiedereinstieg: \"Es wäre ein kompletter Neueinstieg\"",
+      "link": "https://www.tagesschau.de/wissen/technologie/hintergrund-wiedereinstieg-atomkraft-100.html"
+    },
+    {
+      "title": "Justizministerin Hubig stellt Gesetzentwurf gegen digitale Gewalt vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/digitale-gewalt-gesetzentwurf-hubig-100.html"
+    },
+    {
+      "title": "Bundestag beschließt E-Auto-Prämie - rückwirkend ab Januar 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-praemie-e-auto-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Vertriebene im Libanon kehren zurück ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-110.html"
     },
@@ -41,10 +57,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/warken-kritik-mitversicherung-gesundheitsreform-100.html"
     },
     {
-      "title": "Flugausfälle in Düsseldorf und Köln wegen Lufthansa-Streik",
-      "link": "https://www.tagesschau.de/inland/streik-lufthansa-piloten-102.html"
-    },
-    {
       "title": "Nach Erfolg im Libanon: Trump hofft auf Durchbruch mit Iran",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-waffenruhe-libanon-102.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Hormus-Mission: Deutschland will offenbar Minenjagdboote anbieten",
       "link": "https://www.tagesschau.de/ausland/asien/deutschland-hormus-mission-100.html"
-    },
-    {
-      "title": "Trump verkündet Waffenruhe zwischen Israel und Libanon",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-waffenruhe-102.html"
-    },
-    {
-      "title": "Harmloser Coachella-Pop im erhitzten Amerika",
-      "link": "https://www.tagesschau.de/kultur/coachella-harmloser-pop-im-trump-amerika-100.html"
-    },
-    {
-      "title": "Zugvögel: Tanzende Waldschnepfen begeistern New York",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-new-york-waldschnepfe-100.html"
     }
   ]
 }
