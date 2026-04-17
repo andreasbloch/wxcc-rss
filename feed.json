@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Streikwelle bei der Lufthansa vorerst beendet",
+      "link": "https://www.tagesschau.de/wirtschaft/lufthansa-streiks-vorbei-100.html"
+    },
+    {
+      "title": "Hormus-Konferenz in Paris: Ein Zeichen der Geschlossenheit",
+      "link": "https://www.tagesschau.de/ausland/asien/hormus-konferenz-paris-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump will angereichertes Uran in die USA holen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-110.html"
     },
@@ -33,7 +41,7 @@
       "link": "https://www.tagesschau.de/kerosinmangel-moegliche-folgen-100.html"
     },
     {
-      "title": "Iran will Straße von Hormus während Waffenruhe im Libanon öffnen",
+      "title": "Iran will Straße von Hormus wegen Waffenruhe im Libanon öffnen",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-strasse-von-hormus-100.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "Bundestag beschließt E-Auto-Prämie - rückwirkend ab Januar 2026",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-praemie-e-auto-100.html"
-    },
-    {
-      "title": "Drei Tote bei Arbeitsunfall in Gerberei in Hessen",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/arbeitsunfall-hessen-lederfabrik-100.html"
-    },
-    {
-      "title": "Macron und Starmer laden zur Konferenz über Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/europa/gespraeche-paris-hormus-100.html"
     }
   ]
 }
