@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Merz begrüßt Irans Hormus-Ankündigung ++",
+      "title": "Iran-Liveblog: ++ Trump will angereichertes Uran in die USA holen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-110.html"
+    },
+    {
+      "title": "Zahlreiche Länder bieten Unterstützung für Hormus-Mission an",
+      "link": "https://www.tagesschau.de/ausland/asien/hormus-mission-konferenz-100.html"
+    },
+    {
+      "title": "Fragile Waffenruhe: Menschen kehren in den Süden des Libanon zurück",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-waffenruhe-rueckkehrer-100.html"
     },
     {
       "title": "Wie ein neues Gesetz gegen digitale Gewalt helfen soll",
@@ -50,7 +58,7 @@
     },
     {
       "title": "Flugausfälle in Düsseldorf und Köln wegen Lufthansa-Streik",
-      "link": "https://www.tagesschau.de/inland/streik-lufthansa-piloten-102.html"
+      "link": "https://www.tagesschau.de/wirtschaft/streik-lufthansa-piloten-102.html"
     },
     {
       "title": "Debatte über Atom-Wiedereinstieg: \"Es wäre ein kompletter Neueinstieg\"",
@@ -71,14 +79,6 @@
     {
       "title": "Macron und Starmer laden zur Konferenz über Straße von Hormus",
       "link": "https://www.tagesschau.de/ausland/europa/gespraeche-paris-hormus-100.html"
-    },
-    {
-      "title": "Erbschaftsteuer: Wie werden Betriebsvermögen belastet?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/erbschaftssteuer-fuer-unternehmen-100.html"
-    },
-    {
-      "title": "Amnestie: Tausende Gefangene in Myanmar kommen frei",
-      "link": "https://www.tagesschau.de/ausland/asien/myanmar-gefangenenfreilassung-100.html"
     }
   ]
 }
