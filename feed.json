@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Vertriebene im Libanon kehren zurück ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-110.html"
+    },
+    {
+      "title": "65 Jahre Angriff auf Kuba: \"Zu Ende bringen, was wir begonnen haben\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-usa-schweinebucht-100.html"
+    },
+    {
+      "title": "Marktbericht: Sind die Anleger zu sorglos?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-17-04-26-100.html"
+    },
+    {
+      "title": "Der schwierige Umbau des ungarischen Mediensystems",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-mediensystem-102.html"
+    },
+    {
       "title": "Flugausfälle in Düsseldorf und Köln wegen Lufthansa-Streik",
       "link": "https://www.tagesschau.de/inland/streik-lufthansa-piloten-102.html"
     },
@@ -15,10 +31,6 @@
     {
       "title": "Bundestag beschließt E-Auto-Prämie - rückwirkend ab Januar 2026",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-praemie-e-auto-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Vertriebene im Libanon kehren zurück ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-110.html"
     },
     {
       "title": "Drei Tote bei Arbeitsunfall in Gerberei in Hessen",
@@ -67,18 +79,6 @@
     {
       "title": "1.000-Euro-Prämie: Druck der Wirtschaft auf die Union wächst",
       "link": "https://www.tagesschau.de/wirtschaft/entlastungspraemie-kritik-wirtschaft-100.html"
-    },
-    {
-      "title": "Waffenruhe im Libanon: Vertriebene bangen und hoffen auf Rückkehr",
-      "link": "https://www.tagesschau.de/ausland/waffenruhe-libanon-106.html"
-    },
-    {
-      "title": "Gutverdiener sollen mehr für Krankenkasse zahlen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankenkassen-beitraege-106.html"
-    },
-    {
-      "title": "Hormus-Mission: Deutschland will offenbar Minenjagdboote anbieten",
-      "link": "https://www.tagesschau.de/ausland/asien/deutschland-hormus-mission-100.html"
     }
   ]
 }
