@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Libanon: Israel verstößt gegen Waffenruhe ++",
+      "title": "Iran-Liveblog: ++ SPD nennt Bedingungen für Hormus-Einsatz ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-110.html"
+    },
+    {
+      "title": "Staatlicher Preisdeckel: Wie sind die Erfahrungen in Tschechien?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankdeckel-tschechien-100.html"
+    },
+    {
+      "title": "\"Gelebte Frauenpolitik\" - Gesundheitsministerin Warken verteidigt Sparpläne",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-kritik-mitversicherung-gesundheitsreform-100.html"
+    },
+    {
+      "title": "Flugausfälle in Düsseldorf und Köln wegen Lufthansa-Streik",
+      "link": "https://www.tagesschau.de/inland/streik-lufthansa-piloten-102.html"
     },
     {
       "title": "Marktbericht: Anleger atmen erst einmal durch",
@@ -67,18 +79,6 @@
     {
       "title": "EU-Kommission genehmigt deutschen Industriestrompreis",
       "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-industriestrompreis-100.html"
-    },
-    {
-      "title": "Lufthansa stellt Betrieb der Tochtergesellschaft CityLine ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-cityline-stilllegung-100.html"
-    },
-    {
-      "title": "Teure Energie: Iran-Krieg befeuert Inflation in der Eurozone",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-energiepreise-iran-krieg-100.html"
-    },
-    {
-      "title": "Bilanz 2025: Bosch schreibt das erst Mal seit 2009 Verluste",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-verluste-100.html"
     }
   ]
 }
