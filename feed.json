@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Berichte über Siedlergewalt: \"Wir sollen Angst haben\"",
+      "link": "https://www.tagesschau.de/ausland/israel-siedlergewalt-106.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump rechnet mit Einigung in den nächsten Tagen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-110.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Justizministerin Hubig stellt Gesetzentwurf gegen digitale Gewalt vor",
       "link": "https://www.tagesschau.de/inland/innenpolitik/digitale-gewalt-gesetzentwurf-hubig-100.html"
-    },
-    {
-      "title": "Bundestag beschließt E-Auto-Prämie - rückwirkend ab Januar 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-praemie-e-auto-100.html"
     }
   ]
 }
