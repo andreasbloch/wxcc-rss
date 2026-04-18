@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Iranische Schnellboote beschießen Tanker ++",
+      "title": "Iran-Liveblog: ++ Chamenei warnt USA vor \"neuen Niederlagen\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-112.html"
+    },
+    {
+      "title": "Hohe Benzin- und Dieselpreise: So einfach lässt sich Sprit sparen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-spritsparen-100.html"
+    },
+    {
+      "title": "Iran: Straße von Hormus bleibt doch gesperrt",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-schliessung-100.html"
     },
     {
       "title": "Vor Präsidentenwahl 2027: Was bedeutet die Orban-Niederlage für Frankreich?",
@@ -15,10 +23,6 @@
     {
       "title": "Völklingen im Saarland: Ein Toter bei Explosion in Unterführung",
       "link": "https://www.tagesschau.de/inland/regional/saarland/explosion-voelklingen-toter-100.html"
-    },
-    {
-      "title": "Iran: Straße von Hormus bleibt doch gesperrt",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-schliessung-100.html"
     },
     {
       "title": "Wie der Umbruch bei \"Demokratie leben\" verunsichert",
@@ -75,10 +79,6 @@
     {
       "title": "Zahlreiche Länder bieten Unterstützung für Hormus-Mission an",
       "link": "https://www.tagesschau.de/ausland/asien/hormus-mission-konferenz-100.html"
-    },
-    {
-      "title": "Fragile Waffenruhe: Menschen kehren in den Süden des Libanon zurück",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-waffenruhe-rueckkehrer-100.html"
     }
   ]
 }
