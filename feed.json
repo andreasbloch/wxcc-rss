@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Völklingen im Saarland: Ein Toter bei Explosion in Unterführung",
+      "link": "https://www.tagesschau.de/inland/regional/saarland/explosion-voelklingen-toter-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iran öffnet Teil seines Luftraums wieder ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-112.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Wie ein neues Gesetz gegen digitale Gewalt helfen soll",
       "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-digitale-gewalt-102.html"
-    },
-    {
-      "title": "Experten warnen vor Zahnstochern mit Geschmack und Nikotin",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/gefahr-durch-zahnstocher-100.html"
     }
   ]
 }
