@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Trump droht mit Ende der Waffenruhe ++",
+      "title": "Iran-Liveblog: ++ Iran öffnet Teil seines Luftraums wieder ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-112.html"
+    },
+    {
+      "title": "Iran: Straße von Hormus bleibt doch gesperrt",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-schliessung-100.html"
     },
     {
       "title": "Wie der Umbruch bei \"Demokratie leben\" verunsichert",
@@ -75,10 +79,6 @@
     {
       "title": "Wie ein Gericht sein \"Correctiv\"-Urteil begründet",
       "link": "https://www.tagesschau.de/inland/gesellschaft/landgericht-berlin-correctiv-100.html"
-    },
-    {
-      "title": "Trendumkehr auf dem Wohnungsmarkt durch Folgen Iran-Krieg gefährdet",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/wohnungsmarkt-baugenehmigungen-bauwirtschaft-wohnungsmangel-100.html"
     }
   ]
 }
