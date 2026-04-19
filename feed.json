@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Israelis protestieren gegen Waffenruhe mit Hisbollah ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-110.html"
+    },
+    {
+      "title": "Straße von Hormus wieder gesperrt - wie geht es jetzt weiter?",
+      "link": "https://www.tagesschau.de/ausland/asien/krieg-iran-strasse-von-hormus-treffen-paris-104.html"
+    },
+    {
       "title": "Verhandlungen mit den USA: Iran sieht noch \"viele Diskrepanzen\"",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-usa-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Hohe Benzin- und Dieselpreise: So einfach lässt sich Sprit sparen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-spritsparen-100.html"
-    },
-    {
-      "title": "Iran: Straße von Hormus bleibt doch gesperrt",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-schliessung-100.html"
-    },
-    {
-      "title": "Präsidentenwahl 2027: Was bedeutet die Orban-Niederlage für Frankreich?",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-rechtsnationale-100.html"
     }
   ]
 }
