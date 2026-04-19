@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Wie viel Ballaststoffe sind gesund?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/trend-fibremaxxing-100.html"
+    },
+    {
       "title": "Was hinter den Plänen für einen digitalen Euro steckt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/euro-digitale-waehrung-wero-100.html"
     },
@@ -9,11 +13,11 @@
       "link": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-154.html"
     },
     {
-      "title": "Wie Nordrhein-Westfalen auf Olympia blickt",
+      "title": "Nordrhein-Westfalen: Bürgerentscheid zu Olympia-Bewerbung endet",
       "link": "https://www.tagesschau.de/inland/gesellschaft/olympia-bewerbung-nrw-102.html"
     },
     {
-      "title": "Bulgarien wählt - zum achten Mal in fünf Jahren",
+      "title": "Bulgarien wählt zum achten Mal in fünf Jahren ein Parlament",
       "link": "https://www.tagesschau.de/ausland/europa/parlamentswahl-bulgarien-100.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Klingbeil fordert Vorbereitungen auf Kerosinmangel",
       "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-warnung-kerosinmangel-100.html"
-    },
-    {
-      "title": "Wie der Umbruch bei \"Demokratie leben\" verunsichert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/demokratie-leben-umburch-projekte-100.html"
     }
   ]
 }
