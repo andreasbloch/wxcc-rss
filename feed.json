@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "FC Bayern ist vorzeitig deutscher Fußball-Meister",
+      "link": "https://www.tagesschau.de/sport/sportschau/bayern-muenchen-deutscher-meister-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Türkei hofft auf Verlängerung der Waffenruhe  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-110.html"
+    },
+    {
+      "title": "Pistorius bekräftigt Bereitschaft zu Beteiligung an Hormus-Mission",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bab-pistorius-strasse-von-hormus-100.html"
     },
     {
       "title": "Ukraine: Untersuchung nach Schusswaffenangriff in Kiew",
@@ -71,14 +79,6 @@
     {
       "title": "Bulgarien wählt zum achten Mal in fünf Jahren ein Parlament",
       "link": "https://www.tagesschau.de/ausland/europa/parlamentswahl-bulgarien-100.html"
-    },
-    {
-      "title": "Französischer Blauhelmsoldat im Libanon getötet - Angriff der Hisbollah vermutet",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-angriff-blauhelme-100.html"
-    },
-    {
-      "title": "Zehntausende protestieren für rasche Energiewende",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/energiewende-proteste-100.html"
     }
   ]
 }
