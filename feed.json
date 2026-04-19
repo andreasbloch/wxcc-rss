@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Was hinter den Plänen für einen digitalen Euro steckt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/euro-digitale-waehrung-wero-100.html"
+    },
+    {
+      "title": "Nordkorea feuert erneut ballistische Raketen ab",
+      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-154.html"
+    },
+    {
+      "title": "Wie Nordrhein-Westfalen auf Olympia blickt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/olympia-bewerbung-nrw-102.html"
+    },
+    {
+      "title": "Bulgarien wählt - zum achten Mal in fünf Jahren",
+      "link": "https://www.tagesschau.de/ausland/europa/parlamentswahl-bulgarien-100.html"
+    },
+    {
       "title": "Französischer Blauhelmsoldat im Libanon getötet - Angriff der Hisbollah vermutet",
       "link": "https://www.tagesschau.de/ausland/asien/libanon-angriff-blauhelme-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Wie der Umbruch bei \"Demokratie leben\" verunsichert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/demokratie-leben-umburch-projekte-100.html"
-    },
-    {
-      "title": "Ver.di plant Proteste gegen geplante Gesundheitsreform",
-      "link": "https://www.tagesschau.de/inland/verdi-protest-gesundheitsreform-100.html"
-    },
-    {
-      "title": "Frida Kahlo: Warum ihre Kunst mehr Menschen berührt denn je",
-      "link": "https://www.tagesschau.de/kultur/frida-kahlo-globale-ikone-der-kunst-100.html"
-    },
-    {
-      "title": "Fleischwerbeverbot in Amsterdam: Notwendig oder Bevormundung?",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-amsterdam-werbeverbot-fleisch-co2-100.html"
-    },
-    {
-      "title": "USA erlauben weiterhin Kauf von russischem Öl",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-russisches-oel-100.html"
     }
   ]
 }
