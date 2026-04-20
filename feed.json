@@ -1,8 +1,28 @@
 {
   "items": [
     {
+      "title": "Test-App für schlechtes Handynetz startet",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/app-rechtsanspruch-bei-schlechtem-handynetz-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Israel warnt vor Rückkehr in Südlibanon ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-114.html"
+    },
+    {
+      "title": "Wie Brasilien US-Präsident Trump die Stirn bot",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-trump-100.html"
+    },
+    {
+      "title": "Energiekrise: Bundesregierung sieht keine Versorgungsengpässe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/energiekrise-bundesregierung-100.html"
+    },
+    {
       "title": "Mehrheit in Nordrhein-Westfalen für Olympia-Bewerbung",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/olympia-entscheidung-nrw-100.html"
+    },
+    {
+      "title": "Marktbericht: Die Euphorie ist wieder verflogen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-geldanlage-100.html"
     },
     {
       "title": "Golf von Oman: US-Militär entert iranisches Frachtschiff",
@@ -59,26 +79,6 @@
     {
       "title": "Helfer ohne Hilfe - die UN in der Finanzkrise",
       "link": "https://www.tagesschau.de/ausland/amerika/un-finanzkrise-102.html"
-    },
-    {
-      "title": "Straße von Hormus wieder gesperrt - wie geht es jetzt weiter?",
-      "link": "https://www.tagesschau.de/ausland/asien/krieg-iran-strasse-von-hormus-treffen-paris-104.html"
-    },
-    {
-      "title": "Worauf es bei der Geldanlage in Krisenzeiten ankommt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/geldanlage-106.html"
-    },
-    {
-      "title": "New Yorker Bürgermeister Mamdani will Steuern auf Luxus-Zweitwohnungen",
-      "link": "https://www.tagesschau.de/ausland/amerika/new-york-zweitwohnung-steuer-100.html"
-    },
-    {
-      "title": "Rattengift in Babynahrung in Österreich entdeckt",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-hipp-erpressung-100.html"
-    },
-    {
-      "title": "Warkens Pläne: GKV kritisiert \"Druck\" der Interessenverbände",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-krankenkassen-debatte-100.html"
     }
   ]
 }
