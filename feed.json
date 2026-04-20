@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Energiekrise wird Thema im Nationalen Sicherheitsrat",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sicherheitsrat-energiekrise-100.html"
+    },
+    {
+      "title": "Drohnen und Roboter: Wie Technik den Krieg in der Ukraine verändert",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-roboter-drohnen-102.html"
+    },
+    {
+      "title": "Mehrheit in Nordrhein-Westfalen für Olympia-Bewerbung",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/olympia-entscheidung-nrw-100.html"
+    },
+    {
+      "title": "Golf von Oman: US-Militär entert iranisches Frachtschiff",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-waffenruhe-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump: USA beschlagnahmen iranischen Frachter ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-110.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Halbmarathon in China: Roboter laufen den Menschen erstmals davon",
       "link": "https://www.tagesschau.de/ausland/asien/peking-halbmarathon-roboter-100.html"
-    },
-    {
-      "title": "Gouverneur Cox: Der etwas andere Republikaner aus Utah",
-      "link": "https://www.tagesschau.de/ausland/amerika/utah-gouverneur-spencer-cox-100.html"
-    },
-    {
-      "title": "Verhandlungen mit den USA: Iran sieht noch \"viele Diskrepanzen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-usa-100.html"
-    },
-    {
-      "title": "Ballaststoffe: Wie viel ist wirklich gesund?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/trend-fibremaxxing-100.html"
-    },
-    {
-      "title": "Was hinter den Plänen für einen digitalen Euro steckt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/euro-digitale-waehrung-wero-100.html"
     }
   ]
 }
