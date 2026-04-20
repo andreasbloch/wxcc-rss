@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Erdbeben der Stärke 7,5 erschüttert Norden Japans - Warnung vor Tsunami",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-154.html"
+      "title": "Krieg, Zölle und hohe Kosten - Industrieverband BDI kappt Prognose",
+      "link": "https://www.tagesschau.de/wirtschaft/marktbericht-126.html"
     },
     {
       "title": "Iran-Liveblog: ++ China kritisiert Beschlagnahmung eines Tankers durch USA ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-114.html"
+    },
+    {
+      "title": "Fachleute dämpfen Erwartungen an Social-Media-Verbot für Kinder",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kommission-social-media-102.html"
+    },
+    {
+      "title": "Erdbeben der Stärke 7,5 erschüttert Norden Japans - Warnung vor Tsunami",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-154.html"
     },
     {
       "title": "Russland meldet Festnahme einer Deutschen wegen Terrorverdachts",
@@ -71,14 +79,6 @@
     {
       "title": "Drohnen und Roboter: Wie Technik den Krieg in der Ukraine verändert",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-roboter-drohnen-102.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Trump: USA beschlagnahmen iranischen Frachter ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-110.html"
-    },
-    {
-      "title": "Prognose: Bündnis von Ex-Präsident Radev bei Wahl in Bulgarien vorn",
-      "link": "https://www.tagesschau.de/ausland/europa/bulgarien-wahl-prognose-100.html"
     }
   ]
 }
