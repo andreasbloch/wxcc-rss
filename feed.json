@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Friedensgespräche in der Schwebe ++",
+      "title": "Unklarheit über Waffenruhe und Verhandlungen zwischen Iran und USA",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-waffenruhe-treffen-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Revolutionsgarde droht Golfstaaten ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html"
+    },
+    {
+      "title": "München: Kardinal Marx erlaubt Segnung queerer Paare",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/kardinal-marx-segnung-queer-100.html"
     },
     {
       "title": "Merz zu SPD und Rente: Droht der nächste Koalitionsärger?",
@@ -71,14 +79,6 @@
     {
       "title": "Japan lockert Regeln für Waffenexporte",
       "link": "https://www.tagesschau.de/ausland/asien/japan-waffenexporte-100.html"
-    },
-    {
-      "title": "HiPP-Erpressung: Ein vergiftetes Glas fehlt noch",
-      "link": "https://www.tagesschau.de/ausland/europa/hipp-erpressung-100.html"
-    },
-    {
-      "title": "Vorwürfe der Ausbeutung in der deutschen Fleischindustrie",
-      "link": "https://www.tagesschau.de/investigativ/monitor/fleischindustrie-arbeitskraefte-ausbeutung-100.html"
     }
   ]
 }
