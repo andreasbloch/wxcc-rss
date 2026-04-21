@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Petersberger Klimadialog: Schub durch die Energiekrise?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/petersberger-dialog-100.html"
+    },
+    {
+      "title": "Arbeitsministerin Chavez-DeRemer verlässt US-Regierung",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-chavez-deremer-100.html"
+    },
+    {
       "title": "Führungswechsel bei iPhone-Hersteller Apple - Ternus löst Cook ab",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/cook-apple-ternus-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Russland meldet Festnahme einer Deutschen wegen Terrorverdachts",
       "link": "https://www.tagesschau.de/ausland/europa/russland-festnahme-deutschland-100.html"
-    },
-    {
-      "title": "USA starten Rückzahlung illegaler Trump-Zölle",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-rueckzahlung-usa-100.html"
-    },
-    {
-      "title": "Klage zum Abgasskandal: Millionen Dieselmotoren vor dem Aus?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diesel-motor-klage-100.html"
     }
   ]
 }
