@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Trump verlängert Waffenruhe mit Iran",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-waffenruhe-100.html"
+    },
+    {
       "title": "Unklarheit über Waffenruhe und Verhandlungen zwischen Iran und USA",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-waffenruhe-treffen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Machtkampf um die Fed - Trumps Kandidat Warsh in der Kritik",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kevin-warsh-fed-trump-powell-100.html"
-    },
-    {
-      "title": "Japan lockert Regeln für Waffenexporte",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-waffenexporte-100.html"
     }
   ]
 }
