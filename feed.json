@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++Iran droht mit Gegenangriffen bei Eskalation ++",
+      "title": "Nahost-Liveblog: ++ Wadephul fordert Iran zu Verhandlungen auf ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html"
+    },
+    {
+      "title": "Japan lockert Regeln für Waffenexporte",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-waffenexporte-100.html"
+    },
+    {
+      "title": "HiPP-Erpressung: Ein vergiftetes Glas fehlt noch",
+      "link": "https://www.tagesschau.de/ausland/europa/hipp-erpressung-100.html"
+    },
+    {
+      "title": "Vorwürfe der Ausbeutung in der deutschen Fleischindustrie",
+      "link": "https://www.tagesschau.de/investigativ/monitor/fleischindustrie-arbeitskraefte-ausbeutung-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger hoffen auf Dialog zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-122.html"
     },
     {
       "title": "1.000-Euro-Prämie kann auch 2027 gezahlt werden",
@@ -19,14 +35,6 @@
     {
       "title": "11KM-Podcast: Wie Kriminelle mit geklautem Frittenfett verdienen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-diebstahl-frittenfett-100.html"
-    },
-    {
-      "title": "Marktbericht: Anleger sind unsicher, aber zuversichtlich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-122.html"
-    },
-    {
-      "title": "Japan lockert Regeln für Waffenexporte",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-waffenexporte-100.html"
     },
     {
       "title": "Waffenruhe zwischen USA und Iran endet: Gespräche - oder doch neue Härte?",
@@ -71,14 +79,6 @@
     {
       "title": "Energiekrise: Kerosinversorgung laut Wirtschaftministerium gesichert",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mineraloelwirtschaft-energiekrise-treibstoff-kerosin-100.html"
-    },
-    {
-      "title": "Folgen des Iran-Kriegs: Keine Entspannung beim Flugbenzin",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-kerosin-100.html"
-    },
-    {
-      "title": "Bundesregierung bestellt russischen Botschafter ein",
-      "link": "https://www.tagesschau.de/inland/russischer-botschafter-berlin-einbestellt-100.html"
     }
   ]
 }
