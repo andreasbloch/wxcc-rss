@@ -1,16 +1,32 @@
 {
   "items": [
     {
+      "title": "Nahost-Liveblog: ++ USA durchsuchen sanktionierten Tanker ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html"
+    },
+    {
+      "title": "EuGH hält Ungarns Anti-LGBTQ-Gesetz für diskriminierend",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-eugh-lgbtq-diskriminierung-100.html"
+    },
+    {
+      "title": "Petersberger Klimadialog: Schub durch die Energiekrise?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/petersberger-dialog-100.html"
+    },
+    {
+      "title": "Keine Anzeichen für neue Verhandlungen von Iran und USA",
+      "link": "https://www.tagesschau.de/ausland/asien/ende-waffenruhe-iran-krieg-100.html"
+    },
+    {
+      "title": "Prozessauftakt im Fall der vergifteten Hamburger Familie",
+      "link": "https://www.tagesschau.de/ausland/istanbul-vergiftete-familie-100.html"
+    },
+    {
       "title": "Spritpreise: Wann Tanken am günstigsten ist",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tagesverlauf-tanken-guenstig-100.html"
     },
     {
       "title": "Marktbericht: Startschuss für den Mega-Börsengang von SpaceX",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/spacex-boersengang-marktbericht-100.html"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ Wadephul fordert Iran zu Verhandlungen auf ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-112.html"
     },
     {
       "title": "Machtkampf um die Fed - Trumps Kandidat Warsh in der Kritik",
@@ -61,24 +77,8 @@
       "link": "https://www.tagesschau.de/ausland/amerika/amnesty-jahresbericht-106.html"
     },
     {
-      "title": "Prozessauftakt im Fall der vergifteten Hamburger Familie",
-      "link": "https://www.tagesschau.de/ausland/istanbul-vergiftete-familie-100.html"
-    },
-    {
-      "title": "Petersberger Klimadialog: Schub durch die Energiekrise?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/petersberger-dialog-100.html"
-    },
-    {
       "title": "Arbeitsministerin Chavez-DeRemer verlässt US-Regierung",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-chavez-deremer-100.html"
-    },
-    {
-      "title": "Führungswechsel bei iPhone-Hersteller Apple - Ternus löst Cook ab",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/cook-apple-ternus-100.html"
-    },
-    {
-      "title": "Interview mit Präsident Lula: \"Brasilien ist der richtige Standort\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/interview-tagesthemen-lula-100.html"
     }
   ]
 }
