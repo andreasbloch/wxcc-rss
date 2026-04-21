@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Anleger sind unsicher, aber zuversichtlich",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-122.html"
+    },
+    {
+      "title": "Japan lockert Regeln für Waffenexporte",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-waffenexporte-100.html"
+    },
+    {
       "title": "Waffenruhe zwischen USA und Iran endet: Gespräche - oder doch neue Härte?",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-verhandlungen-112.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Hannover Messe: Mit der Künstlichen Intelligenz aus der Krise",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-hannover-messe-100.html"
-    },
-    {
-      "title": "Radew gewinnt Wahl in Bulgarien - EU hofft auf gute Zusammenarbeit",
-      "link": "https://www.tagesschau.de/ausland/europa/wahl-bulgarien-104.html"
-    },
-    {
-      "title": "UniCredit kritisiert Geschäftsmodell der Commerzbank",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-commerzbank-gewinnsteigerung-100.html"
     }
   ]
 }
