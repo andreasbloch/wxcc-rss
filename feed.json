@@ -1,8 +1,28 @@
 {
   "items": [
     {
+      "title": "Bundesregierung halbiert Wachstumsprognose auf 0,5 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-bundesregierung-102.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Arabische Liga fordert Reparationen von Iran  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-112.html"
+    },
+    {
+      "title": "Ungarn beendet Blockade: EU-Staaten geben Ukraine-Kredit frei",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-hilfen-ukraine-ungarn-100.html"
+    },
+    {
+      "title": "\"Skynest\": Air New Zealand führt Etagenbetten für Economy-Gäste ein",
+      "link": "https://www.tagesschau.de/ausland/asien/air-new-zealand-etagenbetten-100.html"
+    },
+    {
+      "title": "Entlastung der Notaufnahmen: Kabinett bringt Reform auf den Weg",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-reform-100.html"
+    },
+    {
+      "title": "Marktbericht: Deutsche Telekom erwägt Verschmelzung mit T-Mobile US",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-22-04-26-100.html"
     },
     {
       "title": "Verdacht auf Vergiftung in Istanbul: Neue Festnahmen nach älteren Todesfällen",
@@ -11,10 +31,6 @@
     {
       "title": "Iran meldet Beschuss und Beschlagnahme von Schiffen in Straße von Hormus",
       "link": "https://www.tagesschau.de/ausland/asien/angriffe-strasse-hormus-100.html"
-    },
-    {
-      "title": "Ungarn beendet Blockade: EU gibt Milliarden-Hilfen für Ukraine frei",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-hilfen-ukraine-ungarn-100.html"
     },
     {
       "title": "WM-Stadion in New Jersey: Teure Tickets, teure Züge, teure Parkplätze",
@@ -63,22 +79,6 @@
     {
       "title": "US-Präsident Trump setzt auf Gespräche mit Iran - der zögert",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-waffenruhe-ultimatum-100.html"
-    },
-    {
-      "title": "BKA enttarnt immer mehr ehemalige IS-Kämpfer dank Geheimdokumenten",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bka-is-islamischer-staat-geheimdokumente-100.html"
-    },
-    {
-      "title": "Europa und die Energiepreise: Jeder für sich",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-staaten-umgang-spritpreise-100.html"
-    },
-    {
-      "title": "Trump verlängert Waffenruhe mit Iran",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-waffenruhe-100.html"
-    },
-    {
-      "title": "Internationale Studie: Pollensaison wird länger und stärker",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/pollen-saison-klimawandel-100.html"
     }
   ]
 }
