@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Nahost-Liveblog: ++ Zweiter Blauhelm-Soldat nach Angriff gestorben ++",
+      "title": "Nahost-Liveblog: ++ Iran verurteilt US-Seeblockade als Verstoß gegen Waffenruhe ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-112.html"
+    },
+    {
+      "title": "Wachstumsprognose halbiert: Reiche fordert Reformen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-fruehjahrsprojektion-100.html"
+    },
+    {
+      "title": "Fußballerinnen des FC Bayern sichern sich vorzeitig die Meisterschaft",
+      "link": "https://www.tagesschau.de/sport/fussball-frauen-bayern-meisterschaft-100.html"
+    },
+    {
+      "title": "Militärstrategie soll Bundeswehr krisenfest machen",
+      "link": "https://www.tagesschau.de/inland/pistorius-militaerstrategie-deutschland-100.html"
     },
     {
       "title": "Petersberger Dialog: Klimaschutz ja, aber nicht gegen die Wirtschaft",
@@ -67,18 +79,6 @@
     {
       "title": "Verdacht auf Vergiftung in Istanbul: Neue Festnahmen nach älteren Todesfällen",
       "link": "https://www.tagesschau.de/ausland/asien/istanbul-prozessauftakt-vergiftung-100.html"
-    },
-    {
-      "title": "Iran meldet Beschuss und Beschlagnahme von Schiffen in Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/angriffe-strasse-hormus-100.html"
-    },
-    {
-      "title": "WM-Stadion in New Jersey: Teure Tickets, teure Züge, teure Parkplätze",
-      "link": "https://www.tagesschau.de/ausland/amerika/fifa-wm-usa-stimmung-100.html"
-    },
-    {
-      "title": "Was das neue Terminal 3 für den Frankfurter Flughafen bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/terminal-3-frankfurt-flughafen-100.html"
     }
   ]
 }
