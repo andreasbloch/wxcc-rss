@@ -1,20 +1,28 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Anleger bleiben vorsichtig",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-120.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Iranischer Angriff auf Frachter gemeldet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-112.html"
     },
     {
-      "title": "Strom- und Gaspreise steigen weiter durch Iran-Krieg",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/preisanstieg-strom-gas-102.html"
+      "title": "Militärstrategie: Wie stellt sich die Bundeswehr zukünftig auf?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/militaerstrategie-bundeswehr-102.html"
+    },
+    {
+      "title": "Singapur kündigt härtere Strafen bei Mobbing an Schulen an",
+      "link": "https://www.tagesschau.de/ausland/asien/singapur-mobbing-100.html"
     },
     {
       "title": "Neue Gespräche: Wie es zwischen den USA und Iran weitergehen könnte",
       "link": "https://www.tagesschau.de/ausland/asien/verhandlungen-usa-iran-szenarien-100.html"
     },
     {
-      "title": "Marktbericht: Nahostkrise weiter im Fokus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-120.html"
+      "title": "Strom- und Gaspreise steigen weiter durch Iran-Krieg",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/preisanstieg-strom-gas-102.html"
     },
     {
       "title": "Stimmung in der Wirtschaft: Frust, Desillusion und schwindende Hoffnung auf Reformen",
@@ -71,14 +79,6 @@
     {
       "title": "Druschba-Pipeline laut Selenskyj wieder repariert",
       "link": "https://www.tagesschau.de/ausland/europa/druschba-pipeline-ukraine-100.html"
-    },
-    {
-      "title": "Ukraine: Wenn Soldaten spielsüchtig werden",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-armee-spielsucht-100.html"
-    },
-    {
-      "title": "Keine Anzeichen für neue Verhandlungen von Iran und USA",
-      "link": "https://www.tagesschau.de/ausland/asien/ende-waffenruhe-iran-krieg-100.html"
     }
   ]
 }
