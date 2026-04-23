@@ -1,8 +1,36 @@
 {
   "items": [
     {
+      "title": "Tesla-Verkäufe ziehen wieder an - auch auf dem europäischen Markt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-automarkt-acea-100.html"
+    },
+    {
+      "title": "Ukraine: Zwischen Selenskyj-Regierung und Parlament knirscht es",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-regierung-parlament-100.html"
+    },
+    {
+      "title": "Zahlen und Fakten zur Rente",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-zahlen-fakten-100.html"
+    },
+    {
+      "title": "Reaktion des iranischen Regimes: Teherans Spiel auf Zeit",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-regime-100.html"
+    },
+    {
+      "title": "ADAC-Pannenstatistik: Elektroautos sind zuverlässiger als Verbrenner",
+      "link": "https://www.tagesschau.de/wirtschaft/adac-pannenstatistik-e-autos-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Neue Gespräche zwischen Israel und dem Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-112.html"
+    },
+    {
+      "title": "Marktbericht: Anleger Zwischen Hoffen und Bangen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-128.html"
+    },
+    {
+      "title": "Vor Gesprächen mit Israel: Libanon zwischen Hoffnung und Angst",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-verhandlungen-100.html"
     },
     {
       "title": "11KM-Podcast: Fake-Ausweise, Rezepte, Visa - auf der Spur der Fälscher",
@@ -51,34 +79,6 @@
     {
       "title": "Fußballerinnen des FC Bayern sichern sich vorzeitig die Meisterschaft",
       "link": "https://www.tagesschau.de/sport/fussball-frauen-bayern-meisterschaft-100.html"
-    },
-    {
-      "title": "Militärstrategie soll Bundeswehr krisenfest machen",
-      "link": "https://www.tagesschau.de/inland/pistorius-militaerstrategie-deutschland-100.html"
-    },
-    {
-      "title": "Petersberger Dialog: Klimaschutz ja, aber nicht gegen die Wirtschaft",
-      "link": "https://www.tagesschau.de/inland/petersberger-klimadialog-rede-merz-100.html"
-    },
-    {
-      "title": "Marktbericht: Das Warten geht weiter",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-120.html"
-    },
-    {
-      "title": "Russland beendet Lieferung kasachischen Öls nach Deutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/russland-oel-kasachstan-deutschland-100.html"
-    },
-    {
-      "title": "FAQ: Das soll sich laut Gesetzentwurf bei der Notfallversorgung ändern",
-      "link": "https://www.tagesschau.de/inland/notfallversorgung-reform-102.html"
-    },
-    {
-      "title": "EU-Kommission will mehr Zusammenarbeit in Energiekrise",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-energie-100.html"
-    },
-    {
-      "title": "Trotz Waffenruhe im Iran-Krieg keine Entspannung am Golf",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-waffenruhe-hormus-100.html"
     }
   ]
 }
