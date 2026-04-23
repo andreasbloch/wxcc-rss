@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Trump verkündet Verlängerung der Libanon-Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/asien/waffenruhe-israel-libanon-104.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Dritter US-Flugzeugträger in Nahost angekommen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-112.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kinder- und Jugendschutz: Wieso Altersgrenzen für Social Media nicht reichen",
       "link": "https://www.tagesschau.de/wissen/gesundheit/social-media-altersgrenze-kinder-100.html"
-    },
-    {
-      "title": "Abschiebezentren im Ausland können laut EuGH-Generalanwalt zulässig sein",
-      "link": "https://www.tagesschau.de/ausland/europa/eugh-asylrecht-italien-albanien-100.html"
     }
   ]
 }
