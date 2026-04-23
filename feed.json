@@ -1,8 +1,44 @@
 {
   "items": [
     {
+      "title": "Straße von Hormus: Trump droht iranischen Minenlegern mit Zerstörung",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-iran-hormus-100.html"
+    },
+    {
+      "title": "Gesetzentwurf: Leugnung des Existenzrechts Israels soll strafbar werden",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/gesetzentwurf-existenzrecht-israel-100.html"
+    },
+    {
+      "title": "Sozialdemokraten verlassen Regierung in Rumänien",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-regierungskoalition-zerbrochen-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ US-Militär beschlagnahmt weiteren Tanker ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-112.html"
+    },
+    {
+      "title": "Social-Media-Verbot für Jugendliche in der Türkei beschlossen",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-socialmedia-verbot-100.html"
+    },
+    {
+      "title": "KI im Krieg: Wie Algorithmen Angriffe beschleunigen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-ki-podcast-100.html"
+    },
+    {
+      "title": "Urteil des BGH: Helmut Kohls Witwe wird nicht an Buch-Gewinnen beteiligt",
+      "link": "https://www.tagesschau.de/inland/bgh-kohl-protokolle-100.html"
+    },
+    {
+      "title": "EU-Gipfel in Zypern: Beim Iran-Krieg nur an der Seitenlinie",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-100.html"
+    },
+    {
+      "title": "China: An der Seite Irans - aber nicht zu offensichtlich",
+      "link": "https://www.tagesschau.de/ausland/asien/chinas-rolle-iran-krieg-100.html"
+    },
+    {
+      "title": "Lufthansa streicht kostenfreien Handgepäckkoffer",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lufthansa-handgepaeck-100.html"
     },
     {
       "title": "DDR prägt die Kulturförderung im Osten bis heute",
@@ -43,42 +79,6 @@
     {
       "title": "CDU-Politiker Laschet: Schah-Sohn Pahlavi könnte Übergang in Iran leiten",
       "link": "https://www.tagesschau.de/inland/innenpolitik/laschet-schah-besuch-100.html"
-    },
-    {
-      "title": "Girls' Day : Merz macht Mädchen Mut zu MINT-Berufen",
-      "link": "https://www.tagesschau.de/inland/girlsday-merz-100.html"
-    },
-    {
-      "title": "Verletzte bei Zugunglück in Dänemark",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-zugunglueck-102.html"
-    },
-    {
-      "title": "Tesla-Verkäufe ziehen wieder an - auch auf dem europäischen Markt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-automarkt-acea-100.html"
-    },
-    {
-      "title": "Ukraine: Zwischen Selenskyj-Regierung und Parlament knirscht es",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-regierung-parlament-100.html"
-    },
-    {
-      "title": "Zahlen und Fakten zur Rente",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-zahlen-fakten-100.html"
-    },
-    {
-      "title": "Reaktion des iranischen Regimes: Teherans Spiel auf Zeit",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-regime-100.html"
-    },
-    {
-      "title": "ADAC-Pannenstatistik: Elektroautos sind zuverlässiger als Verbrenner",
-      "link": "https://www.tagesschau.de/wirtschaft/adac-pannenstatistik-e-autos-100.html"
-    },
-    {
-      "title": "Vor Gesprächen mit Israel: Libanon zwischen Hoffnung und Angst",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-verhandlungen-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Fake-Ausweise, Rezepte, Visa - auf der Spur der Fälscher",
-      "link": "https://www.tagesschau.de/podcast-11km-faelscher-100.html"
     }
   ]
 }
