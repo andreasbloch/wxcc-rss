@@ -1,12 +1,28 @@
 {
   "items": [
     {
-      "title": "Irans Außenminister reist zu Gesprächen nach Pakistan",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-islamabad-usa-100.html"
+      "title": "Ermittlungen gegen Chef der US-Notenbank Jerome Powell eingestellt",
+      "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-powell-eingestellt-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Merz erwägt Zugeständnisse an Iran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-112.html"
+    },
+    {
+      "title": "Informeller EU-Gipfel: \"Endlich ohne Russland\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-iran-krieg-ukraine-100.html"
+    },
+    {
+      "title": "Kanadisches Start-Up übernimmt einstige KI-Hoffnung Aleph Alpha",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-aleph-alpha-100.html"
+    },
+    {
+      "title": "Ryanair kündigt Rückzug vom Flughafen BER an",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/flughafen-ryanair-rueckzug-berlin-100.html"
+    },
+    {
+      "title": "Irans Außenminister reist zu Gesprächen nach Pakistan",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-islamabad-usa-100.html"
     },
     {
       "title": "Marktbericht: DAX sucht seine Richtung",
@@ -49,10 +65,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-faq-100.html"
     },
     {
-      "title": "Ryanair kündigt Rückzug vom Flughafen BER an",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/flughafen-ryanair-rueckzug-berlin-100.html"
-    },
-    {
       "title": "Marktbericht: Künstliche Intelligenz treibt Siemens Energy Geschäft an",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/marktbericht-132.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Fünf Tote bei russischen Drohnenangriffen in der Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-tote-100.html"
-    },
-    {
-      "title": "Berlin und Paris wollen Verhandlungen über Luftkampfsystem FCAS fortsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-106.html"
-    },
-    {
-      "title": "Fördergeld-Affäre: Berliner Kultursenatorin bittet um Entlassung",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berliner-kultursenatorin-ruecktritt-100.html"
-    },
-    {
-      "title": "ifo-Geschäftsklima wegen des Iran-Kriegs stark eingetrübt",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-stimmung-wirtschaft-100.html"
     }
   ]
 }
