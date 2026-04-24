@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Hapag-Lloyd-Schiff passiert Straße von Hormus ++",
+      "title": "Ryanair kündigt Rückzug vom Flughafen BER an",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/flughafen-ryanair-rueckzug-berlin-100.html"
+    },
+    {
+      "title": "Falsche Zahlen zu angeblichen Impf-Toten",
+      "link": "https://www.tagesschau.de/faktenfinder/corona-impfung-falschbehauptung-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Kuwait meldet Drohnenangriff aus dem Irak ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-112.html"
+    },
+    {
+      "title": "Bundestag beschließt Tankrabatt und Entlastungsprämie",
+      "link": "https://www.tagesschau.de/inland/bundestag-tankrabatt-praemie-100.html"
+    },
+    {
+      "title": "Fünf Tote bei russischen Drohnenangriffen in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-tote-100.html"
     },
     {
       "title": "CSU-Chef Söder unterstützt Kandidatur Aigners zur Bundespräsidentenwahl",
@@ -11,10 +27,6 @@
     {
       "title": "Berlin und Paris wollen Verhandlungen über Luftkampfsystem FCAS fortsetzen",
       "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-106.html"
-    },
-    {
-      "title": "Bundestag beschließt Tankrabatt und Entlastungsprämie",
-      "link": "https://www.tagesschau.de/inland/bundestag-tankrabatt-praemie-100.html"
     },
     {
       "title": "Fördergeld-Affäre: Berliner Kultursenatorin bittet um Entlassung",
@@ -45,10 +57,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-cloud-kuenstliche-intelligenz-intel-chips-100.html"
     },
     {
-      "title": "Mindestens zwei Tote bei russischen Drohnenangriffen auf Odessa",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-tote-100.html"
-    },
-    {
       "title": "Wie geht es im Libanon nach Verlängerung der Waffenruhe weiter?",
       "link": "https://www.tagesschau.de/ausland/asien/faq-israel-libanon-usa-waffenruhe-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "11KM-Podcast: Tschernobyl: Der Liquidator, der überlebte",
       "link": "https://www.tagesschau.de/multimedia/podcast/podcast-11km-tschernobyl-102.html"
-    },
-    {
-      "title": "Hausärzte nennen Warkens Sparpläne \"Zerstörungsprogramm\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hausaerzte-kritik-warken-100.html"
-    },
-    {
-      "title": "Wegen Investitionen in KI: Meta will fast jeden zehnten Job streichen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-stellenstreichung-100.html"
     }
   ]
 }
