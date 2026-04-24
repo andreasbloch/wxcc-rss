@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "Afrikareise: Papst Leo als Mahner der Mächtigen",
-      "link": "https://www.tagesschau.de/ausland/afrika/papst-reise-afrika-100.html"
+      "title": "Wegen Investitionen in KI: Meta will fast jeden zehnten Job streichen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-stellenstreichung-100.html"
     },
     {
       "title": "Trump verkündet Verlängerung der Libanon-Waffenruhe",
       "link": "https://www.tagesschau.de/ausland/asien/waffenruhe-israel-libanon-104.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Israel greift Raketenabschussrampe der Hisbollah an ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-112.html"
+    },
+    {
+      "title": "Tankrabatt und Entlastungsprämie im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-praemie-bundestag-100.html"
+    },
+    {
+      "title": "Afrikareise: Papst Leo als Mahner der Mächtigen",
+      "link": "https://www.tagesschau.de/ausland/afrika/papst-reise-afrika-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Dritter US-Flugzeugträger in Nahost angekommen ++",
@@ -67,18 +79,6 @@
     {
       "title": "Kein Treffen mit Regierungsvertretern - Pahlavi nennt das \"beschämend\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pahlavi-berlin-104.html"
-    },
-    {
-      "title": "Infineon an der DAX-Spitze: Halbleiterbranche wittert Morgenluft",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/infineon-chips-halbleiter-100.html"
-    },
-    {
-      "title": "Polizei nimmt mutmaßliche ausländische Agenten in Bayern fest",
-      "link": "https://www.tagesschau.de/inland/agenten-bayern-ukraine-lettland-sabotage-100.html"
-    },
-    {
-      "title": "Saarland: Verdächtiger nach tödlicher Explosion festgenommen",
-      "link": "https://www.tagesschau.de/inland/regional/saarland/explosion-voelklingen-tatverdaechtiger-festgenommen-100.html"
     }
   ]
 }
