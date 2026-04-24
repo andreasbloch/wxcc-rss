@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Irans Außenminister offenbar in Pakistan erwartet ++",
+      "title": "Iran-Liveblog: ++ Merz erwägt Zugeständnisse an Iran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-112.html"
+    },
+    {
+      "title": "Spaniens Sánchez macht sich \"keine Sorgen\" über NATO-Rauswurf",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-usa-nato-100.html"
+    },
+    {
+      "title": "BGH: Mehr Pflichten für Eigentümergemeinschaften bei maroden Balkonen",
+      "link": "https://www.tagesschau.de/wirtschaft/balkon-sanierung-bgh-urteil-100.html"
+    },
+    {
+      "title": "Benzin und Diesel teurer: Rekordanstieg der Spritpreise am Mittag",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tanken-102.html"
     },
     {
       "title": "US-Soldat wegen Wette auf Gefangennahme Maduros mit Insiderwissen angeklagt",
@@ -67,18 +79,6 @@
     {
       "title": "Tech-Branche: Überraschend starke Zahlen von SAP und Intel",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-cloud-kuenstliche-intelligenz-intel-chips-100.html"
-    },
-    {
-      "title": "Wie geht es im Libanon nach Verlängerung der Waffenruhe weiter?",
-      "link": "https://www.tagesschau.de/ausland/asien/faq-israel-libanon-usa-waffenruhe-100.html"
-    },
-    {
-      "title": "Deutsche Hersteller präsentieren neue E-Automodelle auf Automesse in Peking",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/automesse-peking-122.html"
-    },
-    {
-      "title": "Seniorenunion kritisiert die Renten-Äußerung von Bundeskanzler Merz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-debatte-100.html"
     }
   ]
 }
