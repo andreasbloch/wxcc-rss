@@ -1,12 +1,28 @@
 {
   "items": [
     {
+      "title": "Irans Außenminister reist zu Gesprächen nach Pakistan",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-islamabad-usa-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Merz erwägt Zugeständnisse an Iran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-112.html"
     },
     {
-      "title": "Irans Außenminister reist zu Gesprächen nach Pakistan",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-islamabad-usa-100.html"
+      "title": "Marktbericht: DAX sucht seine Richtung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-130.html"
+    },
+    {
+      "title": "Studie: Warum das Herz so selten Krebs bekommt",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/studie-herz-krebs-100.html"
+    },
+    {
+      "title": "Spaniens Sánchez macht sich \"keine Sorgen\" über NATO-Rauswurf",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-usa-nato-100.html"
+    },
+    {
+      "title": "Deutsche Entwicklungshilfe - Weiter massive Probleme bei der GIZ",
+      "link": "https://www.tagesschau.de/investigativ/wdr/giz-software-probleme-100.html"
     },
     {
       "title": "Phishing auf Signal: Bundesanwaltschaft ermittelt wegen Spionageverdachts",
@@ -15,10 +31,6 @@
     {
       "title": "CSU-Chef Söder unterstützt Kandidatur Aigners zur Bundespräsidentenwahl",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-eigner-spd-100.html"
-    },
-    {
-      "title": "Spaniens Sánchez macht sich \"keine Sorgen\" über NATO-Rauswurf",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-usa-nato-100.html"
     },
     {
       "title": "BGH: Mehr Pflichten für Eigentümergemeinschaften bei maroden Balkonen",
@@ -67,18 +79,6 @@
     {
       "title": "ifo-Geschäftsklima wegen des Iran-Kriegs stark eingetrübt",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-stimmung-wirtschaft-100.html"
-    },
-    {
-      "title": "Nach Festnahmen in Bayern: \"Wegwerf-Agenten\" auf der A6?",
-      "link": "https://www.tagesschau.de/investigativ/wdr/agenten-spionage-ukraine-russland-lettland-100.html"
-    },
-    {
-      "title": "Gesetzesentwurf: Norwegen plant Social-Media-Verbot für Kinder",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-social-media-verbot-100.html"
-    },
-    {
-      "title": "Marktbericht: Gute Bilanzzahlen - aber Sorgen bleiben",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-130.html"
     }
   ]
 }
