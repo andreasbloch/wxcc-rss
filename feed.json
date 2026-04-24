@@ -1,12 +1,40 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Israel greift Raketenabschussrampe der Hisbollah an ++",
+      "title": "Iran-Liveblog: ++ Hapag-Lloyd-Schiff passiert Straße von Hormus ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-112.html"
     },
     {
-      "title": "Marktbericht: Bilanzsaison nimmt Fahrt auf",
+      "title": "Marktbericht: Gute Bilanzzahlen - aber Sorgen bleiben",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-130.html"
+    },
+    {
+      "title": "Fördergeld-Affäre: Berliner Kultursenatorin bittet um Entlassung",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berliner-kultursenatorin-ruecktritt-100.html"
+    },
+    {
+      "title": "Was die Generation Z vom Auto erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/generationz-auto-100.html"
+    },
+    {
+      "title": "Tech-Branche: Überraschend starke Zahlen von SAP und Intel",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-cloud-kuenstliche-intelligenz-intel-chips-100.html"
+    },
+    {
+      "title": "Mindestens zwei Tote bei russischen Drohnenangriffen auf Odessa",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-tote-100.html"
+    },
+    {
+      "title": "Wie geht es im Libanon nach Verlängerung der Waffenruhe weiter?",
+      "link": "https://www.tagesschau.de/ausland/asien/faq-israel-libanon-usa-waffenruhe-100.html"
+    },
+    {
+      "title": "Deutsche Hersteller präsentieren neue E-Automodelle auf Automesse in Peking",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/automesse-peking-122.html"
+    },
+    {
+      "title": "Seniorenunion kritisiert die Renten-Äußerung von Bundeskanzler Merz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-debatte-100.html"
     },
     {
       "title": "Mehr als 50 Millionen Impfdosen gegen Malaria in Afrika",
@@ -51,34 +79,6 @@
     {
       "title": "Neuer Vertrag: Frankreich und Großbritannien wollen Ärmelkanal-Migration stoppen",
       "link": "https://www.tagesschau.de/ausland/europa/migrationspakt-frankreich-grossbritannien-100.html"
-    },
-    {
-      "title": "Marktbericht: Iran-Sorgen und kein Ende",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-128.html"
-    },
-    {
-      "title": "Straße von Hormus: Trump droht iranischen Minenlegern mit Zerstörung",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-iran-hormus-100.html"
-    },
-    {
-      "title": "Sozialdemokraten verlassen Regierung in Rumänien",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-regierungskoalition-zerbrochen-100.html"
-    },
-    {
-      "title": "Social-Media-Verbot für Jugendliche in der Türkei beschlossen",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-socialmedia-verbot-100.html"
-    },
-    {
-      "title": "KI im Krieg: Wie Algorithmen Angriffe beschleunigen",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-ki-podcast-100.html"
-    },
-    {
-      "title": "Gesetzentwurf: Leugnung des Existenzrechts Israels soll strafbar werden",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/gesetzentwurf-existenzrecht-israel-100.html"
-    },
-    {
-      "title": "Urteil des BGH: Helmut Kohls Witwe wird nicht an Buch-Gewinnen beteiligt",
-      "link": "https://www.tagesschau.de/inland/bgh-kohl-protokolle-100.html"
     }
   ]
 }
