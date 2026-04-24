@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Afrikareise: Papst Leo als Mahner der Mächtigen",
+      "link": "https://www.tagesschau.de/ausland/afrika/papst-reise-afrika-100.html"
+    },
+    {
       "title": "Trump verkündet Verlängerung der Libanon-Waffenruhe",
       "link": "https://www.tagesschau.de/ausland/asien/waffenruhe-israel-libanon-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Saarland: Verdächtiger nach tödlicher Explosion festgenommen",
       "link": "https://www.tagesschau.de/inland/regional/saarland/explosion-voelklingen-tatverdaechtiger-festgenommen-100.html"
-    },
-    {
-      "title": "Kinder- und Jugendschutz: Wieso Altersgrenzen für Social Media nicht reichen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/social-media-altersgrenze-kinder-100.html"
     }
   ]
 }
