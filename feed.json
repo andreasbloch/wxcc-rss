@@ -1,16 +1,28 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Irans Außenminister offenbar in Pakistan erwartet ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-112.html"
+    },
+    {
+      "title": "US-Soldat wegen Wette auf Gefangennahme Maduros mit Insiderwissen angeklagt",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-insiderwissen-venezuela-maduro-100.html"
+    },
+    {
+      "title": "Tankrabatt beschlossen: Wie billig werden Kraftstoffe jetzt?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-faq-100.html"
+    },
+    {
       "title": "Ryanair kündigt Rückzug vom Flughafen BER an",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/flughafen-ryanair-rueckzug-berlin-100.html"
     },
     {
-      "title": "Falsche Zahlen zu angeblichen Impf-Toten",
-      "link": "https://www.tagesschau.de/faktenfinder/corona-impfung-falschbehauptung-100.html"
+      "title": "Marktbericht: Künstliche Intelligenz treibt Siemens Energy Geschäft an",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/marktbericht-132.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Kuwait meldet Drohnenangriff aus dem Irak ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-112.html"
+      "title": "Falsche Zahlen zu angeblichen Impf-Toten",
+      "link": "https://www.tagesschau.de/faktenfinder/corona-impfung-falschbehauptung-100.html"
     },
     {
       "title": "Bundestag beschließt Tankrabatt und Entlastungsprämie",
@@ -67,18 +79,6 @@
     {
       "title": "Seniorenunion kritisiert die Renten-Äußerung von Bundeskanzler Merz",
       "link": "https://www.tagesschau.de/inland/innenpolitik/rente-debatte-100.html"
-    },
-    {
-      "title": "Mehr als 50 Millionen Impfdosen gegen Malaria in Afrika",
-      "link": "https://www.tagesschau.de/ausland/europa/impfstoffallianz-malaria-who-100.html"
-    },
-    {
-      "title": "Gipfel auf Zypern: Die EU ringt um ihren Nahost-Kurs",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-102.html"
-    },
-    {
-      "title": "11KM-Podcast: Tschernobyl: Der Liquidator, der überlebte",
-      "link": "https://www.tagesschau.de/multimedia/podcast/podcast-11km-tschernobyl-102.html"
     }
   ]
 }
