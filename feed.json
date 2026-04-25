@@ -1,16 +1,20 @@
 {
   "items": [
     {
-      "title": "SPD-Fraktionschef Miersch: Neue Schulden wegen Iran-Krise denkbar",
-      "link": "https://www.tagesschau.de/wirtschaft/miersch-schulden-iran-krise-100.html"
-    },
-    {
       "title": "Liveblog: ++ Libanon meldet Tote nach Luftangriffen Israels ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-114.html"
     },
     {
+      "title": "Papst fordert Abschaffung der Todesstrafe - USA verschärfen sie",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-todesstrafe-100.html"
+    },
+    {
       "title": "Mobbing-Vorwürfe: Drei Polizei-Führungskräfte in NRW suspendiert",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/mobbingvorwurf-polizei-moenchengladbach-100.html"
+    },
+    {
+      "title": "SPD-Fraktionschef Miersch: Neue Schulden wegen Iran-Krise denkbar",
+      "link": "https://www.tagesschau.de/wirtschaft/miersch-schulden-iran-krise-100.html"
     },
     {
       "title": "Phishing auf Signal: Bundesregierung von Angriff betroffen",
@@ -75,10 +79,6 @@
     {
       "title": "Hinrichtungen auf Bundesebene: USA erlauben künftig Erschießungen",
       "link": "https://www.tagesschau.de/ausland/amerika/todesstrafe-usa-erschiessung-100.html"
-    },
-    {
-      "title": "Informeller EU-Gipfel: \"Endlich ohne Russland\"",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-iran-krieg-ukraine-100.html"
     }
   ]
 }
