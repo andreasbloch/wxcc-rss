@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Iranische Delegation hat Pakistan verlassen ++",
+      "title": "Iran-Liveblog: ++ Trump: \"Iraner können uns jederzeit anrufen\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-114.html"
+    },
+    {
+      "title": "Vorerst keine neuen Friedensgespräche zwischen Iran und USA",
+      "link": "https://www.tagesschau.de/ausland/asien/islamabad-iran-gespraeche-100.html"
     },
     {
       "title": "Bundesregierung sieht Russland hinter Phishing-Attacke über Signal",
@@ -75,10 +79,6 @@
     {
       "title": "Union wollte in Reformverhandlungen offenbar Kündigungsschutz aufweichen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/union-kuendigungsschutz-reformverhandlungen-100.html"
-    },
-    {
-      "title": "Mögliche Hormus-Mission: Bundeswehr verlegt Minenjagdboot ins Mittelmeer",
-      "link": "https://www.tagesschau.de/inland/pistorius-bundeswehr-minensuchboot-mittelmeer-100.html"
     }
   ]
 }
