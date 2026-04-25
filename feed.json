@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Schweden: Atomkraft - ja, bitte",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-atomkraft-100.html"
+    },
+    {
       "title": "Palästinensergebiete: Wählen unter besonderen Umständen",
       "link": "https://www.tagesschau.de/ausland/asien/kommunalwahl-westjordanland-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Neue Verhandlungen zum Iran-Krieg?",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-islamabad-usa-pakistan-100.html"
-    },
-    {
-      "title": "Solidaritätskonzert für die Opfer von Crans-Montana",
-      "link": "https://www.tagesschau.de/ausland/europa/crans-montana-128.html"
     }
   ]
 }
