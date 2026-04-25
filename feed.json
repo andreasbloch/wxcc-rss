@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Mehrere Tote nach schweren russischen Angriffen auf die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-112.html"
+    },
+    {
+      "title": "Wer steckt hinter der mutmaßlichen Spionage-Attacke über Signal?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/signal-phishing-attacke-bundesregierung-100.html"
+    },
+    {
+      "title": "Militär in Mali: Angriffe durch \"bewaffnete Terroristen\"",
+      "link": "https://www.tagesschau.de/ausland/afrika/mali-angriffe-100.html"
+    },
+    {
+      "title": "Merz: Keine Kürzungen bei der gesetzlichen Rente geplant",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-rente-rede-100.html"
+    },
+    {
       "title": "Liveblog: ++ Libanon meldet Tote nach Luftangriffen Israels ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-114.html"
     },
@@ -19,10 +35,6 @@
     {
       "title": "Phishing auf Signal: Bundesregierung von Angriff betroffen",
       "link": "https://www.tagesschau.de/inland/signal-ausspaehung-bundesregierung-100.html"
-    },
-    {
-      "title": "Mehrere Tote nach schweren russischen Angriffen auf die Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-112.html"
     },
     {
       "title": "Geplünderte Rücklagen: Albtraum für Mieter und Wohnungseigentümer",
@@ -67,18 +79,6 @@
     {
       "title": "Waffenruhe im Libanon: Rückkehr in die zerstörte Heimat",
       "link": "https://www.tagesschau.de/ausland/asien/libanon-rueckkehrer-zerstoerung-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Merz erwägt Zugeständnisse an Iran ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-112.html"
-    },
-    {
-      "title": "Grimme-Preise in Marl verliehen",
-      "link": "https://www.tagesschau.de/kultur/marl-grimme-preise-100.html"
-    },
-    {
-      "title": "Hinrichtungen auf Bundesebene: USA erlauben künftig Erschießungen",
-      "link": "https://www.tagesschau.de/ausland/amerika/todesstrafe-usa-erschiessung-100.html"
     }
   ]
 }
