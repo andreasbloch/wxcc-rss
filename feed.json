@@ -1,12 +1,36 @@
 {
   "items": [
     {
-      "title": "Palästinensische Gebiete: Kommunalwahlen und jede Menge Fragezeichen",
-      "link": "https://www.tagesschau.de/ausland/asien/palaestinensische-gebiete-kommunalwahlen-100.html"
+      "title": "Mobbing-Vorwürfe: Drei Polizei-Führungskräfte in NRW suspendiert",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/mobbingvorwurf-polizei-moenchengladbach-100.html"
+    },
+    {
+      "title": "Phishing auf Signal: Bundesregierung von Angriff betroffen",
+      "link": "https://www.tagesschau.de/inland/signal-ausspaehung-bundesregierung-100.html"
+    },
+    {
+      "title": "Mehrere Tote nach schweren russischen Angriffen auf die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-112.html"
+    },
+    {
+      "title": "Geplünderte Rücklagen: Albtraum für Mieter und Wohnungseigentümer",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hausverwaltung-immobilie-betrug-100.html"
     },
     {
       "title": "Liveblog: ++ Libanon meldet Tote nach Luftangriffen Israels ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-114.html"
+    },
+    {
+      "title": "Mitmachaktionen: Wie Hobbyforscher der Wissenschaft helfen",
+      "link": "https://www.tagesschau.de/wissen/forschung/buergerforschung-citizen-science-100.html"
+    },
+    {
+      "title": "Slowakei: Proteste gegen Entlassungen und Zensur in Kultur und Medien",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-zensur-100.html"
+    },
+    {
+      "title": "Palästinensische Gebiete: Kommunalwahlen und jede Menge Fragezeichen",
+      "link": "https://www.tagesschau.de/ausland/asien/palaestinensische-gebiete-kommunalwahlen-100.html"
     },
     {
       "title": "Ryanair kündigt Rückzug vom Flughafen BER an",
@@ -55,30 +79,6 @@
     {
       "title": "Informeller EU-Gipfel: \"Endlich ohne Russland\"",
       "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-zypern-iran-krieg-ukraine-100.html"
-    },
-    {
-      "title": "Fördergeld-Affäre: Berliner Kultursenatorin bittet um Entlassung",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berliner-kultursenatorin-ruecktritt-100.html"
-    },
-    {
-      "title": "Ermittlungen gegen Chef der US-Notenbank Jerome Powell eingestellt",
-      "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-powell-eingestellt-100.html"
-    },
-    {
-      "title": "Kanadisches Start-Up übernimmt einstige KI-Hoffnung Aleph Alpha",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-aleph-alpha-100.html"
-    },
-    {
-      "title": "Irans Außenminister reist zu Gesprächen nach Pakistan",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-islamabad-usa-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX sucht seine Richtung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-130.html"
-    },
-    {
-      "title": "Studie: Warum das Herz so selten Krebs bekommt",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/studie-herz-krebs-100.html"
     }
   ]
 }
