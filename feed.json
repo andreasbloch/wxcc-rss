@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Palästinensergebiete: Wählen unter besonderen Umständen",
+      "link": "https://www.tagesschau.de/ausland/asien/kommunalwahl-westjordanland-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump: \"Iraner können uns jederzeit anrufen\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-114.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Solidaritätskonzert für die Opfer von Crans-Montana",
       "link": "https://www.tagesschau.de/ausland/europa/crans-montana-128.html"
-    },
-    {
-      "title": "Union wollte in Reformverhandlungen offenbar Kündigungsschutz aufweichen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/union-kuendigungsschutz-reformverhandlungen-100.html"
     }
   ]
 }
