@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "40 Jahre nach Tschernobyl: Die nicht endende Atomkraft-Debatte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/atomkraft-deutschland-100.html"
+    },
+    {
+      "title": "Bahn verspricht stabile Fernticket-Preise für ein Jahr",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-fernverkehr-ticketpreise-100.html"
+    },
+    {
+      "title": "Schüsse bei Gala mit Trump: Was über die Tat und den Schützen bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-schuesse-korrespondentendinner-100.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Gegenseitige Angriffe mit Toten und Verletzten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-154.html"
+    },
+    {
       "title": "Beim AKW Tschernobyl: Leben im Schatten von Strahlung und Krieg",
       "link": "https://www.tagesschau.de/ausland/europa/tschernobyl-40-jahre-102.html"
     },
@@ -11,10 +27,6 @@
     {
       "title": "Iran-Liveblog: ++ Netanjahu ordnet neue Angriffe im Libanon an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-112.html"
-    },
-    {
-      "title": "Schüsse bei Gala mit Trump: Was über die Tat und den Schützen bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-schuesse-korrespondentendinner-100.html"
     },
     {
       "title": "AfD NRW schließt umstrittenes Mitglied Eichwald aus",
@@ -35,10 +47,6 @@
     {
       "title": "Orban verkündet Verzicht auf sein Abgeordnetenmandat",
       "link": "https://www.tagesschau.de/ausland/europa/orban-parlamentsmandat-100.html"
-    },
-    {
-      "title": "Bahn verspricht stabile Fernticket-Preise für ein Jahr",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-fernverkehr-ticketpreise-100.html"
     },
     {
       "title": "Vorerst keine neuen Friedensgespräche zwischen Iran und USA",
@@ -71,14 +79,6 @@
     {
       "title": "Mehrere Tote nach schweren russischen Angriffen auf die Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russische-angriffe-112.html"
-    },
-    {
-      "title": "Militär in Mali: Angriffe durch \"bewaffnete Terroristen\"",
-      "link": "https://www.tagesschau.de/ausland/afrika/mali-angriffe-100.html"
-    },
-    {
-      "title": "Merz: Keine Kürzungen bei der gesetzlichen Rente geplant",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-rente-rede-100.html"
     }
   ]
 }
