@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Irans Außenminister wohl wieder in Pakistan ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-112.html"
+    },
+    {
+      "title": "Ukrainische Ärzte auf Lern- und Lehrmission in Deutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ukrainische-aerzte-deutschland-100.html"
+    },
+    {
+      "title": "Wettlauf um Usbekistans Kupfer",
+      "link": "https://www.tagesschau.de/ausland/asien/usbekistan-rohstoffe-100.html"
+    },
+    {
       "title": "Schüsse bei Gala mit Trump: Was über die Tat und den Schützen bekannt ist",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-schuesse-korrespondentendinner-100.html"
     },
     {
       "title": "Krieg gegen die Ukraine: Russische Angriffe auf Züge und Bahnhöfe",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-eisenbahn-angriffe-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Pakistan vermittelt weiter zwischen den USA und Iran ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-112.html"
     },
     {
       "title": "Bestürzung nach Angriff bei Gala mit Trump",
@@ -71,14 +79,6 @@
     {
       "title": "Iran-Liveblog: ++ Trump: \"Iraner können uns jederzeit anrufen\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-114.html"
-    },
-    {
-      "title": "40 Jahre Tschernobyl: Die Spuren einer Katastrophe",
-      "link": "https://www.tagesschau.de/wissen/technologie/tschernobyl-40-jahre-100.html"
-    },
-    {
-      "title": "Was vor 40 Jahren in Tschernobyl passierte",
-      "link": "https://www.tagesschau.de/wissen/technologie/40-jahre-tschernobyl-hintergrund-100.html"
     }
   ]
 }
