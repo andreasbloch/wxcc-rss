@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "SIPRI-Bericht: Neuer Rekord bei weltweiten Militärausgaben",
+      "link": "https://www.tagesschau.de/ausland/europa/sipri-militaerausgaben-gestiegen-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Irans Außenminister reist am Montag zu Putin ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-112.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "AfD NRW schließt umstrittenes Mitglied Eichwald aus",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-eichwald-parteiausschluss-100.html"
-    },
-    {
-      "title": "Vorerst keine neuen Friedensgespräche zwischen Iran und USA",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-diplomatie-100.html"
     }
   ]
 }
