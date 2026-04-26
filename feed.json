@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Beim AKW Tschernobyl: Leben im Schatten von Strahlung und Krieg",
+      "link": "https://www.tagesschau.de/ausland/europa/tschernobyl-40-jahre-102.html"
+    },
+    {
+      "title": "Schüsse in Washington: US-Präsident Trump in Sicherheit gebracht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-korrespondentendinner-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Netanjahu ordnet neue Angriffe im Libanon an ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-112.html"
+    },
+    {
+      "title": "Schüsse bei Gala mit Trump: Was über die Tat und den Schützen bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-schuesse-korrespondentendinner-100.html"
+    },
+    {
       "title": "AfD NRW schließt umstrittenes Mitglied Eichwald aus",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-eichwald-parteiausschluss-100.html"
     },
@@ -9,16 +25,8 @@
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-diplomatie-100.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Netanjahu ordnet neue Angriffe im Libanon an ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-112.html"
-    },
-    {
       "title": "Palästinensergebiete: Wählen unter besonderen Umständen",
       "link": "https://www.tagesschau.de/ausland/asien/kommunalwahl-westjordanland-100.html"
-    },
-    {
-      "title": "Schüsse in Washington: US-Präsident Trump in Sicherheit gebracht",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-korrespondentendinner-100.html"
     },
     {
       "title": "Mehrere Tote bei Bombenanschlag im Westen Kolumbiens",
@@ -71,14 +79,6 @@
     {
       "title": "Merz: Keine Kürzungen bei der gesetzlichen Rente geplant",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-rente-rede-100.html"
-    },
-    {
-      "title": "Papst fordert Abschaffung der Todesstrafe - USA verschärfen sie",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-todesstrafe-100.html"
-    },
-    {
-      "title": "Mobbing-Vorwürfe: Drei Polizei-Führungskräfte in NRW suspendiert",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/mobbingvorwurf-polizei-moenchengladbach-100.html"
     }
   ]
 }
