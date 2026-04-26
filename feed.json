@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Schüsse bei Gala in Washington: Die Regierung im Visier",
+      "link": "https://www.tagesschau.de/ausland/amerika/washington-anschlag-trump-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Irans Außenminister wohl wieder in Pakistan ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-112.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Orban verkündet Verzicht auf sein Abgeordnetenmandat",
       "link": "https://www.tagesschau.de/ausland/europa/orban-parlamentsmandat-100.html"
-    },
-    {
-      "title": "Vorerst keine neuen Friedensgespräche zwischen Iran und USA",
-      "link": "https://www.tagesschau.de/ausland/asien/islamabad-iran-gespraeche-100.html"
     }
   ]
 }
