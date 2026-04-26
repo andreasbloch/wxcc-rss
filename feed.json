@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Mehrere Tote bei Bombenanschlag im Westen Kolumbiens",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-bombenanschlag-100.html"
+    },
+    {
+      "title": "Schüsse in Washington: US-Präsident Trump in Sicherheit gebracht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-korrespondentendinner-100.html"
+    },
+    {
+      "title": "Orban verkündet Verzicht auf sein Abgeordnetenmandat",
+      "link": "https://www.tagesschau.de/ausland/europa/orban-parlamentsmandat-100.html"
+    },
+    {
+      "title": "Bahn verspricht stabile Fernticket-Preise für ein Jahr",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-fernverkehr-ticketpreise-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Netanjahu ordnet neue Angriffe im Libanon an ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-sonntag-112.html"
     },
@@ -58,27 +74,11 @@
     },
     {
       "title": "SPD-Fraktionschef Miersch: Neue Schulden wegen Iran-Krise denkbar",
-      "link": "https://www.tagesschau.de/wirtschaft/miersch-schulden-iran-krise-100.html"
+      "link": "https://www.tagesschau.de/inland/innenpolitik/miersch-schulden-iran-krise-100.html"
     },
     {
       "title": "Phishing auf Signal: Bundesregierung von Angriff betroffen",
       "link": "https://www.tagesschau.de/inland/signal-ausspaehung-bundesregierung-100.html"
-    },
-    {
-      "title": "Geplünderte Rücklagen: Albtraum für Mieter und Wohnungseigentümer",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hausverwaltung-immobilie-betrug-100.html"
-    },
-    {
-      "title": "Mitmachaktionen: Wie Hobbyforscher der Wissenschaft helfen",
-      "link": "https://www.tagesschau.de/wissen/forschung/buergerforschung-citizen-science-100.html"
-    },
-    {
-      "title": "Slowakei: Proteste gegen Entlassungen und Zensur in Kultur und Medien",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-zensur-100.html"
-    },
-    {
-      "title": "Palästinensische Gebiete: Kommunalwahlen und jede Menge Fragezeichen",
-      "link": "https://www.tagesschau.de/ausland/asien/palaestinensische-gebiete-kommunalwahlen-100.html"
     }
   ]
 }
