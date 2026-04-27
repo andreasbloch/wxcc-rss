@@ -1,8 +1,24 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Zu viele Unwägbarkeiten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-124.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Merz vermisst Strategie der USA in Iran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-116.html"
+    },
+    {
+      "title": "Treffen in St. Petersburg: Putin stellt sich demonstrativ hinter Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/russland-iran-usa-100.html"
+    },
+    {
+      "title": "Das lange Wochenende lockt mit viel Sonnenschein",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/mai-wetter-100.html"
+    },
+    {
+      "title": "Kämpfe in Mali: Gegner der Junta wählen neue Taktik",
+      "link": "https://www.tagesschau.de/ausland/afrika/mali-angriffe-islamisten-100.html"
     },
     {
       "title": "Ex-Finanzminister Lindner soll Chef der Autoland AG werden",
@@ -57,28 +73,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-dividenden-anleger-aktien-rendite-100.html"
     },
     {
-      "title": "Marktbericht: Investoren schielen auf die Geldpolitik",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-124.html"
-    },
-    {
       "title": "Parlamentarier fordern Gegenmaßnahmen nach Signal-Attacke",
       "link": "https://www.tagesschau.de/inland/innenpolitik/signal-diskussion-100.html"
     },
     {
       "title": "Konsumklima eingetrübt: Kauflust der Deutschen schwindet weiter",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/gfk-verbraucher-konsum-100.html"
-    },
-    {
-      "title": "Neue Studie: 12-Uhr-Regel steigert Profit der Mineralölkonzerne",
-      "link": "https://www.tagesschau.de/wirtschaft/spritpreise-12-uhr-regel-profit-100.html"
-    },
-    {
-      "title": "SPD-Landesgruppen stellen sich gegen Reform der Familienversicherung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-reformen-positionspapier-100.html"
-    },
-    {
-      "title": "US-Reaktionen auf Angriff: \"Wir sind eine wütende, polarisierte Nation\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-reaktionen-angriff-gala-trump-100.html"
     }
   ]
 }
