@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Podcast 15 Minuten: Kriegsdienst, Welpenhandel, Freibadsaison",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/15min-podcast-kriegsdienst-welpenhandel-freibad-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Prompt, Klick, Angriff? Wie KI den Krieg verändert",
+      "link": "https://www.tagesschau.de/podcast-11km-dienstag-ki-kriegsfuehrung-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Trump sieht Iran-Vorschlag skeptisch ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-114.html"
+    },
+    {
+      "title": "\"Nur Ja heißt Ja\" - Abstimmung im EU-Parlament",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-sexualstrafrecht-100.html"
+    },
+    {
+      "title": "USB-C-Pflicht für Laptops: Nicht jedes Kabel kann alles",
+      "link": "https://www.tagesschau.de/wissen/technologie/usb-c-kabel-laptops-100.html"
+    },
+    {
+      "title": "Was hinter Alex Karps Palantir-Manifest steckt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/palantir-manifest-karp-ki-technofaschismus-100.html"
+    },
+    {
       "title": "Staatsbesuch: Charles III. und Camilla im Weißen Haus begrüßt",
       "link": "https://www.tagesschau.de/ausland/amerika/charles-besuch-usa-100.html"
     },
@@ -9,7 +33,7 @@
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-116.html"
     },
     {
-      "title": "Klausurtagung CDU/CSU: Reformpläne, Kanzler und Zweckoptimismus",
+      "title": "Klausurtagung CDU/CSU: Reformpläne und Zweckoptimismus",
       "link": "https://www.tagesschau.de/inland/innenpolitik/unionsfraktion-klausur-100.html"
     },
     {
@@ -55,30 +79,6 @@
     {
       "title": "Deutscher Botschafter Lambsdorff in Moskau einbestellt",
       "link": "https://www.tagesschau.de/ausland/europa/deutscher-botschafter-moskau-einbestellt-100.html"
-    },
-    {
-      "title": "Innovative Brennstoffzelle macht Biogasanlagen zum Stromspeicher",
-      "link": "https://www.tagesschau.de/wissen/technologie/energie-kraftwerke-brennstoffzellen-100.html"
-    },
-    {
-      "title": "Wenn Männer sich nicht männlich genug fühlen",
-      "link": "https://www.tagesschau.de/wissen/forschung/studie-maennlichkeit-102.html"
-    },
-    {
-      "title": "Wie kommen deutsche Autos bei der weltgrößten Automesse in Peking an?",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/automesse-peking-124.html"
-    },
-    {
-      "title": "Woche der Notenbanken: Muss die EZB bald die Zinsen erhöhen?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-woche-der-notenbanken-100.html"
-    },
-    {
-      "title": "China blockiert Übernahme von KI-Start-up Manus durch Meta",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/start-up-china-meta-deal-100.html"
-    },
-    {
-      "title": "Unionsfraktion fordert \"mutige Strukturreformen\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/union-fraktion-reformen-100.html"
     }
   ]
 }
