@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Staatsbesuch: Charles III. und Camilla im Weißen Haus begrüßt",
+      "link": "https://www.tagesschau.de/ausland/amerika/charles-besuch-usa-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Merz vermisst Strategie der USA in Iran ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-116.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Unionsfraktion fordert \"mutige Strukturreformen\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/union-fraktion-reformen-100.html"
-    },
-    {
-      "title": "Israel: Neues Wahlbündnis gegen Netanjahu",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-neues-buendnis-100.html"
     }
   ]
 }
