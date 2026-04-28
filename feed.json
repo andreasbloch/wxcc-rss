@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "König Charles III. ruft zu Zusammenhalt des Westens auf",
+      "link": "https://www.tagesschau.de/ausland/amerika/rede-king-charles-kongress-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Trump übt scharfe Kritik an Merz ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-114.html"
+    },
+    {
       "title": "Trump attackiert Merz wegen Iran-Kritik: \"Er weiß nicht, wovon er spricht\"",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-kritik-merz-iran-100.html"
     },
     {
       "title": "Auf den letzten Drücker: Was ändert sich bei der Gesundheitsreform?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-abstimmung-kabinett-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Trump übt scharfe Kritik an Merz ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-114.html"
     },
     {
       "title": "Welche Folgen der Austritt der VAE aus der OPEC haben kann",
@@ -75,10 +79,6 @@
     {
       "title": "Entscheidung im Kabinett - Worauf sich die Koalition einigen will",
       "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-kabinett-abstimmung-100.html"
-    },
-    {
-      "title": "Ölkonzern BP profitiert stark von Ölpreisschock durch Iran-Krieg",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/energie-bp-gewinnplus-krieg-100.html"
     }
   ]
 }
