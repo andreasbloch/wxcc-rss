@@ -1,16 +1,36 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Trump sieht Iran-Vorschlag skeptisch ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-114.html"
+    },
+    {
+      "title": "Durchsuchungen in 28 Städten - Polizei geht gegen Hells Angels vor",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/razzia-hells-angels-nrw-100.html"
+    },
+    {
+      "title": "CSU-Chef Söder offen für höhere Abgaben für Reiche",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-reichensteuer-100.html"
+    },
+    {
+      "title": "Spionageverdacht: Bahnhof für Militärtransporte mit Kamera ausgespäht?",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/spionage-verdacht-minden-durchsuchung-100.html"
+    },
+    {
+      "title": "Mindestens 14 Tote bei Zugunglück in Indonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-zugunglueck-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger blicken auf Notenbanken und Tech-Konzerne",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-126.html"
+    },
+    {
       "title": "Podcast 15 Minuten: Kriegsdienst, Welpenhandel, Freibadsaison",
       "link": "https://www.tagesschau.de/inland/gesellschaft/15min-podcast-kriegsdienst-welpenhandel-freibad-100.html"
     },
     {
       "title": "11KM-Podcast: Prompt, Klick, Angriff? Wie KI den Krieg verändert",
       "link": "https://www.tagesschau.de/podcast-11km-dienstag-ki-kriegsfuehrung-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Trump sieht Iran-Vorschlag skeptisch ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-114.html"
     },
     {
       "title": "\"Nur Ja heißt Ja\" - Abstimmung im EU-Parlament",
@@ -59,26 +79,6 @@
     {
       "title": "Das lange Wochenende lockt mit viel Sonnenschein",
       "link": "https://www.tagesschau.de/inland/gesellschaft/mai-wetter-100.html"
-    },
-    {
-      "title": "Kämpfe in Mali: Gegner der Junta wählen neue Taktik",
-      "link": "https://www.tagesschau.de/ausland/afrika/mali-angriffe-islamisten-100.html"
-    },
-    {
-      "title": "Ex-Finanzminister Lindner soll Chef der Autoland AG werden",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lindner-autoland-ag-100.html"
-    },
-    {
-      "title": "Luxemburgisch-deutsche Grenze: Gericht erklärt Grenzkontrollen für rechtswidrig",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gericht-grenzkontrollen-100.html"
-    },
-    {
-      "title": "Wadephul setzt auf den UN-Sicherheitsrat",
-      "link": "https://www.tagesschau.de/ausland/amerika/wadephul-vereinte-nationen-100.html"
-    },
-    {
-      "title": "Deutscher Botschafter Lambsdorff in Moskau einbestellt",
-      "link": "https://www.tagesschau.de/ausland/europa/deutscher-botschafter-moskau-einbestellt-100.html"
     }
   ]
 }
