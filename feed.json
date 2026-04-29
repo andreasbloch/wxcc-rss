@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ UN-Hochkommissar \"entsetzt\" von Irans Vorgehen ++",
+      "title": "Iran-Liveblog: ++ Putin und Trump sprechen über Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-114.html"
+    },
+    {
+      "title": "Zwei Verletzte bei mutmaßlich antisemitischem Angriff in London",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-london-angriff-antisemitismus-100.html"
+    },
+    {
+      "title": "Analyse zum Haushalt 2027: Klingbeil setzt auf das Prinzip Hoffnung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/finanzplan-klingbeil-analyse-100.html"
+    },
+    {
+      "title": "New York City: Die lauteste Stadt der USA kämpft gegen den Lärm",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-new-york-laerm-100.html"
+    },
+    {
+      "title": "Kanzler Merz: Persönliches Verhältnis zu Trump \"unverändert gut\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/merz-trump-verhaeltnis-100.html"
     },
     {
       "title": "\"Diplomatische Wunderwaffe\": Briten nach US-Rede von Charles III. begeistert",
@@ -31,10 +47,6 @@
     {
       "title": "Deutsche-Bank-Chef Sewing sieht Deutschlands größte Bank gut aufgestellt",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/interview-sewing-deutsche-bank-100.html"
-    },
-    {
-      "title": "Zwei Verletzte bei mutmaßlich antisemitischem Angriff in London",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-london-angriff-antisemitismus-100.html"
     },
     {
       "title": "Kampf gegen Steueroasen - Razzia wegen mutmaßlicher Briefkastenfirmen",
@@ -67,18 +79,6 @@
     {
       "title": "Bundeskabinett beschließt Eckpunkte für Haushalt 2027",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-haushaltsentwurf-2027-beschlossen-100.html"
-    },
-    {
-      "title": "Was sich mit dem Gesundheits-Sparpaket für gesetzlich Versicherte ändern soll",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-krankenversicherung-neu-100.html"
-    },
-    {
-      "title": "Mangelnder Schutz Minderjähriger: EU-Kommission nimmt Meta ins Visier",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-meta-102.html"
-    },
-    {
-      "title": "Wer von negativen Strompreisen profitieren kann",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/negative-strompreise-erneuerbare-energien-100.html"
     }
   ]
 }
