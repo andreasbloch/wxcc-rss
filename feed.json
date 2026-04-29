@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "11KM-Podcast: Der Wal, die Medien, die Politik - Chronik einer Eskalation ",
+      "link": "https://www.tagesschau.de/podcast-11km-wal-ostsee-rettung-100.html"
+    },
+    {
+      "title": "Verfassungsschutz gegen China-Übernahme von Hafen-Logistiker",
+      "link": "https://www.tagesschau.de/investigativ/ndr/cosco-china-hamburge-hafen-logistik-100.html"
+    },
+    {
+      "title": "Eckwerte für den Bundeshaushalt sehen hohe Neuverschuldung vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-klingbeil-neuverschuldung-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++  USA bereiten offenbar längere Iran-Blockade vor  ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-114.html"
+    },
+    {
+      "title": "Copernicus-Bericht 2025: Klimawandel macht Europa weiterhin zu schaffen",
+      "link": "https://www.tagesschau.de/wissen/klima/klima-copernicus-bericht-100.html"
+    },
+    {
       "title": "König Charles III. ruft zu Zusammenhalt des Westens auf",
       "link": "https://www.tagesschau.de/ausland/amerika/rede-king-charles-kongress-100.html"
     },
@@ -11,10 +31,6 @@
     {
       "title": "Keine Untersuchung in Mandelson-Affäre gegen Premier Starmer",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-untersuchung-mandelson-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Trump übt scharfe Kritik an Merz ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-dienstag-114.html"
     },
     {
       "title": "Auf den letzten Drücker: Was ändert sich bei der Gesundheitsreform?",
@@ -63,22 +79,6 @@
     {
       "title": "Discounter Aldi Süd baut mehr als 1.200 Stellen ab",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-sued-stellenabbau-sortiment-100.html"
-    },
-    {
-      "title": "Vereinigte Arabische Emirate wollen OPEC verlassen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/emirate-opec-100.html"
-    },
-    {
-      "title": "Bundesregierung plant offenbar doch Zuckerabgabe",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-134.html"
-    },
-    {
-      "title": "Klausur der Grünen: Auf der Suche nach der Relevanz",
-      "link": "https://www.tagesschau.de/inland/klausur-gruene-leipzig-100.html"
-    },
-    {
-      "title": "Memes, Videos und Tweets: Irans Propagandakrieg im Netz",
-      "link": "https://www.tagesschau.de/kultur/irans-propaganda-ueber-popkultur-im-netz-100.html"
     }
   ]
 }
