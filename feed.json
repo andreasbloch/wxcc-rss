@@ -1,16 +1,48 @@
 {
   "items": [
     {
+      "title": "Bundeskabinett beschließt Rentenerhöhung ab Juli",
+      "link": "https://www.tagesschau.de/wirtschaft/rente-erhoehung-104.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ UN-Hochkommissar \"entsetzt\" von Irans Vorgehen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-114.html"
+    },
+    {
+      "title": "Deutsche-Bank-Chef Sewing sieht Deutschlands größte Bank gut aufgestellt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/interview-sewing-deutsche-bank-100.html"
+    },
+    {
+      "title": "Zwei Verletzte bei mutmaßlich antisemitischem Angriff in London",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-london-angriff-antisemitismus-100.html"
+    },
+    {
+      "title": "Kampf gegen Steueroasen - Razzia wegen mutmaßlicher Briefkastenfirmen",
+      "link": "https://www.tagesschau.de/investigativ/wdr/briefkastenfirmen-steueroasen-deutschland-100.html"
+    },
+    {
+      "title": "Miete, Netzausbau, digitaler Check-In: Was das Bundeskabinett noch beschlossen hat",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-mieten-rente-reisen-100.html"
+    },
+    {
+      "title": "Wie hart steigende Inflation die Tafeln in Deutschland trifft",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/preisschock-tafeln-inflation-100.html"
+    },
+    {
+      "title": "Russland zeigt bei diesjähriger Siegesparade keine Militärtechnik",
+      "link": "https://www.tagesschau.de/ausland/europa/siegesparade-moskau-9mai-100.html"
+    },
+    {
+      "title": "Wegen des Iran-Kriegs steigt Inflation im April auf 2,9 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/inflation-steigt-april-iran-krieg-100.html"
+    },
+    {
       "title": "Indie-Macher verleihen der deutschen Games-Branche frischen Wind",
       "link": "https://www.tagesschau.de/kultur/deutscher-computerspielpreis-blick-auf-branche-100.html"
     },
     {
       "title": "Anleger haben wieder mehr Zutrauen in den Erfolg von Adidas",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/adidas-zahlen-marktbericht-aktie-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Merz erneuert seine Kritik am Iran-Krieg ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-114.html"
     },
     {
       "title": "Bundeskabinett beschließt Eckpunkte für Haushalt 2027",
@@ -41,44 +73,12 @@
       "link": "https://www.tagesschau.de/ausland/europa/eu-facebook-instagram-100.html"
     },
     {
-      "title": "Kampf gegen Steueroasen - Razzia wegen mutmaßlicher Briefkastenfirmen",
-      "link": "https://www.tagesschau.de/investigativ/wdr/briefkastenfirmen-steueroasen-deutschland-100.html"
-    },
-    {
       "title": "Zahlreiche Bilanzen: DAX rutscht unter 24.000 Punkte",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-134.html"
     },
     {
       "title": "Wie Deutschland und Norwegen in der Arktis kooperieren",
       "link": "https://www.tagesschau.de/ausland/europa/forschungsministerin-baer-norwegen-100.html"
-    },
-    {
-      "title": "Kasache soll für Russland spioniert haben",
-      "link": "https://www.tagesschau.de/inland/spionageverdacht-russland-deutschland-100.html"
-    },
-    {
-      "title": "Kommentar zur Gesundheitsreform: Gerecht sieht anders aus",
-      "link": "https://www.tagesschau.de/kommentar/kommentar-gesundheitsreform-100.html"
-    },
-    {
-      "title": "Was eine Zuckerabgabe bringen könnte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zuckerabgabe-100.html"
-    },
-    {
-      "title": "Steigender Meeresspiegel: Venedig geht langsam unter",
-      "link": "https://www.tagesschau.de/wissen/klima/meeresspiegelanstieg-venedig-100.html"
-    },
-    {
-      "title": "BMW und Tesla schaffen gegen den Trend neue Industriejobs",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-lackiererei-industriejobs-100.html"
-    },
-    {
-      "title": "Auf den letzten Drücker: Was ändert sich bei der Gesundheitsreform?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-abstimmung-kabinett-100.html"
-    },
-    {
-      "title": "Podcast 15 Minuten: Zuckerabgabe, \"Pedo Hunter\", Erdbeer-Ernte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/15min-podcast-zuckerabgabe-pedo-hunter-erdbeeren-100.html"
     }
   ]
 }
