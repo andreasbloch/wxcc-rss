@@ -1,8 +1,28 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++  USA bereiten offenbar längere Iran-Blockade vor  ++",
+      "title": "Iran-Liveblog: ++ Merz erneuert seine Kritik am Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-114.html"
+    },
+    {
+      "title": "Bundeskabinett beschließt Eckpunkte für Haushalt 2027",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-haushaltsentwurf-2027-beschlossen-100.html"
+    },
+    {
+      "title": "Wer von negativen Strompreisen profitieren kann",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/negative-strompreise-erneuerbare-energien-100.html"
+    },
+    {
+      "title": "Europa erwärmt sich schneller als alle anderen Kontinente",
+      "link": "https://www.tagesschau.de/wissen/klima/negativ-rekord-klima-zustand-100.html"
+    },
+    {
+      "title": "Regierung einigt sich auf Gesundheitsreform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/eilmeldung-gesundheitsreform-kabinett-100.html"
+    },
+    {
+      "title": "EU sieht Kinder bei Instagram und Co. nicht ausreichend geschützt",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-facebook-instagram-100.html"
     },
     {
       "title": "Kampf gegen Steueroasen - Razzia wegen mutmaßlicher Briefkastenfirmen",
@@ -15,10 +35,6 @@
     {
       "title": "Wie Deutschland und Norwegen in der Arktis kooperieren",
       "link": "https://www.tagesschau.de/ausland/europa/forschungsministerin-baer-norwegen-100.html"
-    },
-    {
-      "title": "EU sieht Kinder bei Instagram und Co. nicht ausreichend geschützt",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-facebook-instagram-100.html"
     },
     {
       "title": "Kasache soll für Russland spioniert haben",
@@ -63,22 +79,6 @@
     {
       "title": "Eckwerte für den Bundeshaushalt sehen hohe Neuverschuldung vor",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-klingbeil-neuverschuldung-100.html"
-    },
-    {
-      "title": "Copernicus-Bericht 2025: Klimawandel macht Europa weiterhin zu schaffen",
-      "link": "https://www.tagesschau.de/wissen/klima/klima-copernicus-bericht-100.html"
-    },
-    {
-      "title": "König Charles III. ruft zu Zusammenhalt des Westens auf",
-      "link": "https://www.tagesschau.de/ausland/amerika/rede-king-charles-kongress-100.html"
-    },
-    {
-      "title": "Trump attackiert Merz wegen Iran-Kritik: \"Er weiß nicht, wovon er spricht\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-kritik-merz-iran-100.html"
-    },
-    {
-      "title": "Keine Untersuchung in Mandelson-Affäre gegen Premier Starmer",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-untersuchung-mandelson-100.html"
     }
   ]
 }
