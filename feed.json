@@ -1,12 +1,28 @@
 {
   "items": [
     {
+      "title": "Indie-Macher verleihen der deutschen Games-Branche frischen Wind",
+      "link": "https://www.tagesschau.de/kultur/deutscher-computerspielpreis-blick-auf-branche-100.html"
+    },
+    {
+      "title": "Anleger haben wieder mehr Zutrauen in den Erfolg von Adidas",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/adidas-zahlen-marktbericht-aktie-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Merz erneuert seine Kritik am Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-114.html"
     },
     {
       "title": "Bundeskabinett beschließt Eckpunkte für Haushalt 2027",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-haushaltsentwurf-2027-beschlossen-100.html"
+    },
+    {
+      "title": "Was sich mit dem Gesundheits-Sparpaket für gesetzlich Versicherte ändern soll",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-krankenversicherung-neu-100.html"
+    },
+    {
+      "title": "Mangelnder Schutz Minderjähriger: EU-Kommission nimmt Meta ins Visier",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-meta-102.html"
     },
     {
       "title": "Wer von negativen Strompreisen profitieren kann",
@@ -63,22 +79,6 @@
     {
       "title": "Podcast 15 Minuten: Zuckerabgabe, \"Pedo Hunter\", Erdbeer-Ernte",
       "link": "https://www.tagesschau.de/inland/gesellschaft/15min-podcast-zuckerabgabe-pedo-hunter-erdbeeren-100.html"
-    },
-    {
-      "title": "Charles III. vor US-Kongress: Eine unbequeme Rede und viel Beifall",
-      "link": "https://www.tagesschau.de/ausland/amerika/koenig-charles-rede-usa-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Der Wal, die Medien, die Politik - Chronik einer Eskalation ",
-      "link": "https://www.tagesschau.de/podcast-11km-wal-ostsee-rettung-100.html"
-    },
-    {
-      "title": "Verfassungsschutz gegen China-Übernahme von Hafen-Logistiker",
-      "link": "https://www.tagesschau.de/investigativ/ndr/cosco-china-hamburge-hafen-logistik-100.html"
-    },
-    {
-      "title": "Eckwerte für den Bundeshaushalt sehen hohe Neuverschuldung vor",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-klingbeil-neuverschuldung-100.html"
     }
   ]
 }
