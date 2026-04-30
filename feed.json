@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ US-Flugzeugträger soll Nahen Osten verlassen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-114.html"
+    },
+    {
+      "title": "Gericht untersagt Weimer \"Extremismus\"-Äußerung",
+      "link": "https://www.tagesschau.de/kultur/verwaltungsgericht-weimer-buchhandlung-100.html"
+    },
+    {
+      "title": "Trauer um US-amerikanischen Genforschungs-Pionier Craig Venter",
+      "link": "https://www.tagesschau.de/wissen/forschung/craig-venter-tod-100.html"
+    },
+    {
+      "title": "Einigung beim Gebäudemodernisierungsgesetz - Kostenbremse für Mieter",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/einigung-gebaeudemodernisierungsgesetz-100.html"
+    },
+    {
+      "title": "Trotz Iran-Kriegs: Deutsche Wirtschaft zu Jahresbeginn leicht gewachsen",
+      "link": "https://www.tagesschau.de/wirtschaft/bruttoinlandsprodukt-wirtschaftsleistung-gestiegen-100.html"
+    },
+    {
+      "title": "Marktbericht: Hoher Ölpreis verunsichert die Investoren",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreise-fed-ezb-100.html"
+    },
+    {
+      "title": "Zahl der Arbeitslosen verharrt über Drei-Millionen-Marke",
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-arbeitslosigkeit-106.html"
+    },
+    {
       "title": "Gewinn von Volkswagen um 28 Prozent eingebrochen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-gewinneinbruch-100.html"
     },
@@ -13,24 +41,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-us-notenbank-leitzins-powell-100.html"
     },
     {
-      "title": "Iran-Liveblog: ++ US-Flugzeugträger soll Nahen Osten verlassen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-114.html"
-    },
-    {
       "title": "Pentagon gibt Hilfsgelder für Ukraine frei",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-hilfsgelder-krieg-russland-100.html"
     },
     {
       "title": "EZB-Ratssitzung: Währungshüter in der Zwickmühle",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-ratssitzung-inflation-leitzinsen-100.html"
-    },
-    {
-      "title": "Marktbericht: Ölpreise bremsen DAX aus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreise-fed-ezb-100.html"
-    },
-    {
-      "title": "Einigung beim Gebäudemodernisierungsgesetz - Kostenbremse für Mieter",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/einigung-gebaeudemodernisierungsgesetz-100.html"
     },
     {
       "title": "USA erwägen laut Trump Truppenreduzierung in Deutschland",
@@ -63,22 +79,6 @@
     {
       "title": "Analyse zum Haushalt 2027: Klingbeil setzt auf das Prinzip Hoffnung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/finanzplan-klingbeil-analyse-100.html"
-    },
-    {
-      "title": "New York City: Die lauteste Stadt der USA kämpft gegen den Lärm",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-new-york-laerm-100.html"
-    },
-    {
-      "title": "Kanzler Merz: Persönliches Verhältnis zu Trump \"unverändert gut\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/merz-trump-verhaeltnis-100.html"
-    },
-    {
-      "title": "\"Diplomatische Meisterleistung\": Briten nach US-Rede von Charles III. begeistert",
-      "link": "https://www.tagesschau.de/ausland/europa/charles-rede-reaktionen-100.html"
-    },
-    {
-      "title": "Trotz steigender Inflation verliert der DAX nur minimal",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-134.html"
     }
   ]
 }
