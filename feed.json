@@ -1,12 +1,40 @@
 {
   "items": [
     {
-      "title": "USA erwägen laut Trump Truppenreduzierung in Deutschland",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-usa-truppen-deutschland-abzug-100.html"
+      "title": "Gewinn von Volkswagen um 28 Prozent eingebrochen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-gewinneinbruch-100.html"
+    },
+    {
+      "title": "Zehntausende Preiserhöhungen - Tankstellen missachten 12-Uhr-Regel",
+      "link": "https://www.tagesschau.de/investigativ/tankstellen-hohe-spritpreise-100.html"
+    },
+    {
+      "title": "Scheidender Fed-Chef Powell will im Vorstand der US-Notenbank bleiben",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-us-notenbank-leitzins-powell-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ US-Flugzeugträger soll Nahen Osten verlassen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-114.html"
+    },
+    {
+      "title": "Pentagon gibt Hilfsgelder für Ukraine frei",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-hilfsgelder-krieg-russland-100.html"
+    },
+    {
+      "title": "EZB-Ratssitzung: Währungshüter in der Zwickmühle",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-ratssitzung-inflation-leitzinsen-100.html"
+    },
+    {
+      "title": "Marktbericht: Ölpreise bremsen DAX aus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreise-fed-ezb-100.html"
     },
     {
       "title": "Einigung beim Gebäudemodernisierungsgesetz - Kostenbremse für Mieter",
       "link": "https://www.tagesschau.de/inland/innenpolitik/einigung-gebaeudemodernisierungsgesetz-100.html"
+    },
+    {
+      "title": "USA erwägen laut Trump Truppenreduzierung in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-usa-truppen-deutschland-abzug-100.html"
     },
     {
       "title": "Schauspielerin Sandra Hüller glänzt im Historiendrama \"Rose\"",
@@ -23,10 +51,6 @@
     {
       "title": "Der Bundesnachrichtendienst hatte bin Laden schon früh im Blick",
       "link": "https://www.tagesschau.de/investigativ/bin-laden-bnd-akten-100.html"
-    },
-    {
-      "title": "Pentagon gibt Hilfsgelder für Ukraine frei",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-hilfsgelder-krieg-russland-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Putin und Trump sprechen über Iran-Krieg ++",
@@ -55,30 +79,6 @@
     {
       "title": "Trotz steigender Inflation verliert der DAX nur minimal",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-134.html"
-    },
-    {
-      "title": "Kommentar zur Gesundheitsreform: Warken hält Kurs - trotz Gegenwinds",
-      "link": "https://www.tagesschau.de/kommentar/kommentar-warken-gesundheitsreform-100.html"
-    },
-    {
-      "title": "Klingbeil zum Haushalt 2027: \"Wir wissen jetzt, wie das Geld eingespart wird\"",
-      "link": "https://www.tagesschau.de/inland/interview-klingbeil-102.html"
-    },
-    {
-      "title": "EZB-Ratssitzung: Währungshüter in der Zwickmühle",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-ratssitzung-inflation-leitzinsen-100.html"
-    },
-    {
-      "title": "Bundeskabinett beschließt Rentenerhöhung ab Juli",
-      "link": "https://www.tagesschau.de/wirtschaft/rente-erhoehung-104.html"
-    },
-    {
-      "title": "Deutsche-Bank-Chef Sewing sieht Deutschlands größte Bank gut aufgestellt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/interview-sewing-deutsche-bank-100.html"
-    },
-    {
-      "title": "Kampf gegen Steueroasen - Razzia wegen mutmaßlicher Briefkastenfirmen",
-      "link": "https://www.tagesschau.de/investigativ/wdr/briefkastenfirmen-steueroasen-deutschland-100.html"
     }
   ]
 }
