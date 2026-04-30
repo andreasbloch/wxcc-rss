@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Angebliches Statement von Chamenei verlesen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-114.html"
+    },
+    {
+      "title": "Nachruf auf den Maler Georg Baselitz",
+      "link": "https://www.tagesschau.de/inland/regional/sachsen/nachruf-baselitz-100.html"
+    },
+    {
+      "title": "Ab dem 1. Mai gilt der Tankrabatt: Was Autofahrer wissen sollten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-spritpreise-tankstellen-100.html"
+    },
+    {
       "title": "Maler und Bildhauer Georg Baselitz gestorben",
       "link": "https://www.tagesschau.de/kultur/georg-baselitz-gestorben-102.html"
     },
@@ -23,10 +35,6 @@
     {
       "title": "Meteorologie: Warum KI Extremwetter schlechter vorhersagt",
       "link": "https://www.tagesschau.de/wissen/forschung/ki-wettervorhersage-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Angebliches Statement von Chamenei verlesen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-114.html"
     },
     {
       "title": "EuGH-Urteil: Seniorenheim muss keine GEMA-Gebühren zahlen",
@@ -71,14 +79,6 @@
     {
       "title": "Bauarbeiten zwischen Hamburg und Hannover: Was das für Reisende bedeutet",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-sperrung-strecke-hamburg-hannover-100.html"
-    },
-    {
-      "title": "Trauer um US-amerikanischen Genforschungs-Pionier Craig Venter",
-      "link": "https://www.tagesschau.de/wissen/forschung/craig-venter-tod-100.html"
-    },
-    {
-      "title": "Einigung beim Gebäudemodernisierungsgesetz - Kostenbremse für Mieter",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/einigung-gebaeudemodernisierungsgesetz-100.html"
     }
   ]
 }
