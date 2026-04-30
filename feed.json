@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ US-Flugzeugträger soll Nahen Osten verlassen ++",
+      "title": "Iran-Liveblog: ++ Angebliches Statement von Chamenei verlesen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-114.html"
+    },
+    {
+      "title": "KI-Investitionen der Tech-Konzerne steigen auf 725 Milliarden Dollar",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/investitionen-kuenstliche-intelligenz-tech-konzerne-100.html"
     },
     {
       "title": "Gericht untersagt Weimer \"Extremismus\"-Äußerung",
       "link": "https://www.tagesschau.de/kultur/verwaltungsgericht-weimer-buchhandlung-100.html"
+    },
+    {
+      "title": "Bauarbeiten zwischen Hamburg und Hannover: Was das für Reisende bedeutet",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-sperrung-strecke-hamburg-hannover-100.html"
     },
     {
       "title": "Trauer um US-amerikanischen Genforschungs-Pionier Craig Venter",
@@ -71,14 +79,6 @@
     {
       "title": "Iran-Liveblog: ++ Putin und Trump sprechen über Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-114.html"
-    },
-    {
-      "title": "Zwei Verletzte bei mutmaßlich antisemitischem Angriff in London",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-london-angriff-antisemitismus-100.html"
-    },
-    {
-      "title": "Analyse zum Haushalt 2027: Klingbeil setzt auf das Prinzip Hoffnung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/finanzplan-klingbeil-analyse-100.html"
     }
   ]
 }
