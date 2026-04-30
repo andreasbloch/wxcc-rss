@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "USA erwägen laut Trump Truppenreduzierung in Deutschland",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-usa-truppen-deutschland-abzug-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Putin und Trump sprechen über Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-114.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Anleger haben wieder mehr Zutrauen in den Erfolg von Adidas",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/adidas-zahlen-marktbericht-aktie-100.html"
-    },
-    {
-      "title": "Bundeskabinett beschließt Eckpunkte für Haushalt 2027",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-haushaltsentwurf-2027-beschlossen-100.html"
     }
   ]
 }
