@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Maler und Bildhauer Georg Baselitz gestorben",
+      "link": "https://www.tagesschau.de/kultur/georg-baselitz-gestorben-102.html"
+    },
+    {
+      "title": "Marktbericht: DAX geht im Plus ins lange Wochenende",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreise-fed-ezb-100.html"
+    },
+    {
+      "title": "Bundesregierung reagiert gelassen auf Trump-Aussage zu US-Truppenabzug",
+      "link": "https://www.tagesschau.de/inland/us-truppenreduzierung-reaktion-wadephul-100.html"
+    },
+    {
       "title": "Energiepolitik: Belgien stoppt Rückbau aller Atomkraftwerke",
       "link": "https://www.tagesschau.de/ausland/europa/belgien-atomkraft-entscheidung-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Einigung beim Gebäudemodernisierungsgesetz - Kostenbremse für Mieter",
       "link": "https://www.tagesschau.de/inland/innenpolitik/einigung-gebaeudemodernisierungsgesetz-100.html"
-    },
-    {
-      "title": "Trotz Iran-Kriegs: Deutsche Wirtschaft zu Jahresbeginn leicht gewachsen",
-      "link": "https://www.tagesschau.de/wirtschaft/bruttoinlandsprodukt-wirtschaftsleistung-gestiegen-100.html"
-    },
-    {
-      "title": "Marktbericht: Hoher Ölpreis verunsichert die Investoren",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreise-fed-ezb-100.html"
-    },
-    {
-      "title": "Zahl der Arbeitslosen verharrt über Drei-Millionen-Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-arbeitslosigkeit-106.html"
     }
   ]
 }
