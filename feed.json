@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Angebliches Statement von Chamenei verlesen ++",
+      "title": "Jury der Kunstbiennale tritt geschlossen zurück",
+      "link": "https://www.tagesschau.de/kultur/ruecktritt-jury-biennale-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Israel verteidigt Vorgehen gegen Gaza-Flotte ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-114.html"
+    },
+    {
+      "title": "Myanmar: Friedensnobelpreisträgerin Suu Kyi kommt in Hausarrest",
+      "link": "https://www.tagesschau.de/ausland/asien/suu-kyi-hausarrest-100.html"
     },
     {
       "title": "Nachruf auf den Maler Georg Baselitz",
@@ -71,14 +79,6 @@
     {
       "title": "KI-Investitionen der Tech-Konzerne steigen auf 725 Milliarden Dollar",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/investitionen-kuenstliche-intelligenz-tech-konzerne-100.html"
-    },
-    {
-      "title": "Gericht untersagt Weimer \"Extremismus\"-Äußerung",
-      "link": "https://www.tagesschau.de/kultur/verwaltungsgericht-weimer-buchhandlung-100.html"
-    },
-    {
-      "title": "Bauarbeiten zwischen Hamburg und Hannover: Was das für Reisende bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-sperrung-strecke-hamburg-hannover-100.html"
     }
   ]
 }
