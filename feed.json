@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Enge Zusammenarbeit mit Taliban-Diplomaten bei Abschiebungen",
+      "link": "https://www.tagesschau.de/investigativ/ndr/taliban-deutschland-afghanistan-100.html"
+    },
+    {
+      "title": "Tausende Menschen evakuiert - Großflächiger Waldbrand in der Toskana",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-toskana-waldbrand-100.html"
+    },
+    {
+      "title": "Israels Linke nach dem Rechtsruck im Land unter Druck",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gesellschaft-linke-100.html"
+    },
+    {
+      "title": "Schweinekopf und Blut an Memminger Moschee - Staatsschutz ermittelt",
+      "link": "https://www.tagesschau.de/inland/schweinekopf-memmingen-moschee-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Neue Gewalt zwischen Israel und der Hisbollah ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-114.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Nahost-Liveblog: ++ Israel verteidigt Vorgehen gegen Gaza-Flotte ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-114.html"
-    },
-    {
-      "title": "Jury der Kunstbiennale tritt geschlossen zurück",
-      "link": "https://www.tagesschau.de/kultur/ruecktritt-jury-biennale-100.html"
-    },
-    {
-      "title": "Myanmar: Nobelpreisträgerin Aung San Suu Kyi kommt in Hausarrest",
-      "link": "https://www.tagesschau.de/ausland/asien/suu-kyi-hausarrest-100.html"
-    },
-    {
-      "title": "Maler und Bildhauer Georg Baselitz gestorben",
-      "link": "https://www.tagesschau.de/kultur/georg-baselitz-gestorben-102.html"
-    },
-    {
-      "title": "Marktbericht: DAX geht im Plus ins lange Wochenende",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreise-fed-ezb-100.html"
     }
   ]
 }
