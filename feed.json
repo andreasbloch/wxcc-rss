@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Nahost-Liveblog: ++ Neue Gewalt zwischen Israel und der Hisbollah ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-114.html"
+    },
+    {
+      "title": "Mai-Kundgebungen: Gewerkschaften wehren sich gegen Einschnitte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/erster-mai-kundgebungen-106.html"
+    },
+    {
       "title": "Ab dem 1. Mai gilt der Tankrabatt: Was Autofahrer wissen sollten",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-spritpreise-tankstellen-100.html"
     },
@@ -19,10 +27,6 @@
     {
       "title": "\"Druschba\"-Pipeline: Was der Öl-Stopp für Deutschland bedeutet",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/schwedt-oel-raffinierie-100.html"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ US-Regierung will Kongressabstimmung umgehen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-114.html"
     },
     {
       "title": "Neuer OB Krause in München: Ein Grüner vor Söders Nase",
@@ -75,10 +79,6 @@
     {
       "title": "Marktbericht: DAX geht im Plus ins lange Wochenende",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreise-fed-ezb-100.html"
-    },
-    {
-      "title": "Bundesregierung reagiert gelassen auf Trump-Aussage zu US-Truppenabzug",
-      "link": "https://www.tagesschau.de/inland/us-truppenreduzierung-reaktion-wadephul-100.html"
     }
   ]
 }
