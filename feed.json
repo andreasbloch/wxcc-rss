@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Nahost-Liveblog: ++ Trump lehnt iranischen Vorschlag für Kriegsende ab ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-114.html"
+    },
+    {
+      "title": "Trump will Zölle auf Fahrzeuge aus der EU auf 25 Prozent erhöhen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-eu-112.html"
+    },
+    {
+      "title": "OPEC ohne die VAE - was heißt das für die Öl- und Spritpreise?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/oelpreise-opec-100.html"
+    },
+    {
       "title": "Ukraine greift erneut Ölterminal am Schwarzen Meer an",
       "link": "https://www.tagesschau.de/ausland/ukraine-russland-drohnenangriff-102.html"
     },
     {
       "title": "Mai-Kundgebungen: Gewerkschaften wehren sich gegen Einschnitte",
       "link": "https://www.tagesschau.de/inland/gesellschaft/erster-mai-kundgebungen-106.html"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ Neue Gewalt zwischen Israel und der Hisbollah ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-114.html"
     },
     {
       "title": "Stolpersteine in Spanien: \"Ein Akt der Gerechtigkeit\"",
@@ -71,14 +79,6 @@
     {
       "title": "Mercosur-Abkommen tritt in Kraft: Neue Chancen, neue Unsicherheit",
       "link": "https://www.tagesschau.de/ausland/amerika/mercosur-abkommen-tritt-in-kraft-100.html"
-    },
-    {
-      "title": "Im mexikanischen Niemandsland - aus den USA abgeschobene Migranten",
-      "link": "https://www.tagesschau.de/ausland/amerika/mexiko-abschiebung-usa-100.html"
-    },
-    {
-      "title": "100 Jahre Route 66: Die Mutter aller Highways feiert Geburtstag",
-      "link": "https://www.tagesschau.de/ausland/amerika/100-jahre-route-66-100.html"
     }
   ]
 }
