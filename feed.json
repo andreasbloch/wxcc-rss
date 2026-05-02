@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Nahost-Liveblog: ++ Tote bei israelischen Angriffen im Libanon ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-116.html"
+    },
+    {
+      "title": "Israelische Truppen im Südlibanon: Zurück in der Todesfalle",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-kaempfe-100.html"
+    },
+    {
+      "title": "Nach Trumps Zollankündigung: EU hält sich \"alle Optionen offen\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-reaktion-zoelle-106.html"
+    },
+    {
+      "title": "Nach drei Jahren: Welche Zukunft hat das Deutschlandticket?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drei-jahre-deutschlandticket-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Trump lehnt iranischen Vorschlag für Kriegsende ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-114.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Antisemitismus trifft fast jede zweite jüdische Gemeinde",
       "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismus-gemeinden-lagebild-100.html"
-    },
-    {
-      "title": "\"Druschba\"-Pipeline: Was der Öl-Stopp für Deutschland bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/schwedt-oel-raffinierie-100.html"
-    },
-    {
-      "title": "Neuer OB Krause in München: Ein Grüner vor Söders Nase",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-krause-zusammenarbeit-100.html"
-    },
-    {
-      "title": "Skandale erschüttern Griechenlands Regierung",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-politik-stimmung-100.html"
-    },
-    {
-      "title": "Goldraub, Gefängnis und Musik: Xatars Spuren im Deutschrap",
-      "link": "https://www.tagesschau.de/kultur/xatars-erbe-im-deutschrap-100.html"
     }
   ]
 }
