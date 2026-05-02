@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Festgeld, Anleihen und Bauzinsen: Warum die Zinswende längst läuft",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/zinswende-festgeld-bauzinsen-ezb-100.html"
+    },
+    {
+      "title": "UN-Flüchtlingshilfswerk: 1,6 Millionen geflüchtete Syrer zurückgekehrt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/syrer-rueckkehr-102.html"
+    },
+    {
       "title": "Feuer auf altem Truppenübungsplatz in Brandenburg ausgebrochen",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/waldbrand-truppenuebungsplatz-brandenburg-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Ukraine greift erneut Ölterminal am Schwarzen Meer an",
       "link": "https://www.tagesschau.de/ausland/ukraine-russland-drohnenangriff-102.html"
-    },
-    {
-      "title": "Mai-Kundgebungen: Gewerkschaften wehren sich gegen Einschnitte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/erster-mai-kundgebungen-106.html"
-    },
-    {
-      "title": "Stolpersteine in Spanien: \"Ein Akt der Gerechtigkeit\"",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-stolpersteine-nationalsozialismus-100.html"
     }
   ]
 }
