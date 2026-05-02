@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Sudans Hauptstadt erwacht langsam wieder zum Leben",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-khartum-krieg-100.html"
+    },
+    {
+      "title": "Buckelwal in der Nordsee freigesetzt",
+      "link": "https://www.tagesschau.de/ausland/europa/buckelwal-freigesetzt-100.html"
+    },
+    {
+      "title": "Pflege: Scheitert der Azubi-Boom am Lehrermangel?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-auszubildende-boom-lehrermangel-100.html"
+    },
+    {
       "title": "EU reagiert diplomatisch, aber deutlich auf Trumps Zolldrohung",
       "link": "https://www.tagesschau.de/wirtschaft/trump-zoelle-reaktion-eu-100.html"
     },
@@ -27,10 +39,6 @@
     {
       "title": "Abzug von US-Soldaten war laut Pistorius absehbar",
       "link": "https://www.tagesschau.de/inland/innenpolitik/us-truppenabzug-reaktionen-104.html"
-    },
-    {
-      "title": "Buckelwal in der Nordsee freigesetzt",
-      "link": "https://www.tagesschau.de/ausland/europa/buckelwal-freigesetzt-100.html"
     },
     {
       "title": "Welche Folgen der US-Teilabzug für Deutschland hätte",
@@ -71,14 +79,6 @@
     {
       "title": "Nahost-Liveblog: ++ Trump lehnt iranischen Vorschlag für Kriegsende ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-114.html"
-    },
-    {
-      "title": "Trump will Zölle auf Fahrzeuge aus der EU auf 25 Prozent erhöhen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-zoelle-eu-112.html"
-    },
-    {
-      "title": "Hunderte Festnahmen bei Demonstrationen am 1. Mai in Istanbul",
-      "link": "https://www.tagesschau.de/ausland/proteste-festnahmen-istanbul-100.html"
     }
   ]
 }
