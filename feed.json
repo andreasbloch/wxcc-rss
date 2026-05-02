@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Buckelwal in der Nordsee freigesetzt",
+      "link": "https://www.tagesschau.de/ausland/europa/buckelwal-freigesetzt-100.html"
+    },
+    {
+      "title": "Was die Übernahme von Tegut für Kunden und Erzeuger bedeutet",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tegut-lebensmittel-uebernahme-100.html"
+    },
+    {
+      "title": "Finanzminister Klingbeil treibt Steuerreform voran",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-steuerreform-100.html"
+    },
+    {
       "title": "Nahost-Liveblog: ++ Tote bei israelischen Angriffen im Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-116.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Ab dem 1. Mai gilt der Tankrabatt: Was Autofahrer wissen sollten",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-spritpreise-tankstellen-100.html"
-    },
-    {
-      "title": "Tankrabatt drückt Spritpreise laut ADAC trotz Mittagssprung",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-in-kraft-100.html"
-    },
-    {
-      "title": "Krisenvorsorge - Bund will Lebensmittelreserve ausbauen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/alois-rainer-lebensmittel-notfall-reserve-100.html"
-    },
-    {
-      "title": "Antisemitismus trifft fast jede zweite jüdische Gemeinde",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismus-gemeinden-lagebild-100.html"
     }
   ]
 }
