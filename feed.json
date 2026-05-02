@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Welche Folgen der US-Teilabzug für Deutschland hätte",
+      "link": "https://www.tagesschau.de/usa-truppenabzug-deutschland-106.html"
+    },
+    {
+      "title": "Feuer auf altem Truppenübungsplatz in Brandenburg ausgebrochen",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/waldbrand-truppenuebungsplatz-brandenburg-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Waffenruhe im Libanon zunehmend brüchig ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-116.html"
+    },
+    {
       "title": "Buckelwal in der Nordsee freigesetzt",
       "link": "https://www.tagesschau.de/ausland/europa/buckelwal-freigesetzt-100.html"
     },
     {
       "title": "Finnlands Mine gegen Europas Abhängigkeit von Lithium-Importen",
       "link": "https://www.tagesschau.de/ausland/europa/finnland-lithium-100.html"
-    },
-    {
-      "title": "Feuer auf altem Truppenübungsplatz in Brandenburg ausgebrochen",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/waldbrand-truppenuebungsplatz-brandenburg-100.html"
     },
     {
       "title": "Maidemos von linken Gruppen laut Polizei meist friedlich",
@@ -25,10 +33,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-steuerreform-100.html"
     },
     {
-      "title": "Nahost-Liveblog: ++ Tote bei israelischen Angriffen im Libanon ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-116.html"
-    },
-    {
       "title": "Israelische Truppen im Südlibanon: Zurück in der Todesfalle",
       "link": "https://www.tagesschau.de/ausland/asien/libanon-kaempfe-100.html"
     },
@@ -39,6 +43,10 @@
     {
       "title": "Nach drei Jahren: Welche Zukunft hat das Deutschlandticket?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/drei-jahre-deutschlandticket-100.html"
+    },
+    {
+      "title": "USA kündigen Abzug von 5.000 Soldaten aus Deutschland an",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-truppenabzug-deutschland-104.html"
     },
     {
       "title": "Nahost-Liveblog: ++ Trump lehnt iranischen Vorschlag für Kriegsende ab ++",
@@ -71,14 +79,6 @@
     {
       "title": "Enge Zusammenarbeit mit Taliban-Diplomaten bei Abschiebungen",
       "link": "https://www.tagesschau.de/investigativ/ndr/taliban-deutschland-afghanistan-100.html"
-    },
-    {
-      "title": "Tausende Menschen evakuiert - Großflächiger Waldbrand in der Toskana",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-toskana-waldbrand-100.html"
-    },
-    {
-      "title": "Israels Linke nach dem Rechtsruck im Land unter Druck",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gesellschaft-linke-100.html"
     }
   ]
 }
