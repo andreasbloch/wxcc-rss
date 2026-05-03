@@ -1,8 +1,24 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Trump will neuen Verhandlungsvorschlag des Iran prüfen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-sonntag-290.html"
+    },
+    {
       "title": "Feuer auf altem Truppenübungsplatz in Brandenburg ausgebrochen",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/waldbrand-truppenuebungsplatz-brandenburg-100.html"
+    },
+    {
+      "title": "Internet-Blockaden in Russland: Ein Eiserner Vorhang - dieses Mal digital",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-internet-blockade-bevoelkerung-100.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Ein Toter bei russischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-cherson-100.html"
+    },
+    {
+      "title": "Kubas Präsident weist Trumps Übernahme-Drohungen zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-usa-uebernahme-drohung-trump-zurueckgewiesen-100.html"
     },
     {
       "title": "UN-Menschenrechtskommissar: Presse ist \"Sauerstoff\"“ für eine Gesellschaft",
@@ -63,22 +79,6 @@
     {
       "title": "Buckelwal in der Nordsee freigesetzt",
       "link": "https://www.tagesschau.de/ausland/europa/buckelwal-freigesetzt-100.html"
-    },
-    {
-      "title": "Pflege: Scheitert der Azubi-Boom am Lehrermangel?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-auszubildende-boom-lehrermangel-100.html"
-    },
-    {
-      "title": "EU reagiert diplomatisch, aber deutlich auf Trumps Zolldrohung",
-      "link": "https://www.tagesschau.de/wirtschaft/trump-zoelle-reaktion-eu-100.html"
-    },
-    {
-      "title": "Libanon: Israel meldet etwa 50 Angriffe in 24 Stunden",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-hisbollah-angriffe-100.html"
-    },
-    {
-      "title": "UN-Flüchtlingshilfswerk: 1,6 Millionen geflüchtete Syrer zurückgekehrt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/syrer-rueckkehr-102.html"
     }
   ]
 }
