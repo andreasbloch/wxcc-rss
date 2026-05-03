@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Grundwasser an vielen Küsten sinkt - ist das Trinkwasser bedroht?",
+      "link": "https://www.tagesschau.de/wissen/forschung/versalzenes-grundwasser-100.html"
+    },
+    {
+      "title": "Tunesien: Die Auslandspresse muss draußen bleiben",
+      "link": "https://www.tagesschau.de/ausland/afrika/pressefreiheit-tunesien-100.html"
+    },
+    {
+      "title": "Vulkan Mayon auf Philippinen stößt Asche aus",
+      "link": "https://www.tagesschau.de/ausland/asien/vulkan-mayon-philippinen-100.html"
+    },
+    {
       "title": "Trump will deutlich mehr als 5.000 US-Soldaten aus Deutschland abziehen",
       "link": "https://www.tagesschau.de/ausland/amerika/kritik-us-truppenabzug-republikaner-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Finnlands Mine gegen Europas Abhängigkeit von Lithium-Importen",
       "link": "https://www.tagesschau.de/ausland/europa/finnland-lithium-100.html"
-    },
-    {
-      "title": "Maidemos von linken Gruppen laut Polizei meist friedlich",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/maidemo-bilanz-berlin-hamburg-100.html"
-    },
-    {
-      "title": "Was die Übernahme von Tegut für Kunden und Erzeuger bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tegut-lebensmittel-uebernahme-100.html"
-    },
-    {
-      "title": "Finanzminister Klingbeil treibt Steuerreform voran",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-steuerreform-100.html"
     }
   ]
 }
