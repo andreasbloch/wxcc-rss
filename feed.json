@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Trump will deutlich mehr als 5.000 US-Soldaten aus Deutschland abziehen",
+      "link": "https://www.tagesschau.de/ausland/amerika/kritik-us-truppenabzug-republikaner-100.html"
+    },
+    {
       "title": "Nahost-Liveblog zum Nachlesen: ++ USA drohen Reedereien mit Sanktionen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-116.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Finanzminister Klingbeil treibt Steuerreform voran",
       "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-steuerreform-100.html"
-    },
-    {
-      "title": "Israelische Truppen im Südlibanon: Zurück in der Todesfalle",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-kaempfe-100.html"
     }
   ]
 }
