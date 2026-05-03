@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ OPEC+ erhöht die Ölförderquote ++",
+      "title": "Iran-Liveblog: ++ Offenbar Schiff nahe Straße von Hormus attackiert ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-sonntag-290.html"
+    },
+    {
+      "title": "Feuer auf altem Truppenübungsplatz in Brandenburg ausgebrochen",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/waldbrand-truppenuebungsplatz-brandenburg-100.html"
+    },
+    {
+      "title": "Libanon: Krieg trotz Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-waffenruhe-106.html"
     },
     {
       "title": "Unionspolitiker kritisieren Zustand der Koalition",
@@ -23,10 +31,6 @@
     {
       "title": "Shakira gibt kostenloses Konzert für zwei Millionen Fans in Rio",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-rio-shakira-riesenkonzert-100.html"
-    },
-    {
-      "title": "Feuer auf altem Truppenübungsplatz in Brandenburg ausgebrochen",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/waldbrand-truppenuebungsplatz-brandenburg-100.html"
     },
     {
       "title": "Krieg gegen die Ukraine: Ein Toter bei russischen Angriffen",
@@ -75,10 +79,6 @@
     {
       "title": "Trump verweigert offenbar \"Tomahawk\"-Stationierung in Deutschland",
       "link": "https://www.tagesschau.de/inland/innenpolitik/usa-trump-tomahawk-100.html"
-    },
-    {
-      "title": "Abzug von US-Soldaten war laut Pistorius absehbar",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/us-truppenabzug-reaktionen-104.html"
     }
   ]
 }
