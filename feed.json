@@ -1,16 +1,40 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Europäer haben laut Rutte Trumps Botschaft \"gehört\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html"
+    },
+    {
+      "title": "Straße von Hormus: Iran droht mit Angriffen auf US-Streitkräfte",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-strasse-von-hormus-hilfe-102.html"
+    },
+    {
+      "title": "Kritik an US-Militärplänen: \"Wir schwächen uns damit\"",
+      "link": "https://www.tagesschau.de/inland/kiesewetter-usa-abzug-truppen-deutschland-100.html"
+    },
+    {
+      "title": "ADAC-Analyse: Tankrabatt noch nicht vollständig weitergegeben",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-steuersenkung-100.html"
+    },
+    {
+      "title": "Podcast 15 Minuten: US-Truppenabzug, niedrige Milchpreise, Maikäfer",
+      "link": "https://www.tagesschau.de/inland/podcast-15-min-us-soldaten-milchpreise-maikaefer-100.html"
+    },
+    {
+      "title": "EPG-Treffen in Armenien: Gipfeltreffen ohne Merz",
+      "link": "https://www.tagesschau.de/ausland/europa/epg-gipfel-armenien-102.html"
+    },
+    {
+      "title": "Marktbericht: Anleger nehmen Trumps-Zolldrohungen gelassen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-zoelle-100.html"
+    },
+    {
       "title": "Merz zu den USA: \"Ich gebe die Zusammenarbeit mit Trump nicht auf\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-koalition-usa-100.html"
     },
     {
       "title": "Wie die Gesundheit von Mensch, Tier und Umwelt zusammenhängt",
       "link": "https://www.tagesschau.de/wissen/gesundheit/tierwohl-gesundheit-mensch-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Minenjagdboot \"Fulda\" startet Richtung Mittelmeer ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html"
     },
     {
       "title": "Finanznot der New Yorker Metropolitan Opera wird größer",
@@ -55,30 +79,6 @@
     {
       "title": "Shakira gibt kostenloses Konzert für zwei Millionen Fans in Rio",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-rio-shakira-riesenkonzert-100.html"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Ein Toter bei russischen Angriffen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-cherson-100.html"
-    },
-    {
-      "title": "UN-Menschenrechtskommissar: Presse ist \"Sauerstoff\"“ für eine Gesellschaft",
-      "link": "https://www.tagesschau.de/ausland/europa/pressefreiheit-un-100.html"
-    },
-    {
-      "title": "Bundesagrarminister Rainer will Steuerbefreiung für Biokraftstoff",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rainer-biokraftstoffe-landwirtschaftsminister-100.html"
-    },
-    {
-      "title": "Internet-Blockaden in Russland: Ein Eiserner Vorhang - dieses Mal digital",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-internet-blockade-bevoelkerung-100.html"
-    },
-    {
-      "title": "Kubas Präsident weist Trumps Übernahme-Drohungen zurück",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-usa-uebernahme-drohung-trump-zurueckgewiesen-100.html"
-    },
-    {
-      "title": "Ein Traum mit Preisschild: Lohnt sich das Ferienhaus wirklich?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/investment-ferienhaus-100.html"
     }
   ]
 }
