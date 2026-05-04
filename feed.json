@@ -1,8 +1,28 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Hormus-Transit für Hapag-Lloyd-Schiffe unmöglich ++",
+      "title": "Iran-Liveblog: ++ US-Militär bestreitet iranischen Angriff ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html"
+    },
+    {
+      "title": "UniCredit-Aktionäre machen Weg für Commerzbank-Übernahme frei",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-hauptversammlung-commerzbank-100.html"
+    },
+    {
+      "title": "Bedarf an Fachkräften: Die MINT-Lücke schrumpft",
+      "link": "https://www.tagesschau.de/inland/mint-report-106.html"
+    },
+    {
+      "title": "Todesfälle auf Kreuzfahrtschiff: Was das Hantavirus ist",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/hantavirus-110.html"
+    },
+    {
+      "title": "US-Armee zieht 5.000 Soldaten aus der Oberpfalz ab",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/us-armee-abzug-bayern-100.html"
+    },
+    {
+      "title": "ADAC-Analyse: Tankrabatt noch nicht vollständig weitergegeben",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-steuersenkung-100.html"
     },
     {
       "title": "SPD, Grüne und Linke verlassen X",
@@ -25,20 +45,12 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/geburten-kaiserschnitt-100.html"
     },
     {
-      "title": "UniCredit-Aktionäre sollen über Commerzbank-Übernahme abstimmen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-hauptversammlung-commerzbank-100.html"
-    },
-    {
       "title": "Straße von Hormus: Iran droht mit Angriffen auf US-Streitkräfte",
       "link": "https://www.tagesschau.de/ausland/asien/trump-strasse-von-hormus-hilfe-102.html"
     },
     {
       "title": "Kritik an US-Militärplänen: \"Wir schwächen uns damit\"",
       "link": "https://www.tagesschau.de/inland/kiesewetter-usa-abzug-truppen-deutschland-100.html"
-    },
-    {
-      "title": "ADAC-Analyse: Tankrabatt noch nicht vollständig weitergegeben",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-steuersenkung-100.html"
     },
     {
       "title": "EPG-Treffen in Armenien: Gipfeltreffen ohne Merz",
@@ -67,18 +79,6 @@
     {
       "title": "Iran-Liveblog: ++ Trump: Befreiung von Schiffen soll am Morgen starten ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-sonntag-290.html"
-    },
-    {
-      "title": "Innenminister Dobrindt will an umstrittenen Grenzkontrollen festhalten",
-      "link": "https://www.tagesschau.de/inland/dobrindt-grenzkontrollen-bab-100.html"
-    },
-    {
-      "title": "Israel und Hisbollah: Krieg trotz Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-waffenruhe-106.html"
-    },
-    {
-      "title": "Unionspolitiker kritisieren Zustand der Koalition",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-kritik-100.html"
     }
   ]
 }
