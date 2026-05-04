@@ -1,8 +1,36 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ US-Militär bestreitet iranischen Angriff ++",
+      "title": "Deutschland und Tschechien: Viele Waldbrände wegen Trockenheit",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-duerre-100.html"
+    },
+    {
+      "title": "SPD, Grüne und Linke verlassen X",
+      "link": "https://www.tagesschau.de/inland/spd-gruene-linke-rueckzug-x-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ US-Kriegsschiffe durchfahren laut US-Armee Straße von Hormus ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html"
+    },
+    {
+      "title": "EPG-Gipfel in Armenien: Europa will eigene Verteidigung ausbauen",
+      "link": "https://www.tagesschau.de/ausland/europa/epg-verteidigungsbereitschaft-100.html"
+    },
+    {
+      "title": "Start-ups in Deutschland bekommen mehr Wagniskapital",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/start-ups-wagniskapital-investoren-100.html"
+    },
+    {
+      "title": "Fake-Selfie mit Merz verbreitet sich online",
+      "link": "https://www.tagesschau.de/faktenfinder/merz-selfie-ki-100.html"
+    },
+    {
+      "title": "Neue Zolldrohung: Autoaktien trifft es heute doppelt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-autobauer-trump-ifo-100.html"
+    },
+    {
+      "title": "Kreuzfahrtschiff darf nach Hantavirus-Ausbruch nicht in Kap Verde anlegen",
+      "link": "https://www.tagesschau.de/ausland/hantavirus-kapverden-100.html"
     },
     {
       "title": "UniCredit-Aktionäre machen Weg für Commerzbank-Übernahme frei",
@@ -23,10 +51,6 @@
     {
       "title": "ADAC-Analyse: Tankrabatt noch nicht vollständig weitergegeben",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-steuersenkung-100.html"
-    },
-    {
-      "title": "SPD, Grüne und Linke verlassen X",
-      "link": "https://www.tagesschau.de/inland/spd-gruene-linke-rueckzug-x-100.html"
     },
     {
       "title": "Ukrainische Drohne beschädigt Moskauer Wohnhaus",
@@ -55,30 +79,6 @@
     {
       "title": "EPG-Treffen in Armenien: Gipfeltreffen ohne Merz",
       "link": "https://www.tagesschau.de/ausland/europa/epg-gipfel-armenien-102.html"
-    },
-    {
-      "title": "Merz zu den USA: \"Ich gebe die Zusammenarbeit mit Trump nicht auf\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-koalition-usa-100.html"
-    },
-    {
-      "title": "Wie die Gesundheit von Mensch, Tier und Umwelt zusammenhängt",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/tierwohl-gesundheit-mensch-100.html"
-    },
-    {
-      "title": "Finanznot der New Yorker Metropolitan Opera wird größer",
-      "link": "https://www.tagesschau.de/ausland/amerika/opera-new-york-finanznot-100.html"
-    },
-    {
-      "title": "USA planen Eskorte für Schiffe aus Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/trump-strasse-von-hormus-hilfe-100.html"
-    },
-    {
-      "title": "Hantavirus-Ausbruch: Drei Tote auf Kreuzfahrtschiff im Atlantik",
-      "link": "https://www.tagesschau.de/ausland/hantavirus-kreuzfahrtschiff-tote-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Trump: Befreiung von Schiffen soll am Morgen starten ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-nahost-sonntag-290.html"
     }
   ]
 }
