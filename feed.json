@@ -1,8 +1,32 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Europäer haben laut Rutte Trumps Botschaft \"gehört\" ++",
+      "title": "Iran-Liveblog: ++ Hormus-Transit für Hapag-Lloyd-Schiffe unmöglich ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html"
+    },
+    {
+      "title": "SPD, Grüne und Linke verlassen X",
+      "link": "https://www.tagesschau.de/inland/spd-gruene-linke-rueckzug-x-100.html"
+    },
+    {
+      "title": "Ukrainische Drohne beschädigt Moskauer Wohnhaus",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-drohne-wohnhaus-moskau-100.html"
+    },
+    {
+      "title": "GameStop will eBay übernehmen - für 56 Milliarden Dollar",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/gamestop-ebay-uebernahme-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger nehmen zum Wochenstart Tempo raus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-zoelle-100.html"
+    },
+    {
+      "title": "Geburten in Deutschland: Jede dritte Geburt erfolgt per Kaiserschnitt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/geburten-kaiserschnitt-100.html"
+    },
+    {
+      "title": "UniCredit-Aktionäre sollen über Commerzbank-Übernahme abstimmen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-hauptversammlung-commerzbank-100.html"
     },
     {
       "title": "Straße von Hormus: Iran droht mit Angriffen auf US-Streitkräfte",
@@ -17,16 +41,8 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-steuersenkung-100.html"
     },
     {
-      "title": "Podcast 15 Minuten: US-Truppenabzug, niedrige Milchpreise, Maikäfer",
-      "link": "https://www.tagesschau.de/inland/podcast-15-min-us-soldaten-milchpreise-maikaefer-100.html"
-    },
-    {
       "title": "EPG-Treffen in Armenien: Gipfeltreffen ohne Merz",
       "link": "https://www.tagesschau.de/ausland/europa/epg-gipfel-armenien-102.html"
-    },
-    {
-      "title": "Marktbericht: Anleger nehmen Trumps-Zolldrohungen gelassen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-zoelle-100.html"
     },
     {
       "title": "Merz zu den USA: \"Ich gebe die Zusammenarbeit mit Trump nicht auf\"",
@@ -63,22 +79,6 @@
     {
       "title": "Unionspolitiker kritisieren Zustand der Koalition",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-kritik-100.html"
-    },
-    {
-      "title": "Reporter ohne Grenzen zum Pressefreiheit-Ranking: \"Ein dramatischer Befund\"",
-      "link": "https://www.tagesschau.de/ausland/europa/pressefreiheit-mihr-100.html"
-    },
-    {
-      "title": "Italien: Bespitzelt von \"Graphite\" - aber von wem beauftragt?",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-pressefreiheit-spyware-100.html"
-    },
-    {
-      "title": "Umsatz mit Bio-Lebensmitteln im ersten Quartal weiter gestiegen",
-      "link": "https://www.tagesschau.de/inland/verbraucher-bio-lebensmittel-100.html"
-    },
-    {
-      "title": "Shakira gibt kostenloses Konzert für zwei Millionen Fans in Rio",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-rio-shakira-riesenkonzert-100.html"
     }
   ]
 }
