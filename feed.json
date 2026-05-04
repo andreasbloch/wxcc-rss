@@ -1,11 +1,23 @@
 {
   "items": [
     {
+      "title": "Merz zu den USA: \"Ich gebe die Zusammenarbeit mit Trump nicht auf\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-koalition-usa-100.html"
+    },
+    {
+      "title": "Wie die Gesundheit von Mensch, Tier und Umwelt zusammenhängt",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/tierwohl-gesundheit-mensch-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Minenjagdboot \"Fulda\" startet Richtung Mittelmeer ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-120.html"
+    },
+    {
       "title": "Finanznot der New Yorker Metropolitan Opera wird größer",
       "link": "https://www.tagesschau.de/ausland/amerika/opera-new-york-finanznot-100.html"
     },
     {
-      "title": "USA wollen Schiffe durch Straße von Hormus geleiten",
+      "title": "USA planen Eskorte für Schiffe aus Straße von Hormus",
       "link": "https://www.tagesschau.de/ausland/trump-strasse-von-hormus-hilfe-100.html"
     },
     {
@@ -19,10 +31,6 @@
     {
       "title": "Innenminister Dobrindt will an umstrittenen Grenzkontrollen festhalten",
       "link": "https://www.tagesschau.de/inland/dobrindt-grenzkontrollen-bab-100.html"
-    },
-    {
-      "title": "Merz zu den USA: \"Ich gebe die Zusammenarbeit mit Trump nicht auf\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-koalition-usa-100.html"
     },
     {
       "title": "Israel und Hisbollah: Krieg trotz Waffenruhe",
@@ -71,14 +79,6 @@
     {
       "title": "Ein Traum mit Preisschild: Lohnt sich das Ferienhaus wirklich?",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/investment-ferienhaus-100.html"
-    },
-    {
-      "title": "Grundwasser an vielen Küsten sinkt - ist das Trinkwasser bedroht?",
-      "link": "https://www.tagesschau.de/wissen/forschung/versalzenes-grundwasser-100.html"
-    },
-    {
-      "title": "Tunesien: Die Auslandspresse muss draußen bleiben",
-      "link": "https://www.tagesschau.de/ausland/afrika/pressefreiheit-tunesien-100.html"
     }
   ]
 }
