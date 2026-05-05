@@ -1,16 +1,36 @@
 {
   "items": [
     {
+      "title": "Was über die mutmaßliche Amokfahrt in Leipzig bekannt ist",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/leipzig-amokfahrt-104.html"
+    },
+    {
+      "title": "Deutscher Weinbau in der Krise - Chancen durch neue Märkte?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wein-krise-deutschland-100.html"
+    },
+    {
+      "title": "Warum China Seltene Erden in Myanmar abbaut",
+      "link": "https://www.tagesschau.de/ausland/asien/china-seltene-erden-myanmar-100.html"
+    },
+    {
+      "title": "Verkehrsminister Schnieder schließt Tankrabatt-Verlängerung nicht aus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schnieder-tankrabatt-100.html"
+    },
+    {
+      "title": "USA melden erfolgreiche Geleitschutzmission durch Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/amerika/project-freedom-usa-hormus-iran-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX-Schwäche dürfte sich fortsetzen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-128.html"
+    },
+    {
       "title": "Pistorius bei Heeresübung: Der teure Krieg der Zukunft",
       "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-leistungsschau-pistorius-100.html"
     },
     {
       "title": "Einheimische Hülsenfrüchte: Wie die Ackerbohne zum Superfood wird",
       "link": "https://www.tagesschau.de/wissen/forschung/ackerbohne-genschere-frosthart-100.html"
-    },
-    {
-      "title": "Was über die mutmaßliche Amokfahrt in Leipzig bekannt ist",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/leipzig-amokfahrt-104.html"
     },
     {
       "title": "Recherchen zur Trump-Regierung dominieren Pulitzer-Preise",
@@ -59,26 +79,6 @@
     {
       "title": "Vom Feed ins Buchregal: Wenn Influencer zu Bestseller-Autoren werden",
       "link": "https://www.tagesschau.de/kultur/influencer-bestseller-autoren-100.html"
-    },
-    {
-      "title": "Deutschland und Tschechien: Viele Waldbrände wegen Trockenheit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-duerre-100.html"
-    },
-    {
-      "title": "SPD, Grüne und Linke verlassen X",
-      "link": "https://www.tagesschau.de/inland/spd-gruene-linke-rueckzug-x-100.html"
-    },
-    {
-      "title": "EPG-Gipfel in Armenien: Europa will eigene Verteidigung ausbauen",
-      "link": "https://www.tagesschau.de/ausland/europa/epg-verteidigungsbereitschaft-100.html"
-    },
-    {
-      "title": "Start-ups in Deutschland bekommen mehr Wagniskapital",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/start-ups-wagniskapital-investoren-100.html"
-    },
-    {
-      "title": "Fake-Selfie mit Merz verbreitet sich online",
-      "link": "https://www.tagesschau.de/faktenfinder/merz-selfie-ki-100.html"
     }
   ]
 }
