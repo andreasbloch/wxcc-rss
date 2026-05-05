@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Recherchen zur Trump-Regierung dominieren Pulitzer-Preise",
+      "link": "https://www.tagesschau.de/ausland/pulitzer-preise-2026-100.html"
+    },
+    {
       "title": "Auto fährt in Leipzig in Menschengruppe - zwei Tote",
       "link": "https://www.tagesschau.de/inland/leipzig-tote-amokfahrt-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Bedarf an Fachkräften: Die MINT-Lücke schrumpft",
       "link": "https://www.tagesschau.de/inland/mint-report-106.html"
-    },
-    {
-      "title": "Todesfälle auf Kreuzfahrtschiff: Was das Hantavirus ist",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/hantavirus-110.html"
     }
   ]
 }
