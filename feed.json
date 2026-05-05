@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "Pistorius bei Heeresübung: Der teure Krieg der Zukunft",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-leistungsschau-pistorius-100.html"
+    },
+    {
+      "title": "Einheimische Hülsenfrüchte: Wie die Ackerbohne zum Superfood wird",
+      "link": "https://www.tagesschau.de/wissen/forschung/ackerbohne-genschere-frosthart-100.html"
+    },
+    {
+      "title": "Was über die mutmaßliche Amokfahrt in Leipzig bekannt ist",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/leipzig-amokfahrt-104.html"
+    },
+    {
       "title": "Recherchen zur Trump-Regierung dominieren Pulitzer-Preise",
-      "link": "https://www.tagesschau.de/ausland/pulitzer-preise-2026-100.html"
+      "link": "https://www.tagesschau.de/ausland/pulitzer-preise-104.html"
     },
     {
       "title": "Auto fährt in Leipzig in Menschengruppe - zwei Tote",
@@ -67,18 +79,6 @@
     {
       "title": "Fake-Selfie mit Merz verbreitet sich online",
       "link": "https://www.tagesschau.de/faktenfinder/merz-selfie-ki-100.html"
-    },
-    {
-      "title": "Neue Zolldrohung: Autoaktien trifft es heute doppelt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-autobauer-trump-ifo-100.html"
-    },
-    {
-      "title": "UniCredit-Aktionäre machen Weg für Commerzbank-Übernahme frei",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/unicredit-hauptversammlung-commerzbank-100.html"
-    },
-    {
-      "title": "Bedarf an Fachkräften: Die MINT-Lücke schrumpft",
-      "link": "https://www.tagesschau.de/inland/mint-report-106.html"
     }
   ]
 }
