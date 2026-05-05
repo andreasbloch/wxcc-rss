@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Wie sich Jens Spahn an der Fraktionsspitze behauptet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-union-fraktionschef-wiederwahl-100.html"
+    },
+    {
+      "title": "Entwurf für Gebäudemodernisierungsgesetz: Klimaneutralität auf wackligem Boden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entwurf-gebaeudemodernisierungsgesetz-kritik-100.html"
+    },
+    {
       "title": "Leipzig: Amokfahrer kommt in die Psychiatrie",
       "link": "https://www.tagesschau.de/inland/regional/sachsen/liveblog-leipzig-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Können europäische Banken mit den US-Geldhäusern konkurrieren?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/commerzbank-unicredit-bankenchampion-100.html"
-    },
-    {
-      "title": "UniCredit legt offizielles Angebot für die Commerzbank vor",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-commerzbank-uebernahme-rekordgewinn-100.html"
-    },
-    {
-      "title": "Reiseveranstalter: Keine Nachzahlungen für gebuchte Urlaube",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-nachzahlungen-kerosinpreise-100.html"
     }
   ]
 }
