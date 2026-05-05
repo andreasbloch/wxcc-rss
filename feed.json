@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Mutmaßliche Amokfahrt: Verdächtiger soll Haftrichter vorgeführt werden",
+      "link": "https://www.tagesschau.de/inland/regional/sachsen/liveblog-leipzig-100.html"
+    },
+    {
+      "title": "Trump und Merz: Wann reden sie wieder miteinander?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-trump-126.html"
+    },
+    {
+      "title": "Marktbericht: DAX wieder zurück über 24.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-128.html"
+    },
+    {
+      "title": "Neuzuschnitt von Wahlkreisen in den USA: Üblich, aber brisant",
+      "link": "https://www.tagesschau.de/ausland/amerika/wahlkreise-zuschnitt-usa-100.html"
+    },
+    {
+      "title": "Mehr als 20 Tote nach Explosion in chinesischer Feuerwerksfabrik",
+      "link": "https://www.tagesschau.de/ausland/asien/feuerwerksfabrik-tote-china-100.html"
+    },
+    {
+      "title": "Met Gala in New York: Promi-Schaulaufen für den guten Zweck",
+      "link": "https://www.tagesschau.de/ausland/amerika/met-gala-184.html"
+    },
+    {
+      "title": "Hohes Umsatzplus: Daten-Firma Palantir wächst immer schneller",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/palantir-datenanalyse-umsatz-100.html"
+    },
+    {
       "title": "Was über die mutmaßliche Amokfahrt in Leipzig bekannt ist",
       "link": "https://www.tagesschau.de/inland/gesellschaft/leipzig-amokfahrt-104.html"
     },
@@ -19,10 +47,6 @@
     {
       "title": "USA melden erfolgreiche Geleitschutzmission durch Straße von Hormus",
       "link": "https://www.tagesschau.de/ausland/amerika/project-freedom-usa-hormus-iran-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX-Schwäche dürfte sich fortsetzen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-128.html"
     },
     {
       "title": "Pistorius bei Heeresübung: Der teure Krieg der Zukunft",
@@ -55,30 +79,6 @@
     {
       "title": "Ein Jahr schwarz-rote Koalition: Keine Feierlaune in Sicht",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ein-jahr-schwarz-rot-koalition-100.html"
-    },
-    {
-      "title": "US-Zerstörer durchfahren offenbar Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-schiffe-104.html"
-    },
-    {
-      "title": "DAX rutscht ab: Zu viel des Schlechten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-trump-zoelle-100.html"
-    },
-    {
-      "title": "Schweizer Nachrichtendienst gewährt Einsicht in Mengele-Dossier",
-      "link": "https://www.tagesschau.de/ausland/europa/mengele-ns-arzt-dossier-100.html"
-    },
-    {
-      "title": "Kreuzfahrtschiff darf nach Hantavirus-Fall nicht in Kap Verde anlegen",
-      "link": "https://www.tagesschau.de/ausland/hantavirus-kapverden-100.html"
-    },
-    {
-      "title": "Entsetzen nach Angriff auf Nonne in Jerusalem",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-jerusalem-angriff-nonne-100.html"
-    },
-    {
-      "title": "Vom Feed ins Buchregal: Wenn Influencer zu Bestseller-Autoren werden",
-      "link": "https://www.tagesschau.de/kultur/influencer-bestseller-autoren-100.html"
     }
   ]
 }
