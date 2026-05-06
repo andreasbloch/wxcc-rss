@@ -1,20 +1,44 @@
 {
   "items": [
     {
-      "title": "EU-Kommission präsentiert Strategie gegen Armut",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-armutsbekaempfung-100.html"
+      "title": "Marktbericht: DAX-Anleger scharren mit den Hufen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-138.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Trump droht Iran mit schweren Angriffen ++",
+      "title": "US-Präsident Trump bleibt im Iran-Krieg auf Zickzackkurs",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-drohungen-waffenruhe-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Libanon vorerst gegen Spitzentreffen mit Israel ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-118.html"
     },
     {
-      "title": "Autobranche: Warum BMW besser dasteht als VW und Mercedes",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-mercedes-vw-vergleich-e-autos-100.html"
+      "title": "CNN-Gründer Ted Turner mit 87 Jahren gestorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/ted-turner-tod-100.html"
     },
     {
       "title": "Laut Selenskyj ignoriert Putin die einseitige Waffenruhe",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-waffenruhe-102.html"
+    },
+    {
+      "title": "Wie das erste Jahr von Kulturstaatsminister Weimer verlief",
+      "link": "https://www.tagesschau.de/kultur/jahresbilanz-wolfram-weimer-100.html"
+    },
+    {
+      "title": "Ein Jahr Merz: \"Wir erleben gerade einen Kipppunkt in der Kanzlerschaft\"",
+      "link": "https://www.tagesschau.de/inland/interview-ein-jahr-merz-bundeskanzler-100.html"
+    },
+    {
+      "title": "Ausbruch auf Kreuzfahrtschiff: Andes-Typ des Hantavirus nachgewiesen",
+      "link": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-hantavirus-100.html"
+    },
+    {
+      "title": "EU-Kommission präsentiert Strategie gegen Armut",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-armutsbekaempfung-100.html"
+    },
+    {
+      "title": "Autobranche: Warum BMW besser dasteht als VW und Mercedes",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-mercedes-vw-vergleich-e-autos-100.html"
     },
     {
       "title": "Israel will Deutschland mit Kerosin-Lieferungen unterstützen",
@@ -31,10 +55,6 @@
     {
       "title": "Marktbericht: Lufthansa trotz des Iran-Kriegs im Aufwind",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/lufthansa-mb-100.html"
-    },
-    {
-      "title": "Ausbruch auf Kreuzfahrtschiff: Andes-Typ des Hantavirus nachgewiesen",
-      "link": "https://www.tagesschau.de/ausland/europa/kreuzfahrtschiff-hantavirus-100.html"
     },
     {
       "title": "Vor Trumps China-Besuch: Iranischer Außenminister in Peking",
@@ -59,26 +79,6 @@
     {
       "title": "Kritik am BioNTech-Rückzug aus Deutschland",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/biontech-produktion-impfstoffe-curevac-100.html"
-    },
-    {
-      "title": "Marktbericht: Zuversicht bei Anlegern lässt DAX steigen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-138.html"
-    },
-    {
-      "title": "Quartalsbilanz: Maschinenbau steckt in Strukturkrise fest",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/maschinenbau-quartalsbilanz-100.html"
-    },
-    {
-      "title": "Wie Brüssel auf ein Jahr Bundeskanzler Merz blickt",
-      "link": "https://www.tagesschau.de/ausland/europa/bruessel-koalition-merz-100.html"
-    },
-    {
-      "title": "Schwarz-rote Koalition: Die großen Brocken kommen noch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-ein-jahr-100.html"
-    },
-    {
-      "title": "Entwurf für Gebäudemodernisierungsgesetz: Klimaneutralität in Gefahr?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entwurf-gebaeudemodernisierungsgesetz-kritik-100.html"
     }
   ]
 }
