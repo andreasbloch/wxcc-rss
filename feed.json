@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Trump pausiert US-Hilfe für Schiffe in der Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/trump-strasse-von-hormus-102.html"
+    },
+    {
+      "title": "Hantavirus-Ausbruch: Kreuzfahrtschiff darf nach Spanien",
+      "link": "https://www.tagesschau.de/ausland/hantavirus-kreuzfahrtschiff-spanien-100.html"
+    },
+    {
       "title": "Kreuzfahrtschiff: Hantavirus wohl von Mensch zu Mensch übertragen",
       "link": "https://www.tagesschau.de/ausland/afrika/hantavirus-kreuzfahrtschiff-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Kurz vor Feuerpause: Tote und Verletzte nach russischem Angriff",
       "link": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-poltawa-100.html"
-    },
-    {
-      "title": "DAX beflügelt: Rheinmetall will deutlich schneller wachsen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-rheinmetall-100.html"
-    },
-    {
-      "title": "Vereinigte Arabische Emirate ziehen Bilanz der iranischen Angriffe",
-      "link": "https://www.tagesschau.de/ausland/korrespondenten/vae-iran-reaktion-100.html"
     }
   ]
 }
