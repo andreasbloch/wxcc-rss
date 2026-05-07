@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Israel greift erstmals seit Waffenruhe Vorort von Beirut an",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-angriff-beirut-vorort-100.html"
+    },
+    {
+      "title": "Bundeskanzler Merz sieht \"keine Alternative\" zur schwarz-roten Koalition",
+      "link": "https://www.tagesschau.de/inland/koalition-bundesregierung-merz-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ USA schießen auf iranischen Tanker ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-118.html"
     },
     {
       "title": "Nach Hantavirus-Ausbruch: Kreuzfahrtschiff unterwegs nach Teneriffa",
       "link": "https://www.tagesschau.de/ausland/europa/hantavirus-kreuzfahrtschiff-europa-100.html"
-    },
-    {
-      "title": "Bundeskanzler Merz sieht \"keine Alternative\" zur schwarz-roten Koalition",
-      "link": "https://www.tagesschau.de/inland/koalition-bundesregierung-merz-100.html"
     },
     {
       "title": "Marktbericht: DAX-Anleger scharren mit den Hufen",
@@ -75,10 +79,6 @@
     {
       "title": "Getöteter Polizist: Lange Haftstrafe wegen illegalem Autorennen mit Todesfolge",
       "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-getoeteter-polizist-autorennen-dresden-100.html"
-    },
-    {
-      "title": "Kampf gegen Deepfakes: Meloni verurteilt KI-Bild als politischen Angriff",
-      "link": "https://www.tagesschau.de/ausland/europa/meloni-ki-deepfakes-100.html"
     }
   ]
 }
