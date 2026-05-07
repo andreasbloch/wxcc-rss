@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Platz in Berlin nach Margot Friedländer benannt",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/margot-friedlaender-platz-100.html"
+    },
+    {
+      "title": "Ein Jahr Schwarz-Rot: Wie die Basis von CDU und SPD auf die Koalition schaut",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ein-jahr-schwarz-rot-basis-100.html"
+    },
+    {
+      "title": "Warum Google jetzt die Zahl gelöschter Bewertungen zeigt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/google-bewertungen-100.html"
+    },
+    {
+      "title": "Wie der Iran-Krieg den Erneuerbaren zum Boom verhilft",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/iran-krieg-wind-solar-boerse-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Iran bestreitet Angriff auf Frachter ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-118.html"
+    },
+    {
+      "title": "Tag der Bauindustrie: Was bringt neuen Schwung am Bau?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wohnungen-preise-bauwirtschaft-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX startet mit leichtem Plus in den Handel",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-140.html"
+    },
+    {
       "title": "Etwa jeder vierte Wehrdienst-Fragebogen bleibt unbeantwortet",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-wehrdienst-frageboegen-100.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "Iran-Liveblog: ++ USA schießen auf iranischen Tanker ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-118.html"
-    },
-    {
-      "title": "Nach Hantavirus-Ausbruch: Kreuzfahrtschiff unterwegs nach Teneriffa",
-      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-kreuzfahrtschiff-europa-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX-Anleger scharren mit den Hufen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-138.html"
-    },
-    {
-      "title": "US-Präsident Trump bleibt im Iran-Krieg auf Zickzackkurs",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-drohungen-waffenruhe-100.html"
-    },
-    {
-      "title": "CNN-Gründer Ted Turner mit 87 Jahren gestorben",
-      "link": "https://www.tagesschau.de/ausland/amerika/ted-turner-tod-100.html"
-    },
-    {
-      "title": "Laut Selenskyj ignoriert Putin die einseitige Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-waffenruhe-102.html"
-    },
-    {
-      "title": "Wie das erste Jahr von Kulturstaatsminister Weimer verlief",
-      "link": "https://www.tagesschau.de/kultur/jahresbilanz-wolfram-weimer-100.html"
-    },
-    {
-      "title": "Ein Jahr Merz: \"Wir erleben gerade einen Kipppunkt in der Kanzlerschaft\"",
-      "link": "https://www.tagesschau.de/inland/interview-ein-jahr-merz-bundeskanzler-100.html"
     }
   ]
 }
