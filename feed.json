@@ -1,8 +1,40 @@
 {
   "items": [
     {
+      "title": "Etwa jeder vierte Wehrdienst-Fragebogen bleibt unbeantwortet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-wehrdienst-frageboegen-100.html"
+    },
+    {
+      "title": "China verurteilt zwei Ex-Verteidigungsminister zur Todesstrafe",
+      "link": "https://www.tagesschau.de/ausland/asien/china-urteil-verteidigungsminister-100.html"
+    },
+    {
+      "title": "Ministerpräsident Schulze: Bundesregierung für AfD-Umfragehoch mitverantwortlich",
+      "link": "https://www.tagesschau.de/inland/wahlen/afd-umfragehoch-sachsen-anhalt-100.html"
+    },
+    {
+      "title": "Klingbeil: Deutlich weniger Einnahmen für den Staat als erwartet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-184.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iran bestreitet Angriff auf Frachter ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-118.html"
+    },
+    {
+      "title": "Bahn: Schienennetz hat sich 2025 nicht weiter verschlechtert",
+      "link": "https://www.tagesschau.de/inland/bahn-zustandsbericht-schienennetz-100.html"
+    },
+    {
+      "title": "Drohnen nahe der russischen Grenze in Lettland abgestürzt",
+      "link": "https://www.tagesschau.de/ausland/europa/drohnen-lettland-100.html"
+    },
+    {
+      "title": "Russland: Ein Stimmungswechsel, der heikel für Putin ist",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-stimmung-putin-wirtschaft-100.html"
+    },
+    {
+      "title": "EU genehmigt Milliardenförderung für deutsche Industrie",
+      "link": "https://www.tagesschau.de/wirtschaft/eu-industrie-deutschland-foerderung-klimaschutz-100.html"
     },
     {
       "title": "Marktbericht: Shell verdient deutlich mehr",
@@ -47,38 +79,6 @@
     {
       "title": "Marktbericht: DAX startet mit leichtem Plus in den Handel",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-140.html"
-    },
-    {
-      "title": "Etwa jeder vierte Wehrdienst-Fragebogen bleibt unbeantwortet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-wehrdienst-frageboegen-100.html"
-    },
-    {
-      "title": "Spahn will an Erhöhung der Abgeordnetendiäten festhalten",
-      "link": "https://www.tagesschau.de/inland/diaeten-erhoehung-bundestagsabgeordnete-100.html"
-    },
-    {
-      "title": "US-Gericht veröffentlicht angeblichen Epstein-Abschiedsbrief",
-      "link": "https://www.tagesschau.de/ausland/amerika/epstein-brief-veroeffentlicht-100.html"
-    },
-    {
-      "title": "Verliert Labour seine Hochburgen - an rechts und links?",
-      "link": "https://www.tagesschau.de/ausland/europa/vereinigtes-koenigreich-regionalwahlen-100.html"
-    },
-    {
-      "title": "EU will härter gegen sexualisierte Deepfakes vorgehen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-ki-missbrauch-deepfakes-100.html"
-    },
-    {
-      "title": "Trump hält Einigung mit Iran für \"sehr wahrscheinlich\"",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-einigung-iran-100.html"
-    },
-    {
-      "title": "Sachsen-Anhalt-Trend vor Landtagswahl: AfD baut Vorsprung zur CDU weiter aus",
-      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/sachsen-anhalt-trend-106.html"
-    },
-    {
-      "title": "Israel greift erstmals seit Waffenruhe Vorort von Beirut an",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-angriff-beirut-vorort-100.html"
     }
   ]
 }
