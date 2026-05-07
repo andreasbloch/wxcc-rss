@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "USA und Iran beschießen sich in Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-102.html"
+    },
+    {
       "title": "Trump setzt der EU ein Ultimatum für den vereinbarten Zoll-Deal",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-usa-zoelle-eu-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "EU genehmigt Milliardenförderung für deutsche Industrie",
       "link": "https://www.tagesschau.de/wirtschaft/eu-industrie-deutschland-foerderung-klimaschutz-100.html"
-    },
-    {
-      "title": "Marktbericht: Shell verdient deutlich mehr",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-shell-100.html"
     }
   ]
 }
