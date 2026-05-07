@@ -1,12 +1,32 @@
 {
   "items": [
     {
+      "title": "Sachsen-Anhalt-Trend vor Landtagswahl: AfD baut Vorsprung zur CDU weiter aus",
+      "link": "https://www.tagesschau.de/inland/regional/sachsenanhalt/sachsen-anhalt-trend-106.html"
+    },
+    {
       "title": "Israel greift erstmals seit Waffenruhe Vorort von Beirut an",
       "link": "https://www.tagesschau.de/ausland/asien/israel-angriff-beirut-vorort-100.html"
     },
     {
+      "title": "Dammbruch in Brasilien: Vorwürfe gegen TÜV-SÜD-Manager drohen zu verjähren",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/tuev-sued-brasilien-100.html"
+    },
+    {
+      "title": "Trump hält Einigung mit Iran für \"sehr wahrscheinlich\"",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-einigung-iran-100.html"
+    },
+    {
+      "title": "Bundestag berät über schärfere Regeln für Barrierefreiheit",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundestag-behindertengleichstellungsgesetz-100.html"
+    },
+    {
       "title": "Bundeskanzler Merz sieht \"keine Alternative\" zur schwarz-roten Koalition",
       "link": "https://www.tagesschau.de/inland/koalition-bundesregierung-merz-100.html"
+    },
+    {
+      "title": "Evakuierung: Hantavirus-Kontaktperson in Düsseldorf angekommen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/hantavirus-kontaktperson-duesseldorf-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ USA schießen auf iranischen Tanker ++",
@@ -59,26 +79,6 @@
     {
       "title": "Gericht: Ausweiskontrollen in Berliner Freibädern zulässig",
       "link": "https://www.tagesschau.de/inland/regional/berlin/ausweiskontrollen-freibaeder-berlin-urteil-100.html"
-    },
-    {
-      "title": "Ein Jahr Schwarz-Rot: Der Rollenwechsel des Friedrich Merz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-bundeskanzler-ein-jahr-schwarz-rot-100.html"
-    },
-    {
-      "title": "Marktbericht: Lufthansa trotz des Iran-Kriegs im Aufwind",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/lufthansa-mb-100.html"
-    },
-    {
-      "title": "Vor Trumps China-Besuch: Iranischer Außenminister in Peking",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-aussenminister-china-100.html"
-    },
-    {
-      "title": "Straße von Malakka: Sorge um die weltweit wichtigste Meerenge",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-malakka-102.html"
-    },
-    {
-      "title": "Getöteter Polizist: Lange Haftstrafe wegen illegalem Autorennen mit Todesfolge",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-getoeteter-polizist-autorennen-dresden-100.html"
     }
   ]
 }
