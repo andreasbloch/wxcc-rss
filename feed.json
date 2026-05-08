@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ USA stoppen zwei iranische Tanker ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html"
+    },
+    {
+      "title": "EU-Handelskommissar Sefcovic erwartet baldige US-Zoll-Einigung",
+      "link": "https://www.tagesschau.de/ausland/europa/zolldeal-handelskommissar-eu-usa-100.html"
+    },
+    {
       "title": "Marktbericht: Alle Blicke auf den Persischen Golf",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-112.html"
     },
@@ -23,10 +31,6 @@
     {
       "title": "Wirtschaft erleichtert über Stopp der Entlastungsprämie",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/wirtschaft-reaktionen-stopp-entlastungspraemie-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ USA stoppen zwei iranische Tanker ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html"
     },
     {
       "title": "Russland und Ukraine werfen sich Bruch der Waffenruhe vor",
@@ -75,10 +79,6 @@
     {
       "title": "Bundestag beschließt Einsatz von Fußfesseln bei häuslicher Gewalt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fussfessel-100.html"
-    },
-    {
-      "title": "Südafrika sucht nach Kontaktpersonen von Hantavirus-Patientin",
-      "link": "https://www.tagesschau.de/ausland/asien/suedafrika-suche-infizierte-hantavirus-100.html"
     }
   ]
 }
