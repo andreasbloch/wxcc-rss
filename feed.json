@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Handelsgericht erklärt Trumps weltweite Zölle für unzulässig",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-trump-zoelle-100.html"
+    },
+    {
       "title": "USA und Iran beschießen sich in Straße von Hormus",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Russland: Ein Stimmungswechsel, der heikel für Putin ist",
       "link": "https://www.tagesschau.de/ausland/europa/russland-stimmung-putin-wirtschaft-100.html"
-    },
-    {
-      "title": "EU genehmigt Milliardenförderung für deutsche Industrie",
-      "link": "https://www.tagesschau.de/wirtschaft/eu-industrie-deutschland-foerderung-klimaschutz-100.html"
     }
   ]
 }
