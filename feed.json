@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Hinweis auf Ölteppich vor Insel Charg ++",
+      "title": "Iran-Liveblog: ++ Iran erklärt Gefechte in Hormus-Straße für beendet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html"
+    },
+    {
+      "title": "Bei der Pflegeversicherung fehlt mehr Geld als erwartet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-milliardenluecke-100.html"
     },
     {
       "title": "Rubio in Italien und dem Vatikan: Auf diplomatischer Mission",
@@ -75,10 +79,6 @@
     {
       "title": "Radew zum neuen Ministerpräsidenten in Bulgarien ernannt",
       "link": "https://www.tagesschau.de/ausland/europa/bulgarien-radew-ministerpraesident-100.html"
-    },
-    {
-      "title": "Dämpfer für Rheinmetall",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/rheinmetall-mb-100.html"
     }
   ]
 }
