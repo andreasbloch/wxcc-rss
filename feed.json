@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Alle Blicke auf den Persischen Golf",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-112.html"
+    },
+    {
+      "title": "Soziale Plattformen untätig bei KI-Fälschungen zum Holocaust",
+      "link": "https://www.tagesschau.de/faktenfinder/ki-fakes-holocaust-100.html"
+    },
+    {
+      "title": "Tausende Jugendliche protestieren bundesweit gegen Wehrpflicht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/wehrpflicht-proteste-wehrerfassung-100.html"
+    },
+    {
+      "title": "Nach Labour-Wahlschlappe: Premier Starmer kämpft um sein Amt",
+      "link": "https://www.tagesschau.de/ausland/europa/starmer-regionalwahlen-grossbritannien-100.html"
+    },
+    {
+      "title": "Spritpreise fallen auf tiefsten Stand seit zwei Monaten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankstellen-100.html"
+    },
+    {
+      "title": "Wirtschaft erleichtert über Stopp der Entlastungsprämie",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/wirtschaft-reaktionen-stopp-entlastungspraemie-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ USA stoppen zwei iranische Tanker ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Südafrika sucht nach Kontaktpersonen von Hantavirus-Patientin",
       "link": "https://www.tagesschau.de/ausland/asien/suedafrika-suche-infizierte-hantavirus-100.html"
-    },
-    {
-      "title": "Was die Riester-Reform Sparerinnen und Sparern bringen soll",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/riester-reform-private-altersvorsorge-100.html"
-    },
-    {
-      "title": "Wahlen in Großbritannien: Für Labour zeichnet sich desaströses Ergebnis ab",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regionalwahlen-kommunalwahlen-100.html"
-    },
-    {
-      "title": "Gewaltschutzgesetz: Was die Fußfessel bringen soll",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fussfessel-gewaltschutzgesetz-100.html"
-    },
-    {
-      "title": "Ein Jahr Papst Leo XIV.: Die Friedensbotschaft als Leitmotiv",
-      "link": "https://www.tagesschau.de/ausland/europa/ein-jahr-papst-leo-xiv-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Wie politisch ist Leo XIV. wirklich?",
-      "link": "https://www.tagesschau.de/podcast-11km-papst-100.html"
-    },
-    {
-      "title": "Stuttgart ist Deutschlands Homeoffice-Hauptstadt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/homeoffice-stuttgart-100.html"
     }
   ]
 }
