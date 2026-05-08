@@ -1,12 +1,32 @@
 {
   "items": [
     {
-      "title": "USA und Iran beschießen sich in Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-102.html"
+      "title": "Schwere Angriffe trotz von Russland ausgerufener Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-waffenruhe-angriffe-100.html"
+    },
+    {
+      "title": "Was die Riester-Reform Sparerinnen und Sparern bringen soll",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/riester-reform-private-altersvorsorge-100.html"
+    },
+    {
+      "title": "AfD \"wegregieren\" - warum klappt das bislang nicht?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-umgang-bundesregierung-100.html"
     },
     {
       "title": "Iran-Liveblog: ++ Waffenruhe laut Trump weiterhin in Kraft ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html"
+    },
+    {
+      "title": "Marktbericht: Nahost-Konflikt bremst Börsen aus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-112.html"
+    },
+    {
+      "title": "Golfstaaten in der Krise: Tiefe Kratzer im Lack der Emirate",
+      "link": "https://www.tagesschau.de/ausland/asien/emirate-golfstaaten-krise-100.html"
+    },
+    {
+      "title": "USA und Iran beschießen sich in Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-102.html"
     },
     {
       "title": "Fachkräftemangel in Deutschland: Ohne ausländische Ärzte geht es nicht",
@@ -59,26 +79,6 @@
     {
       "title": "Hantavirus: Wie geht es mit der \"Hondius\" weiter?",
       "link": "https://www.tagesschau.de/ausland/europa/hantavirus-kreuzfahrtschiff-102.html"
-    },
-    {
-      "title": "Passagiere gingen nach Hantavirus-Ausbruch von Bord",
-      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-kreuzfahrtschiff-104.html"
-    },
-    {
-      "title": "Hitzige Diskussion über Barrierefreiheit im Bundestag",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/behindertengleichstellungsgesetz-100.html"
-    },
-    {
-      "title": "China verurteilt zwei Ex-Verteidigungsminister zur Todesstrafe",
-      "link": "https://www.tagesschau.de/ausland/asien/china-urteil-verteidigungsminister-100.html"
-    },
-    {
-      "title": "Klingbeil: Deutlich weniger Einnahmen für den Staat als erwartet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-184.html"
-    },
-    {
-      "title": "Bahn: Schienennetz hat sich 2025 nicht weiter verschlechtert",
-      "link": "https://www.tagesschau.de/inland/bahn-zustandsbericht-schienennetz-100.html"
     }
   ]
 }
