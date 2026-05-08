@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Bundesrat lehnt Entlastungsprämie ab",
+      "title": "Streit über Kosten: Bundesrat stoppt Entlastungsprämie",
       "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-bundesrat-100.html"
+    },
+    {
+      "title": "Bundestag beschließt Einsatz von Fußfesseln bei häuslicher Gewalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fussfessel-100.html"
+    },
+    {
+      "title": "tagesschau.de als bevorzugte Quelle bei Google verfügbar",
+      "link": "https://www.tagesschau.de/mehr/in-eigener-sache-bevorzugte-quellen-google-100.html"
     },
     {
       "title": "Schwere Angriffe trotz von Russland ausgerufener Waffenruhe",
@@ -71,14 +79,6 @@
     {
       "title": "Ministerpräsident Schulze: Bundesregierung für AfD-Umfragehoch mitverantwortlich",
       "link": "https://www.tagesschau.de/inland/wahlen/afd-umfragehoch-sachsen-anhalt-100.html"
-    },
-    {
-      "title": "Etwa jeder vierte Wehrdienst-Fragebogen bleibt unbeantwortet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-wehrdienst-frageboegen-100.html"
-    },
-    {
-      "title": "Marktbericht: Verlieren die Anleger die Geduld?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-140.html"
     }
   ]
 }
