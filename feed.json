@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Iran meldet Beschlagnahmung von Öltanker ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html"
+    },
+    {
+      "title": "Südafrika sucht nach Kontaktpersonen von Hantavirus-Patientin",
+      "link": "https://www.tagesschau.de/ausland/asien/suedafrika-suche-infizierte-hantavirus-100.html"
+    },
+    {
+      "title": "Was die Riester-Reform Sparerinnen und Sparern bringen soll",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/riester-reform-private-altersvorsorge-100.html"
+    },
+    {
+      "title": "Wahlen in Großbritannien: Für Labour zeichnet sich desaströses Ergebnis ab",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regionalwahlen-kommunalwahlen-100.html"
+    },
+    {
+      "title": "Gewaltschutzgesetz: Was die Fußfessel bringen soll",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fussfessel-gewaltschutzgesetz-100.html"
+    },
+    {
+      "title": "Ein Jahr Papst Leo XIV.: Die Friedensbotschaft als Leitmotiv",
+      "link": "https://www.tagesschau.de/ausland/europa/ein-jahr-papst-leo-xiv-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Wie politisch ist Leo XIV. wirklich?",
+      "link": "https://www.tagesschau.de/podcast-11km-papst-100.html"
+    },
+    {
+      "title": "Stuttgart ist Deutschlands Homeoffice-Hauptstadt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/homeoffice-stuttgart-100.html"
+    },
+    {
       "title": "Streit über Kosten: Bundesrat stoppt Entlastungsprämie",
       "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-bundesrat-100.html"
     },
@@ -25,18 +57,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-112.html"
     },
     {
-      "title": "Wahlen in Großbritannien: Für Labour zeichnet sich desaströses Ergebnis ab",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regionalwahlen-kommunalwahlen-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Waffenruhe laut Trump weiterhin in Kraft ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html"
-    },
-    {
-      "title": "Was die Riester-Reform Sparerinnen und Sparern bringen soll",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/riester-reform-private-altersvorsorge-100.html"
-    },
-    {
       "title": "AfD \"wegregieren\" - warum klappt das bislang nicht?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-umgang-bundesregierung-100.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Trump setzt der EU ein Ultimatum für den vereinbarten Zoll-Deal",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-usa-zoelle-eu-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Neue Gespräche zwischen Israel und Libanon angekündigt ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-donnerstag-118.html"
-    },
-    {
-      "title": "AfD und Linke scheitern erneut bei Wahl ins Geheimdienstgremium",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/geheimdienst-gremium-wahl-100.html"
-    },
-    {
-      "title": "Klingbeil zu Besuch in Kanada: \"Stärke durch Kooperation\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-reise-kanada-100.html"
-    },
-    {
-      "title": "WHO: Hantavirus-Ausbruch nicht der Beginn einer Pandemie",
-      "link": "https://www.tagesschau.de/ausland/europa/hondius-hantavirus-who-100.html"
-    },
-    {
-      "title": "Ministerpräsident Schulze: Bundesregierung für AfD-Umfragehoch mitverantwortlich",
-      "link": "https://www.tagesschau.de/inland/wahlen/afd-umfragehoch-sachsen-anhalt-100.html"
     }
   ]
 }
