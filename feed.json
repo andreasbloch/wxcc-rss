@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "US-Handelsgericht erklärt Trumps weltweite Zölle für unzulässig",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-trump-zoelle-100.html"
-    },
-    {
       "title": "USA und Iran beschießen sich in Straße von Hormus",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-strasse-von-hormus-102.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Waffenruhe laut Trump weiterhin in Kraft ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html"
+    },
+    {
+      "title": "Fachkräftemangel in Deutschland: Ohne ausländische Ärzte geht es nicht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/aerztemangel-178.html"
+    },
+    {
+      "title": "US-Handelsgericht erklärt Trumps weltweite Zölle für unzulässig",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-trump-zoelle-100.html"
     },
     {
       "title": "Trump setzt der EU ein Ultimatum für den vereinbarten Zoll-Deal",
@@ -71,14 +79,6 @@
     {
       "title": "Bahn: Schienennetz hat sich 2025 nicht weiter verschlechtert",
       "link": "https://www.tagesschau.de/inland/bahn-zustandsbericht-schienennetz-100.html"
-    },
-    {
-      "title": "Drohnen nahe der russischen Grenze in Lettland abgestürzt",
-      "link": "https://www.tagesschau.de/ausland/europa/drohnen-lettland-100.html"
-    },
-    {
-      "title": "Russland: Ein Stimmungswechsel, der heikel für Putin ist",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-stimmung-putin-wirtschaft-100.html"
     }
   ]
 }
