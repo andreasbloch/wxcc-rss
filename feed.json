@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Siegesparade: Demonstration von Normalität in unnormalen Zeiten",
+      "link": "https://www.tagesschau.de/ausland/europa/moskau-parade-putin-100.html"
+    },
+    {
+      "title": "Die Lage der 20.000 im Persischen Golf gestrandeten Seeleute",
+      "link": "https://www.tagesschau.de/ausland/asien/gestrandete-seefahrer-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Trump wartet auf Irans Antwort zu US-Vorschlag ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-118.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Marktbericht: Alle Blicke auf den Persischen Golf",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-112.html"
-    },
-    {
-      "title": "Soziale Plattformen untätig bei KI-Fälschungen zum Holocaust",
-      "link": "https://www.tagesschau.de/faktenfinder/ki-fakes-holocaust-100.html"
-    },
-    {
-      "title": "Tausende Jugendliche protestieren bundesweit gegen Wehrpflicht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wehrpflicht-proteste-wehrerfassung-100.html"
     }
   ]
 }
