@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Wissenschaftsbetrieb: Junge Forschende sind innovativer",
+      "link": "https://www.tagesschau.de/wissen/forschung/forschende-alter-innovativ-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Iran erklärt Gefechte in Hormus-Straße für beendet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Naturforscher und Moderator: Sir David Attenborough wird 100 Jahre alt",
       "link": "https://www.tagesschau.de/ausland/europa/david-attenborough-geburtstag-100.html"
-    },
-    {
-      "title": "Radew zum neuen Ministerpräsidenten in Bulgarien ernannt",
-      "link": "https://www.tagesschau.de/ausland/europa/bulgarien-radew-ministerpraesident-100.html"
     }
   ]
 }
