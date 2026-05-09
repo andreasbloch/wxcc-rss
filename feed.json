@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Vereidigung von Peter Magyar: Machtwechsel in Ungarn am Europatag",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-magyar-vereidigung-100.html"
+    },
+    {
+      "title": "Was es für Familien bedeutet, wenn der Bauträger pleite geht",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bautraeger-pleite-immobilie-100.html"
+    },
+    {
+      "title": "Putin feiert Siegesparade in Moskau im Schutz von Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/europa/militaerparade-russland-100.html"
+    },
+    {
       "title": "Nach Kommunalwahl in Großbritannien: Das Ende von Labour?",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-kommunalwahl-labour-100.html"
     },
@@ -19,10 +31,6 @@
     {
       "title": "Wissenschaftsbetrieb: Junge Forschende sind innovativer",
       "link": "https://www.tagesschau.de/wissen/forschung/forschende-alter-innovativ-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Iran erklärt Gefechte in Hormus-Straße für beendet ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-freitag-118.html"
     },
     {
       "title": "Rubio in Italien und dem Vatikan: Auf diplomatischer Mission",
@@ -71,14 +79,6 @@
     {
       "title": "Reisen ins Ausland mit der Bahn werden beliebter",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-auslandsreisen-100.html"
-    },
-    {
-      "title": "Drei Bergsteiger sterben bei Vulkanausbruch in Indonesien",
-      "link": "https://www.tagesschau.de/ausland/asien/vulkanausbruch-indonesien-bergsteiger-100.html"
-    },
-    {
-      "title": "Welche neuen Eskalationen im Zollstreit durch Trumps Ultimatum drohen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-zoelle-eu-autos-100.html"
     }
   ]
 }
