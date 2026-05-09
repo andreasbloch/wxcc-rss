@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Großbritannien entsendet Zerstörer ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-118.html"
+    },
+    {
+      "title": "1.000-Euro-Prämie vorerst gestoppt: Weiter Debatte über Entlastungen",
+      "link": "https://www.tagesschau.de/inland/entlastungspraemie-debatte-100.html"
+    },
+    {
+      "title": "Magyar als neuer Ministerpräsident in Ungarn vereidigt",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-parlament-vereidigung-100.html"
+    },
+    {
       "title": "Labour-Wahlschlappe: Starmer beruft Ex-Premier Brown in Regierung",
       "link": "https://www.tagesschau.de/ausland/europa/labour-starmer-brown-100.html"
     },
@@ -15,10 +27,6 @@
     {
       "title": "Wie die Grünen die Nähe zur Union suchen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/schwarz-gruen-annaeherung-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Großbritannien entsendet Zerstörer ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-118.html"
     },
     {
       "title": "Hantavirus auf Kreuzfahrtschiff: Mehrere Staaten schicken Flugzeuge zur Evakuierung",
@@ -71,14 +79,6 @@
     {
       "title": "Was es für Familien bedeutet, wenn der Bauträger pleite geht",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bautraeger-pleite-immobilie-100.html"
-    },
-    {
-      "title": "Nach Kommunalwahl in Großbritannien: Das Ende von Labour?",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-kommunalwahl-labour-100.html"
-    },
-    {
-      "title": "Abwehrkrieg gegen Russland: Neuer \"Diskurs der Stärke\" in der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-diskurs-staerke-100.html"
     }
   ]
 }
