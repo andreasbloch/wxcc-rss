@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Gouverneur in Kalifornien: Folgt auf Newsom ein Republikaner?",
+      "link": "https://www.tagesschau.de/ausland/amerika/newsom-gouverneur-kalifornien-nachfolge-100.html"
+    },
+    {
+      "title": "Hantavirus auf Kreuzfahrtschiff: Mehrere Staaten schicken Flugzeuge zur Evakuierung",
+      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-flugzeuge-evakuierung-100.html"
+    },
+    {
       "title": "Zu wenige Unterschriften: Volksbegehren \"Berlin autofrei\" gescheitert",
       "link": "https://www.tagesschau.de/inland/regional/berlin/volksbegehren-berlin-autofrei-100.html"
     },
@@ -31,10 +39,6 @@
     {
       "title": "Wie die Grünen die Nähe zur Union suchen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/schwarz-gruen-annaeherung-100.html"
-    },
-    {
-      "title": "Hantavirus auf Kreuzfahrtschiff: Mehrere Staaten schicken Flugzeuge zur Evakuierung",
-      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-flugzeuge-evakuierung-100.html"
     },
     {
       "title": "Siegesparade: Demonstration von Normalität in unnormalen Zeiten",
@@ -75,10 +79,6 @@
     {
       "title": "Vereidigung von Peter Magyar: Machtwechsel in Ungarn am Europatag",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-magyar-vereidigung-100.html"
-    },
-    {
-      "title": "Was es für Familien bedeutet, wenn der Bauträger pleite geht",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bautraeger-pleite-immobilie-100.html"
     }
   ]
 }
