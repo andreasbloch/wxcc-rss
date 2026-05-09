@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Neubauprojekt des Bundestags vor dem Aus?",
+      "link": "https://www.tagesschau.de/inland/bundestag-bauprojekt-stopp-100.html"
+    },
+    {
+      "title": "Russland und Ukraine melden Verstöße gegen Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-212.html"
+    },
+    {
       "title": "Gouverneur in Kalifornien: Folgt auf Newsom ein Republikaner?",
       "link": "https://www.tagesschau.de/ausland/amerika/newsom-gouverneur-kalifornien-nachfolge-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Fallen die \"Fesseln der Einstimmigkeit\" in der EU?",
       "link": "https://www.tagesschau.de/ausland/europa/eu-einstimmigkeitsprinzip-100.html"
-    },
-    {
-      "title": "Rechtsliberaler Poulsen soll Regierung in Dänemark bilden",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-regierungsbildung-100.html"
-    },
-    {
-      "title": "Vereidigung von Peter Magyar: Machtwechsel in Ungarn am Europatag",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-magyar-vereidigung-100.html"
     }
   ]
 }
