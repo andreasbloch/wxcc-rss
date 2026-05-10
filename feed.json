@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Hantavirus-Ausbruch: Wie die Evakuierung der Hondius ablaufen soll",
+      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-ankunft-teneriffa-100.html"
+    },
+    {
+      "title": "Ministerpräsident Magyar löst Aufbruchstimmung in Ungarn aus",
+      "link": "https://www.tagesschau.de/ausland/europa/magyar-vereidigt-reportage-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Großbritannien entsendet Zerstörer ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-samstag-118.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Putin feiert Siegesparade in Moskau im Schutz von Waffenruhe",
       "link": "https://www.tagesschau.de/ausland/europa/militaerparade-russland-100.html"
-    },
-    {
-      "title": "Eröffnung der Biennale in Venedig: Kunstschau im Krisenmodus",
-      "link": "https://www.tagesschau.de/kultur/eroeffnung-biennale-venedig-100.html"
-    },
-    {
-      "title": "Fallen die \"Fesseln der Einstimmigkeit\" in der EU?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-einstimmigkeitsprinzip-100.html"
     }
   ]
 }
