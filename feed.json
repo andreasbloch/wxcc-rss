@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ UN-Vertreter warnt vor humanitärer Krise ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-122.html"
+    },
+    {
+      "title": "Kreuzfahrtschiff: Zwei weitere Passagiere positiv auf Hantavirus getestet",
+      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html"
+    },
+    {
+      "title": "Amtswechsel: Krause neuer Oberbürgermeister in München",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/br-amtskette-hat-neuen-besitzer-ob-wechsel-in-muenchen-vollzogen-102.html"
+    },
+    {
+      "title": "Eurovision Song Contest 2026: Soziale Medien als zweite Bühne",
+      "link": "https://www.tagesschau.de/kultur/esc-social-media-100.html"
+    },
+    {
+      "title": "Cybersicherheitsmonitor: Jeder Neunte von Internetkriminalität betroffen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/cybersicherheitsmonitor-2026-100.html"
+    },
+    {
+      "title": "Streetart verwandelt Völklinger Hütte bei der Urban Art Biennale",
+      "link": "https://www.tagesschau.de/kultur/urban-art-biennale-voelklinger-huette-100.html"
+    },
+    {
+      "title": "EU gegen Altkanzler Schröder als Ukraine-Vermittler",
+      "link": "https://www.tagesschau.de/ausland/europa/schroeder-europaeische-union-100.html"
+    },
+    {
+      "title": "Vermittlung im Ukraine-Krieg: Wer könnte mit Putin reden?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gespraechspartner-putin-russland-schroeder-100.html"
+    },
+    {
       "title": "Telekom und Rheinmetall arbeiten an einer Drohnenabwehr",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/telekom-rheinmetall-drohnenabwehr-100.html"
     },
@@ -19,14 +51,6 @@
     {
       "title": "Söder und Schwesig raten von Entlastungsprämie ab",
       "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-soeder-schwesig-100.html"
-    },
-    {
-      "title": "Kreuzfahrtschiff: Zwei weitere Passagiere positiv auf Hantavirus getestet",
-      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Iran wehrt sich gegen Kritik von Trump ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-122.html"
     },
     {
       "title": "Jeder Neunte lebt in Deutschland in einer zu kleinen Wohnung",
@@ -55,30 +79,6 @@
     {
       "title": "Trotz Waffenruhe spitzt sich die humanitäre Lage in Gaza zu",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-lage-104.html"
-    },
-    {
-      "title": "Tötungen von Frauen sollen künftig eher als Mord bestraft werden",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/femizide-gesetzesverschaerfung-100.html"
-    },
-    {
-      "title": "Afrika-Gipfel in Kenia: Macron sucht neue Partner",
-      "link": "https://www.tagesschau.de/ausland/afrika/macron-kenia-100.html"
-    },
-    {
-      "title": "Pistorius will neue Waffensysteme mit der Ukraine bauen",
-      "link": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-114.html"
-    },
-    {
-      "title": "Sicherheitspolitik in Asien: Japans Abkehr vom Pazifismus",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-militarisierung-100.html"
-    },
-    {
-      "title": "Deutsche Passagiere der \"Hondius\" auf dem Weg in die Heimat",
-      "link": "https://www.tagesschau.de/ausland/europa/hondius-hantavirus-evakuierung-deutsche-100.html"
-    },
-    {
-      "title": "Nach US-Vorschlag: Trump findet Irans Antwort \"völlig inakzeptabel\"",
-      "link": "https://www.tagesschau.de/ausland/trump-iran-vorschlag-inakzeptabel-100.html"
     }
   ]
 }
