@@ -1,8 +1,28 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ UN-Vertreter warnt vor humanitärer Krise ++",
+      "title": "Bund sichert 1.200 Jobs in Raffinerie in Schwedt für sechs Monate",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/raffinerie-schwedt-jobs-100.html"
+    },
+    {
+      "title": "Bosnien und Herzegowina: UN-Repräsentant Schmidt geht - auf US-Druck?",
+      "link": "https://www.tagesschau.de/ausland/europa/bosnien-beauftragter-schmidt-ruecktritt-100.html"
+    },
+    {
+      "title": "Milliardendefizit in der Pflege: Kritik an Warkens Reformplänen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-reform-kritik-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Trump erneuert Kritik an iranischem Vorschlag ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-122.html"
+    },
+    {
+      "title": "Marktbericht: Ruhiger Wochenauftakt an der Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-130.html"
+    },
+    {
+      "title": "EU einigt sich auf Sanktionen gegen radikale israelische Siedler",
+      "link": "https://www.tagesschau.de/ausland/europa/treffen-eu-aussenminister-israel-ukraine-100.html"
     },
     {
       "title": "Kreuzfahrtschiff: Zwei weitere Passagiere positiv auf Hantavirus getestet",
@@ -59,26 +79,6 @@
     {
       "title": "Schweiz und Österreich Top-Ziele für deutsche Auswanderer",
       "link": "https://www.tagesschau.de/inland/deutsche-wohnsitz-ausland-102.html"
-    },
-    {
-      "title": "DGB-Bundeskongress bestätigt Vorsitzende Fahimi im Amt",
-      "link": "https://www.tagesschau.de/wirtschaft/dgb-fahimi-wiederwahl-100.html"
-    },
-    {
-      "title": "Polens Ex-Minister Ziobro flieht aus Ungarn in die USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/ziobro-usa-100.html"
-    },
-    {
-      "title": "Ukrainische Infanterie: 130 Tage in der Todeszone",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-frontlinie-100.html"
-    },
-    {
-      "title": "Marktbericht: Hohe Ölpreise verunsichern Anleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-130.html"
-    },
-    {
-      "title": "Trotz Waffenruhe spitzt sich die humanitäre Lage in Gaza zu",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-lage-104.html"
     }
   ]
 }
