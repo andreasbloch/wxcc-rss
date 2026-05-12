@@ -1,12 +1,32 @@
 {
   "items": [
     {
-      "title": "Marktbericht: Hoher Ölpreis verdirbt die Anlegerstimmung",
+      "title": "Deutsche Bahn stellt Flinkster und Call a Bike auf den Prüfstand",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-kerngeschaeft-100.html"
+    },
+    {
+      "title": "Marktbericht: Ölpreis rauf, Börsen runter",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-aktien-geldanlage-110.html"
+    },
+    {
+      "title": "Koalition will Einschränkung bei Integrationskursen zurücknehmen ",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/integartionskurse-koalition-100.html"
+    },
+    {
+      "title": "Mehr wichtige Medikamente sollen in Europa hergestellt werden",
+      "link": "https://www.tagesschau.de/ausland/europa/medikamentenherstellung-eu-100.html"
+    },
+    {
+      "title": "Grüne Investments: Nachhaltige Geldanlagen weniger gefragt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/esg-geldanlage-nachhaltigkeit-100.html"
     },
     {
       "title": "Ukraine meldet russische Drohnenangriffe auf Kiew",
       "link": "https://www.tagesschau.de/ausland/europa/russische-drohnenangriffe-kiew-100.html"
+    },
+    {
+      "title": "Geplante Steuerreform: Unterschiedliche Ideen bei Union und SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-steuerreform-spd-cdu-100.html"
     },
     {
       "title": "DGB-Vorsitzende Fahimi: Gewerkschaftschefin in schweren Zeiten",
@@ -15,10 +35,6 @@
     {
       "title": "Krieg in Nahost: USA und Iran lehnen gegenseitige Forderungen ab",
       "link": "https://www.tagesschau.de/ausland/iran-krieg-verhandlungen-100.html"
-    },
-    {
-      "title": "Klingbeil will Spitzenverdienern in die Tasche greifen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-steuerreform-spd-cdu-100.html"
     },
     {
       "title": "Druck wird stärker - Minister legen Starmer Rücktritt nahe",
@@ -63,22 +79,6 @@
     {
       "title": "Amtswechsel: Krause neuer Oberbürgermeister in München",
       "link": "https://www.tagesschau.de/inland/regional/bayern/br-amtskette-hat-neuen-besitzer-ob-wechsel-in-muenchen-vollzogen-102.html"
-    },
-    {
-      "title": "Eurovision Song Contest 2026: Soziale Medien als zweite Bühne",
-      "link": "https://www.tagesschau.de/kultur/esc-social-media-100.html"
-    },
-    {
-      "title": "Cybersicherheitsmonitor: Jeder Neunte von Internetkriminalität betroffen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/cybersicherheitsmonitor-2026-100.html"
-    },
-    {
-      "title": "Streetart verwandelt Völklinger Hütte bei der Urban Art Biennale",
-      "link": "https://www.tagesschau.de/kultur/urban-art-biennale-voelklinger-huette-100.html"
-    },
-    {
-      "title": "EU gegen Altkanzler Schröder als Ukraine-Vermittler",
-      "link": "https://www.tagesschau.de/ausland/europa/schroeder-europaeische-union-100.html"
     }
   ]
 }
