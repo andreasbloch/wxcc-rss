@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "ADAC warnt vor Staus auf Autobahnen ab Mittwoch",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/adac-autobahnen-stau-100.html"
+    },
+    {
+      "title": "Cum-Ex-Schlüsselfigur Berger muss zehn Jahre ins Gefängnis",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/hanno-berger-118.html"
+    },
+    {
+      "title": "WHO gibt noch keine Entwarnung - nun insgesamt elf Hantavirus-Fälle",
+      "link": "https://www.tagesschau.de/ausland/weiterer-infizierter-hantavirus-hondius-100.html"
+    },
+    {
+      "title": "Marktbericht: Lufthansa-Hauptversammlung in turbulenten Zeiten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/lufthansa-1078.html"
+    },
+    {
+      "title": "Tankrabatt kommt laut Monopolkommission an",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/monopolkommission-tankrabatt-102.html"
+    },
+    {
+      "title": "Britischer Premierminister Starmer will im Amt bleiben",
+      "link": "https://www.tagesschau.de/ausland/europa/starmer-grossbritannien-102.html"
+    },
+    {
+      "title": "Israel beschließt Sondertribunal für Hamas-Überfall vom 7. Oktober 2023",
+      "link": "https://www.tagesschau.de/ausland/israel-knesset-militaertribunal-hamas-100.html"
+    },
+    {
+      "title": "Streit um Israel: Was den ESC mit einem EU-Dilemma verbindet",
+      "link": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-100.html"
+    },
+    {
+      "title": "Solarparks sollen in der Wüste Regen erzeugen",
+      "link": "https://www.tagesschau.de/wissen/forschung/solarparks-regen-wueste-100.html"
+    },
+    {
       "title": "Pfiffe und Buhrufe für Merz beim DGB-Kongress wegen Sparplänen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-buhrufe-100.html"
     },
@@ -43,42 +79,6 @@
     {
       "title": "Deutsche Bahn stellt Flinkster und Call a Bike auf den Prüfstand",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-kerngeschaeft-100.html"
-    },
-    {
-      "title": "Marktbericht: Ölpreis rauf, Börsen runter",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-aktien-geldanlage-110.html"
-    },
-    {
-      "title": "Koalition will Einschränkung bei Integrationskursen zurücknehmen ",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/integrationskurse-koalition-100.html"
-    },
-    {
-      "title": "Mehr wichtige Medikamente sollen in Europa hergestellt werden",
-      "link": "https://www.tagesschau.de/ausland/europa/medikamentenherstellung-eu-100.html"
-    },
-    {
-      "title": "Grüne Investments: Nachhaltige Geldanlagen weniger gefragt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/esg-geldanlage-nachhaltigkeit-100.html"
-    },
-    {
-      "title": "Ukraine meldet russische Drohnenangriffe auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/russische-drohnenangriffe-kiew-100.html"
-    },
-    {
-      "title": "Geplante Steuerreform: Unterschiedliche Ideen bei Union und SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-steuerreform-spd-cdu-100.html"
-    },
-    {
-      "title": "DGB-Vorsitzende Fahimi: Gewerkschaftschefin in schweren Zeiten",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/yasmin-fahimi-118.html"
-    },
-    {
-      "title": "Krieg in Nahost: USA und Iran lehnen gegenseitige Forderungen ab",
-      "link": "https://www.tagesschau.de/ausland/iran-krieg-verhandlungen-100.html"
-    },
-    {
-      "title": "Druck wird stärker - Minister legen Starmer Rücktritt nahe",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regierung-starmer-labour-100.html"
     }
   ]
 }
