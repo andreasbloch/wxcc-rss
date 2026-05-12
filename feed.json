@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Klingbeil will Spitzenverdienern in die Tasche greifen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-steuerreform-spd-cdu-100.html"
+    },
+    {
       "title": "Druck wird stärker - Minister legen Starmer Rücktritt nahe",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regierung-starmer-labour-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Marktbericht: Jede zwölfte Firma bangt um ihre Existenz",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/insolvenz-182.html"
-    },
-    {
-      "title": "Starmer will Großbritannien wieder näher an Europa rücken",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-eu-100.html"
     }
   ]
 }
