@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Manila: Schüsse im philippinischen Senat gefallen",
+      "link": "https://www.tagesschau.de/ausland/asien/philippinen-schuesse-senat-100.html"
+    },
+    {
       "title": "Senat bestätigt Trumps Wunschkandidat Warsh als neuen Fed-Chef",
       "link": "https://www.tagesschau.de/ausland/amerika/warsh-fed-bestaetigt-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Urlauber halten sich wegen Iran-Krieg zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/reisebranche-irankrieg-verluste-tui-100.html"
-    },
-    {
-      "title": "Urteil: Die Milka-Tafel ist eine Mogelpackung",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/milka-mogelpackung-100.html"
     }
   ]
 }
