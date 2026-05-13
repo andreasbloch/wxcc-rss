@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Senat bestätigt Trumps Wunschkandidat Warsh als neuen Fed-Chef",
+      "link": "https://www.tagesschau.de/ausland/amerika/warsh-fed-bestaetigt-100.html"
+    },
+    {
+      "title": "Regierungskoalition in Lettland zerbricht im Streit über Posten",
+      "link": "https://www.tagesschau.de/ausland/europa/lettland-regierung-zerbrochen-100.html"
+    },
+    {
       "title": "Wer will noch neue Öl- und Gasheizungen einbauen?",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/heizungsbauer-gesetz-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Urteil: Die Milka-Tafel ist eine Mogelpackung",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/milka-mogelpackung-100.html"
-    },
-    {
-      "title": "Nur noch ein Ticket: EU will internationale Zugreisen erleichtern",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-zugreisen-100.html"
-    },
-    {
-      "title": "Faktenfinder: Verschwörungsmythen zum Hantavirus im Umlauf",
-      "link": "https://www.tagesschau.de/faktenfinder/hantavirus-falschinformation-100.html"
     }
   ]
 }
