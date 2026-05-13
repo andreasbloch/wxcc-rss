@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Schwarz-Rot ringt mit sich selbst - statt um Reformen",
+      "link": "https://www.tagesschau.de/inland/koalitionsausschuss-296.html"
+    },
+    {
+      "title": "Finnland und Griechenland ziehen ins ESC-Finale ein",
+      "link": "https://www.tagesschau.de/kultur/esc-halbfinale-128.html"
+    },
+    {
+      "title": "US-Verteidigungsminister verteidigt Pentagon-Ausgaben vor US-Kongress",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-pentagon-etat-100.html"
+    },
+    {
       "title": "Treffen in Brüssel: Wie weiter mit der Verteidigung Europas?",
       "link": "https://www.tagesschau.de/ausland/europa/eu-verteidigungsminister-treffen-102.html"
     },
     {
       "title": "Debatte über möglichen Rücktritt Starmers spaltet Labour",
       "link": "https://www.tagesschau.de/ausland/europa/starmer-debatte-ruecktritt-grossbritannien-100.html"
-    },
-    {
-      "title": "Schwarz-Rot ringt mit sich selbst - statt um Reformen",
-      "link": "https://www.tagesschau.de/inland/koalitionsausschuss-296.html"
     },
     {
       "title": "Britischer Premier Starmer weist Rücktrittsforderungen von sich",
@@ -71,14 +79,6 @@
     {
       "title": "Israel beschließt Sondertribunal für Hamas-Überfall vom 7. Oktober 2023",
       "link": "https://www.tagesschau.de/ausland/israel-knesset-militaertribunal-hamas-100.html"
-    },
-    {
-      "title": "Streit um Israel: Was den ESC mit einem EU-Dilemma verbindet",
-      "link": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-100.html"
-    },
-    {
-      "title": "Solarparks sollen in der Wüste Regen erzeugen",
-      "link": "https://www.tagesschau.de/wissen/forschung/solarparks-regen-wueste-100.html"
     }
   ]
 }
