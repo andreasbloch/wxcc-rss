@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Cem Özdemir im Porträt: Mit der Brezel an die Macht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cem-oezdemir-ministerpraesident-baden-wuerttemberg-100.html"
+    },
+    {
+      "title": "Schwarz-Rot einigen sich bei Koalitionstreffen auf \"Arbeitsprozess\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-schwarz-rot-100.html"
+    },
+    {
+      "title": "Diskussion um Primärarztsystem: Ohne Hausarzt kein Spezialist",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hausarzt-facharzt-gesundheitssystem-100.html"
+    },
+    {
+      "title": "Versicherungskonzern Allianz verdient so viel wie nie",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/allianz-132.html"
+    },
+    {
+      "title": "Wie Israels Nationalreligiöse ihren Einfluss ausbauen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-einfluss-nationalreligioese-100.html"
+    },
+    {
       "title": "Autoindustrie rechnet mit größerem Stellenabbau bis 2035",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autobranche-stellenabbau-100.html"
     },
@@ -19,10 +39,6 @@
     {
       "title": "Finanzwende kritisiert die Finanzaufsicht BaFin",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/bafin-klimaresilienz-banken-100.html"
-    },
-    {
-      "title": "Schwarz-Rot einigen sich bei Koalitionstreffen auf \"Arbeitsprozess\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-schwarz-rot-100.html"
     },
     {
       "title": "Bundeseigenes Unternehmen - Ein Gas-Deal für Putins Kriegskasse",
@@ -63,22 +79,6 @@
     {
       "title": "Debatte über möglichen Rücktritt Starmers spaltet Labour",
       "link": "https://www.tagesschau.de/ausland/europa/starmer-debatte-ruecktritt-grossbritannien-100.html"
-    },
-    {
-      "title": "Britischer Premier Starmer weist Rücktrittsforderungen von sich",
-      "link": "https://www.tagesschau.de/ausland/europa/starmer-grossbritannien-reaktionen-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX fällt unter 24.000er-Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-aktien-geldanlage-110.html"
-    },
-    {
-      "title": "Bahn bietet im Sommer Familienticket an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-familienticket-100.html"
-    },
-    {
-      "title": "Pfiffe und Buhrufe für Merz beim DGB-Kongress wegen Sparplänen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-buhrufe-100.html"
     }
   ]
 }
