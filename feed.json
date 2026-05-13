@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Autoindustrie rechnet mit größerem Stellenabbau bis 2035",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autobranche-stellenabbau-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger setzen auf positive Signale aus Peking",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-iran-krieg-dow-jones-nasdaq-dax-100.html"
+    },
+    {
+      "title": "Filmfest von Cannes eröffnet: Europäisches Kino feiert sich selbst",
+      "link": "https://www.tagesschau.de/kultur/cannes-film-festival-2026-eroeffnung-100.html"
+    },
+    {
+      "title": "Ist die Heizungsdebatte nun Geschichte?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gebaeudemodernisierungsgesetz-heizungen-kabinett-100.html"
+    },
+    {
+      "title": "Finanzwende kritisiert die Finanzaufsicht BaFin",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bafin-klimaresilienz-banken-100.html"
+    },
+    {
       "title": "Schwarz-Rot einigen sich bei Koalitionstreffen auf \"Arbeitsprozess\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-schwarz-rot-100.html"
     },
@@ -54,31 +74,11 @@
     },
     {
       "title": "Bahn bietet im Sommer Familienticket an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bahn-familienticket-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-familienticket-100.html"
     },
     {
       "title": "Pfiffe und Buhrufe für Merz beim DGB-Kongress wegen Sparplänen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-buhrufe-100.html"
-    },
-    {
-      "title": "US-Verbraucherpreise steigen im April auf Drei-Jahres-Hoch",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/usa-inflation-118.html"
-    },
-    {
-      "title": "Bundeskriminalamt und Innenminister: Hohes Risiko von Cyberangriffen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cyberkriminalitaet-126.html"
-    },
-    {
-      "title": "Non-Food-Discounter MÄC-GEIZ meldet Insolvenz an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/maec-geiz-insolvenz-100.html"
-    },
-    {
-      "title": "Warum die Ukraine ein Kraftwerk aus Lubmin bekommt",
-      "link": "https://www.tagesschau.de/faktenfinder/lubmin-kraftwerk-100.html"
-    },
-    {
-      "title": "ADAC warnt vor Staus auf Autobahnen ab Mittwoch",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/adac-autobahnen-stau-100.html"
     }
   ]
 }
