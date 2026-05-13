@@ -1,12 +1,44 @@
 {
   "items": [
     {
-      "title": "Verlag siegt vor EU-Gericht: Kein Markenschutz für Waffen namens Obelix",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gericht-obelix-waffen-munition-100.html"
+      "title": "Reisen durch Europa: Ein Ticket für die ganze Fahrt",
+      "link": "https://www.tagesschau.de/ausland/europa/bahnfahren-eu-kommission-100.html"
+    },
+    {
+      "title": "Kommentar: Das Land muss sich der Realität stellen",
+      "link": "https://www.tagesschau.de/kommentar/koalitionsausschuss-union-spd-reformen-100.html"
+    },
+    {
+      "title": "Regensburgs Ex-Oberbürgermeister Wolbergs soll ins Gefängnis",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/br-regensburgs-ex-oberbuergermeister-wolbergs-soll-ins-gefaengnis-102.html"
+    },
+    {
+      "title": "Trump-Besuch in China: Hat Xi die besseren Karten?",
+      "link": "https://www.tagesschau.de/ausland/asien/china-erwartungen-besuch-trump-100.html"
+    },
+    {
+      "title": "Eurovision Song Contest: Zwischen Boykott und möglichem Comeback",
+      "link": "https://www.tagesschau.de/ausland/europa/esc-boykott-ungarn-slowenien-bosnien-herzegowina-100.html"
     },
     {
       "title": "Schwarz-Rot will Reformpaket noch vor der Sommerpause",
       "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-reformen-schwarz-rot-102.html"
+    },
+    {
+      "title": "Filmfest von Cannes eröffnet: Europäisches Kino feiert sich selbst",
+      "link": "https://www.tagesschau.de/kultur/cannes-film-festival-2026-eroeffnung-100.html"
+    },
+    {
+      "title": "Neue Gaskraftwerke: Kritik an Wasserstoffstrategie der Bundesregierung",
+      "link": "https://www.tagesschau.de/wissen/technologie/wasserstoff-ready-gaskraftwerke-100.html"
+    },
+    {
+      "title": "Trotz Waffenruhe: Israels Armee beginnt neue Angriffe im Südlibanon",
+      "link": "https://www.tagesschau.de/ausland/asien/israelische-angriffe-libanon-100.html"
+    },
+    {
+      "title": "Verlag siegt vor EU-Gericht: Kein Markenschutz für Waffen namens Obelix",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gericht-obelix-waffen-munition-100.html"
     },
     {
       "title": "Katholikentag: Wie kann die Kirche relevant bleiben?",
@@ -47,38 +79,6 @@
     {
       "title": "Wie Israels Nationalreligiöse ihren Einfluss ausbauen",
       "link": "https://www.tagesschau.de/ausland/asien/israel-einfluss-nationalreligioese-100.html"
-    },
-    {
-      "title": "Autoindustrie rechnet mit größerem Stellenabbau bis 2035",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autobranche-stellenabbau-100.html"
-    },
-    {
-      "title": "Marktbericht: Anleger setzen auf positive Signale aus Peking",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-iran-krieg-dow-jones-nasdaq-dax-100.html"
-    },
-    {
-      "title": "Filmfest von Cannes eröffnet: Europäisches Kino feiert sich selbst",
-      "link": "https://www.tagesschau.de/kultur/cannes-film-festival-2026-eroeffnung-100.html"
-    },
-    {
-      "title": "Ist die Heizungsdebatte nun Geschichte?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gebaeudemodernisierungsgesetz-heizungen-kabinett-100.html"
-    },
-    {
-      "title": "Finanzwende kritisiert die Finanzaufsicht BaFin",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bafin-klimaresilienz-banken-100.html"
-    },
-    {
-      "title": "Bundeseigenes Unternehmen - Ein Gas-Deal für Putins Kriegskasse",
-      "link": "https://www.tagesschau.de/investigativ/russland-lng-100.html"
-    },
-    {
-      "title": "Hantavirus auf Kreuzfahrtschiff: Französin in kritischem Zustand",
-      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-passagiere-hondius-100.html"
-    },
-    {
-      "title": "Datenanalyse-Software - Verfassungsschutz setzt auf Palantir-Alternative",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/verfassungsschutz-palantir-100.html"
     }
   ]
 }
