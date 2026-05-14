@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Zehntausende bei nationalistischem Flaggenmarsch in Jerusalem",
+      "link": "https://www.tagesschau.de/ausland/flaggenmarsch-jerusalem-106.html"
+    },
+    {
+      "title": "Tschechien: Abgeordnetenhaus verurteilt Sudetendeutschen-Treffen",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-sudetendeutsche-100.html"
+    },
+    {
+      "title": "Harmonie und freundliche Worte zwischen Trump und Xi am ersten Gipfeltag",
+      "link": "https://www.tagesschau.de/ausland/asien/treffen-trump-xi-peking-100.html"
+    },
+    {
       "title": "Britischer Gesundheitsminister Streeting tritt zurück",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-streeting-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Trump und Xi sprechen in Peking: \"Die Welt befindet sich an einem Scheideweg“",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-xi-156.html"
-    },
-    {
-      "title": "Russischer Zerstörer vor deutscher Ostseeküste",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-zerstoerer-ostseekueste-100.html"
-    },
-    {
-      "title": "Netanjahu ebnet Weg für vorgezogene Neuwahlen in Israel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-neuwahlen-122.html"
-    },
-    {
-      "title": "Manila: Schüsse im philippinischen Senat gefallen",
-      "link": "https://www.tagesschau.de/ausland/asien/philippinen-schuesse-senat-100.html"
     }
   ]
 }
