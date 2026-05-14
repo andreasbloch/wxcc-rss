@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Russischer Zerstörer vor deutscher Ostseeküste",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-zerstoerer-ostseekueste-100.html"
+    },
+    {
+      "title": "Netanjahu ebnet Weg für Neuwahlen in Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-neuwahlen-122.html"
+    },
+    {
       "title": "Manila: Schüsse im philippinischen Senat gefallen",
       "link": "https://www.tagesschau.de/ausland/asien/philippinen-schuesse-senat-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Verlag siegt vor EU-Gericht: Kein Markenschutz für Waffen namens Obelix",
       "link": "https://www.tagesschau.de/ausland/europa/eu-gericht-obelix-waffen-munition-100.html"
-    },
-    {
-      "title": "Katholikentag: Wie kann die Kirche relevant bleiben?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/katholikentag-einfluss-kirche-100.html"
-    },
-    {
-      "title": "Urlauber halten sich wegen Iran-Krieg zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/reisebranche-irankrieg-verluste-tui-100.html"
     }
   ]
 }
