@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Britischer Gesundheitsminister Streeting tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-streeting-100.html"
+    },
+    {
+      "title": "Erste gleichgeschlechtliche Ehe in Polen eingetragen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-erste-gleichgeschlechtliche-ehe-100.html"
+    },
+    {
+      "title": "Katholikentag in Würzburg: Wie politisch kann Kirche noch sein?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/einfluss-kirche-politik-diskussion-100.html"
+    },
+    {
+      "title": "Bayern München gewinnt DFB-Pokal der Frauen",
+      "link": "https://www.tagesschau.de/sport/dfb-pokal-finale-136.html"
+    },
+    {
       "title": "Streit über Drohnenvorfälle: Lettlands Regierungschefin tritt zurück",
       "link": "https://www.tagesschau.de/ausland/europa/lettland-regierungschefin-100.html"
     },
@@ -15,10 +31,6 @@
     {
       "title": "Teure Kleinwagen: Steht eine ganze Fahrzeugklasse vor dem Aus?",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kleinwagen-teuer-assistensysteme-100.html"
-    },
-    {
-      "title": "Britischer Gesundheitsminister Streeting tritt zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-streeting-100.html"
     },
     {
       "title": "Früherer EZB-Chef Draghi mit Aachener Karlspreis ausgezeichnet",
@@ -67,18 +79,6 @@
     {
       "title": "Manila: Schüsse im philippinischen Senat gefallen",
       "link": "https://www.tagesschau.de/ausland/asien/philippinen-schuesse-senat-100.html"
-    },
-    {
-      "title": "Senat bestätigt Trumps Wunschkandidat Warsh als neuen Fed-Chef",
-      "link": "https://www.tagesschau.de/ausland/amerika/warsh-fed-bestaetigt-100.html"
-    },
-    {
-      "title": "Regierungskoalition in Lettland zerbricht im Streit über Posten",
-      "link": "https://www.tagesschau.de/ausland/europa/lettland-regierung-zerbrochen-100.html"
-    },
-    {
-      "title": "Wer will noch neue Öl- und Gasheizungen einbauen?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/heizungsbauer-gesetz-100.html"
     }
   ]
 }
