@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "Reformpläne: Was bedeutet Warkens Vorhaben für Pflegebedürftige?",
+      "link": "https://www.tagesschau.de/wirtschaft/reform-pflegeversicherung-100.html"
+    },
+    {
       "title": "US-Präsident Trump bei Chinas Xi: \"Welt schaut auf dieses Treffen\"",
       "link": "https://www.tagesschau.de/ausland/asien/china-usa-trump-xi-treffen-100.html"
+    },
+    {
+      "title": "Ukraine-Krieg: Massive russische Angriffe in der Nacht",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-angriffe-104.html"
+    },
+    {
+      "title": "Karlspreis für Mario Draghi: Banker im Dienste Europas",
+      "link": "https://www.tagesschau.de/ausland/europa/mario-draghi-130.html"
     },
     {
       "title": "Trump und Xi sprechen in Peking: \"Die Welt befindet sich an einem Scheideweg“",
@@ -67,18 +79,6 @@
     {
       "title": "Eurovision Song Contest: Zwischen Boykott und möglichem Comeback",
       "link": "https://www.tagesschau.de/ausland/europa/esc-boykott-ungarn-slowenien-bosnien-herzegowina-100.html"
-    },
-    {
-      "title": "Schwarz-Rot will Reformpaket noch vor der Sommerpause",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungspraemie-reformen-schwarz-rot-102.html"
-    },
-    {
-      "title": "Filmfest von Cannes eröffnet: Europäisches Kino feiert sich selbst",
-      "link": "https://www.tagesschau.de/kultur/cannes-film-festival-2026-eroeffnung-100.html"
-    },
-    {
-      "title": "Neue Gaskraftwerke: Kritik an Wasserstoffstrategie der Bundesregierung",
-      "link": "https://www.tagesschau.de/wissen/technologie/wasserstoff-ready-gaskraftwerke-100.html"
     }
   ]
 }
