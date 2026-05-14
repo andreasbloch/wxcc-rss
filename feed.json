@@ -1,11 +1,19 @@
 {
   "items": [
     {
+      "title": "US-Präsident Trump bei Chinas Xi: \"Welt schaut auf dieses Treffen\"",
+      "link": "https://www.tagesschau.de/ausland/asien/china-usa-trump-xi-treffen-100.html"
+    },
+    {
+      "title": "Trump und Xi sprechen in Peking: \"Die Welt befindet sich an einem Scheideweg“",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-xi-156.html"
+    },
+    {
       "title": "Russischer Zerstörer vor deutscher Ostseeküste",
       "link": "https://www.tagesschau.de/ausland/europa/russland-zerstoerer-ostseekueste-100.html"
     },
     {
-      "title": "Netanjahu ebnet Weg für Neuwahlen in Israel",
+      "title": "Netanjahu ebnet Weg für vorgezogene Neuwahlen in Israel",
       "link": "https://www.tagesschau.de/ausland/asien/israel-neuwahlen-122.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "Neue Gaskraftwerke: Kritik an Wasserstoffstrategie der Bundesregierung",
       "link": "https://www.tagesschau.de/wissen/technologie/wasserstoff-ready-gaskraftwerke-100.html"
-    },
-    {
-      "title": "Trotz Waffenruhe: Israels Armee beginnt neue Angriffe im Südlibanon",
-      "link": "https://www.tagesschau.de/ausland/asien/israelische-angriffe-libanon-100.html"
-    },
-    {
-      "title": "Verlag siegt vor EU-Gericht: Kein Markenschutz für Waffen namens Obelix",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gericht-obelix-waffen-munition-100.html"
     }
   ]
 }
