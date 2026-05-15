@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Frontex: Irreguläre Migration in EU 2026 deutlich gesunken",
+      "link": "https://www.tagesschau.de/ausland/europa/migrationszahlen-eu-100.html"
+    },
+    {
+      "title": "China laut Trump an Öl und Boeing-Flugzeugen aus USA interessiert",
+      "link": "https://www.tagesschau.de/ausland/trump-china-reise-102.html"
+    },
+    {
+      "title": "Nach Rücktritt von Minister: Neue Konkurrenz für Premier Starmer",
+      "link": "https://www.tagesschau.de/ausland/protest-starmer-100.html"
+    },
+    {
       "title": "Ukraine-Krieg: Massive russische Angriffe in der Nacht",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-angriffe-104.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Normenkontrollrat: Scharfe Kritik am Gebäudemodernisierungsgesetz",
       "link": "https://www.tagesschau.de/inland/innenpolitik/normenkontrollrat-gebaeudemodernisierungsgesetz-100.html"
-    },
-    {
-      "title": "Reformpläne: Was bedeutet Warkens Vorhaben für Pflegebedürftige?",
-      "link": "https://www.tagesschau.de/wirtschaft/reform-pflegeversicherung-100.html"
-    },
-    {
-      "title": "US-Präsident Trump bei Chinas Xi: \"Welt schaut auf dieses Treffen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/china-usa-trump-xi-treffen-100.html"
-    },
-    {
-      "title": "Karlspreis für Mario Draghi: Banker im Dienste Europas",
-      "link": "https://www.tagesschau.de/ausland/europa/mario-draghi-130.html"
     }
   ]
 }
