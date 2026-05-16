@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Endlich in Rente: Wie gelingt der ideale Zugang zum Vermögen?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/depot-investment-aufloesen-100.html"
+    },
+    {
+      "title": "Nach Trump-Besuch: Putin will am Dienstag nach China reisen",
+      "link": "https://www.tagesschau.de/ausland/asien/putin-china-reise-100.html"
+    },
+    {
+      "title": "Forscher suchen Erfolgsrezept für guten ESC-Song",
+      "link": "https://www.tagesschau.de/kultur/erfolgsrezept-esc-songs-100.html"
+    },
+    {
       "title": "Trump: Militär hat Vizechef der Terrororganisation IS \"eliminiert\"",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-is-110.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Marktbericht: DAX fällt dem Wochenende entgegen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-halbleiter-100.html"
-    },
-    {
-      "title": "Gemischte Bilanz nach zwei Jahren Bezahlkarte für Asylbewerber",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bezahlkarte-zwei-jahre-100.html"
-    },
-    {
-      "title": "Israel besetzt laut Netanjahu 60 Prozent des Gazastreifens",
-      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-gaza-streifen-kontrolle-100.html"
-    },
-    {
-      "title": "Stillstand oder Eskalation - wie geht es weiter in der Straße von Hormus?",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-aktuelle-situation-100.html"
     }
   ]
 }
