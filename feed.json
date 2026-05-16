@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "USA stoppen Entsendung von 4.000 Soldaten nach Polen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-polen-truppen-100.html"
+    },
+    {
       "title": "Merz und seine Kommunikation: Der Kanzler auf der Suche nach dem richtigen Ton",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kanzler-merz-kommunikation-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Andy Burnham: Wird er der neue britische Premier?",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-106.html"
-    },
-    {
-      "title": "Regierungskrise in Großbritannien: Wie geht es weiter in der Downing Street?",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-104.html"
     }
   ]
 }
