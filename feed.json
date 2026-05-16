@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Israelisches Militär bestätigt Tod von Hamas-Kommandeur in Gaza",
+      "link": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-tod-100.html"
+    },
+    {
       "title": "USA stoppen Entsendung von 4.000 Soldaten nach Polen",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-polen-truppen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kandidatur um FDP-Vorsitz: Höne macht Weg frei für Kubicki",
       "link": "https://www.tagesschau.de/inland/hoene-fdp-kandidatur-100.html"
-    },
-    {
-      "title": "Andy Burnham: Wird er der neue britische Premier?",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-106.html"
     }
   ]
 }
