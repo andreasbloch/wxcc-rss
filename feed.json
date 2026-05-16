@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Taiwan setzt auf schnelle Waffenlieferungen aus den USA",
+      "link": "https://www.tagesschau.de/ausland/asien/taiwan-trump-china-waffen-100.html"
+    },
+    {
+      "title": "Großbritannien: Ex-Minister Streeting fordert Premier Starmer heraus",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-premier-starmer-streeting-100.html"
+    },
+    {
+      "title": "Heidenheim und St. Pauli steigen ab - Wolfsburg auf Relegationsplatz",
+      "link": "https://www.tagesschau.de/sport/bundesliga-absteiger-relegation-100.html"
+    },
+    {
       "title": "Toter Wal vor Dänemark ist laut Behörden gestrandeter Ostsee-Wal",
       "link": "https://www.tagesschau.de/ausland/europa/wal-ostsee-daenemark-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Forschungsschiff Polarstern: Klimaforscher unter Druck",
       "link": "https://www.tagesschau.de/wissen/polarstern-klimaforscher-druck-100.html"
-    },
-    {
-      "title": "Schauspielerin Angelica Domröse mit 85 Jahren gestorben",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/schauspielerin-domroese-gestorben-100.html"
-    },
-    {
-      "title": "US-Außenministerium: Libanon und Israel verlängern Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-waffenruhe-100.html"
-    },
-    {
-      "title": "Ebola-Ausbruch in Demokratischer Republik Kongo bestätigt",
-      "link": "https://www.tagesschau.de/ausland/afrika/kongo-ausbruch-ebola-100.html"
     }
   ]
 }
