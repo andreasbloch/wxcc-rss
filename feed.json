@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Mann rast in Norditalien mit Auto in Menschenmenge",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-modena-auto-menschenmenge-100.html"
+    },
+    {
+      "title": "Jetzt im Livestream: Eurovision Song Contest",
+      "link": "https://www.tagesschau.de/kultur/esc-livestream-2026-100.html"
+    },
+    {
       "title": "Taiwan setzt auf schnelle Waffenlieferungen aus den USA",
       "link": "https://www.tagesschau.de/ausland/asien/taiwan-trump-china-waffen-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Die Inflation ist zurück - die Deutschen bleiben im Sparmodus",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-konsumverhalten-100.html"
-    },
-    {
-      "title": "Südamerika: Unruhen, Proteste und Treibstoffkrise in Bolivien",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolivien-unruhen-proteste-102.html"
-    },
-    {
-      "title": "Forschungsschiff Polarstern: Klimaforscher unter Druck",
-      "link": "https://www.tagesschau.de/wissen/polarstern-klimaforscher-druck-100.html"
     }
   ]
 }
