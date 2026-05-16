@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Ebola-Ausbruch: Menschen in der DR-Kongo leben in Angst vor Virus",
+      "link": "https://www.tagesschau.de/ausland/afrika/dr-kongo-ebola-ausbruch-100.html"
+    },
+    {
+      "title": "Verzögert sich die Pflegereform von Ministerin Warken?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-pflegereform-warken-100.html"
+    },
+    {
       "title": "Israelisches Militär bestätigt Tod von Hamas-Kommandeur in Gaza",
       "link": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-tod-100.html"
     },
@@ -53,10 +61,6 @@
       "link": "https://www.tagesschau.de/wissen/polarstern-klimaforscher-druck-100.html"
     },
     {
-      "title": "Russlands Krieg gegen die Ukraine: Zahl der Toten in Kiew steigt auf 24",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-104.html"
-    },
-    {
       "title": "Schauspielerin Angelica Domröse mit 85 Jahren gestorben",
       "link": "https://www.tagesschau.de/inland/regional/berlin/schauspielerin-domroese-gestorben-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "US-Gesundheitsminister will Peptide leichter zugänglich machen",
       "link": "https://www.tagesschau.de/ausland/amerika/peptide-usa-schoenheit-100.html"
-    },
-    {
-      "title": "Kandidatur um FDP-Vorsitz: Höne macht Weg frei für Kubicki",
-      "link": "https://www.tagesschau.de/inland/hoene-fdp-kandidatur-100.html"
     }
   ]
 }
