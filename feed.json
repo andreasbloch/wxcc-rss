@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Toter Wal vor Dänemark ist laut Behörden gestrandeter Ostsee-Wal",
+      "link": "https://www.tagesschau.de/ausland/europa/wal-ostsee-daenemark-100.html"
+    },
+    {
+      "title": "Lettland: Akribische Kontrollen gegen Schmuggel nach Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/lettland-grenze-schmuggel-russland-100.html"
+    },
+    {
       "title": "Ebola-Ausbruch: Menschen in der DR-Kongo leben in Angst vor Virus",
       "link": "https://www.tagesschau.de/ausland/afrika/dr-kongo-ebola-ausbruch-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Ebola-Ausbruch in Demokratischer Republik Kongo bestätigt",
       "link": "https://www.tagesschau.de/ausland/afrika/kongo-ausbruch-ebola-100.html"
-    },
-    {
-      "title": "WHO geht nicht von gefährlicher Mutation des Hantavirus aus",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/who-hantavirus-mutation-100.html"
-    },
-    {
-      "title": "US-Gesundheitsminister will Peptide leichter zugänglich machen",
-      "link": "https://www.tagesschau.de/ausland/amerika/peptide-usa-schoenheit-100.html"
     }
   ]
 }
