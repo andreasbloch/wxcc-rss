@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Merz und seine Kommunikation: Der Kanzler auf der Suche nach dem richtigen Ton",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kanzler-merz-kommunikation-100.html"
+    },
+    {
+      "title": "SPD-Fraktionschef Miersch sieht keine Zukunft für Tankrabatt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-verlaengerung-tankrabatt-100.html"
+    },
+    {
+      "title": "Waffenruhe verlängert - Angriffe gehen offenbar weiter",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-126.html"
+    },
+    {
+      "title": "Druckmittel gegen China: Waffenverkauf an Taiwan als Trumpf für Trump",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-taiwan-waffenverkauf-100.html"
+    },
+    {
       "title": "Endlich in Rente: Wie gelingt der ideale Zugang zum Vermögen?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/depot-investment-aufloesen-100.html"
     },
@@ -17,16 +33,8 @@
       "link": "https://www.tagesschau.de/ausland/amerika/trump-is-110.html"
     },
     {
-      "title": "Waffenruhe verlängert - Angriffe gehen offenbar weiter",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-126.html"
-    },
-    {
       "title": "Die Inflation ist zurück - die Deutschen bleiben im Sparmodus",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-konsumverhalten-100.html"
-    },
-    {
-      "title": "Druckmittel gegen China: Waffenverkauf an Taiwan als Trumpf für Trump",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-taiwan-waffenverkauf-100.html"
     },
     {
       "title": "Südamerika: Unruhen, Proteste und Treibstoffkrise in Bolivien",
@@ -71,14 +79,6 @@
     {
       "title": "Regierungskrise in Großbritannien: Wie geht es weiter in der Downing Street?",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-104.html"
-    },
-    {
-      "title": "Toter Wal vor dänischer Insel: Gewebeproben sollen Klarheit bringen",
-      "link": "https://www.tagesschau.de/ausland/wal-daenemark-106.html"
-    },
-    {
-      "title": "Marktbericht: DAX fällt dem Wochenende entgegen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-halbleiter-100.html"
     }
   ]
 }
