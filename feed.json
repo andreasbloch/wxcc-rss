@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Bulgarien gewinnt ESC - Deutschland Drittletzter",
+      "link": "https://www.tagesschau.de/kultur/bulgarien-gewinnt-esc-100.html"
+    },
+    {
       "title": "Mann rast in Norditalien mit Auto in Menschenmenge",
       "link": "https://www.tagesschau.de/ausland/europa/italien-modena-auto-menschenmenge-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Druckmittel gegen China: Waffenverkauf an Taiwan als Trumpf für Trump",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-taiwan-waffenverkauf-100.html"
-    },
-    {
-      "title": "Endlich in Rente: Wie gelingt der ideale Zugang zum Vermögen?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/depot-investment-aufloesen-100.html"
     }
   ]
 }
