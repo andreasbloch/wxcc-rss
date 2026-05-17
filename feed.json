@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Kälbermast in den Niederlanden: Wie deutsche Standards umgangen werden",
+      "link": "https://www.tagesschau.de/wirtschaft/kaelber-niederlande-deutschland-100.html"
+    },
+    {
+      "title": "Zweitligist Elversberg steigt auf - Paderborn auf Relegationsplatz",
+      "link": "https://www.tagesschau.de/sport/zweite-bundesliga-aufsteiger-102.html"
+    },
+    {
+      "title": "Brasiliens Korallen: Die Retter der Riffe",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-touristen-umweltschutz-riffe-100.html"
+    },
+    {
       "title": "Deutsche Filmschaffende starten Dogma-Revival",
       "link": "https://www.tagesschau.de/kultur/neue-deutsche-filmbewegung-dogma-germany-25-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Berlin: Mehrere Menschen bei pro-palästinensischer Demo festgenommen",
       "link": "https://www.tagesschau.de/inland/regional/berlin/festnahmen-demo-berlin-100.html"
-    },
-    {
-      "title": "Macrons Nachfolge - die Extremen bringen sich in Position",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-nachfolge-macron-kandidaten-100.html"
-    },
-    {
-      "title": "Zehntausende Menschen demonstrieren im Herzen Londons",
-      "link": "https://www.tagesschau.de/ausland/europa/london-kundgebungen-100.html"
-    },
-    {
-      "title": "Jetzt im Livestream: Eurovision Song Contest",
-      "link": "https://www.tagesschau.de/kultur/esc-livestream-2026-100.html"
     }
   ]
 }
