@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "WHO ruft wegen Ebola internationalen Gesundheitsnotstand aus",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-who-gesundheitsnotlage-100.html"
+    },
+    {
       "title": "Bulgarien gewinnt ESC - Deutschland Drittletzter",
       "link": "https://www.tagesschau.de/kultur/bulgarien-gewinnt-esc-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Waffenruhe verlängert - Angriffe gehen offenbar weiter",
       "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-126.html"
-    },
-    {
-      "title": "Druckmittel gegen China: Waffenverkauf an Taiwan als Trumpf für Trump",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-taiwan-waffenverkauf-100.html"
     }
   ]
 }
