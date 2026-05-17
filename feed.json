@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "USA lassen Ausnahmen von Sanktionen auf russisches Öl auslaufen",
+      "link": "https://www.tagesschau.de/ausland/usa-russisches-oel-sanktionen-100.html"
+    },
+    {
+      "title": "Warum sich das EU-Parlament im Fall Niebler schwertut",
+      "link": "https://www.tagesschau.de/ausland/europa/europaparlament-immunitaet-niebler-100.html"
+    },
+    {
+      "title": "Udo Lindenberg 80: \"Ich mach mein Ding, egal was die andern labern\"",
+      "link": "https://www.tagesschau.de/kultur/udo-lindenberg-80-100.html"
+    },
+    {
       "title": "Venezuela liefert Maduro-Vertrauten Saab an USA aus",
       "link": "https://www.tagesschau.de/ausland/amerika/venezuela-saab-usa-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Israelisches Militär bestätigt Tod von Hamas-Kommandeur in Gaza",
       "link": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-tod-100.html"
-    },
-    {
-      "title": "USA stoppen Entsendung von 4.000 Soldaten nach Polen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-polen-truppen-100.html"
-    },
-    {
-      "title": "Merz und seine Kommunikation: Der Kanzler auf der Suche nach dem richtigen Ton",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kanzler-merz-kommunikation-100.html"
-    },
-    {
-      "title": "SPD-Fraktionschef Miersch sieht keine Zukunft für Tankrabatt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-verlaengerung-tankrabatt-100.html"
     }
   ]
 }
