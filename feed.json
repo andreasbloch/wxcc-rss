@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Ver.di-Chef Werneke verteidigt Pfiffe gegen Merz auf DGB-Tag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-werneke-100.html"
+    },
+    {
       "title": "Kälbermast in den Niederlanden: Wie deutsche Standards umgangen werden",
       "link": "https://www.tagesschau.de/wirtschaft/kaelber-niederlande-deutschland-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Walkadaver durch GPS-Tracker eindeutig identifiziert",
       "link": "https://www.tagesschau.de/ausland/europa/wal-kadaver-daenemark-100.html"
-    },
-    {
-      "title": "Berlin: Mehrere Menschen bei pro-palästinensischer Demo festgenommen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/festnahmen-demo-berlin-100.html"
     }
   ]
 }
