@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Ebola-Risiko für Deutschland laut Warken äußerst gering",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-792.html"
+    },
+    {
       "title": "Trump droht mit Zerstörung: \"Für Iran tickt die Uhr\"",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-drohung-iran-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "WHO ruft wegen Ebola internationalen Gesundheitsnotstand aus",
       "link": "https://www.tagesschau.de/ausland/afrika/ebola-who-gesundheitsnotlage-100.html"
-    },
-    {
-      "title": "Mann rast in Norditalien mit Auto in Menschenmenge",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-modena-auto-menschenmenge-100.html"
     }
   ]
 }
