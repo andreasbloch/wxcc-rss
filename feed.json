@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Musk scheitert mit Klage gegen OpenAI",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klage-musk-open-ai-100.html"
+    },
+    {
+      "title": "Vereinigtes Königreich: Labour-Krise bringt Brexit-Debatte zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-labour-brexit-debatte-100.html"
+    },
+    {
+      "title": "USA verlängern Ausnahmen von Sanktionen für Russland-Öl",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-russisches-oel-100.html"
+    },
+    {
       "title": "Warum Klimaschutz bei Verkehr und Gebäuden stockt",
       "link": "https://www.tagesschau.de/wissen/klima/klimaschutz-expertenrat-gebaeude-verkehr-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Milliarden für Zivilschutz: Feldbetten, Spezialfahrzeuge, Notvorräte",
       "link": "https://www.tagesschau.de/inland/innenpolitik/zivilschutz-deutschland-102.html"
-    },
-    {
-      "title": "Iran-Krieg: Teheran schickt neuen Vorschlag an die USA",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-114.html"
-    },
-    {
-      "title": "Produktion von Fleischersatzprodukten geht leicht zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fleischersatz-produkte-rueckgang-100.html"
-    },
-    {
-      "title": "Baugenehmigungen steigen stark",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugenehmigungen-wohnungsmangel-100.html"
     }
   ]
 }
