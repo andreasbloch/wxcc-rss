@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Klingbeil sieht Weltwirtschaft durch Iran-Krieg bedroht",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-klingbeil-weltwirtschaft-100.html"
+    },
+    {
+      "title": "Amnesty International meldet deutlichen Anstieg von Hinrichtungen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-1120.html"
+    },
+    {
       "title": "Ebola-Risiko für Deutschland laut Warken äußerst gering",
       "link": "https://www.tagesschau.de/ausland/afrika/ebola-792.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Venezuela liefert Maduro-Vertrauten Saab an USA aus",
       "link": "https://www.tagesschau.de/ausland/amerika/venezuela-saab-usa-100.html"
-    },
-    {
-      "title": "Bulgarien gewinnt ESC - Deutschland Drittletzter",
-      "link": "https://www.tagesschau.de/kultur/bulgarien-gewinnt-esc-100.html"
-    },
-    {
-      "title": "WHO ruft wegen Ebola internationalen Gesundheitsnotstand aus",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-who-gesundheitsnotlage-100.html"
     }
   ]
 }
