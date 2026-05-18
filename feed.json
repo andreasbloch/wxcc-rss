@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Tote bei Angriff auf Islamisches Zentrum in San Diego",
+      "link": "https://www.tagesschau.de/ausland/amerika/sandiego-angriff-tote-100.html"
+    },
+    {
       "title": "Musk scheitert mit Klage gegen OpenAI",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klage-musk-open-ai-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "DAX-Konzerne steigern laut EY ihre Gewinne trotz Umsatzflaute",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-ey-studie-dax-100.html"
-    },
-    {
-      "title": "Milliarden für Zivilschutz: Feldbetten, Spezialfahrzeuge, Notvorräte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zivilschutz-deutschland-102.html"
     }
   ]
 }
