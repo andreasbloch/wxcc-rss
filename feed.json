@@ -1,16 +1,36 @@
 {
   "items": [
     {
+      "title": "Gordon Schnieder im Porträt: Bürgerlich, bescheiden, Birresborn",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gordon-schnieder-106.html"
+    },
+    {
+      "title": "DAX-Konzerne steigern laut EY ihre Gewinne trotz Umsatzflaute",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-ey-studie-dax-100.html"
+    },
+    {
+      "title": "Milliarden für Zivilschutz: Feldbetten, Spezialfahrzeuge, Notvorräte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zivilschutz-deutschland-102.html"
+    },
+    {
+      "title": "Iran-Krieg: Teheran schickt neuen Vorschlag an die USA",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-114.html"
+    },
+    {
+      "title": "Produktion von Fleischersatzprodukten geht leicht zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fleischersatz-produkte-rueckgang-100.html"
+    },
+    {
+      "title": "Baugenehmigungen steigen stark",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugenehmigungen-wohnungsmangel-100.html"
+    },
+    {
       "title": "WHO stuft Hantavirus-Risiko weiter als gering ein",
       "link": "https://www.tagesschau.de/wissen/gesundheit/who-hantavirus-einstufung-100.html"
     },
     {
       "title": "Krieg gegen die Ukraine: Ukraine und Russland melden erneut Angriffe",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-160.html"
-    },
-    {
-      "title": "Milliarden für Zivilschutz: Feldbetten, Spezialfahrzeuge, Notvorräte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zivilschutz-deutschland-102.html"
     },
     {
       "title": "Marktbericht: Anleger fürchten weitere Verschärfungen in Nahost",
@@ -59,26 +79,6 @@
     {
       "title": "Klingbeil sieht Weltwirtschaft durch Iran-Krieg bedroht",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-klingbeil-weltwirtschaft-100.html"
-    },
-    {
-      "title": "Amnesty International meldet deutlichen Anstieg von Hinrichtungen",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-1120.html"
-    },
-    {
-      "title": "Ebola-Risiko für Deutschland laut Warken äußerst gering",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-792.html"
-    },
-    {
-      "title": "Trump droht mit Zerstörung: \"Für Iran tickt die Uhr\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-drohung-iran-102.html"
-    },
-    {
-      "title": "Ver.di-Chef Werneke verteidigt Pfiffe gegen Merz auf DGB-Tag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-werneke-100.html"
-    },
-    {
-      "title": "Kälbermast in den Niederlanden: Wie deutsche Standards umgangen werden",
-      "link": "https://www.tagesschau.de/wirtschaft/kaelber-niederlande-deutschland-100.html"
     }
   ]
 }
