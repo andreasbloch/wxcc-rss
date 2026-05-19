@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX-Plus schmilzt zusammen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-104.html"
+    },
+    {
+      "title": "Düngemittel-Knappheit wegen Iran-Krieg: EU will Bauern helfen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-hilfen-duenger-100.html"
+    },
+    {
+      "title": "Polen suchen nach Angriff richtigen Umgang mit \"Problembären\"",
+      "link": "https://www.tagesschau.de/ausland/europa/angriff-baer-polen-100.html"
+    },
+    {
+      "title": "Pflege: Mehr Bedürftige, höhere Ausgaben, großer Reformbedarf",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pflege-beduerftige-krankenkassen-100.html"
+    },
+    {
+      "title": "Mehr als 15.000 Verstöße gegen Jugendschutz im Netz gemeldet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendschutz-internet-verstoesse-100.html"
+    },
+    {
+      "title": "Wieder Drohnen-Vorfall im Baltikum - NATO-Jet schießt Drohne ab",
+      "link": "https://www.tagesschau.de/ausland/drohnenabschuss-estland-102.html"
+    },
+    {
       "title": "EU-Parlament blockiert Ermittlungen gegen CSU-Abgeordnete Niebler",
       "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-ermittlungen-niebler-csu-100.html"
     },
@@ -53,32 +77,8 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/foodwatch-verbotene-pestizide-lebensmittel-eu-100.html"
     },
     {
-      "title": "Marktbericht: Das Prinzip Hoffnung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-104.html"
-    },
-    {
       "title": "So fördert der Staat Kauf neuer E-Autos - Anträge ab heute möglich",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/start-e-auto-foerderung-faq-100.html"
-    },
-    {
-      "title": "Gewalt gegen Parteien und Politiker stark gestiegen",
-      "link": "https://www.tagesschau.de/inland/angriffe-parteimitglieder-politiker-statistik-100.html"
-    },
-    {
-      "title": "Codierter Antisemitismus in den Sozialen Netzwerken",
-      "link": "https://www.tagesschau.de/faktenfinder/antisemitismus-tiktok-100.html"
-    },
-    {
-      "title": "Öffentlich-rechtlicher Rundfunk in Frankreich unter Druck",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-rundfunk-102.html"
-    },
-    {
-      "title": "Sammelklage gegen Amazon wegen Reklame auf Prime Video",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sammelklage-amazon-prime-video-100.html"
-    },
-    {
-      "title": "Festnahmen bei Protesten gegen die Regierung in Bolivien",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolivien-unruhen-102.html"
     }
   ]
 }
