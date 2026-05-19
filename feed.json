@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Bundeskabinett befasst sich mit Führerscheinreform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fuehrerschein-reform-106.html"
+    },
+    {
       "title": "Moschee-Angreifer von San Diego laut Polizei von Hass getrieben",
       "link": "https://www.tagesschau.de/ausland/amerika/san-diego-moschee-ermittlungen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Tote nach russischen Drohnen- und Raketenangriffen in der Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-luftangriffe-104.html"
-    },
-    {
-      "title": "Europäischer Verdienstorden für Merkel und Selenskyj",
-      "link": "https://www.tagesschau.de/ausland/europa/europaeischer-verdienstorden-100.html"
     }
   ]
 }
