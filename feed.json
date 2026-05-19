@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Moschee-Angreifer von San Diego laut Polizei von Hass getrieben",
+      "link": "https://www.tagesschau.de/ausland/amerika/san-diego-moschee-ermittlungen-100.html"
+    },
+    {
       "title": "Ebola-Patient soll in Berliner Charité behandelt werden",
       "link": "https://www.tagesschau.de/inland/ebola-patient-berlin-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Europäischer Verdienstorden für Merkel und Selenskyj",
       "link": "https://www.tagesschau.de/ausland/europa/europaeischer-verdienstorden-100.html"
-    },
-    {
-      "title": "Wohnungstausch gegen Wohnungsnot auf dem Immobilienmarkt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/wohnraum-tausch-100.html"
     }
   ]
 }
