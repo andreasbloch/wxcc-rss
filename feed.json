@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Schauspieler Alexander Held überraschend mit 67 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/alexander-held-106.html"
+    },
+    {
+      "title": "Bund startet Verkauf seiner Anteile am Energiekonzern Uniper",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uniper-wiederverkauf-bund-100.html"
+    },
+    {
+      "title": "Weniger Steuern - aber für wen und auf wessen Kosten?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-plaene-bundesregierung-100.html"
+    },
+    {
+      "title": "Reis, Tee und Gewürze häufig mit verbotenen Pestiziden belastet",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/foodwatch-verbotene-pestizide-lebensmittel-eu-100.html"
+    },
+    {
+      "title": "Marktbericht: Das Prinzip Hoffnung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-104.html"
+    },
+    {
+      "title": "So fördert der Staat Kauf neuer E-Autos - Anträge ab heute möglich",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/start-e-auto-foerderung-faq-100.html"
+    },
+    {
+      "title": "Russland und Ukraine greifen sich erneut mit Drohnen an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-luftangriffe-104.html"
+    },
+    {
+      "title": "Gewalt gegen Parteien und Politiker stark gestiegen",
+      "link": "https://www.tagesschau.de/inland/angriffe-parteimitglieder-politiker-statistik-100.html"
+    },
+    {
+      "title": "Codierter Antisemitismus in den Sozialen Netzwerken",
+      "link": "https://www.tagesschau.de/faktenfinder/antisemitismus-tiktok-100.html"
+    },
+    {
+      "title": "Öffentlich-rechtlicher Rundfunk in Frankreich unter Druck",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-rundfunk-102.html"
+    },
+    {
       "title": "Sammelklage gegen Amazon wegen Reklame auf Prime Video",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sammelklage-amazon-prime-video-100.html"
     },
@@ -11,10 +51,6 @@
     {
       "title": "Putin reist nach China: Ein Besuch unter Freunden",
       "link": "https://www.tagesschau.de/ausland/asien/putin-china-xi-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX vor kleinem Rücksetzer",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-104.html"
     },
     {
       "title": "Kolumbianische Kämpfer ziehen für die Ukraine in den Krieg",
@@ -33,7 +69,7 @@
       "link": "https://www.tagesschau.de/ausland/amerika/trump-fonds-entschaedigung-100.html"
     },
     {
-      "title": "Reliquie der Heiligen Zdislava in Tschechien gerettet",
+      "title": "Ein Heiligenschädel, ein Diebstahl und ein Betonblock",
       "link": "https://www.tagesschau.de/ausland/europa/tschechien-zdislava-reliquie-100.html"
     },
     {
@@ -43,42 +79,6 @@
     {
       "title": "Virus in DR Kongo und Uganda: Wie gefährlich ist der Ebola-Ausbruch?",
       "link": "https://www.tagesschau.de/wissen/ebola-wie-gefaehrlich-102.html"
-    },
-    {
-      "title": "Musk scheitert mit Klage gegen OpenAI",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klage-musk-open-ai-100.html"
-    },
-    {
-      "title": "Vereinigtes Königreich: Labour-Krise bringt Brexit-Debatte zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-labour-brexit-debatte-100.html"
-    },
-    {
-      "title": "USA verlängern Ausnahmen von Sanktionen für Russland-Öl",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-russisches-oel-100.html"
-    },
-    {
-      "title": "Warum Klimaschutz bei Verkehr und Gebäuden stockt",
-      "link": "https://www.tagesschau.de/wissen/klima/klimaschutz-expertenrat-gebaeude-verkehr-100.html"
-    },
-    {
-      "title": "\"Looksmaxxing\": Was steckt hinter dem Social-Media-Trend?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/looksmaxxing-maennlichkeit-100.html"
-    },
-    {
-      "title": "Westjordanland: Israel beginnt mit Umsetzung von Siedlungsprojekt E1",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungsprojekt-104.html"
-    },
-    {
-      "title": "Marktbericht: Neue Hoffnung auf Frieden",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-oelpreis-aktien-100.html"
-    },
-    {
-      "title": "Ölkrise durch Iran-Krieg: Inder sollen weniger ins Ausland reisen",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-tourismus-energiekrise-100.html"
-    },
-    {
-      "title": "US-Sondergesandter Landry zu Gesprächen in Grönland eingetroffen",
-      "link": "https://www.tagesschau.de/ausland/europa/besuch-landry-groenland-100.html"
     }
   ]
 }
