@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Gestoppte Flotte - Israel schiebt Hunderte Gaza-Aktivisten ab",
+      "link": "https://www.tagesschau.de/ausland/europa/israel-gaza-aktivisten-abschiebung-100.html"
+    },
+    {
+      "title": "Blinde Patientin scheitert mit Klage gegen Rehaklinik am BGH",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bgh-klage-blinde-diskriminierung-100.html"
+    },
+    {
+      "title": "Geplante Börsengänge von Tech-Giganten versprechen der Wall Street Milliarden",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/usa-boersengaenge-emissionen-100.html"
+    },
+    {
+      "title": "Flugticket-Preise: Was bringt die Senkung der Luftverkehrssteuer?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/flugtickets-senkung-steuer-100.html"
+    },
+    {
+      "title": "WM-Kader bekannt gegeben: Neuer kehrt in Nationalelf zurück",
+      "link": "https://www.tagesschau.de/sport/wm-kader-neuer-100.html"
+    },
+    {
+      "title": "EU-Kommission senkt Wachstumsprognose für Deutschland deutlich",
+      "link": "https://www.tagesschau.de/wirtschaft/eu-konjunktur-prognose-deutschland-100.html"
+    },
+    {
+      "title": "Anklage: Anschlag in Berlin im Auftrag der Revolutionsgarde geplant? ",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/anklage-anschlag-iran-deutschland-100.html"
+    },
+    {
+      "title": "Dementierter Medienbericht: Mögliche Rente mit 70 sorgt für Diskussion",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/debatte-rente-renteneintrittsalter-100.html"
+    },
+    {
+      "title": "Gentherapie lässt genetisch-bedingt gehörlose Kinder hören",
+      "link": "https://www.tagesschau.de/wissen/forschung/gentherapie-gehoerlosigkeit-100.html"
+    },
+    {
       "title": "Dänemark will Kadaver von Buckelwal aufs Festland ziehen",
       "link": "https://www.tagesschau.de/ausland/europa/daenemark-kadaver-buckelwal-100.html"
     },
@@ -43,42 +79,6 @@
     {
       "title": "Nvidia beschleunigt Wachstum mit 85 Prozent Umsatzplus",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-chipkonzern-ki-gewinnsprung-100.html"
-    },
-    {
-      "title": "US-Justizministerium kündigt Klage gegen Kubas Ex-Staatschef Raúl Castro an",
-      "link": "https://www.tagesschau.de/ausland/amerika/castro-klage-100.html"
-    },
-    {
-      "title": "Putin und Xi: Enge Beziehung - anders als bei Trumps Besuch",
-      "link": "https://www.tagesschau.de/ausland/asien/treffen-putin-xi-peking-ergebnisse-100.html"
-    },
-    {
-      "title": "Ölkrise: Warum die deutsche Chemiebranche kurz aufatmen kann",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/oelschock-hormus-chemie-100.html"
-    },
-    {
-      "title": "Russisches Geheimprojekt \"Skythen\" - Atomraketen am Meeresgrund?",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-militaer-geheimprojekt-ruestung-100.html"
-    },
-    {
-      "title": "Bundestag debattiert über neues Sportfördergesetz",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/sportfoerderung-gesetzentwurf-100.html"
-    },
-    {
-      "title": "SpaceX: Musk kündigt bislang wohl größten Börsengang an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-boersengang-100.html"
-    },
-    {
-      "title": "Großbritannien: Streit um Öl-Sanktionen gegen Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-sanktionen-russland-102.html"
-    },
-    {
-      "title": "Bundesregierung steigt bei Panzerbauer KNDS ein",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/knds-110.html"
-    },
-    {
-      "title": "Österreich: Ex-Verfassungsschützer Ott wegen Spionage verurteilt",
-      "link": "https://www.tagesschau.de/ausland/europa/urteil-spionage-egisto-ott-100.html"
     }
   ]
 }
