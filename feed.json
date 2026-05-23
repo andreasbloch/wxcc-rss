@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Cannes: Goldene Palme für rumänischen Regisseur Mungiu",
+      "link": "https://www.tagesschau.de/kultur/cannes-goldene-palme-110.html"
+    },
+    {
       "title": "Segelflugzeug in NRW auf Autobahn A45 gestürzt",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/segelflugzeug-autobahn-absturz-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Komplikationen bei der Geburt gibt es auch bei Tieren",
       "link": "https://www.tagesschau.de/wissen/tiere-geburten-mensch-100.html"
-    },
-    {
-      "title": "Frankreichs Schulbetreuer unter Verdacht",
-      "link": "https://www.tagesschau.de/ausland/europa/missbrauch-frankreich-kinder-100.html"
     }
   ]
 }
