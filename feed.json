@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "EU und Mexiko unterzeichnen Freihandelsabkommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/eu-mexiko-freihandelsabkommen-100.html"
+    },
+    {
       "title": "US-Geheimdienstkoordinatorin Gabbard kündigt Rücktritt an",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-geheimdienste-gebbard-ruecktritt-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Debatte in Cannes: Der Einfluss des rechten Milliardärs auf das Kino",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-canalplus-protest-100.html"
-    },
-    {
-      "title": "Kindergeld soll bald automatisch kommen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-elterngeld-einschnitte-prien-reaktionen-100.html"
     }
   ]
 }
