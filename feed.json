@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Was über den Cyberangriff auf Kliniken bekannt ist",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/cyberangriff-kliniken-100.html"
+    },
+    {
+      "title": "13 Personen aus CHP-Umfeld in der Türkei festgenommen",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-festnahmen-chp-100.html"
+    },
+    {
       "title": "Erneut ukrainischer Angriff auf Öllager in Russland",
       "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-112.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Deutschland und drei Partnerstaaten warnen Israel vor Siedlungsbau",
       "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-siedler-kritik-100.html"
-    },
-    {
-      "title": "Ebola breitet sich laut WHO in Kongo rasch aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/kongo-ebola-ausbruch-who-besorgt-100.html"
-    },
-    {
-      "title": "Wettervorhersage Europa: Wetterlage und Temperaturen",
-      "link": "https://www.tagesschau.de/wetter/europa-welt"
     }
   ]
 }
