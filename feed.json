@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Konservative gewinnen Parlamentswahl in Zypern",
+      "link": "https://www.tagesschau.de/ausland/europa/parlamentswahl-zypern-104.html"
+    },
+    {
       "title": "SIPRI-Bericht - Friedensmissionen unter Druck",
       "link": "https://www.tagesschau.de/ausland/sipri-internationale-friedensmissionen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "24. und 25. Mai: Was wird an Pfingsten gefeiert?",
       "link": "https://www.tagesschau.de/inland/gesellschaft/pfingsten-ueberblick-100.html"
-    },
-    {
-      "title": "Schwere russische Luftangriffe auf die ukrainische Hauptstadt",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-134.html"
     }
   ]
 }
