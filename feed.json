@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Polizei stürmt Büros der türkischen Oppositionspartei CHP",
+      "link": "https://www.tagesschau.de/ausland/asien/ankara-opposition-chp-polizei-100.html"
+    },
+    {
+      "title": "Sommerliche Temperaturen in der kommenden Woche",
+      "link": "https://www.tagesschau.de/inland/pfingsten-wetter-temperaturen-uv-100.html"
+    },
+    {
+      "title": "Russischer Angriff: ARD-Studio Kiew massiv beschädigt",
+      "link": "https://www.tagesschau.de/ausland/europa/in-eigener-sache-ard-studio-kiew-100.html"
+    },
+    {
       "title": "Papst Leo XIV. ruft in Pfingstpredigt erneut zu Frieden auf",
       "link": "https://www.tagesschau.de/ausland/europa/vatikan-papst-leo-pfingsten-100.html"
     },
@@ -11,10 +23,6 @@
     {
       "title": "Pakistan: Viele Tote bei Anschlag auf Personenzug",
       "link": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-zug-viele-tote-100.html"
-    },
-    {
-      "title": "Russischer Angriff: ARD-Studio Kiew massiv beschädigt",
-      "link": "https://www.tagesschau.de/ausland/europa/in-eigener-sache-ard-studio-kiew-100.html"
     },
     {
       "title": "Wo die Deutschen ihren Sommerurlaub verbringen wollen",
@@ -71,14 +79,6 @@
     {
       "title": "Cannes: Goldene Palme für rumänischen Regisseur Mungiu",
       "link": "https://www.tagesschau.de/kultur/cannes-goldene-palme-110.html"
-    },
-    {
-      "title": "Proteste in Bolivien werden immer massiver",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolivien-proteste-126.html"
-    },
-    {
-      "title": "Das Finale im Liveticker",
-      "link": "https://www.tagesschau.de/sport/dfb-pokal-finale-liveticker-100.html"
     }
   ]
 }
