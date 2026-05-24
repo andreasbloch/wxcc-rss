@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Schüsse in der Nähe vom Weißen Haus in Washington",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-schuesse-weisses-haus-100.html"
+    },
+    {
+      "title": "Schwere russische Luftangriffe auf die ukrainische Hauptstadt",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-134.html"
+    },
+    {
       "title": "USA und Iran haben sich offenbar angenähert",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-gespraeche-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Was steht im Grundgesetz - und wie ist es entstanden?",
       "link": "https://www.tagesschau.de/inland/grundgesetz-fragen-antworten-100.html"
-    },
-    {
-      "title": "Demokratie braucht laut Steinmeier \"aktive Bürger\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ehrentag-grundgesetz-100.html"
-    },
-    {
-      "title": "Komplikationen bei der Geburt gibt es auch bei Tieren",
-      "link": "https://www.tagesschau.de/wissen/tiere-geburten-mensch-100.html"
     }
   ]
 }
