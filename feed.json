@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Offenbar Annäherung im Konflikt zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-gespraeche-100.html"
+    },
+    {
+      "title": "Alte Parteien bei Parlamentswahl in Zypern unter Druck",
+      "link": "https://www.tagesschau.de/ausland/europa/parlamentswahl-zypern-102.html"
+    },
+    {
       "title": "Schüsse in der Nähe vom Weißen Haus in Washington",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-schuesse-weisses-haus-100.html"
     },
@@ -9,8 +17,8 @@
       "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-134.html"
     },
     {
-      "title": "USA und Iran haben sich offenbar angenähert",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-gespraeche-100.html"
+      "title": "Zehntausende bei Massenprotest gegen Regierung in Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-154.html"
     },
     {
       "title": "Cannes: Goldene Palme für rumänischen Regisseur Mungiu",
@@ -71,14 +79,6 @@
     {
       "title": "13 Personen aus CHP-Umfeld in der Türkei festgenommen",
       "link": "https://www.tagesschau.de/ausland/asien/tuerkei-festnahmen-chp-100.html"
-    },
-    {
-      "title": "Die Camorra und die Gift-Landschaft bei Neapel",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-muell-mafia-100.html"
-    },
-    {
-      "title": "Was steht im Grundgesetz - und wie ist es entstanden?",
-      "link": "https://www.tagesschau.de/inland/grundgesetz-fragen-antworten-100.html"
     }
   ]
 }
