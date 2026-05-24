@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Russischer Angriff: ARD-Studio Kiew massiv beschädigt",
+      "link": "https://www.tagesschau.de/ausland/europa/in-eigener-sache-ard-studio-kiew-100.html"
+    },
+    {
+      "title": "Indien ächzt unter Hitzewelle",
+      "link": "https://www.tagesschau.de/ausland/asien/hitzewelle-indien-120.html"
+    },
+    {
       "title": "Sudetendeutscher Tag in Tschechien: Begegnung, Gedenken, Proteste",
       "link": "https://www.tagesschau.de/ausland/prag-sudeten-treffen-100.html"
     },
@@ -23,10 +31,6 @@
     {
       "title": "Sommerliche Temperaturen in der kommenden Woche",
       "link": "https://www.tagesschau.de/inland/pfingsten-wetter-temperaturen-uv-100.html"
-    },
-    {
-      "title": "Russischer Angriff: ARD-Studio Kiew massiv beschädigt",
-      "link": "https://www.tagesschau.de/ausland/europa/in-eigener-sache-ard-studio-kiew-100.html"
     },
     {
       "title": "Papst Leo XIV. ruft in Pfingstpredigt erneut zu Frieden auf",
@@ -75,10 +79,6 @@
     {
       "title": "Offenbar Annäherung im Konflikt zwischen USA und Iran",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-gespraeche-100.html"
-    },
-    {
-      "title": "Alte Parteien bei Parlamentswahl in Zypern unter Druck",
-      "link": "https://www.tagesschau.de/ausland/europa/parlamentswahl-zypern-102.html"
     }
   ]
 }
