@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "SIPRI-Bericht - Friedensmissionen unter Druck",
+      "link": "https://www.tagesschau.de/ausland/sipri-internationale-friedensmissionen-100.html"
+    },
+    {
       "title": "\"Nichts überstürzen\": Trump warnt bei Iran-Verhandlungen vor Eile",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-trump-verhandlungen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Schwere russische Luftangriffe auf die ukrainische Hauptstadt",
       "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-134.html"
-    },
-    {
-      "title": "Wie sich die Spanier gegen hohe Mieten wehren",
-      "link": "https://www.tagesschau.de/wirtschaft/spanien-bezahlbarer-wohnraum-100.html"
     }
   ]
 }
