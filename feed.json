@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "WHO: Mehr als 900 Ebola-Verdachtsfälle in DR Kongo",
+      "link": "https://www.tagesschau.de/ausland/afrika/dr-kongo-ebola-who-100.html"
+    },
+    {
       "title": "Konservative gewinnen Parlamentswahl in Zypern",
       "link": "https://www.tagesschau.de/ausland/europa/parlamentswahl-zypern-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Sudetendeutscher Tag erstmals in Tschechien",
       "link": "https://www.tagesschau.de/ausland/europa/sudetendeutscher-tag-tschechien-100.html"
-    },
-    {
-      "title": "24. und 25. Mai: Was wird an Pfingsten gefeiert?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pfingsten-ueberblick-100.html"
     }
   ]
 }
