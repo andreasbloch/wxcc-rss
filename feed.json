@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Enzyklika des Papstes: Grundsatzprogramm des christlichen Pazifismus",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-enzyklika-ki-100.html"
+    },
+    {
+      "title": "Ukraine: Aufräumarbeiten in Kiew - und die Forderung nach Konsequenzen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-aufraeumen-sicherheitsrat-100.html"
+    },
+    {
       "title": "Landwirtschaft: Wenn der Hof zur seelischen Last wird",
       "link": "https://www.tagesschau.de/inland/gesellschaft/psychische-krankheiten-landwirte-100.html"
     },
@@ -37,10 +45,6 @@
       "link": "https://www.tagesschau.de/ausland/asien/erdogan-bilgi-universitaet-istanbul-100.html"
     },
     {
-      "title": "Ukraine: Aufräumarbeiten in Kiew - und die Forderung nach Konsequenzen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-aufraeumen-sicherheitsrat-100.html"
-    },
-    {
       "title": "Beginn des Hadsch: Millionen pilgern trotz Kriegs nach Mekka",
       "link": "https://www.tagesschau.de/ausland/asien/suadi-arabien-pilgerfahrt-hadsch-beginn-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "China schickt drei Astronauten zu Weltraumstation \"Tiangong\"",
       "link": "https://www.tagesschau.de/ausland/asien/china-raketenstart-104.html"
-    },
-    {
-      "title": "Russischer Angriff: ARD-Studio Kiew massiv beschädigt",
-      "link": "https://www.tagesschau.de/ausland/europa/in-eigener-sache-ard-studio-kiew-100.html"
     }
   ]
 }
