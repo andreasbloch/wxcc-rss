@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Landwirtschaft: Wenn der Hof zur seelischen Last wird",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/psychische-krankheiten-landwirte-100.html"
+    },
+    {
+      "title": "Keine Einzelhaft mehr: Maduros Haftbedingungen offenbar verbessert",
+      "link": "https://www.tagesschau.de/ausland/amerika/maduro-haft-100.html"
+    },
+    {
+      "title": "Ebola-Ausbruch: Wie Freiwillige gegen das Virus kämpfen",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-ausbruch-unterschaetzt-100.html"
+    },
+    {
+      "title": "Israel und Libanon: Evakuierungen und neue Kämpfe",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-128.html"
+    },
+    {
+      "title": "Krakaus Bürgermeister durch Bürgerentscheid abgewählt",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-abwahl-buergermeister-100.html"
+    },
+    {
       "title": "Papst Leo XIV. warnt vor Gefahren von Künstlicher Intelligenz",
       "link": "https://www.tagesschau.de/ausland/europa/papst-enzyklika-108.html"
     },
@@ -21,7 +41,7 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-aufraeumen-sicherheitsrat-100.html"
     },
     {
-      "title": "Beginn des Hadsch: Millionen pilgern trotz Krieg nach Mekka",
+      "title": "Beginn des Hadsch: Millionen pilgern trotz Kriegs nach Mekka",
       "link": "https://www.tagesschau.de/ausland/asien/suadi-arabien-pilgerfahrt-hadsch-beginn-100.html"
     },
     {
@@ -59,26 +79,6 @@
     {
       "title": "Russischer Angriff: ARD-Studio Kiew massiv beschädigt",
       "link": "https://www.tagesschau.de/ausland/europa/in-eigener-sache-ard-studio-kiew-100.html"
-    },
-    {
-      "title": "Indien ächzt unter Hitzewelle",
-      "link": "https://www.tagesschau.de/ausland/asien/hitzewelle-indien-120.html"
-    },
-    {
-      "title": "Sudetendeutscher Tag in Tschechien: Begegnung, Gedenken, Proteste",
-      "link": "https://www.tagesschau.de/ausland/prag-sudeten-treffen-100.html"
-    },
-    {
-      "title": "Vertrauen in die Politik - hart erarbeitet, schnell verspielt?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-umfragewerte-100.html"
-    },
-    {
-      "title": "Militärexperte zu \"Oreschnik\"-Rakete: \"Putin will uns einschüchtern\"",
-      "link": "https://www.tagesschau.de/ausland/europa/putin-oreshnik-lange-100.html"
-    },
-    {
-      "title": "Polizei stürmt Büros der türkischen Oppositionspartei CHP",
-      "link": "https://www.tagesschau.de/ausland/asien/ankara-opposition-chp-polizei-100.html"
     }
   ]
 }
