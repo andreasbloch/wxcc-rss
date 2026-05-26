@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Israel attackiert neuen Hamas-Chef im Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-toetet-hamas-fuehrer-100.html"
+    },
+    {
       "title": "Hitzewelle in Deutschland: Vielerorts über 30 Grad, aber noch kein Mai-Rekord",
       "link": "https://www.tagesschau.de/wetter/deutschland/wetter-mai-temperaturen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Deutschland bei wichtigen Gütern immer abhängiger von China",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-industrie-abhaengigkeit-100.html"
-    },
-    {
-      "title": "Laos: Sieben Männer stecken weiterhin in überfluteter Höhle fest",
-      "link": "https://www.tagesschau.de/ausland/asien/laos-hoehlenrettung-100.html"
     }
   ]
 }
