@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Mehrere Tote bei Chemie-Unglück in Fabrik in den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/tank-washington-100.html"
+    },
+    {
       "title": "Israel attackiert neuen Hamas-Chef im Gazastreifen",
       "link": "https://www.tagesschau.de/ausland/asien/israel-toetet-hamas-fuehrer-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Mehrheit in Kinderreport-Umfrage für einheitliche Bildungsstandards",
       "link": "https://www.tagesschau.de/inland/gesellschaft/kinderreport-bildungsstandards-100.html"
-    },
-    {
-      "title": "Deutschland bei wichtigen Gütern immer abhängiger von China",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-industrie-abhaengigkeit-100.html"
     }
   ]
 }
