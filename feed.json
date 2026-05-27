@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Cyberabwehr: BSI und Polizei sollen mehr Befugnisse erhalten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cyberabwehr-106.html"
+    },
+    {
+      "title": "So kann man sich vor Hackern schützen",
+      "link": "https://www.tagesschau.de/wissen/technologie/cybersicherheit-120.html"
+    },
+    {
+      "title": "Neue Festnahme nach Messerattacke am Berliner Holocaust-Mahnmal",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/neue-festnahme-messerattacke-holocaust-mahnmal-100.html"
+    },
+    {
+      "title": "Was tun Sportvereine zur Prävention von sexualisierter Gewalt?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/sexualisierte-gewalt-sportverein-100.html"
+    },
+    {
+      "title": "Retter finden fünf Überlebende in überfluteter Höhle in Laos",
+      "link": "https://www.tagesschau.de/ausland/asien/laos-hoehle-vermisste-100.html"
+    },
+    {
+      "title": "Nikkei auf Rekordhoch: Investoren blicken wieder nach Japan",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-rekord-nikkei-japan-100.html"
+    },
+    {
+      "title": "Neue Regeln im Baurecht sollen Wohnungsbau beschleunigen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/baurecht-novelle-102.html"
+    },
+    {
       "title": "Frühjahrsgutachten: Wirtschaftsweise senken Prognose deutlich",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sachverstaendigenrat-wirtschaftsweisen-prognose-fruehjahrsgutachten-100.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "Samsung-Gewerkschaft nimmt Einigung auf Rekordboni an",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/samsung-einigung-gewerkschaft-streik-100.html"
-    },
-    {
-      "title": "Neuer Hamas-Chef im Gazastreifen getötet",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-toetet-hamas-fuehrer-100.html"
-    },
-    {
-      "title": "USA: Toter bei Chemie-Unglück in Verpackungsfabrik",
-      "link": "https://www.tagesschau.de/ausland/amerika/tank-washington-100.html"
-    },
-    {
-      "title": "Wirtschaftsministerin in China - Reiche mahnt fairen Wettbewerb an",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/reiche-china-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Dammbruch in Brasilien - Welche Verantwortung trägt TÜV Süd?",
-      "link": "https://www.tagesschau.de/podcast-11km-brasilien-dammbruch-tuev-100.html"
-    },
-    {
-      "title": "Taliban wollen mehr eigene Diplomaten in Europa ",
-      "link": "https://www.tagesschau.de/investigativ/ndr/taliban-eu-diplomaten-abschiebungen-100.html"
-    },
-    {
-      "title": "USA: Doppel-Niederlage für Trump im Streit um Wahlkreiszuschnitte",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-wahlkreise-102.html"
-    },
-    {
-      "title": "Gekürzte Hilfsgelder erschweren Kampf gegen Ebola",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-hilfsgelder-100.html"
     }
   ]
 }
