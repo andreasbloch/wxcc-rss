@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Gekürzte Hilfsgelder erschweren Kampf gegen Ebola",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-hilfsgelder-100.html"
+    },
+    {
       "title": "Mehrere Tote bei Chemie-Unglück in Fabrik in den USA",
       "link": "https://www.tagesschau.de/ausland/amerika/tank-washington-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Erste EZB-Zinserhöhung naht",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-zinserwartung-ezb-juni-100.html"
-    },
-    {
-      "title": "Mehrheit in Kinderreport-Umfrage für einheitliche Bildungsstandards",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kinderreport-bildungsstandards-100.html"
     }
   ]
 }
