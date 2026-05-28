@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Haftstrafe für Anschlagsplan auf Taylor-Swift-Konzert in Wien",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-urteil-anschlagsplan-taylor-swift-100.html"
+    },
+    {
       "title": "Bericht: USA und Iran einigen sich auf Rahmenabkommen für Waffenruhe",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-berichte-einigung-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Zahl der Hautkrebs-Fälle in Kliniken fast verdoppelt",
       "link": "https://www.tagesschau.de/inland/gesellschaft/statistik-hautkrebs-screening-100.html"
-    },
-    {
-      "title": "Brüssel verhängt 200-Millionen-Strafe gegen Temu wegen illegaler Produkte",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/temu-strafe-illegale-ware-100.html"
     }
   ]
 }
