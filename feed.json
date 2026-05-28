@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Bericht: USA und Iran einigen sich auf Rahmenabkommen für Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-berichte-einigung-100.html"
+    },
+    {
+      "title": "Krieg gegen Iran: Kein Gewinner auf keiner Seite",
+      "link": "https://www.tagesschau.de/ausland/asien/krieg-israel-usa-iran-100.html"
+    },
+    {
+      "title": "Bundesregierung kritisiert Türkei nur zurückhaltend",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-opposition-bundesregierung-100.html"
+    },
+    {
       "title": "Terrorakt: Drei Verletzte nach Messerangriff im Schweizer Ort Winterthur",
       "link": "https://www.tagesschau.de/ausland/europa/schweiz-winterthur-messerangriff-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Brüssel verhängt 200-Millionen-Strafe gegen Temu wegen illegaler Produkte",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/temu-strafe-illegale-ware-100.html"
-    },
-    {
-      "title": "Düstere Stimmung in Iran nach drei Monaten Krieg",
-      "link": "https://www.tagesschau.de/ausland/iran-drei-monate-nach-kriegsbeginn-100.html"
-    },
-    {
-      "title": "Bildungszentrum von Yad Vashem kommt nach München",
-      "link": "https://www.tagesschau.de/inland/regional/muenchen-yadvashem-zweigstelle-100.html"
-    },
-    {
-      "title": "Klimafolgen: Hitze kostet Deutschlands Wirtschaft Milliarden",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/hitze-wirtschaft-kosten-klimawandel-100.html"
     }
   ]
 }
