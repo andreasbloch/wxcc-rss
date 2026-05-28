@@ -1,8 +1,32 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Neue US-Angriffe in Iran dämpfen Optimismus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-ki-100.html"
+    },
+    {
       "title": "USA greifen erneut Ziele in Iran an",
       "link": "https://www.tagesschau.de/ausland/asien/iran-neue-angriffe-100.html"
+    },
+    {
+      "title": "Meta führt kostenpflichtige Plus-Modelle ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-bezahlmodell-100.html"
+    },
+    {
+      "title": "Wie aus Gefangenenhilfe Terrorverdacht wurde",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/is-gefangenenhilfe-prozess-100.html"
+    },
+    {
+      "title": "Fall Gablingen: \"Größter JVA-Skandal der Bundesrepublik\"",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/jva-gablingen-skandal-100.html"
+    },
+    {
+      "title": "EU-Außenminister beraten in Zypern über Ukraine und Iran",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-zypern-100.html"
+    },
+    {
+      "title": "Ticket-Ärger vor der WM beschäftigt die Justiz",
+      "link": "https://www.tagesschau.de/ausland/amerika/wm-tickets-ermittlungen-100.html"
     },
     {
       "title": "Norwegen rückt unter Frankreichs Atomschutzschirm",
@@ -55,30 +79,6 @@
     {
       "title": "Cyberabwehr: BSI und Polizei sollen mehr Befugnisse erhalten",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cyberabwehr-106.html"
-    },
-    {
-      "title": "Rüstungsboom beschert deutscher Luft- und Raumfahrt Rekorde",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/luftfahrt-raumfahrt-industrie-ruestung-100.html"
-    },
-    {
-      "title": "Hamas bestätigt Tod des neuen Militärchefs im Gazastreifen",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-hamas-fuehrer-tod-100.html"
-    },
-    {
-      "title": "So kann man sich vor Hackern schützen",
-      "link": "https://www.tagesschau.de/wissen/technologie/cybersicherheit-120.html"
-    },
-    {
-      "title": "Neue Festnahme nach Messerattacke am Berliner Holocaust-Mahnmal",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/neue-festnahme-messerattacke-holocaust-mahnmal-100.html"
-    },
-    {
-      "title": "Was tun Sportvereine zur Prävention von sexualisierter Gewalt?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/sexualisierte-gewalt-sportverein-100.html"
-    },
-    {
-      "title": "Retter finden fünf Überlebende in überfluteter Höhle in Laos",
-      "link": "https://www.tagesschau.de/ausland/asien/laos-hoehle-vermisste-100.html"
     }
   ]
 }
