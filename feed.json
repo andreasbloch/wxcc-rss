@@ -1,8 +1,76 @@
 {
   "items": [
     {
-      "title": "Marktbericht: Verflogene Friedenshoffnungen lassen Ölpreise steigen",
+      "title": "Terrorakt: Drei Verletzte nach Messerangriff im Schweizer Ort Winterthur",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-winterthur-messerangriff-100.html"
+    },
+    {
+      "title": "Studie zu Aufholprozess: Abstand zum Westen schrumpft nur langsam",
+      "link": "https://www.tagesschau.de/wirtschaft/ostdeutschland-wirtschaft-wettbewerbsreport-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX ganz im Bann des Iran-Konflikts",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-ki-100.html"
+    },
+    {
+      "title": "Krieg im Nahen Osten: Israel greift wieder Vororte von Beirut an",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-libanon-beirut-100.html"
+    },
+    {
+      "title": "Finanzminister und SPD-Chef: Klingbeils schwierige Doppelrolle",
+      "link": "https://www.tagesschau.de/inland/analyse-klingbeil-doppelrolle-100.html"
+    },
+    {
+      "title": "Ukraine soll ab 2027 erste schwedische \"Gripen\"-Jets erhalten",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kauf-gripen-jets-schweden-100.html"
+    },
+    {
+      "title": "Verteidigungsministerium plant erweiterten Dienst für Reservisten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reservisten-bundeswehr-102.html"
+    },
+    {
+      "title": "Wie die Rubel-Rally für Russland und Putin zum Problem wird",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/rubel-russland-putin-kriegswirtschaft-100.html"
+    },
+    {
+      "title": "Täterinnen im Fall Luise müssen 144.000 Euro zahlen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schmerzensgeld-freudenberg-100.html"
+    },
+    {
+      "title": "EU ernennt vorerst keinen Russland-Ukraine-Vermittler",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-treffen-zypern-100.html"
+    },
+    {
+      "title": "Tag der Frauengesundheit: Stärkerer Fokus auf Frauengesundheit gefordert",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/geschlechtersensible-medizin-warken-100.html"
+    },
+    {
+      "title": "Deutsche Bank wieder auf Kurs",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-hv-deutsche-bank-100.html"
+    },
+    {
+      "title": "Israelische Angriffe in der Nacht: Libanon meldet mehrere Tote",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-tote-104.html"
+    },
+    {
+      "title": "EU-Kommission  will MediaMarkt-Übernahme durch chinesischen Konzern prüfen",
+      "link": "https://www.tagesschau.de/wirtschaft/eu-mediamarkt-uebernahme-100.html"
+    },
+    {
+      "title": "Warum die Kanzlerdiskussion um Wüst wieder losgeht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wuest-kanzlerspekulationen-100.html"
+    },
+    {
+      "title": "Zahl der Hautkrebs-Fälle in Kliniken fast verdoppelt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/statistik-hautkrebs-screening-100.html"
+    },
+    {
+      "title": "Brüssel verhängt 200-Millionen-Strafe gegen Temu wegen illegaler Produkte",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/temu-strafe-illegale-ware-100.html"
+    },
+    {
+      "title": "Düstere Stimmung in Iran nach drei Monaten Krieg",
+      "link": "https://www.tagesschau.de/ausland/iran-drei-monate-nach-kriegsbeginn-100.html"
     },
     {
       "title": "Bildungszentrum von Yad Vashem kommt nach München",
@@ -11,74 +79,6 @@
     {
       "title": "Klimafolgen: Hitze kostet Deutschlands Wirtschaft Milliarden",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/hitze-wirtschaft-kosten-klimawandel-100.html"
-    },
-    {
-      "title": "USA greifen erneut Ziele in Iran an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-neue-angriffe-100.html"
-    },
-    {
-      "title": "Versorgung bei Gefahrenlagen: Ebola offenbart deutschen Nachholbedarf",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ebola-gesundheitskrisengesetz-100.html"
-    },
-    {
-      "title": "Ein Jahr nach Gletschersturz von Blatten - Rückkehr in die verlorene Heimat",
-      "link": "https://www.tagesschau.de/ausland/europa/blatten-jahrestag-gletschersturz-100.html"
-    },
-    {
-      "title": "Höhlendrama in Laos: Rettung der Goldsucher soll bald beginnen",
-      "link": "https://www.tagesschau.de/ausland/asien/laos-hoehle-100.html"
-    },
-    {
-      "title": "Meta führt kostenpflichtige Plus-Modelle ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-bezahlmodell-100.html"
-    },
-    {
-      "title": "Wie aus Gefangenenhilfe Terrorverdacht wurde",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/is-gefangenenhilfe-prozess-100.html"
-    },
-    {
-      "title": "Fall Gablingen: \"Größter JVA-Skandal der Bundesrepublik\"",
-      "link": "https://www.tagesschau.de/investigativ/br-recherche/jva-gablingen-skandal-100.html"
-    },
-    {
-      "title": "EU-Außenminister beraten in Zypern über Ukraine und Iran",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-zypern-100.html"
-    },
-    {
-      "title": "Ticket-Ärger vor der WM beschäftigt die Justiz",
-      "link": "https://www.tagesschau.de/ausland/amerika/wm-tickets-ermittlungen-100.html"
-    },
-    {
-      "title": "Norwegen rückt unter Frankreichs Atomschutzschirm",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-nuklearschirm-100.html"
-    },
-    {
-      "title": "DRK-Chef fordert Verdopplung des Taschengeldes im FSJ",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fsj-taschengeld-100.html"
-    },
-    {
-      "title": "Drei Monate Irankrieg: Trump sucht einen Ausweg",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-drei-monate-irankrieg-100.html"
-    },
-    {
-      "title": "Pistorius wirbt in Kanada für Kauf deutscher U-Boote",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-pistorius-100.html"
-    },
-    {
-      "title": "Israel erklärt Südlibanon zur \"Kampfzone\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-suedlibanon-evakuierung-100.html"
-    },
-    {
-      "title": "Reaktionen in der CSU nach Webers Pfingstbrief",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/weber-pfingstbrief-100.html"
-    },
-    {
-      "title": "FAQ: So soll der Wohnungsbau vorankommen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wohnungsbau-gesetzentwurf-100.html"
-    },
-    {
-      "title": "Uganda schließt wegen Ebola die Grenze zur Demokratischen Republik Kongo",
-      "link": "https://www.tagesschau.de/ausland/afrika/uganda-ebola-kongo-grenze-100.html"
     }
   ]
 }
