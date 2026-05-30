@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Nach Protest an Brennerautobahn: Trotz Sperrung kaum Verkehrschaos",
+      "link": "https://www.tagesschau.de/ausland/europa/brenner-protest-102.html"
+    },
+    {
+      "title": "Machtkampf in der Türkei: Großdemonstration für abgesetzten CHP-Chef Özel",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-protest-112.html"
+    },
+    {
       "title": "Star-Wars-Cutterin Marcia Lucas ist mit 80 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/star-wars-marcia-lucas-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Feuerwehreinsätze wegen Unwettern in NRW und Niedersachsen",
       "link": "https://www.tagesschau.de/inland/unwetter-1168.html"
-    },
-    {
-      "title": "Hambacher Freiheitspreis: Steinmeier warnt vor autoritären Tendenzen",
-      "link": "https://www.tagesschau.de/inland/hambacher-friedenspreis-steinmeier-100.html"
-    },
-    {
-      "title": "Digitalminister: G7 wollen Minderjährige im Netz besser schützen",
-      "link": "https://www.tagesschau.de/ausland/g7-kinderschutz-100.html"
     }
   ]
 }
