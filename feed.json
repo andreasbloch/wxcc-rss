@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Bundesweites Projekt: Mit der \"Klasse 0\" fit für die Einschulung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/klasse-null-schule-100.html"
+    },
+    {
+      "title": "Private Parkraum-Überwacher machen mit Strafzetteln Kasse",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/private-parkraum-ueberwacher-supermarkt-100.html"
+    },
+    {
+      "title": "Feuerwehreinsätze wegen Unwettern in NRW und Niedersachsen",
+      "link": "https://www.tagesschau.de/inland/unwetter-1168.html"
+    },
+    {
+      "title": "Hambacher Freiheitspreis: Steinmeier warnt vor autoritären Tendenzen",
+      "link": "https://www.tagesschau.de/inland/hambacher-friedenspreis-steinmeier-100.html"
+    },
+    {
       "title": "Digitalminister: G7 wollen Minderjährige im Netz besser schützen",
       "link": "https://www.tagesschau.de/ausland/g7-kinderschutz-100.html"
     },
@@ -11,10 +27,6 @@
     {
       "title": "Weiter keine Einigung zwischen USA und Iran",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-198.html"
-    },
-    {
-      "title": "Nach Hitze: Unwetter sorgen für zahlreiche Feuerwehreinsätze",
-      "link": "https://www.tagesschau.de/inland/unwetter-1168.html"
     },
     {
       "title": "Die vorgezogene Wahl in Malta - und das Kalkül des Premiers",
@@ -67,18 +79,6 @@
     {
       "title": "Inflation in Deutschland fällt überraschend auf 2,6 Prozent",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-mai-deutschland-102.html"
-    },
-    {
-      "title": "Westjordanland: Beduinendorf Khan al-Ahmar vor der Räumung",
-      "link": "https://www.tagesschau.de/ausland/asien/beduinendorf-khan-al-ahmar-100.html"
-    },
-    {
-      "title": "Wetterumschwung in Deutschland erwartet - Unwetter im Anmarsch",
-      "link": "https://www.tagesschau.de/wetter/wetterthema/wetterumschwung-106.html"
-    },
-    {
-      "title": "Scharfe Kritik an Russland nach Drohneneinschlag in Rumänien",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohneneinschlag-reaktionen-100.html"
     }
   ]
 }
