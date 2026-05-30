@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Armee beschießt erneut Schiff im Golf von Oman",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-angriff-strasse-von-hormus-100.html"
+    },
+    {
       "title": "tagesthemen-Interview: FDP-Chef Kubicki zufrieden mit Wahlergebnis",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kubicki-tt-interview-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Israel rückt laut Netanjahu weiter ins Landesinnere des Libanon vor",
       "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-112.html"
-    },
-    {
-      "title": "Weiter keine Einigung zwischen USA und Iran",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-198.html"
     }
   ]
 }
