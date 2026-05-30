@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Digitalminister: G7 wollen Minderjährige im Netz besser schützen",
+      "link": "https://www.tagesschau.de/ausland/g7-kinderschutz-100.html"
+    },
+    {
+      "title": "Syrien: Euphrat-Hochwasser sorgt für Überschwemmungen",
+      "link": "https://www.tagesschau.de/ausland/asien/ueberflutungen-syrien-100.html"
+    },
+    {
+      "title": "Weiter keine Einigung zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-198.html"
+    },
+    {
+      "title": "Nach Hitze: Unwetter sorgen für zahlreiche Feuerwehreinsätze",
+      "link": "https://www.tagesschau.de/inland/unwetter-1168.html"
+    },
+    {
+      "title": "Die vorgezogene Wahl in Malta - und das Kalkül des Premiers",
+      "link": "https://www.tagesschau.de/ausland/europa/wahl-malta-100.html"
+    },
+    {
+      "title": "Niederlage vor Gericht: Trump durfte das Kennedy Center nicht umbenennen",
+      "link": "https://www.tagesschau.de/ausland/amerika/kennedy-center-108.html"
+    },
+    {
       "title": "Warum der Brenner dicht ist - und welche Alternativen es gibt",
       "link": "https://www.tagesschau.de/ausland/europa/brenner-blockade-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Scharfe Kritik an Russland nach Drohneneinschlag in Rumänien",
       "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohneneinschlag-reaktionen-100.html"
-    },
-    {
-      "title": "Freibäder kämpfen gegen die Schließung",
-      "link": "https://www.tagesschau.de/wirtschaft/freibaeder-finanznot-kommunen-100.html"
-    },
-    {
-      "title": "Anthropic jetzt mehr wert als Open AI",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-anthropic-open-ai-100.html"
-    },
-    {
-      "title": "Trump-Kritiker im Visier der US-Justiz",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-kritiker-justiz-100.html"
-    },
-    {
-      "title": "Welche Ideen zur Pflege-Finanzierung diskutiert werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-reform-100.html"
-    },
-    {
-      "title": "Drohne im NATO-Staat Rumänien eingeschlagen",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohne-100.html"
-    },
-    {
-      "title": "Brennerautobahn gesperrt: Demo legt am Samstag den Verkehr lahm",
-      "link": "https://www.tagesschau.de/ausland/europa/brenner-sperrung-100.html"
     }
   ]
 }
