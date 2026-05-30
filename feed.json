@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "tagesthemen-Interview: FDP-Chef Kubicki zufrieden mit Wahlergebnis",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kubicki-tt-interview-100.html"
+    },
+    {
       "title": "Wie die Ukraine mit behinderten Kindern umgeht",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-inklusion-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Weiter keine Einigung zwischen USA und Iran",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-198.html"
-    },
-    {
-      "title": "Bundesweites Projekt: Mit der \"Klasse 0\" fit für die Einschulung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/klasse-null-schule-100.html"
     }
   ]
 }
