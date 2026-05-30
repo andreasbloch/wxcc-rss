@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Star-Wars-Cutterin Marcia Lucas ist mit 80 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/star-wars-marcia-lucas-100.html"
+    },
+    {
       "title": "Familienministerin Prien gegen Bildschirmzeit für kleine Kinder",
       "link": "https://www.tagesschau.de/inland/gesellschaft/familienministerium-bildschirmzeit-kinder-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Digitalminister: G7 wollen Minderjährige im Netz besser schützen",
       "link": "https://www.tagesschau.de/ausland/g7-kinderschutz-100.html"
-    },
-    {
-      "title": "Syrien: Euphrat-Hochwasser sorgt für Überschwemmungen",
-      "link": "https://www.tagesschau.de/ausland/asien/ueberflutungen-syrien-100.html"
     }
   ]
 }
