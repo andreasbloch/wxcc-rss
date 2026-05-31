@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Rückkehr zur harten Hand? Kolumbien wählt einen neuen Präsidenten",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-wahl-112.html"
+    },
+    {
+      "title": "Forschungsministerin Bär rechnet mit Aus für BAföG-Reform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/baer-bafoeg-reform-100.html"
+    },
+    {
+      "title": "IAEA prüft Vorwurf zu Angriff auf AKW Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/europa/saporischschja-iaea-110.html"
+    },
+    {
       "title": "Nach Champions-League-Sieg: Festnahmen und Ausschreitungen in Paris",
       "link": "https://www.tagesschau.de/ausland/europa/ausschreitungen-paris-psg-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "CSU-Vizechef Weber fordert erneut Reformdebatte in seiner Partei",
       "link": "https://www.tagesschau.de/inland/csu-neuausrichtung-weber-100.html"
-    },
-    {
-      "title": "Kadaver des toten Buckelwals in Dänemark an Land gezogen",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-buckelwal-kadaver-100.html"
-    },
-    {
-      "title": "Frankreichs Pflicht-Schnuppertag bei der Armee",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-pflichttag-armee-100.html"
-    },
-    {
-      "title": "Laos: Weitere Goldsucher nach Tagen aus überfluteter Höhle gerettet",
-      "link": "https://www.tagesschau.de/ausland/asien/laos-goldsucher-rettung-100.html"
     }
   ]
 }
