@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Autos in Nordkorea: Plötzlich Parkplatzmangel in Pjöngjang?",
+      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-autos-100.html"
+    },
+    {
+      "title": "Streit zwischen Union und SPD: BAföG-Reform auf der Kippe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-koalition-100.html"
+    },
+    {
+      "title": "Forschungsministerin Bär rechnet mit Aus für BAföG-Reform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/baer-bafoeg-reform-100.html"
+    },
+    {
       "title": "Israel meldet Einnahme der Burg Beaufort im Südlibanon",
       "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-bodeneinsatz-kreuzfahrerburg-beaufort-eingenommen-100.html"
     },
     {
       "title": "Maltas Regierungspartei erringt vierten Wahlsieg in Folge",
       "link": "https://www.tagesschau.de/ausland/europa/malta-wahlen-ergebnis-abela-wiedergewaehlt-100.html"
-    },
-    {
-      "title": "Forschungsministerin Bär rechnet mit Aus für BAföG-Reform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/baer-bafoeg-reform-100.html"
     },
     {
       "title": "Gesundheitspolitiker fordern höhere Tabaksteuer",
@@ -71,14 +79,6 @@
     {
       "title": "Nach Protest an Brennerautobahn: Trotz Sperrung kaum Verkehrschaos",
       "link": "https://www.tagesschau.de/ausland/europa/brenner-protest-102.html"
-    },
-    {
-      "title": "Machtkampf in der Türkei: Großdemonstration für abgesetzten CHP-Chef Özel",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-protest-112.html"
-    },
-    {
-      "title": "Star-Wars-Cutterin Marcia Lucas ist mit 80 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/star-wars-marcia-lucas-100.html"
     }
   ]
 }
