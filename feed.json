@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Bundessieger von \"Jugend forscht\" gekürt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugend-forscht-gewinner-110.html"
+    },
+    {
+      "title": "Atomenergiebehörde IAEA bestätigt Schäden am AKW Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-akw-saporischschja-iaea-100.html"
+    },
+    {
       "title": "Nach Champions-League-Sieg: Festnahmen und Ausschreitungen in Paris",
       "link": "https://www.tagesschau.de/ausland/europa/ausschreitungen-paris-psg-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "IAEA prüft Vorwurf zu Angriff auf AKW Saporischschja",
       "link": "https://www.tagesschau.de/ausland/europa/saporischschja-iaea-110.html"
-    },
-    {
-      "title": "US-Armee beschießt erneut Schiff im Golf von Oman",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-angriff-strasse-von-hormus-100.html"
-    },
-    {
-      "title": "tagesthemen-Interview: FDP-Chef Kubicki zufrieden mit Wahlergebnis",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kubicki-tt-interview-100.html"
     }
   ]
 }
