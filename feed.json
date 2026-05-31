@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "Forschungsministerin Bär rechnet mit Aus für BAföG-Reform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/baer-bafoeg-reform-100.html"
-    },
-    {
       "title": "Israel meldet Einnahme der Burg Beaufort im Südlibanon",
       "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-bodeneinsatz-kreuzfahrerburg-beaufort-eingenommen-100.html"
+    },
+    {
+      "title": "Maltas Regierungspartei erringt vierten Wahlsieg in Folge",
+      "link": "https://www.tagesschau.de/ausland/europa/malta-wahlen-ergebnis-abela-wiedergewaehlt-100.html"
+    },
+    {
+      "title": "Forschungsministerin Bär rechnet mit Aus für BAföG-Reform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/baer-bafoeg-reform-100.html"
     },
     {
       "title": "Gesundheitspolitiker fordern höhere Tabaksteuer",
@@ -37,7 +41,7 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/rente-kommission-alterserwartung-100.html"
     },
     {
-      "title": "Rückkehr zur harten Hand? Kolumbien wählt einen neuen Präsidenten",
+      "title": "Präsidentenwahl: Bleibt Kolumbien auf dem Weg des Friedens?",
       "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-wahl-112.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Star-Wars-Cutterin Marcia Lucas ist mit 80 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/star-wars-marcia-lucas-100.html"
-    },
-    {
-      "title": "Familienministerin Prien gegen Bildschirmzeit für kleine Kinder",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/familienministerium-bildschirmzeit-kinder-100.html"
     }
   ]
 }
