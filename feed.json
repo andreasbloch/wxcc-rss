@@ -1,16 +1,68 @@
 {
   "items": [
     {
-      "title": "Siedlergewalt im Westjordanland: \"Über Nacht haben wir alles verloren\"",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-siedlergewalt-israel-100.html"
+      "title": "Autobauer gewähren weniger Rabatte für Elektroautos",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-rabatte-gebrauchtwagen-100.html"
     },
     {
       "title": "Bund verpasst Ziele bei Sondervermögen für das Jahr 2025",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-132.html"
     },
     {
+      "title": "Marktbericht: Die KI-Party findet ohne den DAX statt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-114.html"
+    },
+    {
+      "title": "Statistisches Bundesamt: Zuwanderung nach Deutschland gesunken",
+      "link": "https://www.tagesschau.de/inland/zuwanderung-deutschland-120.html"
+    },
+    {
+      "title": "Europäische Außenminister kritisieren Israels Vorrücken im Libanon",
+      "link": "https://www.tagesschau.de/ausland/asien/vorgehen-israel-libanon-wadephul-100.html"
+    },
+    {
+      "title": "Kinderkrankentage nehmen laut AOK-Auswertung weiterhin meistens Frauen",
+      "link": "https://www.tagesschau.de/wirtschaft/krankentage-kinder-frauen-100.html"
+    },
+    {
+      "title": "Rauchen in Freibädern in Baden-Württemberg verboten",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/rauchverbot-im-freien-100.html"
+    },
+    {
+      "title": "Online-Konkurrenz: Stationäre Apotheken müssen aufrüsten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/apothekensterben-lage-100.html"
+    },
+    {
+      "title": "Trotz Waffenruhe: USA und Iran melden neue Angriffe",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-angriffe-108.html"
+    },
+    {
+      "title": "11KM-Podcast: Wie der Abbau Seltener Erden Menschen gefährdet",
+      "link": "https://www.tagesschau.de/podcast-11km-seltene-erden-umweltschaeden-100.html"
+    },
+    {
+      "title": "Unwetter in Bayern: Entwurzelte Bäume, umgeknickte Strommasten",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/unwetter-bayern-154.html"
+    },
+    {
+      "title": "Was sich im Juni für Verbraucher ändert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/aenderungen-juni-verbraucher-100.html"
+    },
+    {
+      "title": "Marylin Monroes 100. Geburtstag: Harter Weg zur Kunstfigur",
+      "link": "https://www.tagesschau.de/kultur/marilyn-monroe-100-jahre-wirkmaechtigste-kunstfigur-hollywoods-100.html"
+    },
+    {
+      "title": "Gutachten zu Wehrdienstgesetz: Ministerium handelte rechtswidrig",
+      "link": "https://www.tagesschau.de/inland/wehrpflicht-abmeldepflicht-gutachten-100.html"
+    },
+    {
+      "title": "Siedlergewalt im Westjordanland: \"Über Nacht haben wir alles verloren\"",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-siedlergewalt-israel-100.html"
+    },
+    {
       "title": "Neue Maut-Regel in Italien: Bei Stau gibt's Geld zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/maut-erstattung-italien-autobahn-stau-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/maut-erstattung-italien-autobahn-stau-100.html"
     },
     {
       "title": "Wie Gentrifizierung einen kleinen Ort in der Uckermark verändert",
@@ -27,58 +79,6 @@
     {
       "title": "Israels Bodenoffensive im Libanon geht weiter: Experte sieht \"Wendepunkt\"",
       "link": "https://www.tagesschau.de/ausland/libanon-israel-festung-100.html"
-    },
-    {
-      "title": "Unwetter in Bayern: Entwurzelte Bäume, umgeknickte Strommasten",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/unwetter-bayern-154.html"
-    },
-    {
-      "title": "FDP-Parteitag: Quicklebendig im Umfragetief",
-      "link": "https://www.tagesschau.de/kommentar/fdp-parteitag-266.html"
-    },
-    {
-      "title": "Wadephul wirbt für Deutschlands Sitz im UN-Sicherheitsrat",
-      "link": "https://www.tagesschau.de/inland/deutschland-un-sicherheitsrat-100.html"
-    },
-    {
-      "title": "Mehr als 50 Tote bei Explosion in Rebellengebiet von Myanmar",
-      "link": "https://www.tagesschau.de/ausland/asien/myanmar-explosion-100.html"
-    },
-    {
-      "title": "Bundessieger von \"Jugend forscht\" gekürt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugend-forscht-gewinner-110.html"
-    },
-    {
-      "title": "Atomenergiebehörde IAEA bestätigt Schäden am AKW Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-akw-saporischschja-iaea-100.html"
-    },
-    {
-      "title": "Nach Champions-League-Sieg: Festnahmen und Ausschreitungen in Paris",
-      "link": "https://www.tagesschau.de/ausland/europa/ausschreitungen-paris-psg-100.html"
-    },
-    {
-      "title": "Parteitag beendet: Die FDP ringt mit sich selbst - und mit Kubicki",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fdp-parteitag-262.html"
-    },
-    {
-      "title": "Per Nachname zum Weltrekord: Ungewöhnliches Treffen in Irland",
-      "link": "https://www.tagesschau.de/ausland/europa/weltrekord-nachname-sullivan-102.html"
-    },
-    {
-      "title": "Autos in Nordkorea: Plötzlich Parkplatzmangel in Pjöngjang?",
-      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-autos-100.html"
-    },
-    {
-      "title": "Forschungsministerin Bär rechnet mit Aus für BAföG-Reform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/baer-bafoeg-reform-100.html"
-    },
-    {
-      "title": "Israel meldet Einnahme der Burg Beaufort im Südlibanon",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-bodeneinsatz-kreuzfahrerburg-beaufort-eingenommen-100.html"
-    },
-    {
-      "title": "Maltas Regierungspartei erringt vierten Wahlsieg in Folge",
-      "link": "https://www.tagesschau.de/ausland/europa/malta-wahlen-ergebnis-abela-wiedergewaehlt-100.html"
     }
   ]
 }
