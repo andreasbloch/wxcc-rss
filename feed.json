@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Frederiksen verkündet Einigung auf neue Koalition in Dänemark",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-regierung-108.html"
+    },
+    {
       "title": "Korrespondent: EU-Beschluss zu Abschiebezentren kaum zu unterschätzen",
       "link": "https://www.tagesschau.de/ausland/europa/eu-verordnung-stuchlik-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Der Monatsanfangs-Effekt treibt wieder die Kurse",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-monatserster-100.html"
-    },
-    {
-      "title": "Frankreich setzt im Atlantik Öltanker aus Russland fest",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-tanker-russland-100.html"
     }
   ]
 }
