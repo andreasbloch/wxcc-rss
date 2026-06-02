@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "Gewitter beschädigt Kunstinstallation an der Pont Neuf",
+      "link": "https://www.tagesschau.de/ausland/europa/la-caverne-du-pont-neuf-102.html"
+    },
+    {
+      "title": "Britische Polizei unter Druck im Fall eines getöteten Studenten",
+      "link": "https://www.tagesschau.de/ausland/europa/london-messerangriff-haft-100.html"
+    },
+    {
       "title": "20 Verletzte: Tram in Berlin-Hohenschönhausen entgleist",
       "link": "https://www.tagesschau.de/inland/regional/berlin/strassenbahn-berlin-unglueck-100.html"
+    },
+    {
+      "title": "USA führen freiwilligen Sicherheitstest für neue KI-Modelle ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-erlass-ki-sicherheitspruefung-100.html"
     },
     {
       "title": "Die erwarteten Mega-Börsengänge des Jahres an der Wall Street",
@@ -67,18 +79,6 @@
     {
       "title": "Anfragen wegen Diskriminierung auf Höchststand",
       "link": "https://www.tagesschau.de/inland/gesellschaft/diskriminierung-zahlen-100.html"
-    },
-    {
-      "title": "Vulkan Kilauea auf Hawaii bricht Lavafontänen-Rekord",
-      "link": "https://www.tagesschau.de/ausland/amerika/vulkan-kilauea-100.html"
-    },
-    {
-      "title": "DB-Bilanz bewegt sich laut Konzernchefin \"in Richtung schwarze Null\"",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-umbau-palla-100.html"
-    },
-    {
-      "title": "Lage im Libanon: Auch die begrenzte Waffenruhe ist brüchig",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-usa-waffenruhe-100.html"
     }
   ]
 }
