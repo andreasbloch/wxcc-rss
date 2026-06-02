@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Ostdeutsches Wirtschaftsforum zeigt Chancen - aber auch Risiken",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsforum-ostdeutschland-100.html"
+    },
+    {
+      "title": "Libanon: \"Israels Führung hat die Gelegenheit erkannt\"",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-iran-usa-100.html"
+    },
+    {
+      "title": "Anfragen wegen Diskriminierung auf Höchststand",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/diskriminierung-zahlen-100.html"
+    },
+    {
+      "title": "Paritätischer Gesamtverband: Armut in Deutschland nimmt zu",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/armutsbericht-2025-100.html"
+    },
+    {
+      "title": "Ebola-Ausbruch in der Demokratischen Republik Kongo: 321 bestätigte Fälle",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-164.html"
+    },
+    {
+      "title": "Gericht entscheidet: Görlitzer Park muss nachts offen bleiben",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/goerlitzer-park-eilverfahren-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger zwischen KI-Hoffnung und Nahost-Sorge",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-euro-dollar-106.html"
+    },
+    {
+      "title": "Reform der Fluggastrechte: Mehr Rechte für Reisende - oder für Airlines?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verhandlung-fluggastrechte-100.html"
+    },
+    {
+      "title": "Anthropics Claude Mythos: Wie KI Banken und das Finanzsystem bedrohen könnte",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/claude-mythos-ki-banken-finanzsystem-100.html"
+    },
+    {
+      "title": "Bas für Einbeziehung von Beamten in gesetzliche Rentenversicherung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/beamte-rentenversicherung-bas-100.html"
+    },
+    {
       "title": "Festivals 2026: Die fetten Jahre sind vorbei",
       "link": "https://www.tagesschau.de/kultur/festivals-2026-ausverkauf-oder-auslaufmodell-100.html"
     },
@@ -13,16 +53,12 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/40-jahre-bundesumweltministerium-100.html"
     },
     {
-      "title": "Missbrauchsnetzwerk: Wie Epstein Jagd auf Frauen in Europa machte",
+      "title": "Missbrauchsnetzwerk: Wie Epstein Frauen in Europa in die Falle lockte",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/epstein-missbrauch-modellbranche-europa-100.html"
     },
     {
       "title": "Polizei nutzt Standortdaten aus Handy-Apps",
       "link": "https://www.tagesschau.de/investigativ/br-recherche/standortdaten-handy-app-polizei-datenhandel-100.html"
-    },
-    {
-      "title": "Florida verklagt KI-Unternehmen OpenAI wegen Gefährdung von Kindern",
-      "link": "https://www.tagesschau.de/ausland/amerika/openai-klage-florida-100.html"
     },
     {
       "title": "EU einigt sich auf Abschiebezentren für Migranten in Drittstaaten",
@@ -43,42 +79,6 @@
     {
       "title": "Trump spricht von Deeskalation im Libanon",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-netanjahu-telefonat-100.html"
-    },
-    {
-      "title": "KI-Unternehmen Anthropic bereitet Börsengang vor",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/boersengang-anthropic-100.html"
-    },
-    {
-      "title": "Gericht entscheidet: Görlitzer Park muss nachts offen bleiben",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/goerlitzer-park-eilverfahren-100.html"
-    },
-    {
-      "title": "Streit in der Koalition: Was wird aus der BAföG-Reform?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bafoeg-erhoehung-reform-bundesregierung-100.html"
-    },
-    {
-      "title": "Studie: mRNA-Impfung senkt das Risiko für Hautkrebs-Rückfall",
-      "link": "https://www.tagesschau.de/wissen/forschung/mrna-impfung-hautkrebs-100.html"
-    },
-    {
-      "title": "Ministerium räumt Fehler beim Wehrpflichtgesetz ein",
-      "link": "https://www.tagesschau.de/inland/wehrdienst-pistorius-gutachten-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX fällt zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-114.html"
-    },
-    {
-      "title": "Israels Offensive im Libanon: Bilder vom Vormarsch stärken die Hisbollah",
-      "link": "https://www.tagesschau.de/kommentar/israel-offensive-libanon-hisbollah-100.html"
-    },
-    {
-      "title": "Iran setzt offenbar Gespräche mit USA über Konfliktbeilegung aus",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-116.html"
-    },
-    {
-      "title": "Israel will wieder Beirut angreifen - Ministerin bricht Reise ab",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israelische-angriffe-beirut-100.html"
     }
   ]
 }
