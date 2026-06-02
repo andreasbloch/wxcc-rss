@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Festivals 2026: Die fetten Jahre sind vorbei",
+      "link": "https://www.tagesschau.de/kultur/festivals-2026-ausverkauf-oder-auslaufmodell-100.html"
+    },
+    {
+      "title": "Ukraine: Tote bei russischen Angriffen auf Kiew und Dnipro",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-angriffe-112.html"
+    },
+    {
+      "title": "40 Jahre Bundesumweltministerium: Umweltpolitik in der Defensive?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/40-jahre-bundesumweltministerium-100.html"
+    },
+    {
+      "title": "Missbrauchsnetzwerk: Wie Epstein Jagd auf Frauen in Europa machte",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/epstein-missbrauch-modellbranche-europa-100.html"
+    },
+    {
+      "title": "Polizei nutzt Standortdaten aus Handy-Apps",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/standortdaten-handy-app-polizei-datenhandel-100.html"
+    },
+    {
+      "title": "Florida verklagt KI-Unternehmen OpenAI wegen Gefährdung von Kindern",
+      "link": "https://www.tagesschau.de/ausland/amerika/openai-klage-florida-100.html"
+    },
+    {
+      "title": "EU einigt sich auf Abschiebezentren für Migranten in Drittstaaten",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-104.html"
+    },
+    {
       "title": "Frederiksen verkündet Einigung auf neue Koalition in Dänemark",
       "link": "https://www.tagesschau.de/ausland/europa/daenemark-regierung-108.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "Israel will wieder Beirut angreifen - Ministerin bricht Reise ab",
       "link": "https://www.tagesschau.de/ausland/asien/libanon-israelische-angriffe-beirut-100.html"
-    },
-    {
-      "title": "Gericht in Tschechien: Neonazi Liebich soll ausgeliefert werden",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-liebich-auslieferung-100.html"
-    },
-    {
-      "title": "Nvidia steigt in den Markt mit Windows-Laptops ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-laptop-100.html"
-    },
-    {
-      "title": "Explosion in Feuerwerksfabrik erschüttert Norden Maltas",
-      "link": "https://www.tagesschau.de/ausland/europa/explosion-feuerwerksfabrik-malta-100.html"
-    },
-    {
-      "title": "China: Subventionen bis zu achtmal so hoch wie in anderen OECD-Ländern",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oecd-subventionen-industrie-100.html"
-    },
-    {
-      "title": "Merz und Wüst lächeln Gerüchte über Kanzlerwechsel weg",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wuest-merz-cdu-sauerland-100.html"
-    },
-    {
-      "title": "Energy-Sharing: Solarstrom kann jetzt geteilt werden",
-      "link": "https://www.tagesschau.de/wissen/klima/energy-sharing-104.html"
-    },
-    {
-      "title": "Der Monatsanfangs-Effekt treibt wieder die Kurse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-monatserster-100.html"
     }
   ]
 }
