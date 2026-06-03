@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "title": "Warnungen der Ukraine: \"Gefahr eines Angriffs aus Belarus wächst\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-belarus-112.html"
+    },
+    {
+      "title": "Mehr Hochleistungschips sollen aus Europa kommen",
+      "link": "https://www.tagesschau.de/wirtschaft/ki-chips-taiwan-europa-100.html"
+    },
+    {
+      "title": "Mit Kamera im Straßenverkehr: Warum Dashcams umstritten sind",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/dashcam-autofahrer-unfall-rechtslage-100.html"
+    },
+    {
+      "title": "Ressourcenverbrauch durch KI - wie groß ist der ökologische Fußabdruck?",
+      "link": "https://www.tagesschau.de/wissen/klima/oekologischer-fussabdruck-ki-100.html"
+    },
+    {
+      "title": "USA drohen mit zusätzlichen Zöllen gegen 60 Handelspartner - auch der EU",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-zoelle-drohung-handel-100.html"
+    },
+    {
+      "title": "Strukturelle Schäden: Rheinbrücke Bonn-Nord ab 15 Uhr vollgesperrt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinbruecke-sperrung-100.html"
+    },
+    {
+      "title": "Deutscher Sitz im UN-Sicherheitsrat: Ein Test für den \"Außenkanzler\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-un-sicherheitsrat-merz-100.html"
+    },
+    {
+      "title": "Drohnenangriffe auf St. Petersburg - Hoffnung auf Gespräche?",
+      "link": "https://www.tagesschau.de/ausland/ukraine-angriff-st-petersburg-100.html"
+    },
+    {
+      "title": "Regierung will Kreislaufwirtschaft mit Aktionsplan ankurbeln",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/beschluss-kreislaufwirtschaft-100.html"
+    },
+    {
+      "title": "Kuwait: Ein Toter und viele Verletzte nach Angriff Irans auf Flughafen",
+      "link": "https://www.tagesschau.de/ausland/asien/kuwait-angriff-golfstaaten-100.html"
+    },
+    {
+      "title": "Kritik an Teilnahme der AfD am St. Petersburger Wirtschaftsforum",
+      "link": "https://www.tagesschau.de/ausland/asien/st-petersburger-wirtschaftsforum-beginn-100.html"
+    },
+    {
+      "title": "Marktbericht: OECD rechnet mit weniger Weltwirtschaftswachstum",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-oecd-weltwirtschaft-wachstum-iran-folgen-100.html"
+    },
+    {
+      "title": "Zahl der Einbürgerungen in Deutschland erneut gestiegen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/zahl-einbuergerungen-100.html"
+    },
+    {
+      "title": "Mehr als 20 Tote bei Großbrand in Indiens Hauptstadt Neu-Delhi",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-grossbrand-tote-100.html"
+    },
+    {
+      "title": "Schlechte Wirtschaftslage in Russland - und die Schulden steigen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/wirtschaftskrise-russland-100.html"
+    },
+    {
+      "title": "Antisemitismus-Vorwurf gegen Hotel in Bayern",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/antisemitismus-vorwurf-hotel-bayern-100.html"
+    },
+    {
       "title": "Organisierte Kriminalität - Tonnenweise Kokain aus Westafrika",
       "link": "https://www.tagesschau.de/investigativ/ndr/kokain-wilhelmshaven-ogranisierte-kriminalitaet-100.html"
     },
@@ -9,76 +73,12 @@
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriff-abgewehrt-100.html"
     },
     {
-      "title": "Antisemitismus-Vorwurf gegen Hotel in Bayern",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/antisemitismus-vorwurf-hotel-bayern-100.html"
-    },
-    {
-      "title": "Mehr als 20 Tote bei Großbrand in Indiens Hauptstadt Neu-Delhi",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-grossbrand-tote-100.html"
-    },
-    {
       "title": "BGH-Urteil: Uber und Co. müssen nach Fahrt zu Firmensitz zurück",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-mietwagen-taxis-bgh-100.html"
     },
     {
       "title": "Deutschland will Platz im UN-Sicherheitsrat: Wie die Wahl abläuft",
       "link": "https://www.tagesschau.de/ausland/un-sicherheitsrat-deutschland-106.html"
-    },
-    {
-      "title": "Italien fühlt sich nach EU-Beschluss zu Abschiebezentren bestärkt",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-meloni-abschiebezentrum-100.html"
-    },
-    {
-      "title": "Ukrainische Drohnen treffen Russland - Rauch über St. Petersburg",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriff-krim-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX rutscht unter 25.000 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-142.html"
-    },
-    {
-      "title": "Zahl der Einbürgerungen in Deutschland erneut gestiegen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zahl-einbuergerungen-100.html"
-    },
-    {
-      "title": "Millionen Mieter in Deutschland von Wohnkosten überlastet",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/miete-wohnkosten-nettoeinkommen-100.html"
-    },
-    {
-      "title": "Kritik an Teilnahme der AfD am St. Petersburger Wirtschaftsforum",
-      "link": "https://www.tagesschau.de/ausland/asien/st-petersburger-wirtschaftsforum-beginn-100.html"
-    },
-    {
-      "title": "Probleme häufen sich: Was ist los in der Glasfaserbranche?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/glasfaser-branche-krise-100.html"
-    },
-    {
-      "title": "Wie Ägypten vom Chaos in Nahost profitiert",
-      "link": "https://www.tagesschau.de/ausland/afrika/aegypten-naher-osten-100.html"
-    },
-    {
-      "title": "US-Regierung verkündet Aus für Trumps Entschädigungsfonds",
-      "link": "https://www.tagesschau.de/ausland/amerika/entschaedigungsfonds-trump-100.html"
-    },
-    {
-      "title": "Tausende protestieren in Albanien gegen Bauprojekt von Jared Kushner",
-      "link": "https://www.tagesschau.de/ausland/europa/albanien-proteste-bauprojekt-kushner-100.html"
-    },
-    {
-      "title": "20 Verletzte: Tram in Berlin-Hohenschönhausen entgleist",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/strassenbahn-berlin-unglueck-100.html"
-    },
-    {
-      "title": "Utrecht: Die fahrradfreundlichste Stadt der Welt",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-utrecht-fahrradfahren-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Warum in Deutschland so wenig Organe gespendet werden",
-      "link": "https://www.tagesschau.de/podcast-11km-organspende-100.html"
-    },
-    {
-      "title": "Hat Deutschland eine Chance auf einen Sitz im UN-Sicherheitsrat?",
-      "link": "https://www.tagesschau.de/ausland/amerika/deutschland-sitz-un-sicherheitsrat-100.html"
     }
   ]
 }
