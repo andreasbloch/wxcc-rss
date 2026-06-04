@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX stabilisiert sich im Feiertagshandel",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-wallstreet-oelmarkt-100.html"
+    },
+    {
+      "title": "Wie der Urlaub trotz gestiegener Preise bezahlbar bleibt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/guenstig-urlaub-102.html"
+    },
+    {
+      "title": "Schwere Unwetter in vielen Teilen Deutschlands erwartet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/wetter-tornado-orkanboen-100.html"
+    },
+    {
+      "title": "Unruhen und Rassismusdebatte in Großbritannien nach Polizeifehler",
+      "link": "https://www.tagesschau.de/ausland/europa/southampton-messerangriff-100.html"
+    },
+    {
+      "title": "Essener Baukonzern Hochtief steigt erstmals in den DAX auf",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/indexanpassungen-dax-hochtief-porsche-se-100.html"
+    },
+    {
+      "title": "Deutschland sucht nach den Gründen für Scheitern im UN-Sicherheitsrat",
+      "link": "https://www.tagesschau.de/ausland/amerika/deutschland-un-sicherheitsrat-106.html"
+    },
+    {
+      "title": "Kuba setzt wegen US-Sanktionen Zahlungen mit Visa- und Mastercard aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/kuba-usa-sanktionen-zahlungen-visa-100.html"
+    },
+    {
       "title": "11KM-Podcast: Politik und Medien - Wer vom Streit in der Koalition profitiert ",
       "link": "https://www.tagesschau.de/podcast-11km-medien-koalition-100.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "Pharma-Großkonzerne Lilly und Boehringer stoppen Investitionen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/boehringer-lilly-investitionen-100.html"
-    },
-    {
-      "title": "Robert Koch-Institut: Jeder Dritte Erwachsene hat regelmäßig Schlafprobleme",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/schlafprobleme-umfrage-rki-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX fällt zur Wochenmitte deutlich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-142.html"
-    },
-    {
-      "title": "ARD-DeutschlandTrend: Sorge vor wirtschaftlichem Abstieg wächst",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-juni-100.html"
-    },
-    {
-      "title": "Streit um Nacktszene: Wenders zieht Film vorerst zurück",
-      "link": "https://www.tagesschau.de/kultur/wenders-falsche-bewegung-100.html"
-    },
-    {
-      "title": "20 Jahre Unabhängigkeit: Wie steht es um Montenegros EU-Chancen?",
-      "link": "https://www.tagesschau.de/ausland/europa/20-jahre-unabhaengigkeit-montenegro-100.html"
-    },
-    {
-      "title": "Warnungen der Ukraine: \"Gefahr eines Angriffs aus Belarus wächst\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-belarus-112.html"
-    },
-    {
-      "title": "Mehr Hochleistungschips sollen aus Europa kommen",
-      "link": "https://www.tagesschau.de/wirtschaft/ki-chips-taiwan-europa-100.html"
     }
   ]
 }
