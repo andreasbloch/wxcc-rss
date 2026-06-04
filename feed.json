@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "11KM-Podcast: Politik und Medien - Wer vom Streit in der Koalition profitiert ",
+      "link": "https://www.tagesschau.de/podcast-11km-medien-koalition-100.html"
+    },
+    {
+      "title": "Gescheiterte UN-Bewerbung: Auch eine Niederlage für den \"Außenkanzler\"",
+      "link": "https://www.tagesschau.de/un-sicherheitsrat-deutschland-bewerbung-100.html"
+    },
+    {
+      "title": "US-Repräsentantenhaus stimmt gegen Iran-Krieg",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-repraesentantenhaus-iran-krieg-100.html"
+    },
+    {
+      "title": "Weg frei für EU-Beitrittsverhandlungen mit Moldau und Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-beitrittsprozess-ukraine-ungarn-100.html"
+    },
+    {
+      "title": "Gespräche in Washington: Israel und Libanon wollen Waffenruhe umsetzen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-waffenruhe-102.html"
+    },
+    {
       "title": "Reaktionen auf Deutschlands Scheitern bei UN-Wahl",
       "link": "https://www.tagesschau.de/ausland/amerika/un-sicherheitsrat-reaktionen-100.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Mehr Hochleistungschips sollen aus Europa kommen",
       "link": "https://www.tagesschau.de/wirtschaft/ki-chips-taiwan-europa-100.html"
-    },
-    {
-      "title": "Mit Kamera im Straßenverkehr: Warum Dashcams umstritten sind",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/dashcam-autofahrer-unfall-rechtslage-100.html"
-    },
-    {
-      "title": "Ressourcenverbrauch durch KI - wie groß ist der ökologische Fußabdruck?",
-      "link": "https://www.tagesschau.de/wissen/klima/oekologischer-fussabdruck-ki-100.html"
-    },
-    {
-      "title": "USA drohen mit zusätzlichen Zöllen gegen 60 Handelspartner - auch der EU",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-zoelle-drohung-handel-100.html"
-    },
-    {
-      "title": "Strukturelle Schäden: Rheinbrücke Bonn-Nord ab 15 Uhr vollgesperrt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinbruecke-sperrung-100.html"
-    },
-    {
-      "title": "Deutscher Sitz im UN-Sicherheitsrat: Ein Test für den \"Außenkanzler\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-un-sicherheitsrat-merz-100.html"
     }
   ]
 }
