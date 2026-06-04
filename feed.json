@@ -1,8 +1,32 @@
 {
   "items": [
     {
+      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html"
+    },
+    {
+      "title": "Reparaturstau gefährdet offenbar Einsatzfähigkeit der Bundeswehr",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-verteidigung-reparaturen-ruestung-100.html"
+    },
+    {
+      "title": "EuGH: Deutschlands Kürzung von Asylleistungen rechtswidrig",
+      "link": "https://www.tagesschau.de/ausland/europa/eugh-urteilasylleistungen-kuerzung-100.html"
+    },
+    {
       "title": "Warum Volkswagen seine neuen E-Kleinwagen in Spanien produziert",
       "link": "https://www.tagesschau.de/wirtschaft/vw-id-polo-spanien-seat-elektroautos-100.html"
+    },
+    {
+      "title": "Hisbollah im Libanon lehnt Waffenruhe mit Israel ab",
+      "link": "https://www.tagesschau.de/ausland/asien/kaempfe-libanon-waffenruhe-100.html"
+    },
+    {
+      "title": "Dänische Experten beginnen Obduktion von gestrandetem Buckelwal",
+      "link": "https://www.tagesschau.de/ausland/europa/obduktion-buckelwal-anholt-100.html"
+    },
+    {
+      "title": "EU-Länder erwägen Ende von Schutz-Automatismus für Ukrainer in wehrfähigem Alter",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schutzstatus-102.html"
     },
     {
       "title": "Wieso immer mehr Deutsche auf Elektroautos setzen",
@@ -55,30 +79,6 @@
     {
       "title": "Essener Baukonzern Hochtief steigt erstmals in den DAX auf",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/indexanpassungen-dax-hochtief-porsche-se-100.html"
-    },
-    {
-      "title": "Deutschland sucht nach den Gründen für Scheitern im UN-Sicherheitsrat",
-      "link": "https://www.tagesschau.de/ausland/amerika/deutschland-un-sicherheitsrat-106.html"
-    },
-    {
-      "title": "Kuba setzt wegen US-Sanktionen Zahlungen mit Visa- und Mastercard aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-usa-sanktionen-zahlungen-visa-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Politik und Medien - Wer vom Streit in der Koalition profitiert ",
-      "link": "https://www.tagesschau.de/podcast-11km-medien-koalition-100.html"
-    },
-    {
-      "title": "Gescheiterte UN-Bewerbung: Auch eine Niederlage für den \"Außenkanzler\"",
-      "link": "https://www.tagesschau.de/un-sicherheitsrat-deutschland-bewerbung-100.html"
-    },
-    {
-      "title": "US-Repräsentantenhaus stimmt gegen Iran-Krieg",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-repraesentantenhaus-iran-krieg-100.html"
-    },
-    {
-      "title": "Weg frei für EU-Beitrittsverhandlungen mit Moldau und Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-beitrittsprozess-ukraine-ungarn-100.html"
     }
   ]
 }
