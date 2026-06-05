@@ -1,12 +1,44 @@
 {
   "items": [
     {
-      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html"
+      "title": "Warnstreiks im Handel - \"Wir sind nicht die Billigheimer der Nation\"",
+      "link": "https://www.tagesschau.de/wirtschaft/handel-verdi-warnstreiks-100.html"
+    },
+    {
+      "title": "Kommentar zur Pflege: Sparen ja, aber bitte nicht so",
+      "link": "https://www.tagesschau.de/kommentar/pflegereform-170.html"
+    },
+    {
+      "title": "Brandkatastrophe in Crans-Montana - Barbetreiber werden vernommen",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-ermittlungen-brand-cransmontana-100.html"
+    },
+    {
+      "title": "Entsiegelung von Flächen als Wettbewerb: Aus Grau wird Grün",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/umweltschutz-abpflastern-entsiegelung-100.html"
+    },
+    {
+      "title": "Marktbericht: Anthropic plädiert für weltweite KI-Pause",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-warnung-ki-stopp-100.html"
+    },
+    {
+      "title": "Ukraine meldet Tote nach russischem Drohnenangriff auf Fabrik",
+      "link": "https://www.tagesschau.de/ausland/europa/angriff-russland-lebensmittelfabrik-100.html"
+    },
+    {
+      "title": "CDU sagt laut Präsidiumsklausur in Magdeburg Vor Landtagswahl ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidium-magdeburg-absage-100.html"
+    },
+    {
+      "title": "EY-Studie: Deutsche Autobauer fallen im Wettbewerb zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ey-studie-autobauer-100.html"
     },
     {
       "title": "Scharfe Kritik aus Koalitionsparteien an Entwurf für Pflegereform",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kritik-politik-100.html"
+    },
+    {
+      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html"
     },
     {
       "title": "Wiedergutmachung von NS-Unrecht: 50.000 Einbürgerungen seit 2021",
@@ -15,10 +47,6 @@
     {
       "title": "Dollar, Trump und KI-Aktien: Werden die USA zum Risiko im Depot?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/usa-depot-dollar-ki-risiko-100.html"
-    },
-    {
-      "title": "CDU sagt laut Medienberichten Präsidiumsklausur in Magdeburg ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidium-magdeburg-absage-100.html"
     },
     {
       "title": "Marktbericht: Die KI-Rally stockt",
@@ -51,34 +79,6 @@
     {
       "title": "Pianistin Martha Argerich wird 85 Jahre alt",
       "link": "https://www.tagesschau.de/kultur/pianistin-martha-argerich-85-100.html"
-    },
-    {
-      "title": "USA verhängen Sanktionen gegen Kubas Präsidenten",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-sanktionen-kuba-100.html"
-    },
-    {
-      "title": "Selenskyj bietet Putin direkte Friedensgespräche an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-brief-putin-100.html"
-    },
-    {
-      "title": "Putin offen für Dialog - unter Bedingungen",
-      "link": "https://www.tagesschau.de/ausland/asien/putin-wirtschaftsforum-ukraine-100.html"
-    },
-    {
-      "title": "Vor der WM eskalieren Lehrerproteste in Mexiko",
-      "link": "https://www.tagesschau.de/ausland/amerika/mexiko-proteste-lehrer-100.html"
-    },
-    {
-      "title": "Dänische Experten obduzieren gestrandeten Buckelwal",
-      "link": "https://www.tagesschau.de/ausland/europa/obduktion-buckelwal-anholt-100.html"
-    },
-    {
-      "title": "\"Türkisch für Anfänger\"-Schauspieler Axel Schreiber ist tot",
-      "link": "https://www.tagesschau.de/inland/schauspieler-schreiber-tot-100.html"
-    },
-    {
-      "title": "CSU-Chef unter Druck: Ist das der Beginn der \"Söder-Dämmerung\"?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-csu-bayern-macht-100.html"
     }
   ]
 }
