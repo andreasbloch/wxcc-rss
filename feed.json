@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Westbalkan-Gipfel: Kommt es zum schrittweisen EU-Beitritt?",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-westbalkan-gipfel-106.html"
+    },
+    {
+      "title": "Pianistin Martha Argerich wird 85 Jahre alt",
+      "link": "https://www.tagesschau.de/kultur/pianistin-martha-argerich-85-100.html"
+    },
+    {
+      "title": "USA verhängen Sanktionen gegen Kubas Präsidenten",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-sanktionen-kuba-100.html"
+    },
+    {
       "title": "Selenskyj bietet Putin direkte Friedensgespräche an",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-brief-putin-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "EU-Länder erwägen Ende von Schutz-Automatismus für Ukrainer in wehrfähigem Alter",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-schutzstatus-102.html"
-    },
-    {
-      "title": "Wieso immer mehr Deutsche auf Elektroautos setzen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-nachfrage-100.html"
-    },
-    {
-      "title": "Übernahme rückt näher: Commerzbank-Aktie überdurchschnittlich stark",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/commerzbank-uebernahme-unicredit-kursplus-100.html"
-    },
-    {
-      "title": "Entwurf für geplante Pflegereform liegt vor",
-      "link": "https://www.tagesschau.de/inland/pflegeversicherung-reform-entwurf-100.html"
     }
   ]
 }
