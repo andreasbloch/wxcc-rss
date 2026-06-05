@@ -1,8 +1,36 @@
 {
   "items": [
     {
-      "title": "Europäer begrüßen Selenskyjs Brief an Putin im Ukraine-Krieg",
+      "title": "Selenskyjs Brief im Ukraine-Krieg: Putin hat keinen Gesprächsbedarf",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angebot-selenskyj-reaktionen-100.html"
+    },
+    {
+      "title": "Schnieder verspricht Hilfe bei gesperrter Autobahn-Brücke in Bonn",
+      "link": "https://www.tagesschau.de/inland/autobahn-bonn-sperrung-schnieder-100.html"
+    },
+    {
+      "title": "Hubig will \"Nur Ja heißt Ja\"-Regel im Sexualstrafrecht einführen",
+      "link": "https://www.tagesschau.de/ausland/europa/justizminister-hubig-sexualstrafrecht-100.html"
+    },
+    {
+      "title": "Ukrainische Seedrohne explodiert in rumänischem Hafen",
+      "link": "https://www.tagesschau.de/ausland/europa/drohne-explosion-rumaenien-100.html"
+    },
+    {
+      "title": "Nach Begnadigung durch Trump: Verurteilter Kapitolstürmer arbeitet im Pentagon",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kapitol-stuermer-pentagon-100.html"
+    },
+    {
+      "title": "ISS-Besatzung muss vorübergehend Schutz suchen",
+      "link": "https://www.tagesschau.de/ausland/amerika/nasa-iss-leck-100.html"
+    },
+    {
+      "title": "Ankündigung von Kanzler Merz: Erneute Kandidatur für UN-Sicherheitsrat",
+      "link": "https://www.tagesschau.de/ausland/europa/un-sicherheitsrat-bewerbung-102.html"
+    },
+    {
+      "title": "Marktbericht: Gewinnmitnahmen und Geopolitik drücken den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-116.html"
     },
     {
       "title": "Homeoffice: Was neue Orte, Bewegung und Kontakte für die Psyche bewirken",
@@ -21,10 +49,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eurozone-wachstum-100.html"
     },
     {
-      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html"
-    },
-    {
       "title": "Kommentar zur Pflege: Sparen ja, aber bitte nicht so",
       "link": "https://www.tagesschau.de/kommentar/pflegereform-170.html"
     },
@@ -37,7 +61,7 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/umweltschutz-abpflastern-entsiegelung-100.html"
     },
     {
-      "title": "Marktbericht: Anthropic plädiert für weltweite KI-Pause",
+      "title": "Gefahren Künstlicher Intelligenz: Anthropic für weltweite KI-Pause",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-warnung-ki-stopp-100.html"
     },
     {
@@ -55,30 +79,6 @@
     {
       "title": "Scharfe Kritik aus Koalitionsparteien an Entwurf für Pflegereform",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kritik-politik-100.html"
-    },
-    {
-      "title": "Wiedergutmachung von NS-Unrecht: 50.000 Einbürgerungen seit 2021",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ns-unrecht-wiedergutmachung-einbuergerung-statistik-100.html"
-    },
-    {
-      "title": "Dollar, Trump und KI-Aktien: Werden die USA zum Risiko im Depot?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/usa-depot-dollar-ki-risiko-100.html"
-    },
-    {
-      "title": "Marktbericht: Die KI-Rally stockt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-116.html"
-    },
-    {
-      "title": "Expertin bezweifelt Ziel der Regierung beim Kampf gegen Obdachlosigkeit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/obdachlosigkeit-hubertz-ziel-kritik-100.html"
-    },
-    {
-      "title": "Widerstand gegen NHS-Kooperation mit Palantir in Großbritannien wächst",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-gesundheitssystem-palantir-100.html"
-    },
-    {
-      "title": "Wadephul gegen Kürzungen deutscher UN-Beiträge",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wadephul-kuerzung-un-gelder-100.html"
     }
   ]
 }
