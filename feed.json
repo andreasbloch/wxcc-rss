@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Wadephul gegen Kürzungen deutscher UN-Beiträge",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wadephul-kuerzung-un-gelder-100.html"
+    },
+    {
+      "title": "Marktbericht: Gewinnmitnahmen nach KI-Rally",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-116.html"
+    },
+    {
+      "title": "11KM-Podcast: Reform oder Kollaps? Die Zukunft des deutschen Sozialstaats ",
+      "link": "https://www.tagesschau.de/podcast-11km-reform-sozialstaat-renten-pflege-krankenkassen-100.html"
+    },
+    {
+      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html"
+    },
+    {
+      "title": "Weiteres Urteil gegen \"Maskenmann\": Lebenslange Haft in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/urteil-maskenmann-100.html"
+    },
+    {
       "title": "Westbalkan-Gipfel: Kommt es zum schrittweisen EU-Beitritt?",
       "link": "https://www.tagesschau.de/ausland/europa/eu-westbalkan-gipfel-106.html"
     },
@@ -21,16 +41,12 @@
       "link": "https://www.tagesschau.de/ausland/asien/putin-wirtschaftsforum-ukraine-100.html"
     },
     {
-      "title": "Vor der WM eskalieren Lehrerproteste in",
+      "title": "Vor der WM eskalieren Lehrerproteste in Mexiko",
       "link": "https://www.tagesschau.de/ausland/amerika/mexiko-proteste-lehrer-100.html"
     },
     {
       "title": "Dänische Experten obduzieren gestrandeten Buckelwal",
       "link": "https://www.tagesschau.de/ausland/europa/obduktion-buckelwal-anholt-100.html"
-    },
-    {
-      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html"
     },
     {
       "title": "\"Türkisch für Anfänger\"-Schauspieler Axel Schreiber ist tot",
@@ -63,22 +79,6 @@
     {
       "title": "Reparaturstau gefährdet offenbar Einsatzfähigkeit der Bundeswehr",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-verteidigung-reparaturen-ruestung-100.html"
-    },
-    {
-      "title": "EuGH: Deutschlands Kürzung von Asylleistungen rechtswidrig",
-      "link": "https://www.tagesschau.de/ausland/europa/eugh-urteilasylleistungen-kuerzung-100.html"
-    },
-    {
-      "title": "Warum Volkswagen seine neuen E-Kleinwagen in Spanien produziert",
-      "link": "https://www.tagesschau.de/wirtschaft/vw-id-polo-spanien-seat-elektroautos-100.html"
-    },
-    {
-      "title": "Hisbollah im Libanon lehnt Waffenruhe mit Israel ab",
-      "link": "https://www.tagesschau.de/ausland/asien/kaempfe-libanon-waffenruhe-100.html"
-    },
-    {
-      "title": "EU-Länder erwägen Ende von Schutz-Automatismus für Ukrainer in wehrfähigem Alter",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schutzstatus-102.html"
     }
   ]
 }
