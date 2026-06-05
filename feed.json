@@ -1,8 +1,28 @@
 {
   "items": [
     {
-      "title": "Warnstreiks im Handel - \"Wir sind nicht die Billigheimer der Nation\"",
-      "link": "https://www.tagesschau.de/wirtschaft/handel-verdi-warnstreiks-100.html"
+      "title": "Europäer begrüßen Selenskyjs Brief an Putin im Ukraine-Krieg",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angebot-selenskyj-reaktionen-100.html"
+    },
+    {
+      "title": "Homeoffice: Was neue Orte, Bewegung und Kontakte für die Psyche bewirken",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/homeoffice-psyche-100.html"
+    },
+    {
+      "title": "Merz und Macron wollen bei EU-Erweiterung Tempo machen",
+      "link": "https://www.tagesschau.de/ausland/europa/westbalkan-eu-montenegro-100.html"
+    },
+    {
+      "title": "Albanien: Proteste gegen Luxus-Resort am Naturschutzgebiet",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-albanien-luxusresort-100.html"
+    },
+    {
+      "title": "Wirtschaft in der Eurozone im ersten Quartal geschrumpft",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eurozone-wachstum-100.html"
+    },
+    {
+      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html"
     },
     {
       "title": "Kommentar zur Pflege: Sparen ja, aber bitte nicht so",
@@ -25,7 +45,7 @@
       "link": "https://www.tagesschau.de/ausland/europa/angriff-russland-lebensmittelfabrik-100.html"
     },
     {
-      "title": "CDU sagt laut Präsidiumsklausur in Magdeburg Vor Landtagswahl ab",
+      "title": "CDU sagt laut Präsidiumsklausur in Magdeburg vor Landtagswahl ab",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidium-magdeburg-absage-100.html"
     },
     {
@@ -35,10 +55,6 @@
     {
       "title": "Scharfe Kritik aus Koalitionsparteien an Entwurf für Pflegereform",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kritik-politik-100.html"
-    },
-    {
-      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html"
     },
     {
       "title": "Wiedergutmachung von NS-Unrecht: 50.000 Einbürgerungen seit 2021",
@@ -63,22 +79,6 @@
     {
       "title": "Wadephul gegen Kürzungen deutscher UN-Beiträge",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wadephul-kuerzung-un-gelder-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Reform oder Kollaps? Die Zukunft des deutschen Sozialstaats ",
-      "link": "https://www.tagesschau.de/podcast-11km-reform-sozialstaat-renten-pflege-krankenkassen-100.html"
-    },
-    {
-      "title": "Weiteres Urteil gegen \"Maskenmann\": Lebenslange Haft in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/urteil-maskenmann-100.html"
-    },
-    {
-      "title": "Westbalkan-Gipfel: Kommt es zum schrittweisen EU-Beitritt?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-westbalkan-gipfel-106.html"
-    },
-    {
-      "title": "Pianistin Martha Argerich wird 85 Jahre alt",
-      "link": "https://www.tagesschau.de/kultur/pianistin-martha-argerich-85-100.html"
     }
   ]
 }
