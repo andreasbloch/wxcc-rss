@@ -1,20 +1,44 @@
 {
   "items": [
     {
+      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html"
+    },
+    {
+      "title": "Scharfe Kritik aus Koalitionsparteien an Entwurf für Pflegereform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kritik-politik-100.html"
+    },
+    {
+      "title": "Wiedergutmachung von NS-Unrecht: 50.000 Einbürgerungen seit 2021",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ns-unrecht-wiedergutmachung-einbuergerung-statistik-100.html"
+    },
+    {
+      "title": "Dollar, Trump und KI-Aktien: Werden die USA zum Risiko im Depot?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/usa-depot-dollar-ki-risiko-100.html"
+    },
+    {
+      "title": "CDU sagt laut Medienberichten Präsidiumsklausur in Magdeburg ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidium-magdeburg-absage-100.html"
+    },
+    {
+      "title": "Marktbericht: Die KI-Rally stockt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-116.html"
+    },
+    {
+      "title": "Expertin bezweifelt Ziel der Regierung beim Kampf gegen Obdachlosigkeit",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/obdachlosigkeit-hubertz-ziel-kritik-100.html"
+    },
+    {
+      "title": "Widerstand gegen NHS-Kooperation mit Palantir in Großbritannien wächst",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-gesundheitssystem-palantir-100.html"
+    },
+    {
       "title": "Wadephul gegen Kürzungen deutscher UN-Beiträge",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wadephul-kuerzung-un-gelder-100.html"
     },
     {
-      "title": "Marktbericht: Gewinnmitnahmen nach KI-Rally",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-116.html"
-    },
-    {
       "title": "11KM-Podcast: Reform oder Kollaps? Die Zukunft des deutschen Sozialstaats ",
       "link": "https://www.tagesschau.de/podcast-11km-reform-sozialstaat-renten-pflege-krankenkassen-100.html"
-    },
-    {
-      "title": "Flughafen Frankfurt: Lufthansa-Maschine sackt zu Boden - mehrere Verletzte",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/flughafen-frankfurt-lufthansa-maschine-zwischenfall-100.html"
     },
     {
       "title": "Weiteres Urteil gegen \"Maskenmann\": Lebenslange Haft in Frankreich",
@@ -55,30 +79,6 @@
     {
       "title": "CSU-Chef unter Druck: Ist das der Beginn der \"Söder-Dämmerung\"?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-csu-bayern-macht-100.html"
-    },
-    {
-      "title": "Geplante Pflegereform: Verbesserung der Pflege - oder Spargesetz?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-analyse-100.html"
-    },
-    {
-      "title": "Sherpa überlebt sechs Tage auf mehr als 5.000 Metern am Mount Everest",
-      "link": "https://www.tagesschau.de/ausland/asien/everest-bergfuehrer-gerettet-100.html"
-    },
-    {
-      "title": "Taliban sagen Abschiebeflug nach Afghanistan ab",
-      "link": "https://www.tagesschau.de/investigativ/afghanistan-taliban-abschiebungen-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX schließt am Feiertag unter 25.000 Punkten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-wallstreet-oelmarkt-100.html"
-    },
-    {
-      "title": "\"Persepolis\"-Autorin Satrapi gestorben",
-      "link": "https://www.tagesschau.de/kultur/tod-marjane-satrapi-100.html"
-    },
-    {
-      "title": "Reparaturstau gefährdet offenbar Einsatzfähigkeit der Bundeswehr",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-verteidigung-reparaturen-ruestung-100.html"
     }
   ]
 }
