@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Pistorius beschwört Zusammenhalt von Bundeswehr und Gesellschaft",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/tag-der-bundeswehr-108.html"
+    },
+    {
+      "title": "Kanzler Merz zeigt sich bei Reformen von Schwarz-Rot optimistisch",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-optimistisch-bei-reformen-100.html"
+    },
+    {
       "title": "Papst Leo XIV. zu Spanien-Reise in Madrid eingetroffen",
       "link": "https://www.tagesschau.de/ausland/europa/papstbesuch-spanien-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Statt teurer Markenprodukte: Mehr Eigenmarken in den Regalen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eigenmarken-statt-markenprodukte-100.html"
-    },
-    {
-      "title": "Selenskyjs Brief im Ukraine-Krieg: Putin hat keinen Gesprächsbedarf",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angebot-selenskyj-reaktionen-100.html"
-    },
-    {
-      "title": "Reformdebatte: Hat Schwarz-Rot die Jugend noch im Blick?",
-      "link": "https://www.tagesschau.de/inland/generationengerechtigkeit-104.html"
     }
   ]
 }
