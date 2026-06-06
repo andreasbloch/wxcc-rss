@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Reformdebatte: Hat Schwarz-Rot die Jugend noch im Blick?",
+      "link": "https://www.tagesschau.de/inland/generationengerechtigkeit-104.html"
+    },
+    {
+      "title": "Nach Abschuss von Drohnen - USA greifen Radarstellungen in Iran an",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-angriffe-110.html"
+    },
+    {
+      "title": "EU-Migrationskommissar für Abbau der Grenzkontrollen",
+      "link": "https://www.tagesschau.de/ausland/europa/deutschland-grenzkontrollen-kritik-100.html"
+    },
+    {
       "title": "Selenskyjs Brief im Ukraine-Krieg: Putin hat keinen Gesprächsbedarf",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angebot-selenskyj-reaktionen-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Ukraine meldet Tote nach russischem Drohnenangriff auf Fabrik",
       "link": "https://www.tagesschau.de/ausland/europa/angriff-russland-lebensmittelfabrik-100.html"
-    },
-    {
-      "title": "CDU sagt laut Präsidiumsklausur in Magdeburg vor Landtagswahl ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidium-magdeburg-absage-100.html"
-    },
-    {
-      "title": "EY-Studie: Deutsche Autobauer fallen im Wettbewerb zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ey-studie-autobauer-100.html"
-    },
-    {
-      "title": "Scharfe Kritik aus Koalitionsparteien an Entwurf für Pflegereform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kritik-politik-100.html"
     }
   ]
 }
