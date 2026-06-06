@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Drei Jahre nach Kachowka-Sprengung: Zwischen Wald und Wassermangel",
+      "link": "https://www.tagesschau.de/ausland/europa/kachowka-staudamm-114.html"
+    },
+    {
+      "title": "Britischer Schauspieler Anthony Head gestorben",
+      "link": "https://www.tagesschau.de/kultur/anthony-head-gestorben-100.html"
+    },
+    {
+      "title": "Familienunternehmer: Bundestag soll Sommerpause ausfallen lassen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-sommerpause-unternehmer-100.html"
+    },
+    {
       "title": "Europas historische Filmpaläste: Wo sich Kino nach großem Theater anfühlt",
       "link": "https://www.tagesschau.de/kultur/groesste-kinos-von-europa-100.html"
     },
@@ -50,7 +62,7 @@
     },
     {
       "title": "Ankündigung von Kanzler Merz: Erneute Kandidatur für UN-Sicherheitsrat",
-      "link": "https://www.tagesschau.de/ausland/europa/un-sicherheitsrat-bewerbung-102.html"
+      "link": "https://www.tagesschau.de/inland/un-sicherheitsrat-bewerbung-102.html"
     },
     {
       "title": "Marktbericht: Gewinnmitnahmen und Geopolitik drücken den DAX",
@@ -67,18 +79,6 @@
     {
       "title": "Albanien: Proteste gegen Luxus-Resort am Naturschutzgebiet",
       "link": "https://www.tagesschau.de/ausland/europa/proteste-albanien-luxusresort-100.html"
-    },
-    {
-      "title": "Wirtschaft in der Eurozone im ersten Quartal geschrumpft",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/eurozone-wachstum-100.html"
-    },
-    {
-      "title": "Kommentar zur Pflege: Sparen ja, aber bitte nicht so",
-      "link": "https://www.tagesschau.de/kommentar/pflegereform-170.html"
-    },
-    {
-      "title": "Brandkatastrophe in Crans-Montana - Barbetreiber werden vernommen",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-ermittlungen-brand-cransmontana-100.html"
     }
   ]
 }
