@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Start-up in der Baubranche baut Plattenbauten aus Holz",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/holz-hausbau-100.html"
+    },
+    {
+      "title": "Ebola-Patient nach zwei Wochen aus Charité Berlin entlassen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/ebola-patient-charite-entlassung-100.html"
+    },
+    {
       "title": "Polens radikale Rechte unter Grzegorz Braun wird zum Machtfaktor",
       "link": "https://www.tagesschau.de/ausland/europa/polen-grzegorz-braun-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Schnieder verspricht Hilfe bei gesperrter Autobahn-Brücke in Bonn",
       "link": "https://www.tagesschau.de/inland/autobahn-bonn-sperrung-schnieder-100.html"
-    },
-    {
-      "title": "Hubig will \"Nur Ja heißt Ja\"-Regel im Sexualstrafrecht einführen",
-      "link": "https://www.tagesschau.de/ausland/europa/justizminister-hubig-sexualstrafrecht-100.html"
-    },
-    {
-      "title": "Ukrainische Seedrohne explodiert in rumänischem Hafen",
-      "link": "https://www.tagesschau.de/ausland/europa/drohne-explosion-rumaenien-100.html"
     }
   ]
 }
