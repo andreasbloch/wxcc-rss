@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Forschung an neuen Modulen: Solarzellen sollen effizienter werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/solarstrom-neue-methode-100.html"
+    },
+    {
+      "title": "Armenien wählt: Mehr oder weniger Nähe zu Russland?",
+      "link": "https://www.tagesschau.de/ausland/asien/armenien-russland-eu-wahl-100.html"
+    },
+    {
+      "title": "DGB für verpflichtende Betriebsrente - mit Hilfe der Arbeitgeber",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-dgb-vorschlag-100.html"
+    },
+    {
       "title": "Baustellen von Schwarz-Rot: Wie weit sind die Reformen der Bundesregierung?",
       "link": "https://www.tagesschau.de/inland/reformbaustellen-schwarz-rot-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Drei Jahre nach Kachowka-Sprengung: Zwischen Wald und Wassermangel",
       "link": "https://www.tagesschau.de/ausland/europa/kachowka-staudamm-114.html"
-    },
-    {
-      "title": "Britischer Schauspieler Anthony Head gestorben",
-      "link": "https://www.tagesschau.de/kultur/anthony-head-gestorben-100.html"
-    },
-    {
-      "title": "Familienunternehmer: Bundestag soll Sommerpause ausfallen lassen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-sommerpause-unternehmer-100.html"
-    },
-    {
-      "title": "Europas historische Filmpaläste: Wo sich Kino nach großem Theater anfühlt",
-      "link": "https://www.tagesschau.de/kultur/groesste-kinos-von-europa-100.html"
     }
   ]
 }
