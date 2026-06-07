@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Politische Blockade: Kosovo wählt zum dritten Mal in 16 Monaten",
+      "link": "https://www.tagesschau.de/ausland/europa/kosovo-wahl-114.html"
+    },
+    {
+      "title": "Treffen zum Ukraine-Krieg: Mehr Druck auf Russland - aber wie?",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-2684.html"
+    },
+    {
+      "title": "Weltraum oder Antarktis: Wie sich Langzeitmissionen auf Forschende auswirken",
+      "link": "https://www.tagesschau.de/wissen/forschung/langzeitmissionen-einsamkeit-100.html"
+    },
+    {
       "title": "Forschung an neuen Modulen: Solarzellen sollen effizienter werden",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/solarstrom-neue-methode-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Prien will EU-Richtlinie zur Gehaltstransparenz nachverhandeln",
       "link": "https://www.tagesschau.de/ausland/europa/eu-gender-pay-gap-prien-100.html"
-    },
-    {
-      "title": "Vorgaben der EU: Schließt sich der Gender Pay Gap in Europa?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-richtlinie-gender-pay-gap-100.html"
-    },
-    {
-      "title": "US-Einstufung als Terrororganisationen: Der Kampf gegen Drogenbanden als Vorwand?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-brasilien-drogenbanden-terroristen-100.html"
-    },
-    {
-      "title": "Drei Jahre nach Kachowka-Sprengung: Zwischen Wald und Wassermangel",
-      "link": "https://www.tagesschau.de/ausland/europa/kachowka-staudamm-114.html"
     }
   ]
 }
