@@ -1,16 +1,28 @@
 {
   "items": [
     {
+      "title": "Venezuela nach Maduro: Gerade so viel Öffnung wie Trump will",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-nach-maduro-100.html"
+    },
+    {
+      "title": "Ein Toter bei mutmaßlichem Terroranschlag",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-130.html"
+    },
+    {
+      "title": "30.000 Radfahrer beteiligen sich an ADFC-Sternfahrt in Berlin",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/adfc-sternfahrt-berlin-100.html"
+    },
+    {
+      "title": "Israel greift erneut Hisbollah-Ziele in Beirut an",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-hisbollah-angriffe-beirut-100.html"
+    },
+    {
       "title": "Konkurrenz aus Asien setzt deutsche Kosmetikmarken unter Druck",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-kosmetikmarken-druck-100.html"
     },
     {
       "title": "Bovenschulte rät Bundesregierung bei Reformen zu Priorisierung",
       "link": "https://www.tagesschau.de/inland/bremen-bovenschulte-bundesregierung-reformen-kritik-100.html"
-    },
-    {
-      "title": "Ein Toter bei mutmaßlichem Terroranschlag",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-130.html"
     },
     {
       "title": "Einsatz in Nigeria: 360 Geiseln aus Gewalt der Boko Haram befreit",
@@ -67,18 +79,6 @@
     {
       "title": "Pistorius beschwört Zusammenhalt von Bundeswehr und Gesellschaft",
       "link": "https://www.tagesschau.de/inland/gesellschaft/tag-der-bundeswehr-108.html"
-    },
-    {
-      "title": "Kanzler Merz zeigt sich bei Reformen von Schwarz-Rot optimistisch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-optimistisch-bei-reformen-100.html"
-    },
-    {
-      "title": "Papst Leo XIV. zu Spanien-Reise in Madrid eingetroffen",
-      "link": "https://www.tagesschau.de/ausland/europa/papstbesuch-spanien-102.html"
-    },
-    {
-      "title": "Pläne von Gesundheitsministerin Warken: Weniger Rente für pflegende Angehörige?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-reform-102.html"
     }
   ]
 }
