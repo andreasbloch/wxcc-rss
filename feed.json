@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "SIPRI-Friedensforscher warnen vor atomarer Aufrüstung",
+      "link": "https://www.tagesschau.de/ausland/sipri-bericht-110.html"
+    },
+    {
       "title": "Iran feuert Raketen in Richtung Israel ab",
       "link": "https://www.tagesschau.de/ausland/israel-iran-raketen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Pläne der AfD: Kann die AfD das Bildungssystem umkrempeln?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bildungssystem-afd-sachsen-anhalt-100.html"
-    },
-    {
-      "title": "Politische Blockade: Kosovo wählt zum dritten Mal in 16 Monaten",
-      "link": "https://www.tagesschau.de/ausland/europa/kosovo-wahl-114.html"
     }
   ]
 }
