@@ -1,8 +1,40 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Trump fordert Ende der gegenseitigen Angriffe ++",
+      "title": "EU überweist weitere Milliarden an die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-verteidigungsminister-ukraine-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Iran: Angriffe gegen Israel vorerst beendet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-124.html"
+    },
+    {
+      "title": "Missionsgemeinschaft Kwasizabantu: Gewalt im Namen des Glaubens",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kwasizabantu-evangelikale-missionsgemeinschaft-100.html"
+    },
+    {
+      "title": "Französische Jets schießen Drohne über Lettland ab",
+      "link": "https://www.tagesschau.de/ausland/europa/lettland-ukraine-russland-drohne-100.html"
+    },
+    {
+      "title": "Kulturkampf um die Kultur: Gift für die Demokratie?",
+      "link": "https://www.tagesschau.de/kultur/kulturkampf-um-die-kultur-100.html"
+    },
+    {
+      "title": "Wieder Kämpfe in Nahost: Öl deutlich teurer",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oel-224.html"
+    },
+    {
+      "title": "\"Cum-Cum\"-Deals: Aufsicht prüft Abschluss der DekaBank",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dekabank-bafin-konzernabschluss-100.html"
+    },
+    {
+      "title": "Arabische Staaten sorgen sich vor Einmischung der Huthi-Miliz",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-konflikt-arabische-staaten-reaktion-100.html"
+    },
+    {
+      "title": "Chinas Xi in Nordkorea: Ein Staatsbesuch mit vielen Botschaften",
+      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-besuch-xi-100.html"
     },
     {
       "title": "Mehrere Tote nach schwerem Erdbeben auf den Philippinen",
@@ -47,38 +79,6 @@
     {
       "title": "SIPRI-Friedensforscher warnen vor atomarer Aufrüstung",
       "link": "https://www.tagesschau.de/ausland/sipri-bericht-110.html"
-    },
-    {
-      "title": "Kosovo: Partei von Regierungschef Kurti liegt bei Wahl vorn",
-      "link": "https://www.tagesschau.de/ausland/europa/kosovo-parlamentswahlen-regierungspartei-gewinnt-100.html"
-    },
-    {
-      "title": "Ukraine-Krieg: Wie sich Europa in Verhandlungen einbringen könnte",
-      "link": "https://www.tagesschau.de/ausland/asien/faq-ukraine-verhandlungen-100.html"
-    },
-    {
-      "title": "Treffen in London: Europäer wollen Ukraine-Diplomatie wieder in Gang bringen",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-london-treffen-100.html"
-    },
-    {
-      "title": "Israel greift erneut Hisbollah-Ziele in Beirut an",
-      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-hisbollah-angriffe-beirut-100.html"
-    },
-    {
-      "title": "Beamte in die Rente? SPD-Fraktionschef Miersch wägt ab",
-      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-rentenreform-100.html"
-    },
-    {
-      "title": "Steinmeier ist doch für Olympia 2036 in Deutschland",
-      "link": "https://www.tagesschau.de/inland/steinmeier-olympia-100.html"
-    },
-    {
-      "title": "Missbrauchsskandal: Spanier hoffen auf mehr Aufklärung durch Papstbesuch",
-      "link": "https://www.tagesschau.de/ausland/europa/missbrauch-katholische-kirche-papst-100.html"
-    },
-    {
-      "title": "Ein Toter bei mutmaßlichem Terroranschlag",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-130.html"
     }
   ]
 }
