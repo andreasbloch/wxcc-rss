@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Europäer und Ukraine fordern Putin zu Verhandlungen auf",
+      "link": "https://www.tagesschau.de/ausland/london-treffen-ukraine-100.html"
+    },
+    {
       "title": "SIPRI-Friedensforscher warnen vor atomarer Aufrüstung",
       "link": "https://www.tagesschau.de/ausland/sipri-bericht-110.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Richtungswahl in Peru: Gegen Fujimori - oder gegen die Linke",
       "link": "https://www.tagesschau.de/ausland/amerika/peru-stichwahl-100.html"
-    },
-    {
-      "title": "Pläne der AfD: Kann die AfD das Bildungssystem umkrempeln?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bildungssystem-afd-sachsen-anhalt-100.html"
     }
   ]
 }
