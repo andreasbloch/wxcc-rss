@@ -1,12 +1,32 @@
 {
   "items": [
     {
-      "title": "EU überweist weitere Milliarden an die Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-verteidigungsminister-ukraine-100.html"
+      "title": "Digitalminister Wildberger will mehr Tempo bei Modernisierung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/staatsmodernisierung-wildberger-100.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Iran: Angriffe gegen Israel vorerst beendet ++",
+      "title": "Iran-Liveblog: ++ Omanische Behörden retten Seeleute von brennendem Tanker ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-124.html"
+    },
+    {
+      "title": "Nach Angriffen zwischen Israel und Iran: Vorsichtiges Aufatmen im Nahen Osten",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-israel-angriffe-130.html"
+    },
+    {
+      "title": "Marktbericht: Nahost- und Zinssorgen belasten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-naher-osten-oelpreis-100.html"
+    },
+    {
+      "title": "Berlin und Paris stoppen Kampfjet-Projekt FCAS",
+      "link": "https://www.tagesschau.de/ausland/europa/ruestung-deutschland-frankreich-fcas-100.html"
+    },
+    {
+      "title": "Wie weniger Wasserverbrauch in der Landwirtschaft mehr Ertrag bringen kann",
+      "link": "https://www.tagesschau.de/wissen/klima/bewaesserung-landwirtschaft-102.html"
+    },
+    {
+      "title": "EU überweist weitere Milliarden an die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-verteidigungsminister-ukraine-100.html"
     },
     {
       "title": "Missionsgemeinschaft Kwasizabantu: Gewalt im Namen des Glaubens",
@@ -57,28 +77,8 @@
       "link": "https://www.tagesschau.de/ausland/asien/trump-netanjahu-nahost-100.html"
     },
     {
-      "title": "Marktbericht: Steigender Ölpreis belastet Aktienmarkt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-naher-osten-oelpreis-100.html"
-    },
-    {
       "title": "Israel und Iran: Neue Angriffe statt Waffenruhe",
       "link": "https://www.tagesschau.de/ausland/asien/israel-iran-angriffe-128.html"
-    },
-    {
-      "title": "11KM-Podcast: Musk und Tesla - autonomes Fahren um jeden Preis?",
-      "link": "https://www.tagesschau.de/podcast-11km-musk-autonomes-fahren-100.html"
-    },
-    {
-      "title": "Israel greift nach Beschuss aus Iran ebenfalls an",
-      "link": "https://www.tagesschau.de/ausland/israel-iran-raketen-100.html"
-    },
-    {
-      "title": "Europäer und Ukraine fordern Putin zu Verhandlungen auf",
-      "link": "https://www.tagesschau.de/ausland/london-treffen-ukraine-100.html"
-    },
-    {
-      "title": "SIPRI-Friedensforscher warnen vor atomarer Aufrüstung",
-      "link": "https://www.tagesschau.de/ausland/sipri-bericht-110.html"
     }
   ]
 }
