@@ -1,12 +1,36 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Israel meldet weitere Raketenangriffe aus Iran ++",
+      "title": "Iran-Liveblog: ++ Trump fordert Ende der gegenseitigen Angriffe ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-124.html"
     },
     {
-      "title": "Marktbericht: DAX dürfte weit zurückfallen",
+      "title": "Mehrere Tote nach schwerem Erdbeben auf den Philippinen",
+      "link": "https://www.tagesschau.de/ausland/asien/erdbeben-philippinen-136.html"
+    },
+    {
+      "title": "Papst Leo XIV. in Spanien: Entsteht da eine echte Freundschaft?",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-spanische-regierung-kirche-100.html"
+    },
+    {
+      "title": "Aufträge für die Industrie gehen stark zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/industrie-auftragseingang-neugeschaeft-100.html"
+    },
+    {
+      "title": "Armenien bleibt auch nach Parlamentswahl auf Europa-Kurs",
+      "link": "https://www.tagesschau.de/ausland/asien/wahl-armenien-ergebnis-100.html"
+    },
+    {
+      "title": "Vergeltungsschläge gegen Iran: Israel ignorierte offenbar US-Appell",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-netanjahu-nahost-100.html"
+    },
+    {
+      "title": "Marktbericht: Steigender Ölpreis belastet Aktienmarkt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-naher-osten-oelpreis-100.html"
+    },
+    {
+      "title": "Israel und Iran: Neue Angriffe statt Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-iran-angriffe-128.html"
     },
     {
       "title": "11KM-Podcast: Musk und Tesla - autonomes Fahren um jeden Preis?",
@@ -55,30 +79,6 @@
     {
       "title": "Ein Toter bei mutmaßlichem Terroranschlag",
       "link": "https://www.tagesschau.de/ausland/asien/israel-angriffe-130.html"
-    },
-    {
-      "title": "Russische Drohne trifft Atommülllager-Anlage",
-      "link": "https://www.tagesschau.de/ausland/asien/tschernobyl-kernanlage-100.html"
-    },
-    {
-      "title": "Venezuela nach Maduro: Gerade so viel Öffnung wie Trump will",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-nach-maduro-100.html"
-    },
-    {
-      "title": "30.000 Radfahrer beteiligen sich an ADFC-Sternfahrt in Berlin",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/adfc-sternfahrt-berlin-100.html"
-    },
-    {
-      "title": "Konkurrenz aus Asien setzt deutsche Kosmetikmarken unter Druck",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-kosmetikmarken-druck-100.html"
-    },
-    {
-      "title": "Bovenschulte rät Bundesregierung bei Reformen zu Priorisierung",
-      "link": "https://www.tagesschau.de/inland/bremen-bovenschulte-bundesregierung-reformen-kritik-100.html"
-    },
-    {
-      "title": "Einsatz in Nigeria: 360 Geiseln aus Gewalt der Boko Haram befreit",
-      "link": "https://www.tagesschau.de/ausland/afrika/boko-haram-geiseln-befreit-100.html"
     }
   ]
 }
