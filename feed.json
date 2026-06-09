@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "EU-Kommission: WhatsApp muss andere KI-Anbieter zulassen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/whatsapp-ki-europaeische-union-100.html"
+    },
+    {
+      "title": "Diätenerhöhung für Bundestagsabgeordnete soll in diesem Jahr entfallen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/diaeten-abgeordnete-100.html"
+    },
+    {
+      "title": "Trump und Netanjahu: Nur ein \"Familienkrach\" - oder doch mehr?",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-trump-hisbollah-iran-100.html"
+    },
+    {
+      "title": "Politisch motivierte Straftaten: Mehr Polarisierung, mehr Gewalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/straftaten-kriminalitaet-politisch-statistik-102.html"
+    },
+    {
+      "title": "Landkreise und Sondervermögen: Eine willkommene Finanzspritze",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landkreistag-sondervermoegen-tuebingen-100.html"
+    },
+    {
+      "title": "Ermittlungen nach Stromausfall in Reutlingen dauern an",
+      "link": "https://www.tagesschau.de/inland/reutlingen-stromausfall-ermittlungen-100.html"
+    },
+    {
+      "title": "Marktbericht: Investoren hoffen auf Entspannung im Nahen Osten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-openai-naher-osten-100.html"
+    },
+    {
       "title": "Hambacher Forst wird unter Naturschutz gestellt",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-braunkohlerevier-nrw-hambacher-forst-wird-unter-schutz-gestellt-100.html"
     },
@@ -41,10 +69,6 @@
       "link": "https://www.tagesschau.de/wissen/hitze-schutz-staedte-100.html"
     },
     {
-      "title": "Ermittlungen nach Stromausfall in Reutlingen dauern an",
-      "link": "https://www.tagesschau.de/inland/reutlingen-stromausfall-ermittlungen-100.html"
-    },
-    {
       "title": "Warum über eine verpflichtende Betriebsrente diskutiert wird",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorge-betriebsrente-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Kommentar: Aus für FCAS-Kampfjets - Symbol des europäischen Scheiterns",
       "link": "https://www.tagesschau.de/kommentar/fcas-kampfjet-102.html"
-    },
-    {
-      "title": "Sophia und Noah bleiben beliebteste Vornamen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/vornamen-statistik-2025-sophia-noah-100.html"
-    },
-    {
-      "title": "Läuft die Zinsbindung aus, kann der Immobilienkredit teuer werden",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilien-finanzierung-zins-100.html"
-    },
-    {
-      "title": "US-Vorwahlen: Trumps Machtprobe - und ihre Grenzen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-vorwahlen-midterms-trump-100.html"
-    },
-    {
-      "title": "SPD-Fraktion erarbeitet neues Wirtschaftskonzept",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-wirtschaftspapier-100.html"
-    },
-    {
-      "title": "Schweres Erdbeben auf Philippinen: Opferzahl steigt auf 37",
-      "link": "https://www.tagesschau.de/ausland/asien/philippinen-erdbeben-opferzahl-steigt-100.html"
-    },
-    {
-      "title": "Ebola in der DR Kongo: Zahl der Todesfälle auf 101 gestiegen",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-tote-104.html"
     }
   ]
 }
