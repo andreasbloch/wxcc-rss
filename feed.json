@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Armee meldet Angriffe auf Iran nach Vorwurf des Helikopter-Abschusses",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriff-100.html"
+    },
+    {
       "title": "NASA und ESA: Artemis-3-Mission ohne deutschen Astronauten geplant",
       "link": "https://www.tagesschau.de/ausland/amerika/artemis-3-mission-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Warum über eine verpflichtende Betriebsrente diskutiert wird",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorge-betriebsrente-100.html"
-    },
-    {
-      "title": "35-Milliarden-Kredit für Anthropic weckt Fantasie der Anleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-megakredit-fuer-anthropic-100.html"
     }
   ]
 }
