@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Warten auf den Notarzt - Bürokratie statt schneller Hilfe",
+      "link": "https://www.tagesschau.de/investigativ/rettungsdienst-buerokratie-100.html"
+    },
+    {
+      "title": "Erntehelfer in Italien: Ein tödliches System voller Ausbeutung",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-erntehelfer-102.html"
+    },
+    {
+      "title": "Lage in Nahost: Keine weiteren Angriffe Irans und Israels",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-israel-angriffe-132.html"
+    },
+    {
+      "title": "Marktbericht: Nahost-Krise zwingt Anleger zur Vorsicht",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-openai-naher-osten-100.html"
+    },
+    {
+      "title": "KI-Konzern OpenAI will auch an die Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/openai-boersengang-100.html"
+    },
+    {
+      "title": "\"Goldener Spatz\" - ein Medienfestival, das Kindern mehr Teilhabe verschafft",
+      "link": "https://www.tagesschau.de/kultur/kinder-medien-festival-goldener-spatz-2026-100.html"
+    },
+    {
+      "title": "Russlands Schattenflotte passt offenbar Strategie an",
+      "link": "https://www.tagesschau.de/investigativ/ndr/russland-schattenflotte-crew-100.html"
+    },
+    {
+      "title": "Südafrika: Proteste gegen Migranten - Präsident verurteilt Gewalt",
+      "link": "https://www.tagesschau.de/ausland/afrika/migration-suedafrika-100.html"
+    },
+    {
       "title": "Auch Klingbeil spricht sich für verpflichtende Betriebsrente aus",
       "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-betriebsrente-100.html"
     },
@@ -47,38 +79,6 @@
     {
       "title": "Wie weniger Wasserverbrauch in der Landwirtschaft mehr Ertrag bringen kann",
       "link": "https://www.tagesschau.de/wissen/klima/bewaesserung-landwirtschaft-102.html"
-    },
-    {
-      "title": "EU überweist weitere Milliarden an die Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-verteidigungsminister-ukraine-100.html"
-    },
-    {
-      "title": "Missionsgemeinschaft Kwasizabantu: Gewalt im Namen des Glaubens",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kwasizabantu-evangelikale-missionsgemeinschaft-100.html"
-    },
-    {
-      "title": "Französische Jets schießen Drohne über Lettland ab",
-      "link": "https://www.tagesschau.de/ausland/europa/lettland-ukraine-russland-drohne-100.html"
-    },
-    {
-      "title": "Kulturkampf um die Kultur: Gift für die Demokratie?",
-      "link": "https://www.tagesschau.de/kultur/kulturkampf-um-die-kultur-100.html"
-    },
-    {
-      "title": "Wieder Kämpfe in Nahost: Öl deutlich teurer",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oel-224.html"
-    },
-    {
-      "title": "\"Cum-Cum\"-Deals: Aufsicht prüft Abschluss der DekaBank",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dekabank-bafin-konzernabschluss-100.html"
-    },
-    {
-      "title": "Arabische Staaten sorgen sich vor Einmischung der Huthi-Miliz",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-konflikt-arabische-staaten-reaktion-100.html"
-    },
-    {
-      "title": "Chinas Xi in Nordkorea: Ein Staatsbesuch mit vielen Botschaften",
-      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-besuch-xi-100.html"
     }
   ]
 }
