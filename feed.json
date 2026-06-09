@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Hambacher Forst wird unter Naturschutz gestellt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-braunkohlerevier-nrw-hambacher-forst-wird-unter-schutz-gestellt-100.html"
+    },
+    {
+      "title": "Tote bei israelischem Angriff auf libanesische Hafenstadt Tyros",
+      "link": "https://www.tagesschau.de/ausland/asien/libanon-israel-angriffe-gewalt-westjordanland-100.html"
+    },
+    {
+      "title": "Sondervermögen-Bericht: Verpasst der Staat seine Milliarden-Chance?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/beirat-sondervermoegen-100.html"
+    },
+    {
+      "title": "EU-Drogenbericht: Cannabis bleibt am häufigsten konsumierte Droge",
+      "link": "https://www.tagesschau.de/ausland/europa/euda-bericht-drogenmarkt-100.html"
+    },
+    {
+      "title": "Prozess um Karnevalswagen: Moskauer Gericht bestätigt Urteil gegen Satiriker Tilly",
+      "link": "https://www.tagesschau.de/inland/tilly-russland-moskau-gericht-100.html"
+    },
+    {
+      "title": "EU plant neue Russland-Sanktionen - Einreiseverbot für Soldaten",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-136.html"
+    },
+    {
+      "title": "Überreste von Buckelwal werden in dänischer Fabrik verarbeitet",
+      "link": "https://www.tagesschau.de/ausland/europa/buckelwal-fabrik-museum-100.html"
+    },
+    {
+      "title": "Erste psychologische Hilfe für Jugendliche in der Apotheke",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/psychologische-hilfe-apotheke-100.html"
+    },
+    {
       "title": "Diese Ziele verfolgt Chinas Xi mit seinem Besuch in Nordkorea",
       "link": "https://www.tagesschau.de/ausland/asien/china-nordkorea-144.html"
     },
@@ -47,38 +79,6 @@
     {
       "title": "Ebola in der DR Kongo: Zahl der Todesfälle auf 101 gestiegen",
       "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-tote-104.html"
-    },
-    {
-      "title": "Wie es nach dem Aus für das FCAS-Kampfjetprojekt weitergeht",
-      "link": "https://www.tagesschau.de/ausland/europa/fcas-kampfjet-gestoppt-100.html"
-    },
-    {
-      "title": "Politisch motivierte Straftaten erreichen Höchststand",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/straftaten-kriminalitaet-politisch-statistik-100.html"
-    },
-    {
-      "title": "Kulturkampf um die Kultur: Gift für die Demokratie?",
-      "link": "https://www.tagesschau.de/kultur/kulturkampf-um-die-kultur-100.html"
-    },
-    {
-      "title": "Marktbericht: Kaum Impulse von frischen Konjunkturdaten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-openai-naher-osten-100.html"
-    },
-    {
-      "title": "EU-Asylreform tritt in Kraft: SPD fordert Abbau von Grenzkontrollen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-grenzkontrollen-abbau-100.html"
-    },
-    {
-      "title": "Warten auf den Notarzt - Bürokratie statt schneller Hilfe",
-      "link": "https://www.tagesschau.de/investigativ/rettungsdienst-buerokratie-100.html"
-    },
-    {
-      "title": "Erntehelfer in Italien: Ein tödliches System voller Ausbeutung",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-erntehelfer-102.html"
-    },
-    {
-      "title": "Lage in Nahost: Keine weiteren Angriffe Irans und Israels",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-israel-angriffe-132.html"
     }
   ]
 }
