@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Auch Klingbeil spricht sich für verpflichtende Betriebsrente aus",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-betriebsrente-100.html"
+    },
+    {
+      "title": "Internationaler Strafgerichtshof suspendiert Chefankläger Khan",
+      "link": "https://www.tagesschau.de/ausland/europa/internationaler-strafgerichtshof-chefanklaeger-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ US-Militär beschießt Tanker im Golf von Oman ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-124.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Chinas Xi in Nordkorea: Ein Staatsbesuch mit vielen Botschaften",
       "link": "https://www.tagesschau.de/ausland/asien/nordkorea-besuch-xi-100.html"
-    },
-    {
-      "title": "Mehrere Tote nach schwerem Erdbeben auf den Philippinen",
-      "link": "https://www.tagesschau.de/ausland/asien/erdbeben-philippinen-136.html"
-    },
-    {
-      "title": "Papst Leo XIV. in Spanien: Entsteht da eine echte Freundschaft?",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-spanische-regierung-kirche-100.html"
     }
   ]
 }
