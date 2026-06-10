@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Iran-Liveblog: ++ Iran meldet Angriff auf US-Stützpunkt in Bahrain ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-100.html"
+    },
+    {
+      "title": "Nordirland: Krawalle und Proteste nach Messerattacke in Belfast",
+      "link": "https://www.tagesschau.de/ausland/europa/krawalle-nordirland-belfast-100.html"
+    },
+    {
       "title": "US-Armee meldet Angriffe auf Iran nach Vorwurf des Helikopter-Abschusses",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriff-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Deutsche Städte laut Umwelthilfe schlecht auf Hitze vorbereitet",
       "link": "https://www.tagesschau.de/wissen/hitze-schutz-staedte-100.html"
-    },
-    {
-      "title": "Hambacher Forst wird unter Naturschutz gestellt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-braunkohlerevier-nrw-hambacher-forst-wird-unter-schutz-gestellt-100.html"
-    },
-    {
-      "title": "Warum über eine verpflichtende Betriebsrente diskutiert wird",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorge-betriebsrente-100.html"
     }
   ]
 }
