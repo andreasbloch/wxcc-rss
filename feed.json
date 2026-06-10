@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Schweizer Soziologe Jean Ziegler mit 92 Jahren gestorben",
+      "link": "https://www.tagesschau.de/ausland/jean-ziegler-gestorben-100.html"
+    },
+    {
+      "title": "Knicks in NBA-Finals: New York City träumt vom Basketball-Titel",
+      "link": "https://www.tagesschau.de/ausland/amerika/knicks-nba-finals-100.html"
+    },
+    {
+      "title": "Commerzbank-Übernahme rückt näher",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/commerzbank-284.html"
+    },
+    {
+      "title": "Bundesweit Protestaktionen gegen Warkens Sparpläne",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/plaene-reform-krankenkassen-protest-100.html"
+    },
+    {
+      "title": "Ausschreitungen in Belfast: Politiker warnen vor Hass und Spaltung",
+      "link": "https://www.tagesschau.de/ausland/ausschreitungen-belfast-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ ARD-Korrespondentin: \"Gedrosselter Krieg\" ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-100.html"
+    },
+    {
       "title": "Fast drei Viertel der Neubauten 2025 mit Wärmepumpen-Heizung",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/waermepumpen-neubauten-100.html"
     },
@@ -26,19 +50,11 @@
     },
     {
       "title": "Südafrika: Tote bei Angriff auf Armensiedlung nahe Johannesburg",
-      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-massenschiesserei-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Iran meldet Angriffe auf US-Stützpunkte ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-100.html"
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-schusswaffenangriff-100.html"
     },
     {
       "title": "Eskalation am Persischen Golf: DAX im Minus",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-ki-iran-100.html"
-    },
-    {
-      "title": "Bundesweit Protestaktionen gegen Warkens Sparpläne",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/plaene-reform-krankenkassen-protest-100.html"
     },
     {
       "title": "Fragwürdige Studie zu Infraschall und Herzkrankheiten durch Windenergie",
@@ -63,22 +79,6 @@
     {
       "title": "Bund will Luftfahrt stärken - Verbände üben Kritik",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/ila-berlin-luftfahrt-100.html"
-    },
-    {
-      "title": "Rente in Singapur: Sparen und Investieren statt Generationenvertrag",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rentensystem-singapur-100.html"
-    },
-    {
-      "title": "Neue niederländische Regierung: Die Euphorie ist verflogen",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-jetten-regierung-100.html"
-    },
-    {
-      "title": "Sorge vor Ebola-Virus - USA fordern von Europa Einreisebeschränkungen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-ebola-forderung-einreisebeschraenkungen-100.html"
-    },
-    {
-      "title": "Erbauer der Sagrada Família: 100 Jahre Gaudí",
-      "link": "https://www.tagesschau.de/kultur/100-jahre-antoni-gaudi-100.html"
     }
   ]
 }
