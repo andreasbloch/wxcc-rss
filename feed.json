@@ -1,16 +1,48 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ US-Armee startet neue Angriffe auf Iran ++",
+      "title": "Iran-Liveblog: ++ US-Armee erklärt Angriffswelle für beendet ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html"
     },
     {
-      "title": "Neue ausländerfeindliche Proteste in Nordirland",
-      "link": "https://www.tagesschau.de/ausland/europa/nordirland-ausschreitungen-104.html"
+      "title": "Hubig will Verjährungsfrist bei Vergewaltigungen verlängern",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/sexualstrafrecht-vergewaltigung-verjaehrung-hubig-100.html"
     },
     {
       "title": "Treffen im Kanzleramt: Weitere Reformgespräche mit Sozialpartnern vereinbart",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kanzleramt-reformgespraeche-100.html"
+    },
+    {
+      "title": "USA greifen Iran an - Straße von Hormus angeblich gesperrt",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-eskalation-usa-iran-100.html"
+    },
+    {
+      "title": "Marktbericht: Zwischen Nahost-Eskalation und Zinssorgen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-iran-usa-100.html"
+    },
+    {
+      "title": "Aufgebrochene Schließfächer: Prozess gegen Sparkasse Gelsenkirchen beginnt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/gelsenkirchen-sparkasse-einbruch-prozess-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Wem gehört die WM 2026? ",
+      "link": "https://www.tagesschau.de/podcast-11km-fussball-wm-trump-100.html"
+    },
+    {
+      "title": "Nach Ölpreis-Schock: Warum die Zinswende \"unvermeidlich\" ist",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinswende-energiepreise-100.html"
+    },
+    {
+      "title": "Inklusionsprojekt: Musizieren nur mithilfe von Gedanken",
+      "link": "https://www.tagesschau.de/kultur/iband-saar-musik-mit-hirnstrom-100.html"
+    },
+    {
+      "title": "Bundeswehr - Streit um Zuständigkeiten im Weltraum",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-weltraum-100.html"
+    },
+    {
+      "title": "Neue rassistische Krawalle in Nordirland",
+      "link": "https://www.tagesschau.de/ausland/europa/nordirland-ausschreitungen-104.html"
     },
     {
       "title": "US-Präsident Trump droht mit \"harten\" Angriffen auf Iran",
@@ -47,38 +79,6 @@
     {
       "title": "Crew der Mondmission Artemis 3 steht, doch die Probleme bleiben",
       "link": "https://www.tagesschau.de/ausland/amerika/artemis-3-106.html"
-    },
-    {
-      "title": "Schweizer Soziologe Jean Ziegler mit 92 Jahren gestorben",
-      "link": "https://www.tagesschau.de/ausland/jean-ziegler-gestorben-100.html"
-    },
-    {
-      "title": "Knicks in NBA-Finals: New York City träumt vom Basketball-Titel",
-      "link": "https://www.tagesschau.de/ausland/amerika/knicks-nba-finals-100.html"
-    },
-    {
-      "title": "Commerzbank-Übernahme rückt näher",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/commerzbank-284.html"
-    },
-    {
-      "title": "Bundesweit Protestaktionen gegen Warkens Sparpläne",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/plaene-reform-krankenkassen-protest-100.html"
-    },
-    {
-      "title": "Ausschreitungen in Belfast: Politiker warnen vor Hass und Spaltung",
-      "link": "https://www.tagesschau.de/ausland/ausschreitungen-belfast-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ ARD-Korrespondentin: \"Gedrosselter Krieg\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-100.html"
-    },
-    {
-      "title": "Fast drei Viertel der Neubauten 2025 mit Wärmepumpen-Heizung",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/waermepumpen-neubauten-100.html"
-    },
-    {
-      "title": "Warum Apple die Einführung von Siri AI in der EU verschiebt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-siri-ai-eu-digitalregeln-100.html"
     }
   ]
 }
