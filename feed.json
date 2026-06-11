@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Iran-Liveblog: ++ Trump sagt angekündigte Angriffe gegen Iran ab ++",
+      "title": "Iran-Liveblog: ++ Sechs Tote und mehrere Verletzte im Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html"
+    },
+    {
+      "title": "Trump sagt angekündigte Angriffe auf Iran ab",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-trump-angriff-waffenruhe-verhandlungen-104.html"
     },
     {
       "title": "Konferenz der Ministerpräsidenten: Der Osten will Transparenz - und seinen Anteil",
@@ -75,10 +79,6 @@
     {
       "title": "Marktbericht: Großaktionär Frasers will Hugo Boss übernehmen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/mode-180.html"
-    },
-    {
-      "title": "Was wird aus dem Strafprozess gegen Netanjahu?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-strafprozess-netanjahu-100.html"
     }
   ]
 }
