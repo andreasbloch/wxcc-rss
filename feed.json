@@ -1,20 +1,48 @@
 {
   "items": [
     {
-      "title": "Regierungserklärung: Der Kanzler versucht sich als Mutmacher",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-europaeischer-rat-analyse-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Trump kündigt weitere Angriffe auf Iran an ++",
+      "title": "Iran-Liveblog: ++ Trump sagt angekündigte Angriffe gegen Iran ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html"
     },
     {
-      "title": "Rassistische Unruhen in Belfast: Gewalt weckt düstere Erinnerungen",
-      "link": "https://www.tagesschau.de/ausland/belfast-krawalle-108.html"
+      "title": "Konferenz der Ministerpräsidenten: Der Osten will Transparenz - und seinen Anteil",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ostdeutschland-ministerpraesidenten-konferenz-100.html"
+    },
+    {
+      "title": "Kontroverse Debatte über Gebäudemodernisierungsgesetz im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestagsdebatte-gebaeudemodernisierungsgesetz-100.html"
     },
     {
       "title": "Papst beklagt Gleichgültigkeit gegenüber Schicksal von Migranten",
       "link": "https://www.tagesschau.de/ausland/europa/spanien-afrika-papst-migranten-100.html"
+    },
+    {
+      "title": "Neue Kampfjet-Allianz von acht Rüstungsfirmen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ruestung-kampfjet-allianz-europa-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX schließt unverändert",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-iran-usa-100.html"
+    },
+    {
+      "title": "EuGH: Kunde hat ein Recht auf Basis-Konto trotz US-Sanktionen",
+      "link": "https://www.tagesschau.de/ausland/europa/konto-eugh-usa-sanktionen-100.html"
+    },
+    {
+      "title": "Freigegebener Teil der deutschen Ölreserve fast aufgebraucht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/oelreserve-bundesregierung-100.html"
+    },
+    {
+      "title": "Trump droht Iran mit Angriffen und Übernahme der Öl-Infrastruktur",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-trump-angriff-waffenruhe-verhandlungen-100.html"
+    },
+    {
+      "title": "Regierungserklärung: Der Kanzler versucht sich als Mutmacher",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-europaeischer-rat-analyse-100.html"
+    },
+    {
+      "title": "Rassistische Unruhen in Belfast: Gewalt weckt düstere Erinnerungen",
+      "link": "https://www.tagesschau.de/ausland/belfast-krawalle-108.html"
     },
     {
       "title": "Vor der WM-Eröffnung: Mexiko zwischen Euphorie und Protesten",
@@ -51,34 +79,6 @@
     {
       "title": "Was wird aus dem Strafprozess gegen Netanjahu?",
       "link": "https://www.tagesschau.de/ausland/asien/israel-strafprozess-netanjahu-100.html"
-    },
-    {
-      "title": "Sexualstrafrecht: Ein Kampf für längere Verjährungsfrist",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sexualstrafrecht-justizminister-100.html"
-    },
-    {
-      "title": "Spitzentreffen im Kanzleramt: Einigkeit über Probleme, nicht über Lösungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kanzleramt-spitzentreffen-arbeitgeber-gewerkschaften-100.html"
-    },
-    {
-      "title": "Was zur WM erlaubt ist - und was nicht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wm-faq-erlaubt-verboten-100.html"
-    },
-    {
-      "title": "USA greifen Iran an - Straße von Hormus angeblich gesperrt",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-eskalation-usa-iran-100.html"
-    },
-    {
-      "title": "Indiens Kakerlaken-Bewegung geht auf die Straße",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-kakerlaken-bewegung-100.html"
-    },
-    {
-      "title": "US-Inflation auf Dreijahreshoch: Kritik an Trump-Reaktion",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-inflation-100.html"
-    },
-    {
-      "title": "Merz betont Wichtigkeit der EU - und lobt eigene Reformanstrengungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-ukraine-eu-handel-100.html"
     }
   ]
 }
