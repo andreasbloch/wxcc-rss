@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Elon Musk: Der erste Billionär durch den SpaceX-Börsengang?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/elon-musk-spacex-100.html"
+    },
+    {
+      "title": "Warum der SpaceX-Börsengang für Anleger riskant ist",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/spacex-boersengang-musk-anleger-risiko-100.html"
+    },
+    {
+      "title": "Marktbericht: Beste Stimmung von SpaceX-Börsengang",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-spacex-100.html"
+    },
+    {
+      "title": "Was bedeutet Warkens Sparpaket für Patientinnen und Patienten?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-spaparpaket-patienten-100.html"
+    },
+    {
+      "title": "Kretas Sorge vor Migration aus Libyen",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-kreta-migration-100.html"
+    },
+    {
+      "title": "BND-Gesetz - Dobrindt bremst offenbar Reform",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/dobrindt-bnd-verfassungsschutz-reform-100.html"
+    },
+    {
+      "title": "Lange umstritten - nun gelten die neuen EU-Asylregeln",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-asylreform-startschuss-100.html"
+    },
+    {
+      "title": "Ebola breitet sich in DR Kongo aus - 136 Tote bestätigt",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-dr-kongo-104.html"
+    },
+    {
       "title": "Bundestag: Aussetzung der Diätenerhöhung trifft auf Zustimmung",
       "link": "https://www.tagesschau.de/inland/diaeten-bundestag-106.html"
     },
@@ -47,38 +79,6 @@
     {
       "title": "Trump droht Iran mit Angriffen und Übernahme der Öl-Infrastruktur",
       "link": "https://www.tagesschau.de/ausland/usa-iran-trump-angriff-waffenruhe-verhandlungen-100.html"
-    },
-    {
-      "title": "Regierungserklärung: Der Kanzler versucht sich als Mutmacher",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-europaeischer-rat-analyse-100.html"
-    },
-    {
-      "title": "Rassistische Unruhen in Belfast: Gewalt weckt düstere Erinnerungen",
-      "link": "https://www.tagesschau.de/ausland/belfast-krawalle-108.html"
-    },
-    {
-      "title": "Vor der WM-Eröffnung: Mexiko zwischen Euphorie und Protesten",
-      "link": "https://www.tagesschau.de/ausland/amerika/mexiko-wm-eroeffnung-100.html"
-    },
-    {
-      "title": "Ethikrat gegen pauschales Social-Media-Verbot für Jugendliche",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ethikrat-soziale-medien-kinder-100.html"
-    },
-    {
-      "title": "Bill Gates berichtet von Erpressung durch Epstein",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-gates-epstein-100.html"
-    },
-    {
-      "title": "UNHCR-Bericht: Erstmals seit einem Jahrzehnt weniger Flüchtlinge",
-      "link": "https://www.tagesschau.de/ausland/unhcr-weltfluechtlingsbericht-104.html"
-    },
-    {
-      "title": "EZB erhöht erstmals seit 2023 die Leitzinsen",
-      "link": "https://www.tagesschau.de/wirtschaft/ezb-erhoeht-leitzins-102.html"
-    },
-    {
-      "title": "Nach Ölpreis-Schock: Warum die Zinswende \"unvermeidlich\" ist",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinswende-energiepreise-100.html"
     }
   ]
 }
