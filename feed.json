@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Bundestag: Aussetzung der Diätenerhöhung trifft auf Zustimmung",
+      "link": "https://www.tagesschau.de/inland/diaeten-bundestag-106.html"
+    },
+    {
+      "title": "Britischer Verteidigungsminister tritt im Etatstreit zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/healey-ruecktritt-uk-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Sechs Tote und mehrere Verletzte im Libanon ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-usa-102.html"
     },
@@ -53,10 +61,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/mexiko-wm-eroeffnung-100.html"
     },
     {
-      "title": "Britischer Verteidigungsminister tritt im Etatstreit zurück",
-      "link": "https://www.tagesschau.de/ausland/europa/healey-ruecktritt-uk-100.html"
-    },
-    {
       "title": "Ethikrat gegen pauschales Social-Media-Verbot für Jugendliche",
       "link": "https://www.tagesschau.de/inland/gesellschaft/ethikrat-soziale-medien-kinder-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Nach Ölpreis-Schock: Warum die Zinswende \"unvermeidlich\" ist",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinswende-energiepreise-100.html"
-    },
-    {
-      "title": "Marktbericht: Großaktionär Frasers will Hugo Boss übernehmen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mode-180.html"
     }
   ]
 }
