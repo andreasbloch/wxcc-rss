@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX legt zu Wochenschluss kräftig zu",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-spacex-100.html"
+    },
+    {
+      "title": "Nahost-Liveblog: ++ Bericht: US-Sanktionen gegen Iran sollen aufgehoben werden ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-104.html"
+    },
+    {
+      "title": "Gewaltschutzgesetz im Bundesrat: Elektronische Fußfessel soll Frauen schützen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/haeussliche-gewalt-fussfesseln-femizide-strafrechtsreform-100.html"
+    },
+    {
+      "title": "Britischer Künstler David Hockney im Alter von 88 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/kuenstler-hockney-verstorben-100.html"
+    },
+    {
+      "title": "Erstes WM-Spiel in den USA: Zweifel an der großen Fußball-Party",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-stimmung-wm-100.html"
+    },
+    {
+      "title": "UNICEF-Studie - 15-Jährige in Deutschland besser als berichtet",
+      "link": "https://www.tagesschau.de/faktenfinder/unicef-schueler-lesekompetenz-100.html"
+    },
+    {
       "title": "Proteste in Berlin und Völklingen - IG Metall bangt um Stahljobs",
       "link": "https://www.tagesschau.de/wirtschaft/proteste-stahlarbeiter-100.html"
     },
@@ -21,20 +45,8 @@
       "link": "https://www.tagesschau.de/ausland/amerika/kanada-trump-102.html"
     },
     {
-      "title": "Nahost-Liveblog: ++ Bericht: US-Sanktionen gegen Iran sollen aufgehoben werden ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-104.html"
-    },
-    {
       "title": "Rahmenabkommen mit den USA - Positive Signale aus Teheran",
       "link": "https://www.tagesschau.de/ausland/usa-iran-trump-rahmenabkommen-100.html"
-    },
-    {
-      "title": "Bonn macht ÖPNV wegen Brückensperrung ab Montag kostenlos",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/nahverkehr-bonn-kostenlos-100.html"
-    },
-    {
-      "title": "Britischer Künstler David Hockney im Alter von 88 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/kuenstler-hockney-verstorben-100.html"
     },
     {
       "title": "Debatte über Gesundheitsreform im Bundestag",
@@ -45,8 +57,8 @@
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-zoelle-120.html"
     },
     {
-      "title": "Marktbericht: DAX mit großem Schwung Richtung Wochenende",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-spacex-100.html"
+      "title": "Bonn macht ÖPNV wegen Brückensperrung ab Montag kostenlos",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/nahverkehr-bonn-kostenlos-100.html"
     },
     {
       "title": "Thailand: Prinzessin \"Bha\" nach langem Krankenhausaufenthalt gestorben",
@@ -66,19 +78,7 @@
     },
     {
       "title": "Warum der SpaceX-Börsengang für Anleger riskant ist",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/spacex-boersengang-musk-anleger-risiko-100.html"
-    },
-    {
-      "title": "Was bedeutet Warkens Sparpaket für Patientinnen und Patienten?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-spaparpaket-patienten-100.html"
-    },
-    {
-      "title": "Kretas Sorge vor Migration aus Libyen",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-kreta-migration-100.html"
-    },
-    {
-      "title": "BND-Gesetz - Dobrindt bremst offenbar Reform",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/dobrindt-bnd-verfassungsschutz-reform-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/spacex-boersengang-musk-anleger-risiko-100.html"
     }
   ]
 }
