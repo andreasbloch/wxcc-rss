@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Marktbericht: DAX legt zu Wochenschluss kräftig zu",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-spacex-100.html"
+      "title": "Ökonom über Reformpaket: \"Das ist vielleicht die größte Hürde für die Regierung\"",
+      "link": "https://www.tagesschau.de/inland/fratzscher-reformpaket-bundesregierung-100.html"
     },
     {
-      "title": "Nahost-Liveblog: ++ Bericht: US-Sanktionen gegen Iran sollen aufgehoben werden ++",
+      "title": "Nahost-Liveblog: ++ Pakistan: USA und Iran einig bei Friedensvereinbarung ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-104.html"
+    },
+    {
+      "title": "Bildungsminister wollen kritischen Umgang mit Sozialen Medien",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kmk-beschluss-social-media-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX legt zu Wochenschluss kräftig zu",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-spacex-100.html"
     },
     {
       "title": "Gewaltschutzgesetz im Bundesrat: Elektronische Fußfessel soll Frauen schützen",
@@ -71,14 +79,6 @@
     {
       "title": "Dan Jarvis zum neuen britischen Verteidigungsminister ernannt",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-jarvis-verteidigungsminister-100.html"
-    },
-    {
-      "title": "Elon Musk: Der erste Billionär durch den SpaceX-Börsengang?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/elon-musk-spacex-100.html"
-    },
-    {
-      "title": "Warum der SpaceX-Börsengang für Anleger riskant ist",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/spacex-boersengang-musk-anleger-risiko-100.html"
     }
   ]
 }
