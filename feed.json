@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Führende CDU-Politiker warnen vor Zusammenarbeit mit der AfD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-100.html"
+    },
+    {
       "title": "Frauen in der Bundeswehr: \"Man ist Soldat, egal welches Geschlecht\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/frauen-bundeswehr-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Gewaltschutzgesetz im Bundesrat: Elektronische Fußfessel soll Frauen schützen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/haeussliche-gewalt-fussfesseln-femizide-strafrechtsreform-100.html"
-    },
-    {
-      "title": "Britischer Künstler David Hockney im Alter von 88 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/kuenstler-hockney-verstorben-100.html"
     }
   ]
 }
