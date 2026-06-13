@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Iran dämpft Erwartungen an rasches Friedensabkommen mit den USA",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-zeitpunkt-friedenasabkommen-100.html"
+    },
+    {
+      "title": "Haitis WM-Hoffnung trotz Ausnahmezustand",
+      "link": "https://www.tagesschau.de/ausland/amerika/haiti-fussball-wm-100.html"
+    },
+    {
+      "title": "Sicherheitsbedenken: Anthropic muss neueste KI-Versionen sperren",
+      "link": "https://www.tagesschau.de/ausland/amerika/ki-anthropic-100.html"
+    },
+    {
       "title": "Nach Krawallen in Belfast: Tausende Menschen setzen Zeichen gegen Hass",
       "link": "https://www.tagesschau.de/ausland/europa/proteste-belfast-rassismus-100.html"
     },
@@ -37,10 +49,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/slowakei-antimon-abbau-100.html"
     },
     {
-      "title": "Sicherheitsbedenken: Anthropic muss neueste KI-Versionen sperren",
-      "link": "https://www.tagesschau.de/ausland/amerika/ki-anthropic-100.html"
-    },
-    {
       "title": "Kanonenschuss am Mittag: Wenn Kapstadt zusammenzuckt",
       "link": "https://www.tagesschau.de/ausland/amerika/noon-gun-suedafrika-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "UN-Bericht: Höchststand ziviler Opfer in der Ukraine",
       "link": "https://www.tagesschau.de/ausland/ukraine-un-zivile-opfer-100.html"
-    },
-    {
-      "title": "Kämpfe im Libanon: Antike Stätten in Tyros in Gefahr",
-      "link": "https://www.tagesschau.de/ausland/asien/tyros-angriffe-100.html"
-    },
-    {
-      "title": "Wie die Hisbollah zu einer Macht im Libanon wurde",
-      "link": "https://www.tagesschau.de/ausland/asien/hisbollah-geschichte-100.html"
     }
   ]
 }
