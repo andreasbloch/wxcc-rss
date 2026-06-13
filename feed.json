@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Straße von Hormus: USA melden Abschuss iranischer Drohnen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-angriffe-100.html"
+    },
+    {
+      "title": "EU beginnt Beitrittsverhandlungen mit Ukraine und Moldau am Montag",
+      "link": "https://www.tagesschau.de/ausland/eu-ukraine-moldau-102.html"
+    },
+    {
+      "title": "UN-Bericht: Höchststand ziviler Opfer in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/ukraine-un-zivile-opfer-100.html"
+    },
+    {
+      "title": "Kämpfe im Libanon: Antike Stätten in Tyros in Gefahr",
+      "link": "https://www.tagesschau.de/ausland/asien/tyros-angriffe-100.html"
+    },
+    {
+      "title": "Wie die Hisbollah zu einer Macht im Libanon wurde",
+      "link": "https://www.tagesschau.de/ausland/asien/hisbollah-geschichte-100.html"
+    },
+    {
+      "title": "Medizinische Krise im Gazastreifen: Mangel als Dauerzustand",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-gesundheitssystem-100.html"
+    },
+    {
       "title": "EU-Einigung: Fluggastrechte werden erweitert",
       "link": "https://www.tagesschau.de/wirtschaft/eu-fluggastrechte-einigung-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Marktbericht: Ölpreise geben deutlich nach - wie lange noch?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/oel-226.html"
-    },
-    {
-      "title": "Apotheken erhalten mehr Befugnisse: Bundesrat billigt Reform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-apothekenreform-100.html"
-    },
-    {
-      "title": "Fußball-WM in Kanada: Der Traum von einer Revanche gegen Trump",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-trump-102.html"
-    },
-    {
-      "title": "Rahmenabkommen mit den USA - Positive Signale aus Teheran",
-      "link": "https://www.tagesschau.de/ausland/usa-iran-trump-rahmenabkommen-100.html"
-    },
-    {
-      "title": "Debatte über Gesundheitsreform im Bundestag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-krankenkassen-reform-100.html"
-    },
-    {
-      "title": "US-Gericht: USA dürfen Zölle vorerst weiter erheben",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-zoelle-120.html"
-    },
-    {
-      "title": "Bonn macht ÖPNV wegen Brückensperrung ab Montag kostenlos",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/nahverkehr-bonn-kostenlos-100.html"
     }
   ]
 }
