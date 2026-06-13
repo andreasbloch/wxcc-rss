@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Nach Krawallen in Belfast: Tausende Menschen setzen Zeichen gegen Hass",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-belfast-rassismus-100.html"
+    },
+    {
+      "title": "Bundestag untersucht Vorfälle bei Parlaments-Planspiel mit Jugendlichen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugend-und-parlament-eklat-100.html"
+    },
+    {
+      "title": "Braunkohle-Ausstieg - werden ländliche Regionen abgehängt?",
+      "link": "https://www.tagesschau.de/wirtschaft/lausitz-braunkohle-strukturwandel-100.html"
+    },
+    {
       "title": "Führende CDU-Politiker warnen vor Zusammenarbeit mit der AfD",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Wie die Hisbollah zu einer Macht im Libanon wurde",
       "link": "https://www.tagesschau.de/ausland/asien/hisbollah-geschichte-100.html"
-    },
-    {
-      "title": "Medizinische Krise im Gazastreifen: Mangel als Dauerzustand",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-gesundheitssystem-100.html"
-    },
-    {
-      "title": "EU-Einigung: Fluggastrechte werden erweitert",
-      "link": "https://www.tagesschau.de/wirtschaft/eu-fluggastrechte-einigung-100.html"
-    },
-    {
-      "title": "Nahost-Liveblog: ++ Pakistan: USA und Iran einig bei Friedensvereinbarung ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-104.html"
     }
   ]
 }
