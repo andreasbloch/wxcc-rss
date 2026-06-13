@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Straße von Hormus: USA melden Abschuss iranischer Drohnen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-angriffe-100.html"
+    },
+    {
+      "title": "Große Rohstoffvorkommen in Europa - und doch kein Abbau?",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-antimon-abbau-100.html"
+    },
+    {
+      "title": "Sicherheitsbedenken: Anthropic muss neueste KI-Versionen sperren",
+      "link": "https://www.tagesschau.de/ausland/amerika/ki-anthropic-100.html"
+    },
+    {
+      "title": "Kanonenschuss am Mittag: Wenn Kapstadt zusammenzuckt",
+      "link": "https://www.tagesschau.de/ausland/amerika/noon-gun-suedafrika-100.html"
+    },
+    {
       "title": "Führende CDU-Politiker warnen vor Zusammenarbeit mit der AfD",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-100.html"
     },
@@ -23,10 +39,6 @@
     {
       "title": "Panini-WM-Sticker: \"Mit dieser Nachfrage hätten wir nicht gerechnet\"",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/panini-bilder-wm-100.html"
-    },
-    {
-      "title": "Straße von Hormus: USA melden Abschuss iranischer Drohnen",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-angriffe-100.html"
     },
     {
       "title": "EU beginnt Beitrittsverhandlungen mit Ukraine und Moldau am Montag",
@@ -67,18 +79,6 @@
     {
       "title": "Ökonom über Reformpaket: \"Das ist vielleicht die größte Hürde für die Regierung\"",
       "link": "https://www.tagesschau.de/inland/fratzscher-reformpaket-bundesregierung-100.html"
-    },
-    {
-      "title": "Bildungsminister wollen kritischen Umgang mit Sozialen Medien",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kmk-beschluss-social-media-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX legt zu Wochenschluss kräftig zu",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-spacex-100.html"
-    },
-    {
-      "title": "Gewaltschutzgesetz im Bundesrat: Elektronische Fußfessel soll Frauen schützen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haeussliche-gewalt-fussfesseln-femizide-strafrechtsreform-100.html"
     }
   ]
 }
