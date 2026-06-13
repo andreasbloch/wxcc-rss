@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Trumps Name von Kennedy Center in Washington entfernt",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-kennedy-center-106.html"
+    },
+    {
       "title": "Iran dämpft Erwartungen an rasches Friedensabkommen mit den USA",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-zeitpunkt-friedenasabkommen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "EU beginnt Beitrittsverhandlungen mit Ukraine und Moldau am Montag",
       "link": "https://www.tagesschau.de/ausland/eu-ukraine-moldau-102.html"
-    },
-    {
-      "title": "UN-Bericht: Höchststand ziviler Opfer in der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/ukraine-un-zivile-opfer-100.html"
     }
   ]
 }
