@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Livestream: Deutschland gegen Curaçao bei der Fußball-WM",
+      "link": "https://www.tagesschau.de/sport/wm-deutschland-curacao-livestream-100.html"
+    },
+    {
+      "title": "Ukrainische Drohnen treffen Industrieanlagen und Wohnhaus in Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-162.html"
+    },
+    {
       "title": "Was bei der Finanzierung des Hauskaufs zu beachten ist",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkauf-finanzierung-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Extreme Temperaturen: Fußball-WM im Hitzestress",
       "link": "https://www.tagesschau.de/wissen/klima/hitze-fussball-wm-100.html"
-    },
-    {
-      "title": "Vor G7-Gipfel in Évian: Genf wappnet sich für Großdemo",
-      "link": "https://www.tagesschau.de/ausland/europa/g7-gipfel-genf-100.html"
-    },
-    {
-      "title": "Bahnstrecke Hamburg-Berlin nach Sanierung wieder frei - Kritik von Politikern",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-strecke-hamburg-berlin-100.html"
     }
   ]
 }
