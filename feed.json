@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Schweizer lehnen Einwohner-Obergrenze laut Hochrechnung ab",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-volksabtimmung-migration-100.html"
+    },
+    {
+      "title": "Unterseekabel als Sicherheitslücke am Meeresgrund",
+      "link": "https://www.tagesschau.de/ausland/asien/unterseekabel-suedostasien-100.html"
+    },
+    {
+      "title": "Abkommen zum Irankrieg: Warten auf die Entscheidung von Teheran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-120.html"
+    },
+    {
       "title": "Wie steht es um die WM-Stimmung in Deutschland?",
       "link": "https://www.tagesschau.de/inland/gesellschaft/wm-stimmung-fussball-100.html"
     },
     {
       "title": "Rotes Kreuz ruft jüngere Menschen zur Blutspende auf",
       "link": "https://www.tagesschau.de/inland/weltblutspendetag-appell-100.html"
-    },
-    {
-      "title": "Abkommen zum Irankrieg: Warten auf die Entscheidung von Teheran",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-120.html"
     },
     {
       "title": "Umsetzung von EU-Recht: Marmelade darf wieder Marmelade heißen",
@@ -71,14 +79,6 @@
     {
       "title": "Bundestag untersucht Vorfälle bei Parlaments-Planspiel mit Jugendlichen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/jugend-und-parlament-eklat-100.html"
-    },
-    {
-      "title": "Braunkohle-Ausstieg - werden ländliche Regionen abgehängt?",
-      "link": "https://www.tagesschau.de/wirtschaft/lausitz-braunkohle-strukturwandel-100.html"
-    },
-    {
-      "title": "Führende CDU-Politiker warnen vor Zusammenarbeit mit der AfD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-100.html"
     }
   ]
 }
