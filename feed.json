@@ -1,12 +1,32 @@
 {
   "items": [
     {
-      "title": "Trump verkündet Einigung auf Friedensabkommen mit Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-abkommen-usa-krieg-100.html"
+      "title": "Sechs Tote bei Zusammenstoß von Hubschraubern in Rio de Janeiro",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-unfall-helikopter-100.html"
     },
     {
-      "title": "Iran-Liveblog: Merz gratuliert Trump zu \"diplomatischem Durchbruch\"",
+      "title": "11KM-Podcast: Söder unter Druck - bröckelt seine Macht?",
+      "link": "https://www.tagesschau.de/podcast-11km-soeder-100.html"
+    },
+    {
+      "title": "G7-Gipfel in Frankreich: Macron muss Trump \"in Fellrichtung streicheln\"",
+      "link": "https://www.tagesschau.de/ausland/europa/g7-frankreich-europa-trump-100.html"
+    },
+    {
+      "title": "EU startet Beitrittsverhandlungen mit Ukraine und Moldau",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-moldau-eu-beitrittsverhandlungen-100.html"
+    },
+    {
+      "title": "Mehrere Tote nach russischen Angriffen auf Kiew und Charkiw",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-164.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Merz gratuliert Trump zu \"diplomatischem Durchbruch\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html"
+    },
+    {
+      "title": "Trump verkündet Einigung auf Friedensabkommen mit Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-abkommen-usa-krieg-100.html"
     },
     {
       "title": "Tausende protestieren in Genf gegen G7-Gipfel",
@@ -59,26 +79,6 @@
     {
       "title": "Unterseekabel als Sicherheitslücke am Meeresgrund",
       "link": "https://www.tagesschau.de/ausland/asien/unterseekabel-suedostasien-100.html"
-    },
-    {
-      "title": "Abkommen zum Irankrieg: Warten auf die Entscheidung von Teheran",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-verhandlungen-120.html"
-    },
-    {
-      "title": "Wie steht es um die WM-Stimmung in Deutschland?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wm-stimmung-fussball-100.html"
-    },
-    {
-      "title": "Rotes Kreuz ruft jüngere Menschen zur Blutspende auf",
-      "link": "https://www.tagesschau.de/inland/weltblutspendetag-appell-100.html"
-    },
-    {
-      "title": "Umsetzung von EU-Recht: Marmelade darf wieder Marmelade heißen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/umsetzung-fruehstuecksrichtlinie-100.html"
-    },
-    {
-      "title": "Umstrittene Show am Weißen Haus - Spektakel, Politik und Symbolik",
-      "link": "https://www.tagesschau.de/ausland/amerika/donald-trump-geburtstag-ufc-100.html"
     }
   ]
 }
