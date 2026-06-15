@@ -1,12 +1,40 @@
 {
   "items": [
     {
-      "title": "Marktbericht: Die Hoffnung regiert",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-friedensabkommen-100.html"
+      "title": "Iran-Liveblog: ++ Netanjahu will Truppen im Libanon lassen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html"
     },
     {
-      "title": "Iran-Liveblog: ++ Trump: Schiffe verlassen Straße von Hormus ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html"
+      "title": "Nach Iran-Abkommen: Europäer bereit für Hormus-Mission",
+      "link": "https://www.tagesschau.de/ausland/europa/iran-usa-europa-abkommen-100.html"
+    },
+    {
+      "title": "Zehn-Punkte-Plan: CSU-Chef Söder verschafft sich Zeit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-markus-soeder-manfred-weber-100.html"
+    },
+    {
+      "title": "Interview: \"Trump will ein Minimalabkommen als Sieg darstellen\"",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-adebahr-100.html"
+    },
+    {
+      "title": "Kommentar zum Abkommen zwischen USA und Iran: Ein schlechter Deal",
+      "link": "https://www.tagesschau.de/kommentar/iran-usa-abkommen-102.html"
+    },
+    {
+      "title": "AfD-Bundesvorstand verbietet Zusammenarbeit mit Politikberater",
+      "link": "https://www.tagesschau.de/investigativ/afd-beschluss-tom-rohrboeck-100.html"
+    },
+    {
+      "title": "Wie der Lehrermangel Schulen in Brandenburg zusetzt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/lehrermangel-brandenburg-100.html"
+    },
+    {
+      "title": "Bericht der Bundesregierung: Die Bildungsschere öffnet sich schon vor der Schule",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bildungsbericht-bundesregierung-100.html"
+    },
+    {
+      "title": "Marktbericht: Die Hoffnung regiert",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-friedensabkommen-100.html"
     },
     {
       "title": "Urteil gegen Sohn von Mette-Marit: Høiby will in Berufung gehen",
@@ -19,10 +47,6 @@
     {
       "title": "Reifen-Unternehmer Michelin wäre heute 100 Jahre alt geworden",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/michelin-geburtstag-100.html"
-    },
-    {
-      "title": "Nach Iran-Abkommen: Europäer bereit für Hormus-Mission",
-      "link": "https://www.tagesschau.de/ausland/europa/iran-usa-europa-abkommen-100.html"
     },
     {
       "title": "Iran bei der Fußball-WM: Die politischen Konflikte reisen mit",
@@ -55,30 +79,6 @@
     {
       "title": "Nach SpaceX: OpenAI und Anthropic vor dem Börsengang",
       "link": "https://www.tagesschau.de/wirtschaft/boerse/spacex-openai-anthropic-ki-boersengang-100.html"
-    },
-    {
-      "title": "Vor G7-Gipfel: Trump droht Paris mit 100 Prozent Weinsteuer",
-      "link": "https://www.tagesschau.de/ausland/europa/usa-frankreich-zoelle-wein-100.html"
-    },
-    {
-      "title": "Großbritannien plant Social-Media-Verbot für unter 16-Jährige",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-verbot-socialmedia-100.html"
-    },
-    {
-      "title": "Norwegen: Marius Borg Høiby zu vier Jahren Haft verurteilt",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-hoiby-urteil-100.html"
-    },
-    {
-      "title": "Mehrere Tote nach russischen Angriffen auf Kiew und Charkiw",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-164.html"
-    },
-    {
-      "title": "Feier zu Trumps 80. Geburtstag: Prügeln für den Präsidenten",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-geburtstag-kampfsportveranstaltung-100.html"
-    },
-    {
-      "title": "Friedlicher G7-Protest in Genf endet mit Ausschreitungen",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-proteste-ausschreitungen-g7-genf-100.html"
     }
   ]
 }
