@@ -1,16 +1,56 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Die Hoffnung regiert",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-friedensabkommen-100.html"
+    },
+    {
+      "title": "Iran-Liveblog: ++ Trump: Schiffe verlassen Straße von Hormus ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html"
+    },
+    {
+      "title": "Urteil gegen Sohn von Mette-Marit: Høiby will in Berufung gehen",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-hoiby-urteil-berufung-100.html"
+    },
+    {
+      "title": "Belastungen für Soldaten: Wenn Jahre später die Panikattacken kommen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/veteranentag-soldaten-psychische-belastungen-100.html"
+    },
+    {
+      "title": "Reifen-Unternehmer Michelin wäre heute 100 Jahre alt geworden",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/michelin-geburtstag-100.html"
+    },
+    {
+      "title": "Nach Iran-Abkommen: Europäer bereit für Hormus-Mission",
+      "link": "https://www.tagesschau.de/ausland/europa/iran-usa-europa-abkommen-100.html"
+    },
+    {
+      "title": "Iran bei der Fußball-WM: Die politischen Konflikte reisen mit",
+      "link": "https://www.tagesschau.de/ausland/amerika/wm-team-iran-100.html"
+    },
+    {
+      "title": "Urteil gegen Høiby - ein Schlag für die Königsfamilie",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-hoiby-urteil-102.html"
+    },
+    {
+      "title": "Ölpreise bleiben auf Krisenniveau",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreise-hormus-100.html"
+    },
+    {
+      "title": "Israel sieht durch möglichen Iran-Deal eigene Sicherheit gefährdet",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-abkommen-israel-100.html"
+    },
+    {
+      "title": "Kloster in Kiew getroffen: \"Ein Angriff auf unsere Geschichte\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kloster-100.html"
+    },
+    {
       "title": "USA und Iran: Was bedeutet das Abkommen und wie geht es weiter?",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-abkommen-102.html"
     },
     {
       "title": "G7-Gipfel: Wie der Mittelstand unter globalen Krisen leidet",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/g7-handel-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ CDU-Politiker Kiesewetter nennt Iran-Deal \"Desaster\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html"
     },
     {
       "title": "Nach SpaceX: OpenAI und Anthropic vor dem Börsengang",
@@ -29,10 +69,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/norwegen-hoiby-urteil-100.html"
     },
     {
-      "title": "Marktbericht: Anleger erleichtert über Entspannung im Nahen Osten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-friedensabkommen-100.html"
-    },
-    {
       "title": "Mehrere Tote nach russischen Angriffen auf Kiew und Charkiw",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-164.html"
     },
@@ -43,42 +79,6 @@
     {
       "title": "Friedlicher G7-Protest in Genf endet mit Ausschreitungen",
       "link": "https://www.tagesschau.de/ausland/europa/schweiz-proteste-ausschreitungen-g7-genf-100.html"
-    },
-    {
-      "title": "Trump verkündet Einigung auf Abkommen mit Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-abkommen-usa-krieg-100.html"
-    },
-    {
-      "title": "Angehörige im Pflegefall: Debatte über 100.000-Euro-Grenze",
-      "link": "https://www.tagesschau.de/inland/pflegekosten-angehoerige-pflegebeauftragte-100.html"
-    },
-    {
-      "title": "Sechs Tote bei Zusammenstoß von Hubschraubern in Rio de Janeiro",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-unfall-helikopter-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Söder unter Druck - bröckelt seine Macht?",
-      "link": "https://www.tagesschau.de/podcast-11km-soeder-100.html"
-    },
-    {
-      "title": "G7-Gipfel in Frankreich: Macron muss Trump \"in Fellrichtung streicheln\"",
-      "link": "https://www.tagesschau.de/ausland/europa/g7-frankreich-europa-trump-100.html"
-    },
-    {
-      "title": "EU startet Beitrittsverhandlungen mit Ukraine und Moldau",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-moldau-eu-beitrittsverhandlungen-100.html"
-    },
-    {
-      "title": "Tausende protestieren in Genf gegen G7-Gipfel",
-      "link": "https://www.tagesschau.de/ausland/europa/g7-protest-genf-100.html"
-    },
-    {
-      "title": "Livestream: Deutschland gegen Curaçao bei der Fußball-WM",
-      "link": "https://www.tagesschau.de/sport/wm-deutschland-curacao-livestream-100.html"
-    },
-    {
-      "title": "Krieg in Nahost: Trump ermahnt Israel nach Angriff im Libanon",
-      "link": "https://www.tagesschau.de/ausland/usa-trump-iran-israel-libanon-100.html"
     }
   ]
 }
