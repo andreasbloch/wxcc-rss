@@ -1,16 +1,52 @@
 {
   "items": [
     {
+      "title": "Bombenentschärfung in Potsdam: Evakuierungen in der Innenstadt",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/bombenentschaerfung-potsdam-sperrungen-100.html"
+    },
+    {
+      "title": "Zahl der Einwohner in Deutschland leicht gesunken",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/schrumpfende-bevoelkerung-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger sezieren geplantes Friedensabkommen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-132.html"
+    },
+    {
+      "title": "G7-Staaten beraten in Évian über Krieg in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/g7-gipfel-evian-100.html"
+    },
+    {
+      "title": "Summer Exhibition in London: Wenn Hobbykünstler neben Ikonen ausstellen",
+      "link": "https://www.tagesschau.de/kultur/london-demokratische-ausstellung-100.html"
+    },
+    {
+      "title": "Klamme Kommunen - eine Gefahr für die Demokratie?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kommunen-finanzlage-102.html"
+    },
+    {
+      "title": "Wadephul nennt Voraussetzungen für Einsatz in Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/wadephul-minenraeumung-hormus-100.html"
+    },
+    {
+      "title": "Analyse der Stromnetzbetreiber - Rekordrenditen und massive Kritik",
+      "link": "https://www.tagesschau.de/investigativ/swr/stromnetzbetreiber-rendite-100.html"
+    },
+    {
+      "title": "Newsom wirft Trump politisch motivierte Ermittlungen vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-newsom-vorwuerfe-gegen-trump-100.html"
+    },
+    {
+      "title": "Interview: \"Trump will ein Minimalabkommen als Sieg darstellen\"",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-adebahr-100.html"
+    },
+    {
       "title": "Tschechische Regierung spart beim öffentlich-rechtlichen Rundfunk",
       "link": "https://www.tagesschau.de/ausland/europa/tschechien-medienreform-100.html"
     },
     {
       "title": "11KM-Podcast: KI-Rechenzentren - verspielt Deutschland die Zukunft?",
       "link": "https://www.tagesschau.de/podcast-11km-ki-rechenzentren-100.html"
-    },
-    {
-      "title": "G7-Staaten beraten in Évian über Krieg in der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/g7-gipfel-evian-100.html"
     },
     {
       "title": "Bundesverfassungsgericht verhandelt zu Abschaffung der Stoffstrombilanzverordnung",
@@ -37,48 +73,12 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/csu-markus-soeder-manfred-weber-100.html"
     },
     {
-      "title": "Interview: \"Trump will ein Minimalabkommen als Sieg darstellen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-adebahr-100.html"
-    },
-    {
       "title": "Kommentar zum Abkommen zwischen USA und Iran: Ein schlechter Deal",
       "link": "https://www.tagesschau.de/kommentar/iran-usa-abkommen-102.html"
     },
     {
       "title": "AfD-Bundesvorstand verbietet Zusammenarbeit mit Politikberater",
       "link": "https://www.tagesschau.de/investigativ/afd-beschluss-tom-rohrboeck-100.html"
-    },
-    {
-      "title": "Wie der Lehrermangel Schulen in Brandenburg zusetzt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/lehrermangel-brandenburg-100.html"
-    },
-    {
-      "title": "Bericht der Bundesregierung: Die Bildungsschere öffnet sich schon vor der Schule",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bildungsbericht-bundesregierung-100.html"
-    },
-    {
-      "title": "Marktbericht: Die Hoffnung regiert",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-friedensabkommen-100.html"
-    },
-    {
-      "title": "Urteil gegen Sohn von Mette-Marit: Høiby will in Berufung gehen",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-hoiby-urteil-berufung-100.html"
-    },
-    {
-      "title": "Belastungen für Soldaten: Wenn Jahre später die Panikattacken kommen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/veteranentag-soldaten-psychische-belastungen-100.html"
-    },
-    {
-      "title": "Reifen-Unternehmer Michelin wäre heute 100 Jahre alt geworden",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/michelin-geburtstag-100.html"
-    },
-    {
-      "title": "Iran bei der Fußball-WM: Die politischen Konflikte reisen mit",
-      "link": "https://www.tagesschau.de/ausland/amerika/wm-team-iran-100.html"
-    },
-    {
-      "title": "Urteil gegen Høiby - ein Schlag für die Königsfamilie",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-hoiby-urteil-102.html"
     }
   ]
 }
