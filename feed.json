@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Tschechische Regierung spart beim öffentlich-rechtlichen Rundfunk",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-medienreform-100.html"
+    },
+    {
+      "title": "11KM-Podcast: KI-Rechenzentren - verspielt Deutschland die Zukunft?",
+      "link": "https://www.tagesschau.de/podcast-11km-ki-rechenzentren-100.html"
+    },
+    {
+      "title": "G7-Staaten beraten in Évian über Krieg in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/g7-gipfel-evian-100.html"
+    },
+    {
+      "title": "Bundesverfassungsgericht verhandelt zu Abschaffung der Stoffstrombilanzverordnung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-stoffstrombilanzverordnung-100.html"
+    },
+    {
+      "title": "B-52-Bomber der US-Luftwaffe in Kalifornien abgestürzt",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-kaliformien-b52-absturz-100.html"
+    },
+    {
+      "title": "Jedes zweite Kind laut UNICEF-Studie von Klimarisiken betroffen",
+      "link": "https://www.tagesschau.de/wissen/klima/klima-kinder-unicef-100.html"
+    },
+    {
       "title": "Iran-Liveblog: ++ Netanjahu will Truppen im Libanon lassen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Urteil gegen Høiby - ein Schlag für die Königsfamilie",
       "link": "https://www.tagesschau.de/ausland/europa/norwegen-hoiby-urteil-102.html"
-    },
-    {
-      "title": "Ölpreise bleiben auf Krisenniveau",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreise-hormus-100.html"
-    },
-    {
-      "title": "Israel sieht durch möglichen Iran-Deal eigene Sicherheit gefährdet",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-abkommen-israel-100.html"
-    },
-    {
-      "title": "Kloster in Kiew getroffen: \"Ein Angriff auf unsere Geschichte\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kloster-100.html"
-    },
-    {
-      "title": "USA und Iran: Was bedeutet das Abkommen und wie geht es weiter?",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-abkommen-102.html"
-    },
-    {
-      "title": "G7-Gipfel: Wie der Mittelstand unter globalen Krisen leidet",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/g7-handel-100.html"
-    },
-    {
-      "title": "Nach SpaceX: OpenAI und Anthropic vor dem Börsengang",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/spacex-openai-anthropic-ki-boersengang-100.html"
     }
   ]
 }
