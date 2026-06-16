@@ -1,8 +1,76 @@
 {
   "items": [
     {
-      "title": "Bombenentschärfung in Potsdam: Evakuierungen in der Innenstadt",
+      "title": "Erneuter Abschiebeflug: Straftäter nach Afghanistan ausgewiesen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/abschiebeflug-afghanen-100.html"
+    },
+    {
+      "title": "Bundesratsinitiative aus Berlin für schärferes Waffenrecht",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/schaerferes-waffenrecht-bundesratsinitiative-100.html"
+    },
+    {
+      "title": "EU-Vergleich: Deutsche Badegewässer schneiden sehr gut ab",
+      "link": "https://www.tagesschau.de/wissen/badegewaesser-qualitaet-europa-100.html"
+    },
+    {
+      "title": "Was soll das neue Abwehrzentrum für hybride Bedrohungen bringen?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/abwehrzentrum-hybride-bedrohungen-100.html"
+    },
+    {
+      "title": "Fakes zur WM 2026 - KI-generierte Bilder und falsche Ticketshops",
+      "link": "https://www.tagesschau.de/faktenfinder/wm-2026-fakes-100.html"
+    },
+    {
+      "title": "Zahl der Sozialwohnungen auch 2025 wieder gesunken",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sozialwohnungen-148.html"
+    },
+    {
+      "title": "Milliarden-Deal: SpaceX will KI-Startup kaufen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/spacex-cursor-uebernahme-100.html"
+    },
+    {
+      "title": "Europaparlament stimmt für Gesetze zur KI-Regulierung",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-regulierung-deepfakes-100.html"
+    },
+    {
+      "title": "Fliegerbombe in Potsdam entschärft",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/bombenentschaerfung-potsdam-sperrungen-100.html"
+    },
+    {
+      "title": "Raffinerie getroffen - Moskau meldet Attacken von 60 Drohnen",
+      "link": "https://www.tagesschau.de/ausland/russland-meldet-ukrainische-angriffe-100.html"
+    },
+    {
+      "title": "G7 planen neue Russland-Sanktionen",
+      "link": "https://www.tagesschau.de/ausland/europa/g7-ukraine-sanktionen-russland-100.html"
+    },
+    {
+      "title": "Abstimmung im EU-Parlament: Weg frei für Handelsdeal mit USA",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-usa-handelsabkommen-100.html"
+    },
+    {
+      "title": "Marktbericht: Zuviel Optimismus an der Börse?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-optimismus-100.html"
+    },
+    {
+      "title": "Senioren erobern die Film- und Serienwelt",
+      "link": "https://www.tagesschau.de/kultur/senioren-in-film-und-serie-100.html"
+    },
+    {
+      "title": "Dobrindt öffnet Zentrum für die Abwehr hybrider Gefahren",
+      "link": "https://www.tagesschau.de/inland/abwehrzentrum-hybride-gefahren-100.html"
+    },
+    {
+      "title": "Streit über UniCredit-Angebot für Commerzbank kurz vor Fristende",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-commerzbank-106.html"
+    },
+    {
+      "title": "Jazzlegende Abdullah Ibrahim mit 91 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/jazzlegende-ibrahim-verstorben-100.html"
+    },
+    {
+      "title": "Scheitert das Iran-Abkommen an der Libanon-Frage?",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-libanon-israel-100.html"
     },
     {
       "title": "Zahl der Einwohner in Deutschland leicht gesunken",
@@ -11,74 +79,6 @@
     {
       "title": "Marktbericht: Anleger sezieren geplantes Friedensabkommen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-132.html"
-    },
-    {
-      "title": "G7-Staaten beraten in Évian über Krieg in der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/g7-gipfel-evian-100.html"
-    },
-    {
-      "title": "Summer Exhibition in London: Wenn Hobbykünstler neben Ikonen ausstellen",
-      "link": "https://www.tagesschau.de/kultur/london-demokratische-ausstellung-100.html"
-    },
-    {
-      "title": "Klamme Kommunen - eine Gefahr für die Demokratie?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kommunen-finanzlage-102.html"
-    },
-    {
-      "title": "Wadephul nennt Voraussetzungen für Einsatz in Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/wadephul-minenraeumung-hormus-100.html"
-    },
-    {
-      "title": "Analyse der Stromnetzbetreiber - Rekordrenditen und massive Kritik",
-      "link": "https://www.tagesschau.de/investigativ/swr/stromnetzbetreiber-rendite-100.html"
-    },
-    {
-      "title": "Newsom wirft Trump politisch motivierte Ermittlungen vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/ermittlungen-newsom-vorwuerfe-gegen-trump-100.html"
-    },
-    {
-      "title": "Interview: \"Trump will ein Minimalabkommen als Sieg darstellen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-adebahr-100.html"
-    },
-    {
-      "title": "Tschechische Regierung spart beim öffentlich-rechtlichen Rundfunk",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-medienreform-100.html"
-    },
-    {
-      "title": "11KM-Podcast: KI-Rechenzentren - verspielt Deutschland die Zukunft?",
-      "link": "https://www.tagesschau.de/podcast-11km-ki-rechenzentren-100.html"
-    },
-    {
-      "title": "Bundesverfassungsgericht verhandelt zu Abschaffung der Stoffstrombilanzverordnung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-stoffstrombilanzverordnung-100.html"
-    },
-    {
-      "title": "B-52-Bomber der US-Luftwaffe in Kalifornien abgestürzt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-kaliformien-b52-absturz-100.html"
-    },
-    {
-      "title": "Jedes zweite Kind laut UNICEF-Studie von Klimarisiken betroffen",
-      "link": "https://www.tagesschau.de/wissen/klima/klima-kinder-unicef-100.html"
-    },
-    {
-      "title": "Iran-Liveblog: ++ Netanjahu will Truppen im Libanon lassen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-montag-126.html"
-    },
-    {
-      "title": "Nach Iran-Abkommen: Europäer bereit für Hormus-Mission",
-      "link": "https://www.tagesschau.de/ausland/europa/iran-usa-europa-abkommen-100.html"
-    },
-    {
-      "title": "Zehn-Punkte-Plan: CSU-Chef Söder verschafft sich Zeit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-markus-soeder-manfred-weber-100.html"
-    },
-    {
-      "title": "Kommentar zum Abkommen zwischen USA und Iran: Ein schlechter Deal",
-      "link": "https://www.tagesschau.de/kommentar/iran-usa-abkommen-102.html"
-    },
-    {
-      "title": "AfD-Bundesvorstand verbietet Zusammenarbeit mit Politikberater",
-      "link": "https://www.tagesschau.de/investigativ/afd-beschluss-tom-rohrboeck-100.html"
     }
   ]
 }
