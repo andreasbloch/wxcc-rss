@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "US-Notenbank lässt Leitzins unverändert",
+      "link": "https://www.tagesschau.de/wirtschaft/fed-leitzins-154.html"
+    },
+    {
+      "title": "Wie viel KI verträgt die deutsche Politik?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ki-politik-reden-100.html"
+    },
+    {
+      "title": "G7-Gipfel: Die Lage bleibt fragil",
+      "link": "https://www.tagesschau.de/kommentar/trump-g7-gipfel-100.html"
+    },
+    {
       "title": "Bundesbank-Studie: Deutsche zahlen meistens ohne Bargeld",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/bargeld-studie-bundesbank-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Deutschland gibt NS-Raubgut an Polen zurück",
       "link": "https://www.tagesschau.de/ausland/europa/deutschland-polen-beziehung-freundschaft-kulturgueter-100.html"
-    },
-    {
-      "title": "Moderna hat Interesse an BioNTech-Werken in Deutschland",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-biontech-moderna-100.html"
-    },
-    {
-      "title": "EU-Parlament beschließt gelockerte Regeln für Gentechnik",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gentechnik-lockerungen-100.html"
-    },
-    {
-      "title": "Offshore-Netzanbindung: Milliardenauftrag bleibt in Deutschland",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/offshore-windkraft-rostock-milliardenauftrag-jobs-100.html"
     }
   ]
 }
