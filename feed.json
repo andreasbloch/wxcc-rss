@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Bundesbank-Studie: Deutsche zahlen meistens ohne Bargeld",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bargeld-studie-bundesbank-100.html"
+    },
+    {
+      "title": "Was bedeuten die neuen EU-Regeln zu Gentechnik?",
+      "link": "https://www.tagesschau.de/faq-eu-gentechnik-100.html"
+    },
+    {
+      "title": "Urteil: Verfassungsschutz darf AfD in Bayern beobachten",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-verfassungsschutz-afd-100.html"
+    },
+    {
+      "title": "Merz und Macron loben G7-Gipfel als Erfolg",
+      "link": "https://www.tagesschau.de/ausland/g7-evian-bilanz-100.html"
+    },
+    {
+      "title": "Pistorius unterzeichnet Verteidigungsabkommen in Warschau",
+      "link": "https://www.tagesschau.de/ausland/europa/verteidigungsabkommen-warschau-100.html"
+    },
+    {
+      "title": "Anleger halten sich vor Fed-Entscheidung zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dow-dax-100.html"
+    },
+    {
       "title": "Merz wertet Ergebnisse des G7-Gipfels als Erfolg",
       "link": "https://www.tagesschau.de/ausland/europa/merz-evian-g7-interview-100.html"
     },
@@ -29,10 +53,6 @@
       "link": "https://www.tagesschau.de/ausland/trump-iran-abkommen-100.html"
     },
     {
-      "title": "Urteil: Verfassungsschutz darf AfD in Bayern beobachten",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-verfassungsschutz-afd-100.html"
-    },
-    {
       "title": "Was steckt hinter den russischen Warnschüssen im Ärmelkanal?",
       "link": "https://www.tagesschau.de/ausland/europa/warnschuesse-aermelkanal-russisches-kriegsschiff-100.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Offshore-Netzanbindung: Milliardenauftrag bleibt in Deutschland",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/offshore-windkraft-rostock-milliardenauftrag-jobs-100.html"
-    },
-    {
-      "title": "Kronprinzessin Mette-Marit hat neue Lunge erhalten",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegens-kronprinzessin-erhaelt-lunge-100.html"
-    },
-    {
-      "title": "Nach Sanierung weiter Verspätungen auf Bahnstrecke Berlin-Hamburg",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahnstrecke-hamburg-berlin-108.html"
-    },
-    {
-      "title": "EU-Umfrage: Jugendliche sehen Social Media positiver als Eltern",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-umfrage-social-media-100.html"
-    },
-    {
-      "title": "Anleger halten sich vor Fed-Entscheidung zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dow-dax-100.html"
-    },
-    {
-      "title": "Deutschland und Polen: Eine komplizierte Freundschaft",
-      "link": "https://www.tagesschau.de/ausland/europa/deutsch-polnische-beziehung-proteste-100.html"
     }
   ]
 }
