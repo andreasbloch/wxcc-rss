@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "In den USA überwiegen nach Rahmenabkommen Skepsis und Kritik",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-reax-104.html"
+    },
+    {
+      "title": "Nach Schüssen auf Kreml-Kritiker: Verdächtiger festgenommen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-russland-putin-kuenstler-100.html"
+    },
+    {
+      "title": "Straße von Hormus: Warum die Normalisierung Monate dauern wird",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-abkommen-hormus-oelpreise-schifffahrt-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX kommt nicht vom Fleck",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelmarkt-fed-100.html"
+    },
+    {
+      "title": "Entwurf für Arbeitszeitgesetz sorgt für scharfe Kritik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entwurf-arbeitszeitgesetz-100.html"
+    },
+    {
       "title": "Putin in Kasan: Kein Wort zum Großangriff auf Raffinerie in Moskau",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-170.html"
     },
@@ -15,10 +35,6 @@
     {
       "title": "Gutachten: Verfassungsrechtliche Zweifel am Gebäudemodernisierungsgesetz",
       "link": "https://www.tagesschau.de/inland/innenpolitik/rechtliche-zweifel-gebaeudemodernisierungsgesetz-100.html"
-    },
-    {
-      "title": "Straße von Hormus: Warum die Normalisierung Monate dauern wird",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-abkommen-hormus-oelpreise-schifffahrt-100.html"
     },
     {
       "title": "Gespräche über Friedenslösung zwischen USA und Iran sollen beginnen",
@@ -63,22 +79,6 @@
     {
       "title": "NATO-Generalsekretär Rutte: US-Streichpläne gelten ab sofort",
       "link": "https://www.tagesschau.de/ausland/amerika/rutte-vor-nato-treffen-100.html"
-    },
-    {
-      "title": "Ukrainische Drohnen treffen Raffinerie in Moskau",
-      "link": "https://www.tagesschau.de/ausland/russland-ukraine-selenskyj-100.html"
-    },
-    {
-      "title": "Marktbericht: Zinsausblick der Fed stört die Anleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelmarkt-fed-100.html"
-    },
-    {
-      "title": "Apple: KI-Boom treibt iPhone-Preise nach oben",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-iphone-preise-ki-chips-100.html"
-    },
-    {
-      "title": "Deutscher Wetterdienst: Hitzewarnungen, Gewitter, Starkregen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzewelle-138.html"
     }
   ]
 }
