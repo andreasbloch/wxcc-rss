@@ -1,12 +1,24 @@
 {
   "items": [
     {
-      "title": "USA und Iran haben Rahmenabkommen wohl bereits unterzeichnet",
-      "link": "https://www.tagesschau.de/ausland/vereinbarung-usa-iran-unterzeichnet-100.html"
+      "title": "Lage des VW-Konzerns: \"Ein Sparprogramm allein ist keine Strategie\"",
+      "link": "https://www.tagesschau.de/wirtschaft/vw-sparprogramm-hauptversammlung-100.html"
     },
     {
-      "title": "Entscheidender Tag für Starmer: Schicksalswahl in Makersfield",
+      "title": "Entscheidender Tag für Starmer: Schicksalswahl in Makerfield",
       "link": "https://www.tagesschau.de/ausland/europa/wahlkampf-makerfield-100.html"
+    },
+    {
+      "title": "Eine klaffende Lücke zwischen Anspruch und Wirklichkeit",
+      "link": "https://www.tagesschau.de/inland/gutachten-umweltrat-100.html"
+    },
+    {
+      "title": "Hitzewelle in Deutschland: Regeln am Arbeitsplatz und in der Schule",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-hitze-rechte-100.html"
+    },
+    {
+      "title": "USA und Iran haben Rahmenabkommen wohl bereits unterzeichnet",
+      "link": "https://www.tagesschau.de/ausland/vereinbarung-usa-iran-unterzeichnet-100.html"
     },
     {
       "title": "Was in der Absichtserklärung zwischen den USA und Iran steht",
@@ -67,18 +79,6 @@
     {
       "title": "Filmstart von \"Backrooms\": Verschwunden in gelben Fluren",
       "link": "https://www.tagesschau.de/kultur/backrooms-100.html"
-    },
-    {
-      "title": "Mehr als vier Millionen Geflüchtete und Vertriebene in Deutschland",
-      "link": "https://www.tagesschau.de/inland/weltfluechtlingstag-2026-100.html"
-    },
-    {
-      "title": "Trump schickt erneut Drohung Richtung Iran",
-      "link": "https://www.tagesschau.de/ausland/trump-iran-abkommen-100.html"
-    },
-    {
-      "title": "Was steckt hinter den russischen Warnschüssen im Ärmelkanal?",
-      "link": "https://www.tagesschau.de/ausland/europa/warnschuesse-aermelkanal-russisches-kriegsschiff-100.html"
     }
   ]
 }
