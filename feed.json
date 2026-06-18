@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Nach Schüssen auf russischen Exilkünstler: Mann in Polen festgenommen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-russischer-exilkuenstler-verdacht-eines-politischen-mordes-tusk-100.html"
+    },
+    {
+      "title": "US Supreme Court: Wo die Macht von Donald Trump endet",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-supreme-court-102.html"
+    },
+    {
+      "title": "Katechon - das neue Apokalypse-Schlagwort der Rechten",
+      "link": "https://www.tagesschau.de/kultur/katechon-100.html"
+    },
+    {
+      "title": "NATO: Hegseth kündigt Überprüfung der US-Truppenpräsenz an",
+      "link": "https://www.tagesschau.de/ausland/europa/hegseth-in-bruessel-100.html"
+    },
+    {
       "title": "Bundeswehr bereitet Marineeinsatz in Hormus vor",
       "link": "https://www.tagesschau.de/ausland/europa/bundeswehr-marineschiffe-strasse-von-hormus-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Was in der Absichtserklärung zwischen den USA und Iran steht",
       "link": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-iran-100.html"
-    },
-    {
-      "title": "US-Notenbank lässt Leitzins unverändert",
-      "link": "https://www.tagesschau.de/wirtschaft/fed-leitzins-154.html"
-    },
-    {
-      "title": "Wie viel KI verträgt die deutsche Politik?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ki-politik-reden-100.html"
-    },
-    {
-      "title": "G7-Gipfel: Die Lage bleibt fragil",
-      "link": "https://www.tagesschau.de/kommentar/trump-g7-gipfel-100.html"
-    },
-    {
-      "title": "Bundesbank-Studie: Deutsche zahlen meistens ohne Bargeld",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bargeld-studie-bundesbank-100.html"
     }
   ]
 }
