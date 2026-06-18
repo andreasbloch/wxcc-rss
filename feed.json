@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Bundeswehr bereitet Marineeinsatz in Hormus vor",
+      "link": "https://www.tagesschau.de/ausland/europa/bundeswehr-marineschiffe-strasse-von-hormus-100.html"
+    },
+    {
+      "title": "EU-Gipfel: Zu viele schwierige Themen für nur einen Tag",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-648.html"
+    },
+    {
+      "title": "Deutschland als Bremser beim Schutz vor Chinas Übermacht?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/china-politik-deutschland-100.html"
+    },
+    {
+      "title": "NATO-Generalsekretär Rutte: US-Streichpläne gelten ab sofort",
+      "link": "https://www.tagesschau.de/ausland/amerika/rutte-vor-nato-treffen-100.html"
+    },
+    {
+      "title": "Ukrainische Drohnen treffen Raffinerie in Moskau",
+      "link": "https://www.tagesschau.de/ausland/russland-ukraine-selenskyj-100.html"
+    },
+    {
+      "title": "Marktbericht: Zinsausblick der Fed stört die Anleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelmarkt-fed-100.html"
+    },
+    {
+      "title": "Apple: KI-Boom treibt iPhone-Preise nach oben",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-iphone-preise-ki-chips-100.html"
+    },
+    {
+      "title": "Deutscher Wetterdienst: Hitzewarnungen, Gewitter, Starkregen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzewelle-138.html"
+    },
+    {
+      "title": "Albanien: Proteste wegen Luxusprojekt von Kushner und Ivanka Trump",
+      "link": "https://www.tagesschau.de/ausland/europa/albanien-flamingo-proteste-100.html"
+    },
+    {
+      "title": "Iran und USA: Wie es nach der Unterzeichnung des Abkommens weitergeht",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-abkommen-was-es-bedeutet-100.html"
+    },
+    {
       "title": "Lage des VW-Konzerns: \"Ein Sparprogramm allein ist keine Strategie\"",
       "link": "https://www.tagesschau.de/wirtschaft/vw-sparprogramm-hauptversammlung-100.html"
     },
@@ -13,11 +53,11 @@
       "link": "https://www.tagesschau.de/inland/gutachten-umweltrat-100.html"
     },
     {
-      "title": "Hitzewelle in Deutschland: Regeln am Arbeitsplatz und in der Schule",
+      "title": "Hitze in Deutschland: Regeln am Arbeitsplatz und in der Schule",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/faq-hitze-rechte-100.html"
     },
     {
-      "title": "USA und Iran haben Rahmenabkommen wohl bereits unterzeichnet",
+      "title": "USA und Iran haben Rahmenabkommen bereits unterzeichnet",
       "link": "https://www.tagesschau.de/ausland/vereinbarung-usa-iran-unterzeichnet-100.html"
     },
     {
@@ -39,46 +79,6 @@
     {
       "title": "Bundesbank-Studie: Deutsche zahlen meistens ohne Bargeld",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/bargeld-studie-bundesbank-100.html"
-    },
-    {
-      "title": "Was bedeuten die neuen EU-Regeln zu Gentechnik?",
-      "link": "https://www.tagesschau.de/faq-eu-gentechnik-100.html"
-    },
-    {
-      "title": "Urteil: Verfassungsschutz darf AfD in Bayern beobachten",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/bayern-verfassungsschutz-afd-100.html"
-    },
-    {
-      "title": "Merz und Macron loben G7-Gipfel als Erfolg",
-      "link": "https://www.tagesschau.de/ausland/g7-evian-bilanz-100.html"
-    },
-    {
-      "title": "Pistorius unterzeichnet Verteidigungsabkommen in Warschau",
-      "link": "https://www.tagesschau.de/ausland/europa/verteidigungsabkommen-warschau-100.html"
-    },
-    {
-      "title": "Anleger halten sich vor Fed-Entscheidung zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dow-dax-100.html"
-    },
-    {
-      "title": "Merz wertet Ergebnisse des G7-Gipfels als Erfolg",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-evian-g7-interview-100.html"
-    },
-    {
-      "title": "Zahl antisemitischer Vorfälle verharrt auf hohem Niveau",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/rias-antisemitismus-104.html"
-    },
-    {
-      "title": "Belgien muss erstmals Opfer von Kolonialverbrechen entschädigen",
-      "link": "https://www.tagesschau.de/ausland/europa/kolonialverbrechen-belgien-kongo-100.html"
-    },
-    {
-      "title": "Iran-Krieg drückt Ölvorräte auf tiefsten Stand seit 1990",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelreserven-iea-iran-hormus-russland-100.html"
-    },
-    {
-      "title": "Filmstart von \"Backrooms\": Verschwunden in gelben Fluren",
-      "link": "https://www.tagesschau.de/kultur/backrooms-100.html"
     }
   ]
 }
