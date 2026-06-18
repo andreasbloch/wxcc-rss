@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "EU verlängert Russland-Sanktionen um zwölf Monate",
+      "link": "https://www.tagesschau.de/ausland/eu-sanktionen-russland-206.html"
+    },
+    {
       "title": "Entwurf für Arbeitszeitgesetz sorgt für scharfe Kritik",
       "link": "https://www.tagesschau.de/inland/innenpolitik/entwurf-arbeitszeitgesetz-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Deutschland als Bremser beim Schutz vor Chinas Übermacht?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/china-politik-deutschland-100.html"
-    },
-    {
-      "title": "NATO-Generalsekretär Rutte: US-Streichpläne gelten ab sofort",
-      "link": "https://www.tagesschau.de/ausland/amerika/rutte-vor-nato-treffen-100.html"
     }
   ]
 }
