@@ -1,16 +1,36 @@
 {
   "items": [
     {
+      "title": "Israel und Hisbollah vereinbaren offenbar erneute Waffenruhe",
+      "link": "https://www.tagesschau.de/ausland/israel-hisbollah-130.html"
+    },
+    {
+      "title": "Wie der fallende Ölpreis Russlands Kriegswirtschaft bedroht",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-wirtschaft-putin-oelpreis-rubel-100.html"
+    },
+    {
+      "title": "Bauministerium legt \"Aktionsplan zur Senkung der Baukosten\" vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-baukosten-100.html"
+    },
+    {
+      "title": "Warnung des DWD: Hitzewelle und Gewitter über Deutschland",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-unwetter-104.html"
+    },
+    {
+      "title": "Kurz nach dem Börsengang will sich SpaceX Geld am Kapitalmarkt leihen.",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-spacex-100.html"
+    },
+    {
+      "title": "Nachfolge des Bundespräsidenten: Steinmeier spricht sich für Politik-Profi aus",
+      "link": "https://www.tagesschau.de/inland/steinmeier-interview-104.html"
+    },
+    {
       "title": "Ehemaliger Domspatz scheitert mit Klage auf Schmerzensgeld",
       "link": "https://www.tagesschau.de/inland/domspatz-klage-schmerzensgeld-100.html"
     },
     {
       "title": "Bonner Nordbrücke bleibt gesperrt - Teilneubau nötig",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a565-bruecke-bleibt-gesperrt-bonner-nordbruecke-wird-teils-neu-gebaut-100.html"
-    },
-    {
-      "title": "Warnung des DWD: Hitzewelle und Gewitter über Deutschland",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-unwetter-104.html"
     },
     {
       "title": "Starmer will um sein Amt als Labour-Chef in Großbritannien kämpfen",
@@ -59,26 +79,6 @@
     {
       "title": "10. Todestag Götz George: \"Schimanski\" prägt das deutsche Fernsehen bis heute",
       "link": "https://www.tagesschau.de/kultur/schimanski-praegt-deutsche-fernsehen-bis-heute,goetz-george-142.html"
-    },
-    {
-      "title": "Was der Einstieg von Italo ins deutsche Bahngeschäft bringen könnte ",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/einstieg-italo-deutsche-bahn-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Reparaturstau - ist die Bundeswehr einsatzbereit?",
-      "link": "https://www.tagesschau.de/podcast-11km-bundeswehr-reparaturstau-100.html"
-    },
-    {
-      "title": "Bauministerium legt \"Aktionsplan zur Senkung der Baukosten\" vor",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-baukosten-100.html"
-    },
-    {
-      "title": "Parteitag der Linken: Klassenkampf mit neuem Co-Vorsitz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/parteitag-linkspartei-102.html"
-    },
-    {
-      "title": "EU verlängert Russland-Sanktionen um zwölf Monate",
-      "link": "https://www.tagesschau.de/ausland/eu-sanktionen-russland-206.html"
     }
   ]
 }
