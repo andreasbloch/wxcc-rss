@@ -1,8 +1,36 @@
 {
   "items": [
     {
+      "title": "Innenminister wollen mehr Zivilschutz bis 2029",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/innenministerkonferenz-hamburg-schutz-der-zivilbevoelkerung-krisenvorsorge-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX rutscht knapp unter 25.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-134.html"
+    },
+    {
+      "title": "Schwerdtner auf Parteitag: \"Für diesen Sturm sind wir noch nicht gewappnet\"",
+      "link": "https://www.tagesschau.de/inland/linkspartei-260.html"
+    },
+    {
+      "title": "Meloni bezeichnet Trump-Äußerung als \"völlig frei erfunden\"",
+      "link": "https://www.tagesschau.de/ausland/trump-meloni-114.html"
+    },
+    {
       "title": "Israel und Hisbollah vereinbaren offenbar erneute Waffenruhe",
       "link": "https://www.tagesschau.de/ausland/israel-hisbollah-130.html"
+    },
+    {
+      "title": "Sensationsfund in Paris: Bislang unbekanntes Mozart-Manuskript aufgetaucht",
+      "link": "https://www.tagesschau.de/kultur/mozart-manuskript-paris-102.html"
+    },
+    {
+      "title": "Bayreuther Gedenkveranstaltung mit Friedman soll nun doch stattfinden",
+      "link": "https://www.tagesschau.de/inland/bayreuth-festspiele-gedenkveranstaltung-100.html"
+    },
+    {
+      "title": "Italienische Firma lässt Kleidung in Eritrea produzieren",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/textilienproduktion-eritrea-100.html"
     },
     {
       "title": "Wie der fallende Ölpreis Russlands Kriegswirtschaft bedroht",
@@ -51,34 +79,6 @@
     {
       "title": "18 Tote bei israelischem Angriff auf Hisbollah im Libanon",
       "link": "https://www.tagesschau.de/ausland/asien/nahost-libanon-tote-100.html"
-    },
-    {
-      "title": "Marktbericht:  Freundlicher DAX, aber keine Entwarnung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-134.html"
-    },
-    {
-      "title": "Im Onlinehandel ist der Widerrufsbutton jetzt Pflicht",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-widerruf-100.html"
-    },
-    {
-      "title": "Wäre ein Bundeswehreinsatz in der Straße von Hormus rechtlich möglich?",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-hormus-bundeswehreinsatz-faq-100.html"
-    },
-    {
-      "title": "Großbritannien: Starmer-Herausforderer Burnham gewinnt Nachwahl",
-      "link": "https://www.tagesschau.de/ausland/burnham-gewinnt-nachwahl-gb-100.html"
-    },
-    {
-      "title": "Welche Rolle die WM für die großen Sportartikel-Hersteller spielt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/fussball-wm-sportartikel-adidas-nike-puma-100.html"
-    },
-    {
-      "title": "Gespräche zwischen Iran und USA über Friedensabkommen verschoben",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-abkommen-verhandlungen-100.html"
-    },
-    {
-      "title": "10. Todestag Götz George: \"Schimanski\" prägt das deutsche Fernsehen bis heute",
-      "link": "https://www.tagesschau.de/kultur/schimanski-praegt-deutsche-fernsehen-bis-heute,goetz-george-142.html"
     }
   ]
 }
