@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Polens Präsident entzieht Selenskyi höchsten Orden",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-ukraine-110.html"
+    },
+    {
       "title": "Hitzewelle mit bis zu 38,5 Grad in Deutschland",
       "link": "https://www.tagesschau.de/inland/gesellschaft/wetter-hitze-deutschland-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Starmer will um sein Amt als Labour-Chef in Großbritannien kämpfen",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-starmer-burnham-100.html"
-    },
-    {
-      "title": "Studie: Beeinflusst Babynahrung das Risiko für Neurodermitis?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/babynahrung-neurodermitis-100.html"
     }
   ]
 }
