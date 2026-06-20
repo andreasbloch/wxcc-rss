@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Fußball-WM: Deutschland gewinnt 2:1 gegen die Elfenbeinküste",
+      "link": "https://www.tagesschau.de/sport/deutschland-elfenbeinkueste-wm-100.html"
+    },
+    {
       "title": "Iranisches Militär erklärt Straße von Hormus erneut für gesperrt",
       "link": "https://www.tagesschau.de/ausland/asien/hormus-gesperrt-iran-usa-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Ein Toter bei Zugunglück bei London",
       "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-grossbritannien-100.html"
-    },
-    {
-      "title": "Menschen in Gaza: Hilflos, traumatisiert und ohne jede Perspektive",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-iran-gaza-100.html"
     }
   ]
 }
