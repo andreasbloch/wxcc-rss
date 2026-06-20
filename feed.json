@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Studien: Wie gut berechnet KI den Fußball-Weltmeister?",
+      "link": "https://www.tagesschau.de/wissen/forschung/fussball-ki-vorhersage-tippspiel-100.html"
+    },
+    {
+      "title": "Experte zu Pflegerefom: \"Schlag ins Gesicht der pflegenden Angehörigen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rothgang-finanzierung-pflegereform-100.html"
+    },
+    {
+      "title": "Wetter in Deutschland: Zwischen Hitze und Gewittern",
+      "link": "https://www.tagesschau.de/inland/unwetter-hitze-deutschland-100.html"
+    },
+    {
+      "title": "US-Gesandte Witkoff und Kushner offenbar zu Iran-Gesprächen aufgebrochen",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-gespraeche-schweiz-100.html"
+    },
+    {
       "title": "Chemieunfall in NRW: 25 Mitarbeitende durch Chemikalien verletzt",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/chemieunfall-chempark-dormagen-100.html"
     },
@@ -9,20 +25,12 @@
       "link": "https://www.tagesschau.de/ausland/afrika/weltfluechtlingstag-sudanesische-gefluechtete-aegypten-100.html"
     },
     {
-      "title": "Wetter in Deutschland: Zwischen Hitze und Gewittern",
-      "link": "https://www.tagesschau.de/inland/unwetter-hitze-deutschland-100.html"
-    },
-    {
       "title": "Güterzug-Waggons stürzen in München von Brücke",
       "link": "https://www.tagesschau.de/inland/regional/gueterzug-muenchen-100.html"
     },
     {
       "title": "Parteitag: Linke nennt Israels Vorgehen offiziell Völkermord",
       "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-gazakrieg-voelkermord-100.html"
-    },
-    {
-      "title": "US-Gesandte Witkoff und Kushner offenbar zu Iran-Gesprächen aufgebrochen",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-gespraeche-schweiz-100.html"
     },
     {
       "title": "Widerstand als Kunstform - die Arbeiten von Gabriele Stötzer",
@@ -71,14 +79,6 @@
     {
       "title": "Meloni bezeichnet Trump-Äußerung als \"völlig frei erfunden\"",
       "link": "https://www.tagesschau.de/ausland/trump-meloni-114.html"
-    },
-    {
-      "title": "Israel und Hisbollah vereinbaren offenbar erneute Waffenruhe",
-      "link": "https://www.tagesschau.de/ausland/israel-hisbollah-130.html"
-    },
-    {
-      "title": "Sensationsfund in Paris: Bislang unbekanntes Mozart-Manuskript aufgetaucht",
-      "link": "https://www.tagesschau.de/kultur/mozart-manuskript-paris-102.html"
     }
   ]
 }
