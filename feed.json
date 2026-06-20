@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Chemieunfall in NRW: 25 Mitarbeitende durch Chemikalien verletzt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/chemieunfall-chempark-dormagen-100.html"
+    },
+    {
+      "title": "Weltflüchtlingstag: Sudanesen in Kairo zwischen Angst und Hoffnungslosigkeit",
+      "link": "https://www.tagesschau.de/ausland/afrika/weltfluechtlingstag-sudanesische-gefluechtete-aegypten-100.html"
+    },
+    {
+      "title": "Wetter in Deutschland: Zwischen Hitze und Gewittern",
+      "link": "https://www.tagesschau.de/inland/unwetter-hitze-deutschland-100.html"
+    },
+    {
+      "title": "Güterzug-Waggons stürzen in München von Brücke",
+      "link": "https://www.tagesschau.de/inland/regional/gueterzug-muenchen-100.html"
+    },
+    {
       "title": "Parteitag: Linke nennt Israels Vorgehen offiziell Völkermord",
       "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-gazakrieg-voelkermord-100.html"
     },
@@ -15,10 +31,6 @@
     {
       "title": "Kampf um Labour-Vorsitz: Wer ist Andy Burnham?",
       "link": "https://www.tagesschau.de/ausland/europa/burnham-portrait-100.html"
-    },
-    {
-      "title": "Güterzug-Waggons stürzen in München von Brücke",
-      "link": "https://www.tagesschau.de/inland/regional/gueterzug-muenchen-100.html"
     },
     {
       "title": "Ein Toter bei Zugunglück bei London",
@@ -67,18 +79,6 @@
     {
       "title": "Sensationsfund in Paris: Bislang unbekanntes Mozart-Manuskript aufgetaucht",
       "link": "https://www.tagesschau.de/kultur/mozart-manuskript-paris-102.html"
-    },
-    {
-      "title": "Bayreuther Gedenkveranstaltung mit Friedman soll nun doch stattfinden",
-      "link": "https://www.tagesschau.de/inland/bayreuth-festspiele-gedenkveranstaltung-100.html"
-    },
-    {
-      "title": "Italienische Firma lässt Kleidung in Eritrea produzieren",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/textilienproduktion-eritrea-100.html"
-    },
-    {
-      "title": "Wie der fallende Ölpreis Russlands Kriegswirtschaft bedroht",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-wirtschaft-putin-oelpreis-rubel-100.html"
     }
   ]
 }
