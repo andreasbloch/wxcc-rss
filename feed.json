@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Wetter: Schäden durch Hitze und Gewitter - und es bleibt heiß",
+      "link": "https://www.tagesschau.de/inland/unwetter-hitze-102.html"
+    },
+    {
       "title": "Vorschläge an Bundesregierung: Das sind die Empfehlungen der Rentenkommission",
       "link": "https://www.tagesschau.de/inland/rentenkommission-renteneintrittsalter-fonds-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Hitzewelle mit bis zu 38,5 Grad in Deutschland",
       "link": "https://www.tagesschau.de/inland/gesellschaft/wetter-hitze-deutschland-100.html"
-    },
-    {
-      "title": "EU-Gipfel: Ein gemeinsamer Nenner - und viel Uneinigkeit",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-abschluss-100.html"
     }
   ]
 }
