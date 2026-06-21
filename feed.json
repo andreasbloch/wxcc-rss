@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "\"CopenPay\" - Belohnung für nachhaltigen Tourismus in Kopenhagen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/copenpay-nachhaltiger-tourismus-100.html"
+    },
+    {
+      "title": "Kopf-an-Kopf-Rennen bei Kolumbiens Stichwahl",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-stichwahl-108.html"
+    },
+    {
+      "title": "Trumps Gremium für Gaza: \"Friedensrat\" mit leeren Kassen",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-friedensrat-gaza-100.html"
+    },
+    {
+      "title": "Vor Gesprächen: Trump droht mit US-Maut in Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-verhandlungen-hormus-100.html"
+    },
+    {
       "title": "Fußball-WM: Deutschland gewinnt 2:1 gegen die Elfenbeinküste",
       "link": "https://www.tagesschau.de/sport/deutschland-elfenbeinkueste-wm-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Güterzug-Waggons stürzen in München von Brücke",
       "link": "https://www.tagesschau.de/inland/regional/gueterzug-muenchen-100.html"
-    },
-    {
-      "title": "Parteitag: Linke nennt Israels Vorgehen offiziell Völkermord",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-gazakrieg-voelkermord-100.html"
-    },
-    {
-      "title": "Widerstand als Kunstform - die Arbeiten von Gabriele Stötzer",
-      "link": "https://www.tagesschau.de/kultur/gabriele-stoetzer-108.html"
-    },
-    {
-      "title": "Kampf um Labour-Vorsitz: Wer ist Andy Burnham?",
-      "link": "https://www.tagesschau.de/ausland/europa/burnham-portrait-100.html"
-    },
-    {
-      "title": "Ein Toter bei Zugunglück bei London",
-      "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-grossbritannien-100.html"
     }
   ]
 }
