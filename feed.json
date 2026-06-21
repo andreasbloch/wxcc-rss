@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Zum kalendarischen Sommeranfang - Hitze und Unwetter",
+      "link": "https://www.tagesschau.de/wetter/deutschland/wetter-unwetter-hitze-100.html"
+    },
+    {
+      "title": "Bundesparteitag der Linken: Kommt Diätendeckel für Abgeordnete?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-bundesparteitag-potsdam-diaetendeckel-100.html"
+    },
+    {
+      "title": "Mehrere Tote bei ukrainischen Angriffen auf Halbinsel Krim",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krim-angriffe-100.html"
+    },
+    {
+      "title": "Deutlich mehr Abschiebeflüge nach Afghanistan mit Taliban vereinbart",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-abschiebungen-dobrindt-100.html"
+    },
+    {
+      "title": "Iran und die USA erhöhen vor Verhandlungen in der Schweiz den Druck",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-schweiz-verhandlungen-100.html"
+    },
+    {
       "title": "\"CopenPay\" - Belohnung für nachhaltigen Tourismus in Kopenhagen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/copenpay-nachhaltiger-tourismus-100.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Studien: Wie gut berechnet KI den Fußball-Weltmeister?",
       "link": "https://www.tagesschau.de/wissen/forschung/fussball-ki-vorhersage-tippspiel-100.html"
-    },
-    {
-      "title": "Experte zu Pflegerefom: \"Schlag ins Gesicht der pflegenden Angehörigen\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rothgang-finanzierung-pflegereform-100.html"
-    },
-    {
-      "title": "Wetter in Deutschland: Zwischen Hitze und Gewittern",
-      "link": "https://www.tagesschau.de/inland/unwetter-hitze-deutschland-100.html"
-    },
-    {
-      "title": "US-Gesandte Witkoff und Kushner offenbar zu Iran-Gesprächen aufgebrochen",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-gespraeche-schweiz-100.html"
-    },
-    {
-      "title": "Weltflüchtlingstag: Sudanesen in Kairo zwischen Angst und Hoffnungslosigkeit",
-      "link": "https://www.tagesschau.de/ausland/afrika/weltfluechtlingstag-sudanesische-gefluechtete-aegypten-100.html"
-    },
-    {
-      "title": "Güterzug-Waggons stürzen in München von Brücke",
-      "link": "https://www.tagesschau.de/inland/regional/gueterzug-muenchen-100.html"
     }
   ]
 }
