@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Hitzewelle in Europa geht weiter - und bricht Rekorde",
+      "link": "https://www.tagesschau.de/ausland/europa/hitzewelle-156.html"
+    },
+    {
+      "title": "Schiffsverkehr in der Straße von Hormus nimmt zu",
+      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-verkehr-absichtserklaerung-100.html"
+    },
+    {
+      "title": "Marktbericht: KI-Verkaufswelle belastet den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-spacex-geldanlage-100.html"
+    },
+    {
+      "title": "Ein Fünftel in Deutschland kann sich keine Woche Urlaub leisten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-bezahlbarkeit-100.html"
+    },
+    {
+      "title": "Streit um Armeeeinheit: Selenskyj nicht bei Konferenz in Polen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-polen-streit-100.html"
+    },
+    {
+      "title": "Erstmals Gespräche der Taliban mit EU-Kommission",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-taliban-gespraeche-bruessel-100.html"
+    },
+    {
       "title": "Kommentar zur Rente: Die Kommission hat geliefert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/rente-empfehlungen-kommission-100.html"
     },
@@ -25,10 +49,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/diebstahl-schaden-2025-100.html"
     },
     {
-      "title": "Ein Fünftel in Deutschland kann sich keine Woche Urlaub leisten",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-bezahlbarkeit-100.html"
-    },
-    {
       "title": "Hausaufgaben - sinnvoll oder nicht?",
       "link": "https://www.tagesschau.de/wissen/forschung/hausaufgaben-wissenschaft-100.html"
     },
@@ -49,10 +69,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/brexit-finanzplatz-deutschland-100.html"
     },
     {
-      "title": "Hitzewelle in Europa geht weiter - und bricht Rekorde",
-      "link": "https://www.tagesschau.de/ausland/europa/hitzewelle-156.html"
-    },
-    {
       "title": "SpaceX bricht ein und sorgt für Tech-Ängste an Börsen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-schwerpunkt-spacex-techs-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Zahl der Insolvenzen erreicht höchsten Stand seit 2013",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/insolvenzen-firmenpleiten-erstes-halbjahr-100.html"
-    },
-    {
-      "title": "Versorgungsengpässe durch ukrainische Angriffe auf die Krim",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-krim-102.html"
-    },
-    {
-      "title": "Schwarz-Rot will Vorschläge der Rentenkommission vollständig umsetzen",
-      "link": "https://www.tagesschau.de/inland/rentenreform-merz-bas-100.html"
-    },
-    {
-      "title": "ACEA-Zahlen: Jeder fünfte Neuwagen in EU fährt vollelektrisch",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autos-elektroautos-acea-europa-100.html"
-    },
-    {
-      "title": "Wieso hängt Italien bei E-Mobilität so hinterher?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/italien-elektromobilitaet-100.html"
     }
   ]
 }
