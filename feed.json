@@ -1,8 +1,24 @@
 {
   "items": [
     {
+      "title": "Zahl der Insolvenzen erreicht höchsten Stand seit 2013",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/insolvenzen-firmenpleiten-erstes-halbjahr-100.html"
+    },
+    {
+      "title": "Versorgungsengpässe durch ukrainische Angriffe auf die Krim",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-krim-102.html"
+    },
+    {
       "title": "Schwarz-Rot will Vorschläge der Rentenkommission vollständig umsetzen",
       "link": "https://www.tagesschau.de/inland/rentenreform-merz-bas-100.html"
+    },
+    {
+      "title": "ACEA-Zahlen: Jeder fünfte Neuwagen in EU fährt vollelektrisch",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autos-elektroautos-acea-europa-100.html"
+    },
+    {
+      "title": "Wieso hängt Italien bei E-Mobilität so hinterher?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/italien-elektromobilitaet-100.html"
     },
     {
       "title": "Marktbericht: Gewinnmitnahmen in Asien belasten DAX",
@@ -63,22 +79,6 @@
     {
       "title": "Die Linke ringt um ihr Verhältnis zur CDU",
       "link": "https://www.tagesschau.de/inland/innenpolitik/linke-cdu-pantisano-100.html"
-    },
-    {
-      "title": "Verhandlungen im Libanon-Konflikt: \"Waffenruhe heißt, dass weniger geschossen wird\"",
-      "link": "https://www.tagesschau.de/ausland/libanon-israel-usa-iran-verhandlungen-100.html"
-    },
-    {
-      "title": "Potentieller Starmer-Nachfolger: Der \"King of the North\" steht bereit",
-      "link": "https://www.tagesschau.de/ausland/europa/starmer-burnham-labour-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX wieder über 25.000 Punkten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-hochtief-100.html"
-    },
-    {
-      "title": "Gewalt an Schulen: \"Kleinigkeiten reichen, um zur Eskalation zu führen\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gewalt-schulen-guenther-wuensche-100.html"
     }
   ]
 }
