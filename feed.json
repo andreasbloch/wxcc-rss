@@ -1,8 +1,36 @@
 {
   "items": [
     {
-      "title": "Tech-Sorgen halten an: DAX vor verhaltenem Start",
+      "title": "Hafenstadt Sewastopol auf der Krim nach Angriff ohne Strom",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krim-drohnen-100.html"
+    },
+    {
+      "title": "Stimmung aufgehellt: Unternehmen hoffen auf Entspannung in Nahost",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-juni-gestiegen-100.html"
+    },
+    {
+      "title": "Hitze hat Europa weiter im Griff",
+      "link": "https://www.tagesschau.de/ausland/europa/hitze-europa-118.html"
+    },
+    {
+      "title": "Marktbericht: Verkaufswelle rollt weiter",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-116.html"
+    },
+    {
+      "title": "Störung bei der Bahn - Kommunikationssystem als Knackpunkt",
+      "link": "https://www.tagesschau.de/wirtschaft/bahn-stoerung-gsmr-100.html"
+    },
+    {
+      "title": "Pistorius beendet umstrittenes Fregatten-Projekt F126",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fregatten-projekt-pistorius-100.html"
+    },
+    {
+      "title": "Fremdenfeindlichkeit in Südafrika: \"Sie müssen gehen\"",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-fremdenhass-100.html"
+    },
+    {
+      "title": "Risse in Tragflächen: Airbus muss A380-Maschinen untersuchen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/airbus-untersuchungen-a380-maschinen-100.html"
     },
     {
       "title": "Wie gut funktioniert Australiens Social-Media-Verbot?",
@@ -18,7 +46,7 @@
     },
     {
       "title": "Zugverkehr wegen Funkstörung bundesweit eingestellt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-zugfunk-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-stoerung-zugfunk-100.html"
     },
     {
       "title": "Welche Folgen hat es, wenn Italo in Deutschland einsteigt?",
@@ -42,7 +70,7 @@
     },
     {
       "title": "Bundesweite IT-Störung bei der Bahn behoben - Zugverkehr läuft wieder an",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-behoben-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-stoerung-behoben-100.html"
     },
     {
       "title": "NATO-Generalsekretär Rutte trifft Präsident Trump in Washington",
@@ -51,34 +79,6 @@
     {
       "title": "Deutsches Schulbarometer: Verhalten der Schüler belastet Lehrer zunehmend",
       "link": "https://www.tagesschau.de/inland/gesellschaft/schulbarometer-robert-bosch-stiftung-100.html"
-    },
-    {
-      "title": "Hitzewelle in Europa geht weiter - und bricht Rekorde",
-      "link": "https://www.tagesschau.de/ausland/europa/hitzewelle-156.html"
-    },
-    {
-      "title": "Schiffsverkehr in der Straße von Hormus nimmt zu",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-verkehr-absichtserklaerung-100.html"
-    },
-    {
-      "title": "Marktbericht: KI-Verkaufswelle belastet den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-spacex-geldanlage-100.html"
-    },
-    {
-      "title": "Ein Fünftel in Deutschland kann sich keine Woche Urlaub leisten",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-bezahlbarkeit-100.html"
-    },
-    {
-      "title": "Streit um Armeeeinheit: Selenskyj nicht bei Konferenz in Polen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-polen-streit-100.html"
-    },
-    {
-      "title": "Erstmals Gespräche der Taliban mit EU-Kommission",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-taliban-gespraeche-bruessel-100.html"
-    },
-    {
-      "title": "Kommentar zur Rente: Die Kommission hat geliefert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-empfehlungen-kommission-100.html"
     }
   ]
 }
