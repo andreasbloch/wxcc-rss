@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Bilanz des Verteidigungsministeriums: Mehr junge Menschen wollen zur Bundeswehr",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-1122.html"
+    },
+    {
+      "title": "Debatte über Äußerungen Pantisanos: \"Infam, geschichtsvergessen und niederträchtig\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pantisano-aktuelle-stunde-100.html"
+    },
+    {
       "title": "\"Hartes Ende\" - Pistorius stoppt F126-Fregatten-Pläne",
       "link": "https://www.tagesschau.de/inland/innenpolitik/fregatte-ausstieg-pistorius-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Nordkorea rüstet Marine massiv auf - auch mit Atomwaffen",
       "link": "https://www.tagesschau.de/ausland/asien/nordkorea-aufruestung-marine-100.html"
-    },
-    {
-      "title": "Störung bei der DB: Managementversagen auf vielen Ebenen",
-      "link": "https://www.tagesschau.de/wirtschaft/stoerung-deutsche-bahn-100.html"
-    },
-    {
-      "title": "Wirtschaft blickt kritisch auf Teile der Rentenreform",
-      "link": "https://www.tagesschau.de/wirtschaft/rente-reaktionen-wirtschaft-100.html"
     }
   ]
 }
