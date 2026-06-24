@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Tech-Sorgen halten an: DAX vor verhaltenem Start",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-116.html"
+    },
+    {
+      "title": "Wie gut funktioniert Australiens Social-Media-Verbot?",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-verbot-socialmedia-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Wie Putin seine Schattenflotte schützen will",
+      "link": "https://www.tagesschau.de/podcast-11km-russland-schattenflotte-100.html"
+    },
+    {
+      "title": "BND und Verfassungsschutz - Die Spione sorgen sich um ihre Sicherheit",
+      "link": "https://www.tagesschau.de/investigativ/wdr/spione-sicherheit-100.html"
+    },
+    {
+      "title": "Zugverkehr wegen Funkstörung bundesweit eingestellt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-zugfunk-100.html"
+    },
+    {
+      "title": "Welche Folgen hat es, wenn Italo in Deutschland einsteigt?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/italo-bahn-einstieg-deutschland-100.html"
+    },
+    {
+      "title": "Warum eine unscheinbare Raupe zur Gefahr wird",
+      "link": "https://www.tagesschau.de/wissen/klima/eichenprozessionsspinner-240.html"
+    },
+    {
+      "title": "Prozess um getöteten Zugbegleiter beginnt: \"Er liebte seinen Job\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/prozess-totschlag-zugbegleiter-100.html"
+    },
+    {
+      "title": "Expertenkommission zu Social Media legt Empfehlungen vor",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/social-media-bericht-kommission-100.html"
+    },
+    {
       "title": "US-Senat stimmt gegen Iran-Einsätze ohne Kongressmandat",
       "link": "https://www.tagesschau.de/ausland/amerika/uskongress-iran-trump-100.html"
     },
@@ -11,10 +47,6 @@
     {
       "title": "NATO-Generalsekretär Rutte trifft Präsident Trump in Washington",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-nato-rutte-100.html"
-    },
-    {
-      "title": "Zugverkehr wegen Funkstörung bundesweit eingestellt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/deutsche-bahn-stoerung-zugfunk-100.html"
     },
     {
       "title": "Deutsches Schulbarometer: Verhalten der Schüler belastet Lehrer zunehmend",
@@ -47,38 +79,6 @@
     {
       "title": "Kommentar zur Rente: Die Kommission hat geliefert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/rente-empfehlungen-kommission-100.html"
-    },
-    {
-      "title": "Mit Israels Armee im Südlibanon: Trümmer und Tunnel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-idf-100.html"
-    },
-    {
-      "title": "Was die Rentenreform für die verschiedenen Generationen bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/was-die-rentenreform-bedeutet-100.html"
-    },
-    {
-      "title": "Rentenreform-Vorschläge: Wie weit trägt der \"Geist der Kommission\"?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenkommission-analyse-100.html"
-    },
-    {
-      "title": "Vor NATO-Gipfel: Hunderte Festnahmen in Ankara",
-      "link": "https://www.tagesschau.de/ausland/asien/nato-gipfel-ankara-festnahmen-100.html"
-    },
-    {
-      "title": "EHI-Studie: Rekordverluste durch Diebstahl im Einzelhandel",
-      "link": "https://www.tagesschau.de/wirtschaft/diebstahl-schaden-2025-100.html"
-    },
-    {
-      "title": "Hausaufgaben - sinnvoll oder nicht?",
-      "link": "https://www.tagesschau.de/wissen/forschung/hausaufgaben-wissenschaft-100.html"
-    },
-    {
-      "title": "Rentenkommission setzt auf Kapitalmärkte",
-      "link": "https://www.tagesschau.de/wirtschaft/rente-altersvorsorge-kapitalmaerkte-schweden-100.html"
-    },
-    {
-      "title": "Der Brexit und die Wirtschaft: Auch nach zehn Jahren \"nur Verlierer\"",
-      "link": "https://www.tagesschau.de/wirtschaft/brexit-folgen-deutsche-wirtschaft-100.html"
     }
   ]
 }
