@@ -1,20 +1,48 @@
 {
   "items": [
     {
+      "title": "Wie Freiwillige in Kiew Trümmer wegräumen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-freiwillige-truemmer-helfer-100.html"
+    },
+    {
+      "title": "Landgericht Berlin: Palliativarzt gesteht Tötung von zwölf Patienten",
+      "link": "https://www.tagesschau.de/inland/berlin-prozess-palliativarzt-100.html"
+    },
+    {
       "title": "Hitze-Liveblog: ++ Nacht-Temperatur erreicht Rekordwert ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-100.html"
     },
     {
-      "title": "Französisch-britischer Jurist Philippe Sands erhält Friedenspreis",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/friedenspreis-philippe-sands-100.html"
+      "title": "Marktbericht: Der KI-Goldrausch geht weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-104.html"
+    },
+    {
+      "title": "Venezuela: Mindestens 164 Tote nach Erdbeben",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-110.html"
     },
     {
       "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
       "link": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html"
     },
     {
-      "title": "Tote nach Erdbeben in Venezuela",
+      "title": "Mobilfunk-Messwoche: Wo es in Deutschland noch Funklöcher gibt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/funkloecher-mobilfunk-messwoche-100.html"
+    },
+    {
+      "title": "Viele Tote nach Erdbeben in Venezuela",
       "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-106.html"
+    },
+    {
+      "title": "Wurden die Betriebsratswahlen am Frankfurter Flughafen manipuliert?",
+      "link": "https://www.tagesschau.de/investigativ/hr/frankfurt-flughafen-betriebsrat-100.html"
+    },
+    {
+      "title": "Erdbeben in Venezuela: \"Katastrophenschutz ist schlecht aufgestellt\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-venezuela-interview-100.html"
+    },
+    {
+      "title": "Französisch-britischer Jurist Philippe Sands erhält Friedenspreis",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/friedenspreis-philippe-sands-100.html"
     },
     {
       "title": "Marktbericht: Zinssorgen halten DAX zurück",
@@ -22,7 +50,7 @@
     },
     {
       "title": "Bahn bietet wegen Hitze kostenlose Stornierung an",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-hitze-stornierung-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-hitze-stornierung-100.html"
     },
     {
       "title": "Klimadesinformation - Fakes relativieren Hitzewelle",
@@ -51,34 +79,6 @@
     {
       "title": "Vom Streit überschattet: Ukraine-Wiederaufbaukonferenz in Danzig",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-wiederafbaukonferenz-danzig-100.html"
-    },
-    {
-      "title": "Pionierin der #metoo-Debatte: Was an Bachmanns Texten fasziniert",
-      "link": "https://www.tagesschau.de/kultur/ingeborg-bachmann-116.html"
-    },
-    {
-      "title": "Zu viel Euphorie am Ölmarkt? Warum der Preissturz trügt",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreissturz-iran-hormus-100.html"
-    },
-    {
-      "title": "Wie schädlich ist Sonnencreme wirklich?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/sonnencreme-mythen-100.html"
-    },
-    {
-      "title": "Warme Abschiedsworte für Starmer bei E5-Treffen in Berlin",
-      "link": "https://www.tagesschau.de/ausland/europa/e5-treffen-100.html"
-    },
-    {
-      "title": "Bilanz des Verteidigungsministeriums: Mehr junge Menschen wollen zur Bundeswehr",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-1122.html"
-    },
-    {
-      "title": "Debatte über Äußerungen Pantisanos: \"Infam, geschichtsvergessen und niederträchtig\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pantisano-aktuelle-stunde-100.html"
-    },
-    {
-      "title": "\"Hartes Ende\" - Pistorius stoppt F126-Fregatten-Pläne",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fregatte-ausstieg-pistorius-100.html"
     }
   ]
 }
