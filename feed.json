@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Hitze-Liveblog: ++ Erneuter Juni-Hitzerekord in Großbritannien ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-100.html"
+    },
+    {
+      "title": "Oberstes US-Gericht entscheidet im Glyphosat-Streit zugunsten von Bayer",
+      "link": "https://www.tagesschau.de/ausland/amerika/bayer-glyphosat-104.html"
+    },
+    {
+      "title": "Französisch-britischer Jurist Philippe Sands erhält Friedenspreis",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/friedenspreis-philippe-sands-100.html"
+    },
+    {
+      "title": "Tesla in Grünheide will weitere 1.000 Mitarbeiter einstellen",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-gruenheide-jobs-102.html"
+    },
+    {
+      "title": "Emotionen beim Sport: Wie Hitze den WM-Fans zu schaffen macht",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/hitze-fussball-fans-100.html"
+    },
+    {
+      "title": "VW-Manager Michael Obrowski wird neuer Finanzchef der Bahn",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-neuer-finanzvorstand-100.html"
+    },
+    {
+      "title": "Frankreich stoppt erneut Öltanker aus Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-tanker-schattenflotte-100.html"
+    },
+    {
+      "title": "Sind Klimageräte Stromfresser? So hoch sind Verbrauch und Kosten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hitze-klimaanlagen-stromverbrauch-100.html"
+    },
+    {
+      "title": "Venezuela: Mindestens 164 Tote nach Erdbeben",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-110.html"
+    },
+    {
       "title": "Wie Freiwillige in Kiew Trümmer wegräumen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-freiwillige-truemmer-helfer-100.html"
     },
@@ -9,16 +45,8 @@
       "link": "https://www.tagesschau.de/inland/berlin-prozess-palliativarzt-100.html"
     },
     {
-      "title": "Hitze-Liveblog: ++ Nacht-Temperatur erreicht Rekordwert ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-100.html"
-    },
-    {
       "title": "Marktbericht: Der KI-Goldrausch geht weiter",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-104.html"
-    },
-    {
-      "title": "Venezuela: Mindestens 164 Tote nach Erdbeben",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-110.html"
     },
     {
       "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
@@ -41,10 +69,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-venezuela-interview-100.html"
     },
     {
-      "title": "Französisch-britischer Jurist Philippe Sands erhält Friedenspreis",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/friedenspreis-philippe-sands-100.html"
-    },
-    {
       "title": "Marktbericht: Zinssorgen halten DAX zurück",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-micron-ki-rally-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Klimadesinformation - Fakes relativieren Hitzewelle",
       "link": "https://www.tagesschau.de/faktenfinder/hitze-fakes-100.html"
-    },
-    {
-      "title": "USA beginnen Feierlichkeiten zum 250. Jahrestag",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-250-jahrestag-100.html"
-    },
-    {
-      "title": "Gaming-Branche: Vorverkauf für neues \"GTA\"-Spiel gestartet",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neues-spiel-gta-vorbestellungen-100.html"
-    },
-    {
-      "title": "US-Regierung fordert von Kongress weitere 88 Milliarden Dollar",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-finanzen-militaer-iran-krieg-100.html"
-    },
-    {
-      "title": "Viele Tote befürchtet: Erdbeben erschüttern Venezuela",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-102.html"
-    },
-    {
-      "title": "11KM-Podcast: Hoffen auf Kriegsende - wie geht es den Iranern?",
-      "link": "https://www.tagesschau.de/podcast-11km-iran-krieg-waffenruhe-100.html"
-    },
-    {
-      "title": "Vom Streit überschattet: Ukraine-Wiederaufbaukonferenz in Danzig",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wiederafbaukonferenz-danzig-100.html"
     }
   ]
 }
