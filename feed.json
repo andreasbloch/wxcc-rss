@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Viele Tote befürchtet: Erbeben erschüttern Venezuela",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-102.html"
+    },
+    {
       "title": "Warme Abschiedsworte für Starmer bei E5-Treffen in Berlin",
       "link": "https://www.tagesschau.de/ausland/europa/e5-treffen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Getöteter Zugbegleiter - worum es im Verfahren geht",
       "link": "https://www.tagesschau.de/inland/gesellschaft/faq-prozess-tod-zugbegleiter-100.html"
-    },
-    {
-      "title": "Panzerhersteller KNDS will  aufs Parkett",
-      "link": "https://www.tagesschau.de/wirtschaft/knds-130.html"
     }
   ]
 }
