@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Deutschland verliert mit 1:2 gegen Ecuador",
+      "link": "https://www.tagesschau.de/sport/deutschland-ecuador-wm-2026-100.html"
+    },
+    {
       "title": "Was über die Erdbeben in Venezuela bekannt ist",
       "link": "https://www.tagesschau.de/ausland/amerika/was-ueber-das-erdbeben-in-venezuela-bekannt-ist-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Marktbericht: Der KI-Goldrausch geht weiter",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-104.html"
-    },
-    {
-      "title": "Mobilfunk-Messwoche: Wo es in Deutschland noch Funklöcher gibt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/funkloecher-mobilfunk-messwoche-100.html"
     }
   ]
 }
