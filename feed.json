@@ -1,12 +1,32 @@
 {
   "items": [
     {
-      "title": "Marktbericht: Neue KI-Vorsicht drückt den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-techwerte-fallen-oelpreise-niedriger-100.html"
+      "title": "Lage auf der Krim: Ein Notstand mit Symbolwirkung",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krim-notstand-100.html"
     },
     {
-      "title": "Hitze-Liveblog: ++ Frankreich befürchtet zahlreiche Hitzetote ++",
+      "title": "Hitze-Liveblog: ++ Hitzeschaden auf A7 - Fahrspur nach Norden gesperrt ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-102.html"
+    },
+    {
+      "title": "Aktuelle Stunde: Streit über Rentenreform im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rentenreform-100.html"
+    },
+    {
+      "title": "Verzehnfachung der Strompreise wegen der Hitze",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/hitzewelle-treibt-strompreise-an-100.html"
+    },
+    {
+      "title": "Zahl der Todesopfer in Venezuela steigt auf 920 - viele Vermisste",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-venezuela-tote-vermisste-100.html"
+    },
+    {
+      "title": "Temperaturrekord in Deutschland gemessen - 41,3 Grad in Saarbrücken",
+      "link": "https://www.tagesschau.de/inland/temperaturrekord-hoechstwert-in-deutschland-100.html"
+    },
+    {
+      "title": "Marktbericht: Neue KI-Vorsicht drückt den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-techwerte-fallen-oelpreise-niedriger-100.html"
     },
     {
       "title": "Neuer Juni-Temperaturhöchstwert für Juni gemessen",
@@ -23,10 +43,6 @@
     {
       "title": "Mehr arbeiten für das gleiche Geld: Mercedes verschärft Sparkurs",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-sparkurs-100.html"
-    },
-    {
-      "title": "Zahl der Todesopfer in Venezuela steigt auf 589 - viele Vermisste",
-      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-venezuela-tote-vermisste-100.html"
     },
     {
       "title": "Was tut die Politik für den Hitzeschutz?",
@@ -63,22 +79,6 @@
     {
       "title": "Russland: Putins Kampf für mehr Geburten bleibt ohne Erfolg",
       "link": "https://www.tagesschau.de/ausland/europa/russland-putin-geburten-100.html"
-    },
-    {
-      "title": "Zwei mutmaßliche Rechtsterroristen in Thüringen festgenommen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gba-festnahme-letzte-verteidiungswelle-100.html"
-    },
-    {
-      "title": "VW-Vorstand plant Abbau von bis zu 100.000 Stellen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-stellenabbau-106.html"
-    },
-    {
-      "title": "Für Verkauf von Kindern auf Vinted gibt es keine Beweise",
-      "link": "https://www.tagesschau.de/faktenfinder/vinted-kinder-100.html"
-    },
-    {
-      "title": "EU-Kommission will Schutz für Ukrainer im wehrfähigen Alter beenden",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-schutzstatus-ukraine-102.html"
     }
   ]
 }
