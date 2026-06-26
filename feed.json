@@ -1,8 +1,48 @@
 {
   "items": [
     {
-      "title": "Marktbericht: Neue Sorgen aus Tech-Sektor belasten DAX",
+      "title": "EU-Kommission will Schutz für Ukrainer im wehrfähigen Alter beenden",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-schutzstatus-ukraine-102.html"
+    },
+    {
+      "title": "Lebenslange Haft für Todesfahrer vom Magdeburger Weihnachtsmarkt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-anschlag-magdeburg-weihnachtsmarkt-100.html"
+    },
+    {
+      "title": "Hitze-Liveblog: ++ Höchste je gemessene Juni-Temperatur erwartet  ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-102.html"
+    },
+    {
+      "title": "BaFin ermittelt: Fehlerhafter Jahresabschluss bei Zalando?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/zalando-bafin-pruefung-100.html"
+    },
+    {
+      "title": "Mehr als 600 Drohnen: Russland meldet massiven ukrainischen Angriff",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-172.html"
+    },
+    {
+      "title": "So sollen Energiespeicher die Energiewende sichern",
+      "link": "https://www.tagesschau.de/wissen/technologie/energiespeicher-118.html"
+    },
+    {
+      "title": "Marktbericht: DAX-Auftakt mit Verlusten - KI-Sorgen sind wieder da",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-techwerte-fallen-oelpreise-niedriger-100.html"
+    },
+    {
+      "title": "Tesla in Grünheide will weitere 1.000 Mitarbeiter einstellen",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-gruenheide-jobs-102.html"
+    },
+    {
+      "title": "So übersteht man die Hitzetage",
+      "link": "https://www.tagesschau.de/wissen/klima/tipps-gegen-hitze-100.html"
+    },
+    {
+      "title": "Wie Sportvereine mit der Hitze umgehen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-sportveranstaltungen-vereine-100.html"
+    },
+    {
+      "title": "30 Millionen Pfund: König Charles legt Steuerzahlungen offen",
+      "link": "https://www.tagesschau.de/ausland/europa/koenig-charles-steuern-100.html"
     },
     {
       "title": "Was über die Erdbeben in Venezuela bekannt ist",
@@ -10,7 +50,7 @@
     },
     {
       "title": "US-Abschiebezentrum \"Alligator Alcatraz\" schließt",
-      "link": "https://www.tagesschau.de/ausland/amerika/aligator-alcatraz-abschiebezentrum-usa-100.html"
+      "link": "https://www.tagesschau.de/ausland/amerika/alligator-alcatraz-abschiebezentrum-usa-100.html"
     },
     {
       "title": "Nach Erdbeben in Venezuela: Rettungskräfte arbeiten gegen die Zeit",
@@ -39,46 +79,6 @@
     {
       "title": "Bund und Länder einigen sich auf Finanzentlastung für Kommunen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bund-laender-entlastung-kommunen-100.html"
-    },
-    {
-      "title": "Organspende-Debatte im Bundestag: \"Der Mensch ist kein Ersatzteillager\"",
-      "link": "https://www.tagesschau.de/inland/organspende-debatte-bundestag-100.html"
-    },
-    {
-      "title": "Konferenz in Danzig: EU-Partner bereiten Wiederaufbau der Ukraine vor",
-      "link": "https://www.tagesschau.de/ausland/europa/wiederaufbaukonferenz-danzig-100.html"
-    },
-    {
-      "title": "Debatte um Verbotsverfahren: Ein neues AfD-Gutachten - und was daraus folgt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-gutachten-verfassung-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX rappelt sich auf",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-micron-ki-rally-100.html"
-    },
-    {
-      "title": "Oberstes US-Gericht entscheidet im Glyphosat-Streit zugunsten von Bayer",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bayer-glyphosat-104.html"
-    },
-    {
-      "title": "Französisch-britischer Jurist Philippe Sands erhält Friedenspreis",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/friedenspreis-philippe-sands-100.html"
-    },
-    {
-      "title": "Tesla in Grünheide will weitere 1.000 Mitarbeiter einstellen",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-gruenheide-jobs-102.html"
-    },
-    {
-      "title": "Emotionen beim Sport: Wie Hitze den WM-Fans zu schaffen macht",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/hitze-fussball-fans-100.html"
-    },
-    {
-      "title": "VW-Manager Michael Obrowski wird neuer Finanzchef der Bahn",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-neuer-finanzvorstand-100.html"
-    },
-    {
-      "title": "Frankreich stoppt erneut Öltanker aus Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-tanker-schattenflotte-100.html"
     }
   ]
 }
