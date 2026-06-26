@@ -1,8 +1,32 @@
 {
   "items": [
     {
-      "title": "Hitze-Liveblog: ++ Waldbrandgefahr steigt vielerorts auf höchste Stufe ++",
+      "title": "Hitze-Liveblog: ++ Frankreich befürchtet zahlreiche Hitzetote ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-102.html"
+    },
+    {
+      "title": "Was tut die Politik für den Hitzeschutz?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/faq-hitzeschutz-bund-laender-kommunen-100.html"
+    },
+    {
+      "title": "Archiv zu Nazi-Verbrechen: Teilerfolg für Zeugen Jehovas vor Gericht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-archiv-100.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Kiew und Moskau tauschen Kriegsgefangene aus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-172.html"
+    },
+    {
+      "title": "Alarmsignale aus der deutschen Autobranche",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobranche-vw-mercedes-bmw-100.html"
+    },
+    {
+      "title": "Tschechiens Staatsspitze streitet um NATO-Gipfel-Teilnahme",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-streit-delegation-nato-gipfel-100.html"
+    },
+    {
+      "title": "Gesetz zur Beschleunigung von Verkehrsprojekten beschlossen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/infrastrukturzukunftsgesetz-100.html"
     },
     {
       "title": "Erdbeben in Venezuela: Notfallmediziner beklagt mangelnde Versorgung",
@@ -15,10 +39,6 @@
     {
       "title": "Russland: Putins Kampf für mehr Geburten bleibt ohne Erfolg",
       "link": "https://www.tagesschau.de/ausland/europa/russland-putin-geburten-100.html"
-    },
-    {
-      "title": "Mehr als 600 Drohnen: Russland meldet massiven ukrainischen Angriff",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-172.html"
     },
     {
       "title": "Zwei mutmaßliche Rechtsterroristen in Thüringen festgenommen",
@@ -59,26 +79,6 @@
     {
       "title": "So übersteht man die Hitzetage",
       "link": "https://www.tagesschau.de/wissen/klima/tipps-gegen-hitze-100.html"
-    },
-    {
-      "title": "Wie Sportvereine mit der Hitze umgehen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-sportveranstaltungen-vereine-100.html"
-    },
-    {
-      "title": "30 Millionen Pfund: König Charles legt Steuerzahlungen offen",
-      "link": "https://www.tagesschau.de/ausland/europa/koenig-charles-steuern-100.html"
-    },
-    {
-      "title": "Was über die Erdbeben in Venezuela bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/amerika/was-ueber-das-erdbeben-in-venezuela-bekannt-ist-100.html"
-    },
-    {
-      "title": "US-Abschiebezentrum \"Alligator Alcatraz\" schließt",
-      "link": "https://www.tagesschau.de/ausland/amerika/alligator-alcatraz-abschiebezentrum-usa-100.html"
-    },
-    {
-      "title": "Nach Erdbeben in Venezuela: Rettungskräfte arbeiten gegen die Zeit",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-128.html"
     }
   ]
 }
