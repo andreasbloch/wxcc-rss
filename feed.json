@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
+      "link": "https://www.tagesschau.de/ausland/asien/us-militaer-greift-iran-an-100.html"
+    },
+    {
+      "title": "Israel und Libanon unterzeichnen Rahmenabkommen für Ende der Kämpfe",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-abkommen-100.html"
+    },
+    {
       "title": "Trump droht EU-Ländern wegen Digitalsteuer mit Strafzöllen",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-strafzoellen-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Tschechiens Staatsspitze streitet um NATO-Gipfel-Teilnahme",
       "link": "https://www.tagesschau.de/ausland/europa/tschechien-streit-delegation-nato-gipfel-100.html"
-    },
-    {
-      "title": "Gesetz zur Beschleunigung von Verkehrsprojekten beschlossen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/infrastrukturzukunftsgesetz-100.html"
-    },
-    {
-      "title": "Erdbeben in Venezuela: Notfallmediziner beklagt mangelnde Versorgung",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-versorgung-100.html"
     }
   ]
 }
