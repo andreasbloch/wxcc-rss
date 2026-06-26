@@ -1,8 +1,32 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Neue KI-Vorsicht drückt den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-techwerte-fallen-oelpreise-niedriger-100.html"
+    },
+    {
       "title": "Hitze-Liveblog: ++ Frankreich befürchtet zahlreiche Hitzetote ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-102.html"
+    },
+    {
+      "title": "Neuer Juni-Temperaturhöchstwert für Juni gemessen",
+      "link": "https://www.tagesschau.de/inland/hitzerekord-juni-100.html"
+    },
+    {
+      "title": "Stuttgart 21 auf 2031 verschoben - und drei Milliarden teurer",
+      "link": "https://www.tagesschau.de/wirtschaft/stuttgart-21-teurer-100.html"
+    },
+    {
+      "title": "Istanbul: Lange Haftstrafen im Prozess um vergiftete Familie",
+      "link": "https://www.tagesschau.de/ausland/asien/istanbul-vergiftete-familie-urteil-100.html"
+    },
+    {
+      "title": "Mehr arbeiten für das gleiche Geld: Mercedes verschärft Sparkurs",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-sparkurs-100.html"
+    },
+    {
+      "title": "Zahl der Todesopfer in Venezuela steigt auf 589 - viele Vermisste",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-venezuela-tote-vermisste-100.html"
     },
     {
       "title": "Was tut die Politik für den Hitzeschutz?",
@@ -55,30 +79,6 @@
     {
       "title": "EU-Kommission will Schutz für Ukrainer im wehrfähigen Alter beenden",
       "link": "https://www.tagesschau.de/ausland/europa/eu-schutzstatus-ukraine-102.html"
-    },
-    {
-      "title": "Lebenslange Haft für Todesfahrer vom Magdeburger Weihnachtsmarkt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-anschlag-magdeburg-weihnachtsmarkt-100.html"
-    },
-    {
-      "title": "BaFin ermittelt: Fehlerhafter Jahresabschluss bei Zalando?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/zalando-bafin-pruefung-100.html"
-    },
-    {
-      "title": "So sollen Energiespeicher die Energiewende sichern",
-      "link": "https://www.tagesschau.de/wissen/technologie/energiespeicher-118.html"
-    },
-    {
-      "title": "Marktbericht: DAX-Auftakt mit Verlusten - KI-Sorgen sind wieder da",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-techwerte-fallen-oelpreise-niedriger-100.html"
-    },
-    {
-      "title": "Tesla in Grünheide will weitere 1.000 Mitarbeiter einstellen",
-      "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-gruenheide-jobs-102.html"
-    },
-    {
-      "title": "So übersteht man die Hitzetage",
-      "link": "https://www.tagesschau.de/wissen/klima/tipps-gegen-hitze-100.html"
     }
   ]
 }
