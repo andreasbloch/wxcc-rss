@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Serbiens Präsident Vucic kündigt erneut Rücktritt an",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-vucic-ruecktritt-100.html"
+    },
+    {
       "title": "Hitze-Liveblog: ++ Hitzeschäden bremsen Verkehr auf Autobahnen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Mord vor 25 Jahren: Hamburgs Sonderweg bei der NSU-Aufarbeitung",
       "link": "https://www.tagesschau.de/inland/nsu-aufarbeitung-hamburg-100.html"
-    },
-    {
-      "title": "Weitere Erdstöße erschüttern Venezuela - Rettungsarbeiten laufen",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-nachbeben-100.html"
     }
   ]
 }
