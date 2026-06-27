@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "DWD: Hitzerekord in Deutschland erneut gebrochen",
+      "link": "https://www.tagesschau.de/inland/hitzerekord-deutschland-100.html"
+    },
+    {
       "title": "Hitze-Liveblog: ++ Hitzeschäden bremsen Verkehr auf Autobahnen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-104.html"
+    },
+    {
+      "title": "Ukraine greift Fabrik mit \"Flamingo\"-Marschflugkörpern an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-russland-104.html"
     },
     {
       "title": "Argentinien: Mehr Mathe mit Messi &amp; Co.",
@@ -71,14 +79,6 @@
     {
       "title": "Siebenschläfer: Und jetzt sieben Wochen Hitze?",
       "link": "https://www.tagesschau.de/wissen/klima/siebenschlaefer-152.html"
-    },
-    {
-      "title": "Israel und Libanon unterzeichnen Rahmenabkommen für Ende der Kämpfe",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-abkommen-100.html"
-    },
-    {
-      "title": "Trump droht EU-Ländern wegen Digitalsteuer mit Strafzöllen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-strafzoellen-100.html"
     }
   ]
 }
