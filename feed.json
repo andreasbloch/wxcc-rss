@@ -1,16 +1,36 @@
 {
   "items": [
     {
+      "title": "Hitze-Liveblog: ++ Kommunen rufen zum Wassersparen auf ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-104.html"
+    },
+    {
+      "title": "NATO-Treffen im Juli: Ankara vor dem Gipfel im Ausnahmezustand",
+      "link": "https://www.tagesschau.de/ausland/asien/nato-gipfel-ankara-vorbereitungen-100.html"
+    },
+    {
+      "title": "Hitzeresistente Häuser: Wie ein Architekt gegen die Hitze kämpft",
+      "link": "https://www.tagesschau.de/ausland/afrika/bioklimatische-architektur-afrika-100.html"
+    },
+    {
+      "title": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
+      "link": "https://www.tagesschau.de/ausland/asien/us-militaer-greift-iran-an-100.html"
+    },
+    {
+      "title": "Aus Italien zum Weltstar: Wie Bud Spencer Filmgeschichte schrieb",
+      "link": "https://www.tagesschau.de/kultur/zehnter-todestag-filmstar-bud-spencer-westernkomoedien-102.html"
+    },
+    {
+      "title": "Mord vor 25 Jahren: Hamburgs Sonderweg bei der NSU-Aufarbeitung",
+      "link": "https://www.tagesschau.de/inland/nsu-aufarbeitung-hamburg-100.html"
+    },
+    {
       "title": "Weitere Erdstöße erschüttern Venezuela - Rettungsarbeiten laufen",
       "link": "https://www.tagesschau.de/ausland/amerika/venezuela-nachbeben-100.html"
     },
     {
       "title": "Für ausgewählte Firmen: Anthropic gibt KI \"Mythos 5\" wieder frei",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-freigabe-us-unternehmen-100.html"
-    },
-    {
-      "title": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
-      "link": "https://www.tagesschau.de/ausland/asien/us-militaer-greift-iran-an-100.html"
     },
     {
       "title": "Italien: Noch ein Herausforderer für Meloni - von rechts",
@@ -45,7 +65,7 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rentenreform-100.html"
     },
     {
-      "title": "Verzehnfachung der Strompreise wegen der Hitze",
+      "title": "Strompreis schnellt wegen der Hitze in die Höhe",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/hitzewelle-treibt-strompreise-an-100.html"
     },
     {
@@ -59,26 +79,6 @@
     {
       "title": "Marktbericht: Neue KI-Vorsicht drückt den DAX",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-techwerte-fallen-oelpreise-niedriger-100.html"
-    },
-    {
-      "title": "Neuer Juni-Temperaturhöchstwert für Juni gemessen",
-      "link": "https://www.tagesschau.de/inland/hitzerekord-juni-100.html"
-    },
-    {
-      "title": "Stuttgart 21 auf 2031 verschoben - und drei Milliarden teurer",
-      "link": "https://www.tagesschau.de/wirtschaft/stuttgart-21-teurer-100.html"
-    },
-    {
-      "title": "Istanbul: Lange Haftstrafen im Prozess um vergiftete Familie",
-      "link": "https://www.tagesschau.de/ausland/asien/istanbul-vergiftete-familie-urteil-100.html"
-    },
-    {
-      "title": "Mehr arbeiten für das gleiche Geld: Mercedes verschärft Sparkurs",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-sparkurs-100.html"
-    },
-    {
-      "title": "Was tut die Politik für den Hitzeschutz?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/faq-hitzeschutz-bund-laender-kommunen-100.html"
     }
   ]
 }
