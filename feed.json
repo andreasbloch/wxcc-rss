@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Hitze-Liveblog: ++ Kommunen rufen zum Wassersparen auf ++",
+      "title": "Hitze-Liveblog: ++ Bahn rät von nicht notwendigen Reisen ab ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-104.html"
+    },
+    {
+      "title": "80 Jahre Vespa: Geburtstagsparty mit wirtschaftlichen Sorgen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/80-jahre-vespa-102.html"
+    },
+    {
+      "title": "Baden bei Extremhitze: Zahl der Badeunfälle steigt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/baden-extremhitze-gefahren-100.html"
+    },
+    {
+      "title": "Interview: Wie der Projektleiter das AfD-Gutachten bewertet",
+      "link": "https://www.tagesschau.de/inland/afd-verbot-gff-100.html"
     },
     {
       "title": "NATO-Treffen im Juli: Ankara vor dem Gipfel im Ausnahmezustand",
@@ -49,10 +61,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/trump-droht-mit-strafzoellen-100.html"
     },
     {
-      "title": "Hitze-Liveblog: ++ Hitzeschaden auf A7 - Fahrspur nach Norden gesperrt ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-102.html"
-    },
-    {
       "title": "Umgang mit geheimen Akten: Ex-Berater von Trump bekennt sich schuldig",
       "link": "https://www.tagesschau.de/ausland/amerika/bolton-regierungsakten-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Zahl der Todesopfer in Venezuela steigt auf 920 - viele Vermisste",
       "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-venezuela-tote-vermisste-100.html"
-    },
-    {
-      "title": "Temperaturrekord in Deutschland gemessen - 41,3 Grad in Saarbrücken",
-      "link": "https://www.tagesschau.de/inland/temperaturrekord-hoechstwert-in-deutschland-100.html"
-    },
-    {
-      "title": "Marktbericht: Neue KI-Vorsicht drückt den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-techwerte-fallen-oelpreise-niedriger-100.html"
     }
   ]
 }
