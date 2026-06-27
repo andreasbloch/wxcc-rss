@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Weitere Erdstöße erschüttern Venezuela - Rettungsarbeiten laufen",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-nachbeben-100.html"
+    },
+    {
+      "title": "Für ausgewählte Firmen: Anthropic gibt KI \"Mythos 5\" wieder frei",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-freigabe-us-unternehmen-100.html"
+    },
+    {
+      "title": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
+      "link": "https://www.tagesschau.de/ausland/asien/us-militaer-greift-iran-an-100.html"
+    },
+    {
       "title": "Italien: Noch ein Herausforderer für Meloni - von rechts",
       "link": "https://www.tagesschau.de/ausland/europa/italien-vannacci-meloni-100.html"
     },
     {
       "title": "Siebenschläfer: Und jetzt sieben Wochen Hitze?",
       "link": "https://www.tagesschau.de/wissen/klima/siebenschlaefer-152.html"
-    },
-    {
-      "title": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
-      "link": "https://www.tagesschau.de/ausland/asien/us-militaer-greift-iran-an-100.html"
     },
     {
       "title": "Israel und Libanon unterzeichnen Rahmenabkommen für Ende der Kämpfe",
@@ -71,14 +79,6 @@
     {
       "title": "Was tut die Politik für den Hitzeschutz?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/faq-hitzeschutz-bund-laender-kommunen-100.html"
-    },
-    {
-      "title": "Archiv zu Nazi-Verbrechen: Teilerfolg für Zeugen Jehovas vor Gericht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-archiv-100.html"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Kiew und Moskau tauschen Kriegsgefangene aus",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-172.html"
     }
   ]
 }
