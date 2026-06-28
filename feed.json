@@ -1,8 +1,28 @@
 {
   "items": [
     {
-      "title": "Hitze-Liveblog: ++ Anstieg der Todesfälle in Frankreich ++",
+      "title": "Hitze-Liveblog: ++ Rettungskräfte holen Passagiere aus überhitztem Zug ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-hitze-sonntag-100.html"
+    },
+    {
+      "title": "US-Einwanderungsbehörde: Trump nominiert neuen ICE-Chef",
+      "link": "https://www.tagesschau.de/ausland/amerika/ice-trump-100.html"
+    },
+    {
+      "title": "Verkauf von Glasfaserverträgen: Fragwürdige Methoden an der Haustür",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/glasfaser-vertraege-haustuerverkauf-100.html"
+    },
+    {
+      "title": "Nach dem Erdbeben: Die unermüdlichen Helfer von Venezuela",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-136.html"
+    },
+    {
+      "title": "Grüne fordern Sofortprogramm für Klimaanlagen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-hitze-klima-100.html"
+    },
+    {
+      "title": "250 Jahre Unabhängigkeit der USA: Meine Freiheit, deine Freiheit",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-geburtstag-north-dakota-100.html"
     },
     {
       "title": "Neuer nächtlicher Temperaturrekord gemessen",
@@ -59,26 +79,6 @@
     {
       "title": "DWD: Hitzerekord in Deutschland erneut gebrochen",
       "link": "https://www.tagesschau.de/inland/hitzerekord-deutschland-100.html"
-    },
-    {
-      "title": "Ukraine greift Fabrik mit \"Flamingo\"-Marschflugkörpern an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-russland-104.html"
-    },
-    {
-      "title": "Argentinien: Mehr Mathe mit Messi &amp; Co.",
-      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-bildung-messi-100.html"
-    },
-    {
-      "title": "Grüne beraten über Wahlkampf-Strategie für Ostdeutschland",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ostkongress-gruene-sassnitz-100.html"
-    },
-    {
-      "title": "Drogen: Wie sich Portugal von einem Heroin-Problem befreite",
-      "link": "https://www.tagesschau.de/ausland/europa/portugal-drogenpolitik-100.html"
-    },
-    {
-      "title": "Kleinflugzeug kracht in Peking in Hochhaus",
-      "link": "https://www.tagesschau.de/ausland/asien/peking-flugzeugabsturz-100.html"
     }
   ]
 }
