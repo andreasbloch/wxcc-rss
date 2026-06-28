@@ -1,8 +1,12 @@
 {
   "items": [
     {
-      "title": "Hitze-Liveblog: ++ Rettungskräfte holen Passagiere aus überhitztem Zug ++",
+      "title": "Hitze-Liveblog: ++ Klimaexpertin: \"So eine Hitzewelle vor 50 Jahren nicht möglich\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-hitze-sonntag-100.html"
+    },
+    {
+      "title": "Erneuter Temperaturhöchstwert in Deutschland",
+      "link": "https://www.tagesschau.de/inland/temperatur-hoechstwert-sonntag-100.html"
     },
     {
       "title": "Feuerwehren im Großeinsatz: Kampf gegen Waldbrände - und die Munition im Boden",
@@ -75,10 +79,6 @@
     {
       "title": "Hitze-Liveblog: ++ Hitzeschäden bremsen Verkehr auf Autobahnen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-wetter-hitze-104.html"
-    },
-    {
-      "title": "Zahl der Toten nach Erdbeben in Venezuela weiter gestiegen",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-134.html"
     }
   ]
 }
