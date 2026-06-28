@@ -1,7 +1,19 @@
 {
   "items": [
     {
-      "title": "USA greifen erneut Iran an - gegenseitige Drohungen",
+      "title": "Grenzen der Kunstfreiheit: Wo werden aus Klassikern Streitfälle?",
+      "link": "https://www.tagesschau.de/kultur/kunst-im-wandeln-durch-neue-moralische-massstaebe-100.html"
+    },
+    {
+      "title": "Tiny Forests: Kleine Wälder - große Wirkung?",
+      "link": "https://www.tagesschau.de/wissen/klima/tiny-forests-100.html"
+    },
+    {
+      "title": "Nach der Brandkatastrophe von Crans-Montana gibt es neue Ermittlungen",
+      "link": "https://www.tagesschau.de/investigativ/crans-montana-brandkatastrophe-ermittlungen-100.html"
+    },
+    {
+      "title": "Erneut gegenseitige Angriffe zwischen USA und Iran",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-108.html"
     },
     {
@@ -67,18 +79,6 @@
     {
       "title": "NATO-Treffen im Juli: Ankara vor dem Gipfel im Ausnahmezustand",
       "link": "https://www.tagesschau.de/ausland/asien/nato-gipfel-ankara-vorbereitungen-100.html"
-    },
-    {
-      "title": "Hitzeresistente Häuser: Wie ein Architekt gegen die Hitze kämpft",
-      "link": "https://www.tagesschau.de/ausland/afrika/bioklimatische-architektur-afrika-100.html"
-    },
-    {
-      "title": "US-Militär: Haben Angriffe gegen Iran durchgeführt",
-      "link": "https://www.tagesschau.de/ausland/asien/us-militaer-greift-iran-an-100.html"
-    },
-    {
-      "title": "Aus Italien zum Weltstar: Wie Bud Spencer Filmgeschichte schrieb",
-      "link": "https://www.tagesschau.de/kultur/zehnter-todestag-filmstar-bud-spencer-westernkomoedien-102.html"
     }
   ]
 }
