@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Hitze-Liveblog: ++ Anstieg der Todesfälle in Frankreich ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-hitze-sonntag-100.html"
+    },
+    {
+      "title": "Neuer nächtlicher Temperaturrekord gemessen",
+      "link": "https://www.tagesschau.de/inland/eilmeldung-hitze-temperatur-rekord-nacht-100.html"
+    },
+    {
+      "title": "Erneut gegenseitige Angriffe zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-108.html"
+    },
+    {
+      "title": "Trotz Grillsaison: schlechte Stimmung bei den Schweinehaltern",
+      "link": "https://www.tagesschau.de/wirtschaft/schweine-preise-landwirtschaft-100.html"
+    },
+    {
+      "title": "Kampf um Deutungshoheit: Israels Einsatz an der \"achten Front\"",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-hasbara-100.html"
+    },
+    {
+      "title": "Bundestag: Was folgt auf die Vorwürfe bei \"Jugend und Parlament\"?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/jugend-und-parlament-aufarbeitung-100.html"
+    },
+    {
       "title": "Grenzen der Kunstfreiheit: Wo werden aus Klassikern Streitfälle?",
       "link": "https://www.tagesschau.de/kultur/kunst-im-wandeln-durch-neue-moralische-massstaebe-100.html"
     },
@@ -11,10 +35,6 @@
     {
       "title": "Nach der Brandkatastrophe von Crans-Montana gibt es neue Ermittlungen",
       "link": "https://www.tagesschau.de/investigativ/crans-montana-brandkatastrophe-ermittlungen-100.html"
-    },
-    {
-      "title": "Erneut gegenseitige Angriffe zwischen USA und Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-108.html"
     },
     {
       "title": "Serbiens Präsident Vucic kündigt erneut Rücktritt an",
@@ -59,26 +79,6 @@
     {
       "title": "Kleinflugzeug kracht in Peking in Hochhaus",
       "link": "https://www.tagesschau.de/ausland/asien/peking-flugzeugabsturz-100.html"
-    },
-    {
-      "title": "Angriffe lösen Sorge vor Eskalation am Persischen Golf aus",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-bahrain-strasse-von-hormus-100.html"
-    },
-    {
-      "title": "80 Jahre Vespa: Geburtstagsparty mit wirtschaftlichen Sorgen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/80-jahre-vespa-102.html"
-    },
-    {
-      "title": "Baden bei Extremhitze: Zahl der Badeunfälle steigt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/baden-extremhitze-gefahren-100.html"
-    },
-    {
-      "title": "Interview: Wie der Projektleiter das AfD-Gutachten bewertet",
-      "link": "https://www.tagesschau.de/inland/afd-verbot-gff-100.html"
-    },
-    {
-      "title": "NATO-Treffen im Juli: Ankara vor dem Gipfel im Ausnahmezustand",
-      "link": "https://www.tagesschau.de/ausland/asien/nato-gipfel-ankara-vorbereitungen-100.html"
     }
   ]
 }
