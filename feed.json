@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Treibstoffmangel: Putin räumt Versorgungsprobleme ein",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-treibstoff-knappheit-100.html"
+    },
+    {
+      "title": "Hitzewelle in Deutschland: Wie Pflegeheime mit der Hitze umgehen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/senioren-hitze-100.html"
+    },
+    {
       "title": "Hitze-Liveblog: ++ Klimaexpertin: \"So eine Hitzewelle vor 50 Jahren nicht möglich\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-hitze-sonntag-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Kampf um Deutungshoheit: Israels Einsatz an der \"achten Front\"",
       "link": "https://www.tagesschau.de/ausland/asien/israel-hasbara-100.html"
-    },
-    {
-      "title": "Bundestag: Was folgt auf die Vorwürfe bei \"Jugend und Parlament\"?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/jugend-und-parlament-aufarbeitung-100.html"
-    },
-    {
-      "title": "Grenzen der Kunstfreiheit: Wo werden aus Klassikern Streitfälle?",
-      "link": "https://www.tagesschau.de/kultur/kunst-im-wandeln-durch-neue-moralische-massstaebe-100.html"
     }
   ]
 }
