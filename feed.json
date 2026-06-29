@@ -1,11 +1,39 @@
 {
   "items": [
     {
+      "title": "Sechs Tote in Stade: Ermittler vermuten Sorgerechtsstreit als Motiv",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/stade-motiv-schuesse-100.html"
+    },
+    {
+      "title": "Wie wichtig ist Klimaschutz für die Bundesregierung?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-klimapolitik-hitze-100.html"
+    },
+    {
+      "title": "US-Präsident Trump erleidet Niederlagen vor Supreme Court",
+      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-trump-briefwahl-100.html"
+    },
+    {
+      "title": "Vor Koalitionsausschuss: Linke SPD-Abgeordnete stellen Forderungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-spd-forderungen-100.html"
+    },
+    {
+      "title": "Griechenland zahlt Fangprämie für giftigen Hasenkopf-Kugelfisch",
+      "link": "https://www.tagesschau.de/ausland/griechenland-jagd-kugelfisch-100.html"
+    },
+    {
+      "title": "Strukturwandel: Seenlandschaft statt Braunkohlewüste in der Lausitz",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/seenlandschaft-brandenburg-sachsen-strukturwandel-100.html"
+    },
+    {
+      "title": "Marktbericht: Viel Trübsal und ein spektakulärer Kurssprung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-136.html"
+    },
+    {
       "title": "Wie die Hitze Schienen und Autobahnen herausfordert",
       "link": "https://www.tagesschau.de/inland/innenpolitik/hitze-folgen-infrastruktur-100.html"
     },
     {
-      "title": "Drei Menschen festgenommen: Sechs Tote nach Schüssen in Stade",
+      "title": "Mutmaßlicher Täter festgenommen: Sechs Tote nach Schüssen in Stade",
       "link": "https://www.tagesschau.de/inland/stade-schuesse-100.html"
     },
     {
@@ -45,40 +73,12 @@
       "link": "https://www.tagesschau.de/ausland/europa/russland-terror-drohnen-saporischschja-100.html"
     },
     {
-      "title": "Marktbericht: DAX steigt trotz Unsicherheit im Nahen Osten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-136.html"
-    },
-    {
       "title": "Besserer Hitzeschutz: Nach der Hitzewelle kommt die Diskussion",
       "link": "https://www.tagesschau.de/inland/hitze-bilanz-100.html"
     },
     {
       "title": "Verfassungsschutz: Folgen einer möglichen AfD-Landesregierung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/verfassungsschutz-afd-rechtsextremismus-100.html"
-    },
-    {
-      "title": "Privatbanken: Was folgt aus dem Fall Berenberg?",
-      "link": "https://www.tagesschau.de/wirtschaft/berenberg-bafin-privatbanken-100.html"
-    },
-    {
-      "title": "WHO: Hantavirus-Ausbruch neigt sich Ende zu",
-      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-ende-100.html"
-    },
-    {
-      "title": "Forschende warnen vor unkritischer KI-Nutzung",
-      "link": "https://www.tagesschau.de/wissen/forschung/unkritische-ki-nutzung-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Weltraummacht Deutschland? Streit um Zuständigkeiten ",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/podcast-11km-weltraum-macht-100.html"
-    },
-    {
-      "title": "SpaceX im MSCI World: Was ETF-Anleger wissen müssen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/spacex-msci-world-etf-anleger-100.html"
-    },
-    {
-      "title": "Maschinengewehre auf zivilem russischen Tanker",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-tanker-waffen-100.html"
     }
   ]
 }
