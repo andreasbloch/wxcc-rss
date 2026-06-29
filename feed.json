@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Wie Russland mit Drohnen Zivilisten in der Ukraine jagt.",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-terror-drohnen-saporischschja-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX steigt trotz Unsicherheit im Nahen Osten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-136.html"
+    },
+    {
+      "title": "Besserer Hitzeschutz: Nach der Hitzewelle kommt die Diskussion",
+      "link": "https://www.tagesschau.de/inland/hitze-bilanz-100.html"
+    },
+    {
+      "title": "Verfassungsschutz: Folgen einer möglichen AfD-Landesregierung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/verfassungsschutz-afd-rechtsextremismus-100.html"
+    },
+    {
+      "title": "Privatbanken: Was folgt aus dem Fall Berenberg?",
+      "link": "https://www.tagesschau.de/wirtschaft/berenberg-bafin-privatbanken-100.html"
+    },
+    {
+      "title": "WHO: Hantavirus-Ausbruch neigt sich Ende zu",
+      "link": "https://www.tagesschau.de/ausland/europa/hantavirus-ende-100.html"
+    },
+    {
+      "title": "Forschende warnen vor unkritischer KI-Nutzung",
+      "link": "https://www.tagesschau.de/wissen/forschung/unkritische-ki-nutzung-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Weltraummacht Deutschland? Streit um Zuständigkeiten ",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/podcast-11km-weltraum-macht-100.html"
+    },
+    {
       "title": "SpaceX im MSCI World: Was ETF-Anleger wissen müssen",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/spacex-msci-world-etf-anleger-100.html"
     },
@@ -17,7 +49,7 @@
       "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-hisbollah-118.html"
     },
     {
-      "title": "Parteichefs der Koalition beraten zu Reformen im Kanzleramt",
+      "title": "Parteichefs der Koalition beraten über Reformen im Kanzleramt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-parteichefs-beratung-100.html"
     },
     {
@@ -25,7 +57,7 @@
       "link": "https://www.tagesschau.de/ausland/europa/russland-treibstoff-knappheit-100.html"
     },
     {
-      "title": "Hitzewelle in Deutschland: Wie Pflegeheime mit der Hitze umgehen",
+      "title": "Wie Pflegeheime und Senioren mit Hitze umgehen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/senioren-hitze-100.html"
     },
     {
@@ -47,38 +79,6 @@
     {
       "title": "Erneuter Temperaturhöchstwert in Deutschland",
       "link": "https://www.tagesschau.de/inland/temperatur-hoechstwert-sonntag-100.html"
-    },
-    {
-      "title": "Elf Tote bei Absturz von Kleinflugzeug in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-flugzeugabsturz-100.html"
-    },
-    {
-      "title": "Deutsche Autorin Lena Schätte gewinnt Bachmann-Preis",
-      "link": "https://www.tagesschau.de/kultur/ingeborg-bachmann-preis-lena-schaette-100.html"
-    },
-    {
-      "title": "US-Einwanderungsbehörde: Trump nominiert neuen ICE-Chef",
-      "link": "https://www.tagesschau.de/ausland/amerika/ice-trump-100.html"
-    },
-    {
-      "title": "Verkauf von Glasfaserverträgen: Fragwürdige Methoden an der Haustür",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/glasfaser-vertraege-haustuerverkauf-100.html"
-    },
-    {
-      "title": "Nach dem Erdbeben: Die unermüdlichen Helfer von Venezuela",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-136.html"
-    },
-    {
-      "title": "Grüne fordern Sofortprogramm für Klimaanlagen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-hitze-klima-100.html"
-    },
-    {
-      "title": "250 Jahre Unabhängigkeit der USA: Meine Freiheit, deine Freiheit",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-geburtstag-north-dakota-100.html"
-    },
-    {
-      "title": "Neuer nächtlicher Temperaturrekord gemessen",
-      "link": "https://www.tagesschau.de/inland/eilmeldung-hitze-temperatur-rekord-nacht-100.html"
     }
   ]
 }
