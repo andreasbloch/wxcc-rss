@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "SpaceX im MSCI World: Was ETF-Anleger wissen müssen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/spacex-msci-world-etf-anleger-100.html"
+    },
+    {
+      "title": "Maschinengewehre auf zivilem russischen Tanker",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-tanker-waffen-100.html"
+    },
+    {
+      "title": "USA-Iran-Konflikt verschärft sich trotz des Rahmenabkommens wieder",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-iran-usa-100.html"
+    },
+    {
+      "title": "Israels Armee zerstört Tunnel im Südlibanon",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-hisbollah-118.html"
+    },
+    {
       "title": "Parteichefs der Koalition beraten zu Reformen im Kanzleramt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalition-parteichefs-beratung-100.html"
     },
@@ -23,10 +39,6 @@
     {
       "title": "Ugandas Armeechef und Präsidentensohn schließt Medien",
       "link": "https://www.tagesschau.de/ausland/afrika/uganda-medien-100.html"
-    },
-    {
-      "title": "USA-Iran-Konflikt verschärft sich trotz des Rahmenabkommens wieder",
-      "link": "https://www.tagesschau.de/ausland/asien/angriffe-iran-usa-100.html"
     },
     {
       "title": "Feuerwehren im Großeinsatz: Kampf gegen Waldbrände - und die Munition im Boden",
@@ -67,18 +79,6 @@
     {
       "title": "Neuer nächtlicher Temperaturrekord gemessen",
       "link": "https://www.tagesschau.de/inland/eilmeldung-hitze-temperatur-rekord-nacht-100.html"
-    },
-    {
-      "title": "Erneut gegenseitige Angriffe zwischen USA und Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-108.html"
-    },
-    {
-      "title": "Trotz Grillsaison: schlechte Stimmung bei den Schweinehaltern",
-      "link": "https://www.tagesschau.de/wirtschaft/schweine-preise-landwirtschaft-100.html"
-    },
-    {
-      "title": "Kampf um Deutungshoheit: Israels Einsatz an der \"achten Front\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-hasbara-100.html"
     }
   ]
 }
