@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Paraguay ruft nach WM-Erfolg spontan nationalen Feiertag aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruft-nationalfeiertag-aus-100.html"
+    },
+    {
+      "title": "Drei Verletzte durch Explosion im Fürstentum Monaco",
+      "link": "https://www.tagesschau.de/ausland/europa/monaco-explosion-100.html"
+    },
+    {
+      "title": "Australien besorgt über Vogelgrippe-Ausbruch",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-vogelgrippe-102.html"
+    },
+    {
+      "title": "Verfassungsschutz: Zahl extremistischer Personen so hoch wie nie",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/verfassungsschutz-bericht-extremismus-100.html"
+    },
+    {
+      "title": "Marktmacht der US-Techkonzerne: Ist ein Leben ohne Google möglich?",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/google-marktmacht-102.html"
+    },
+    {
       "title": "Außenminister Wadephul beginnt mehrtägigen Südamerika-Besuch",
       "link": "https://www.tagesschau.de/ausland/amerika/wadephul-paraguay-102.html"
     },
@@ -13,16 +33,8 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-geldanlage-100.html"
     },
     {
-      "title": "Verfassungsschutz: Zahl extremistischer Personen so hoch wie nie",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/verfassungsschutz-bericht-extremismus-100.html"
-    },
-    {
       "title": "Fujimori gewinnt Präsidentenwahl in Peru knapp",
       "link": "https://www.tagesschau.de/ausland/amerika/peru-praesidentenwahl-ergebnis-100.html"
-    },
-    {
-      "title": "Drei Verletzte durch Explosion im Fürstentum Monaco",
-      "link": "https://www.tagesschau.de/ausland/europa/monaco-explosion-100.html"
     },
     {
       "title": "Singapur: KI-Kurse fürs Volk",
@@ -67,18 +79,6 @@
     {
       "title": "Strukturwandel: Seenlandschaft statt Braunkohlewüste in der Lausitz",
       "link": "https://www.tagesschau.de/inland/gesellschaft/seenlandschaft-brandenburg-sachsen-strukturwandel-100.html"
-    },
-    {
-      "title": "Marktbericht: Viel Trübsal und ein spektakulärer Kurssprung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-136.html"
-    },
-    {
-      "title": "Infrastruktur und Temperaturen: Wie die Hitze Schienen und Autobahnen zusetzt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hitze-folgen-infrastruktur-100.html"
-    },
-    {
-      "title": "Mutmaßlicher Täter festgenommen: Sechs Tote nach Schüssen in Stade",
-      "link": "https://www.tagesschau.de/inland/stade-schuesse-100.html"
     }
   ]
 }
