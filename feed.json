@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Was die neue Grundsicherung für Betroffene bedeutet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/grundsicherung-132.html"
+    },
+    {
+      "title": "Nach WM-Aus der Deutschen: Adidas-Aktie knickt ein",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-wm-adidas-100.html"
+    },
+    {
+      "title": "Raketenabwehrsystem \"Arrow\" wird in Kaufbeuren stationiert",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/raketenabwehr-arrow-kaufbeuren-100.html"
+    },
+    {
+      "title": "Marktbericht: Versöhnlicher Halbjahres-Abschluss an der Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-geldanlage-100.html"
+    },
+    {
       "title": "US-Geburtsrecht: Urteil kippt Trumps Plan zur Staatsbürgerschaft",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-urteile-staatsbuergerschaft-transgender-100.html"
     },
@@ -57,28 +73,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/inflation-juni-100.html"
     },
     {
-      "title": "Nach WM-Aus der Deutschen: Adidas-Aktie knickt ein",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-wm-adidas-100.html"
-    },
-    {
       "title": "Fußball-WM im Fernsehen: US-Sender Fox freut sich über Rekordquoten",
       "link": "https://www.tagesschau.de/ausland/amerika/wm-usa-rekordzahlen-fox-news-100.html"
     },
     {
       "title": "UBS-Bericht zu Privatvermögen: Die Reichen sind noch reicher geworden",
       "link": "https://www.tagesschau.de/wirtschaft/finanzbericht-ubs-reiche-werden-reicher-100.html"
-    },
-    {
-      "title": "Deutlich mehr Waldbrände in Deutschland in 2025",
-      "link": "https://www.tagesschau.de/inland/waldbraende-statistik-102.html"
-    },
-    {
-      "title": "Förderprogramm für Umbau von Büros zu Wohnungen startet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wohnen-wohnraum-bueros-100.html"
-    },
-    {
-      "title": "Alphabet-Aktie jetzt im US-Leitindex Dow Jones",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/alphabet-dow-jones-industrial-100.html"
     }
   ]
 }
