@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Fast 2.000 Tote nach Erdbeben in Venezuela",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-todesopfer-100.html"
+    },
+    {
+      "title": "Worum geht es beim Urteil zum US-Geburtsrecht?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-urteil-staatsbuergerschaftsrecht-100.html"
+    },
+    {
+      "title": "Porträt von Merkel für Ahnengalerie im Kanzleramt vorgestellt",
+      "link": "https://www.tagesschau.de/kultur/merkel-portraet-kanzleramt-100.html"
+    },
+    {
       "title": "Was die neue Grundsicherung für Betroffene bedeutet",
       "link": "https://www.tagesschau.de/inland/gesellschaft/grundsicherung-132.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Venezuela: In der Katastrophe bricht die Wut durch",
       "link": "https://www.tagesschau.de/ausland/venezuela-erdbeben-150.html"
-    },
-    {
-      "title": "Inflationsrate sinkt im Juni auf 2,3 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/inflation-juni-100.html"
-    },
-    {
-      "title": "Fußball-WM im Fernsehen: US-Sender Fox freut sich über Rekordquoten",
-      "link": "https://www.tagesschau.de/ausland/amerika/wm-usa-rekordzahlen-fox-news-100.html"
-    },
-    {
-      "title": "UBS-Bericht zu Privatvermögen: Die Reichen sind noch reicher geworden",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzbericht-ubs-reiche-werden-reicher-100.html"
     }
   ]
 }
