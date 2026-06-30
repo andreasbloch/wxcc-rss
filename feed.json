@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "USA und Iran wollen Gespräche fortsetzen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-verhandlungen-100.html"
+    },
+    {
       "title": "Was über die Gewalttat von Stade mit sechs Toten bekannt ist",
       "link": "https://www.tagesschau.de/inland/stade-schuesse-faq-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Hoffnung und Verzweiflung im Erdbebengebiet von Venezuela",
       "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-hoffnung-verzweiflung-100.html"
-    },
-    {
-      "title": "Badeunfälle: DLRG meldet mindestens 26 Tote und Vermisste",
-      "link": "https://www.tagesschau.de/inland/dlrg-bilanz-badeunfaelle-100.html"
     }
   ]
 }
