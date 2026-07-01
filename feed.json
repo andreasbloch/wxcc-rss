@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Rente erhöht - und plötzlich steuerpflichtig",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rente-erhoehung-steuern-100.html"
+    },
+    {
+      "title": "Village-People-Sänger Victor Willis mit 74 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/village-people-saenger-victor-willis-tot-100.html"
+    },
+    {
+      "title": "Erstmals DNA von Steinzeitmenschen an Höhlenwänden gefunden",
+      "link": "https://www.tagesschau.de/wissen/forschung/dna-menschen-hoehlenmalerei-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX ohne positive Impulse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-100.html"
+    },
+    {
       "title": "Erneut mehr Verdachtsmeldungen bei der Bundeswehr",
       "link": "https://www.tagesschau.de/investigativ/wdr/bundeswehr-rechtsextremismus-136.html"
     },
@@ -15,10 +31,6 @@
     {
       "title": "Deutsche Bahn setzt ab sofort auch im Fernverkehr Bodycams ein",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-sicherheit-bodycams-100.html"
-    },
-    {
-      "title": "Gemischte Reaktionen auf neues Eintrittsgeld für Kölner Dom",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/eintritt-koelner-dom-102.html"
     },
     {
       "title": "Trump lobt indirekte Gespräche mit Iran in Katar",
@@ -65,20 +77,8 @@
       "link": "https://www.tagesschau.de/ausland/afrika/ueberschwemmungen-ghana-elfenbeinkueste-100.html"
     },
     {
-      "title": "Neues Gesetz gegen Billig-Klamotten in Frankreich",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/frankreich-fast-fashion-gesetz-100.html"
-    },
-    {
-      "title": "Venezuela: Tausende Verletzte - Krankenhäuser am Limit",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-krankenhaeuser-100.html"
-    },
-    {
-      "title": "Verteidigungsminister Pistorius will Bundeswehr-Reserve stärken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservisten-104.html"
-    },
-    {
-      "title": "Umfrage des EU-Parlaments: 75 Prozent bewerten die EU als \"sicheren Hafen\"",
-      "link": "https://www.tagesschau.de/ausland/europa/eurobarometer-2026-100.html"
+      "title": "Gemischte Reaktionen auf neues Eintrittsgeld für Kölner Dom",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/eintritt-koelner-dom-102.html"
     }
   ]
 }
