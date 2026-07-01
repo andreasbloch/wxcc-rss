@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Koalitionsausschuss: Einigung auf Paket für Wachstum und Beschäftigung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-102.html"
+    },
+    {
       "title": "Koalitionsspitzen beraten über Reformen - Kanzler Merz optimistisch",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-optimistisch-vor-koalitionsausschuss-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Halbjahresbilanz: Weniger Börsengänge trotz robuster Aktienmärkte",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-bilanz-halbjahr-marktbericht-100.html"
-    },
-    {
-      "title": "Inflation im Euroraum sinkt deutlich auf 2,8 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-juni-verbraucherpreise-100.html"
     }
   ]
 }
