@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "title": "Venezuela: Tausende Verletzte - Krankenhäuser am Limit",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-krankenhaeuser-100.html"
+    },
+    {
+      "title": "Verteidigungsminister Pistorius will Bundeswehr-Reserve stärken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservisten-104.html"
+    },
+    {
+      "title": "Umfrage des EU-Parlaments: 75 Prozent bewerten die EU als \"sicheren Hafen\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eurobarometer-2026-100.html"
+    },
+    {
+      "title": "Korruptions-Razzia wegen Tickets für Fußball-EM 2024",
+      "link": "https://www.tagesschau.de/inland/razzia-em-2024-100.html"
+    },
+    {
+      "title": "Warum Stahlaktien trotz Dauerkrise so gut laufen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/stahlindustrie-krise-zoelle-100.html"
+    },
+    {
+      "title": "Zolldeal in Kraft: US-Industriegüter und Hummer ab heute zollfrei",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zolldeal-eu-usa-industrie-hummer-100.html"
+    },
+    {
+      "title": "Bischofsweihe in der Schweiz: Piusbrüder wagen Konflikt mit dem Papst",
+      "link": "https://www.tagesschau.de/ausland/europa/pius-brueder-bischofsweihe-100.html"
+    },
+    {
+      "title": "Grundsicherung vor Neuberechnung: Drohen Kürzungen bei den Regelsätzen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/neue-regelsaetze-grundsicherung-100.html"
+    },
+    {
+      "title": "Statistisches Bundesamt: Geburtenrate so niedrig wie zuletzt 1997",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/geburtenrate-sinkt-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX mäandert um 25.000-Punkte-Marke",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-100.html"
+    },
+    {
+      "title": "Zollgebühr für kleine Pakete von Temu und Shein",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/temu-shein-zoll-102.html"
+    },
+    {
       "title": "US-Regierung hebt Sperren für KI-Modelle von Anthropic auf",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/usa-anthropic-ki-100.html"
     },
@@ -17,20 +61,8 @@
       "link": "https://www.tagesschau.de/ausland/amerika/trump-einnahmen-krypto-100.html"
     },
     {
-      "title": "Börsenausblick: DAX bleibt an der 25.000-Marke dran",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-100.html"
-    },
-    {
-      "title": "Bischofsweihe in der Schweiz: Piusbrüder wagen den Konflikt mit dem Papst",
-      "link": "https://www.tagesschau.de/ausland/europa/pius-brueder-bischofsweihe-100.html"
-    },
-    {
       "title": "Neue Förderung: Aus Büros werden Wohnungen - ein Beispiel aus NRW",
       "link": "https://www.tagesschau.de/wirtschaft/bueros-wohnungen-foerderung-100.html"
-    },
-    {
-      "title": "Verteidigungsminister Pistorius will Bundeswehr-Reserve stärken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservisten-104.html"
     },
     {
       "title": "Meere im Juni so aufgeheizt wie nie zuvor",
@@ -47,38 +79,6 @@
     {
       "title": "Zwei Tote bei Waldbrand in Griechenland",
       "link": "https://www.tagesschau.de/ausland/europa/waldbrand-thessaloniki-100.html"
-    },
-    {
-      "title": "Schweden will zurück zum Bargeld",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schweden-bargeld-rueckkehr-100.html"
-    },
-    {
-      "title": "Trump kündigt Parteitag der Republikaner vor Midterms an",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-parteitag-100.html"
-    },
-    {
-      "title": "Ausstellung 250 Jahre USA: Zwischen Kanonenboot, iPod und Ground Zero",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-250-jahre-feier-erzaehlung-100.html"
-    },
-    {
-      "title": "Tankrabatt beendet - Sorge vor dem Preissprung um 12 Uhr",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ende-tankrabatt-102.html"
-    },
-    {
-      "title": "Fast 2.000 Tote nach Erdbeben in Venezuela",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-todesopfer-100.html"
-    },
-    {
-      "title": "Worum geht es beim Urteil zum US-Geburtsrecht?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-urteil-staatsbuergerschaftsrecht-100.html"
-    },
-    {
-      "title": "Porträt von Merkel für Ahnengalerie im Kanzleramt vorgestellt",
-      "link": "https://www.tagesschau.de/kultur/merkel-portraet-kanzleramt-100.html"
-    },
-    {
-      "title": "Was die neue Grundsicherung für Betroffene bedeutet",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/grundsicherung-132.html"
     }
   ]
 }
