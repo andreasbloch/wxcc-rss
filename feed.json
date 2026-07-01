@@ -1,11 +1,55 @@
 {
   "items": [
     {
+      "title": "US-Regierung hebt Sperren für KI-Modelle von Anthropic auf",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/usa-anthropic-ki-100.html"
+    },
+    {
+      "title": "Inflation: Warum das Preisniveau bald wieder deutlich steigen könnte",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-lebensmittel-preise-ezb-100.html"
+    },
+    {
+      "title": "China ordnet Anpassung an Mehrheitsgesellschaft per Gesetz an",
+      "link": "https://www.tagesschau.de/ausland/asien/china-assimilationsgesetz-100.html"
+    },
+    {
+      "title": "Trump nahm 2025 über eine Milliarde Dollar mit Kryptogeschäften ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-einnahmen-krypto-100.html"
+    },
+    {
+      "title": "Börsenausblick: DAX bleibt an der 25.000-Marke dran",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-100.html"
+    },
+    {
+      "title": "Bischofsweihe in der Schweiz: Piusbrüder wagen den Konflikt mit dem Papst",
+      "link": "https://www.tagesschau.de/ausland/europa/pius-brueder-bischofsweihe-100.html"
+    },
+    {
+      "title": "Neue Förderung: Aus Büros werden Wohnungen - ein Beispiel aus NRW",
+      "link": "https://www.tagesschau.de/wirtschaft/bueros-wohnungen-foerderung-100.html"
+    },
+    {
+      "title": "Verteidigungsminister Pistorius will Bundeswehr-Reserve stärken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservisten-104.html"
+    },
+    {
+      "title": "Meere im Juni so aufgeheizt wie nie zuvor",
+      "link": "https://www.tagesschau.de/wissen/klima/meere-warm-copernicus-100.html"
+    },
+    {
+      "title": "Welche Themen beim Koalitionsausschuss auf dem Tisch liegen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-100.html"
+    },
+    {
+      "title": "Kölner Dom kostet ab heute bis zu 12 Euro Eintritt",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koelner-dom-eintritt-104.html"
+    },
+    {
       "title": "Zwei Tote bei Waldbrand in Griechenland",
       "link": "https://www.tagesschau.de/ausland/europa/waldbrand-thessaloniki-100.html"
     },
     {
-      "title": "Warum Schweden zurück zum Bargeld will",
+      "title": "Schweden will zurück zum Bargeld",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schweden-bargeld-rueckkehr-100.html"
     },
     {
@@ -35,50 +79,6 @@
     {
       "title": "Was die neue Grundsicherung für Betroffene bedeutet",
       "link": "https://www.tagesschau.de/inland/gesellschaft/grundsicherung-132.html"
-    },
-    {
-      "title": "Nach WM-Aus der Deutschen: Adidas-Aktie knickt ein",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-wm-adidas-100.html"
-    },
-    {
-      "title": "Raketenabwehrsystem \"Arrow\" wird in Kaufbeuren stationiert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/raketenabwehr-arrow-kaufbeuren-100.html"
-    },
-    {
-      "title": "Marktbericht: Versöhnlicher Halbjahres-Abschluss an der Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-geldanlage-100.html"
-    },
-    {
-      "title": "US-Geburtsrecht: Urteil kippt Trumps Plan zur Staatsbürgerschaft",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-urteile-staatsbuergerschaft-transgender-100.html"
-    },
-    {
-      "title": "Erneut fremdenfeindliche Proteste in Südafrika",
-      "link": "https://www.tagesschau.de/ausland/afrika/proteste-suedafrika-stichtag-gegen-migranten-100.html"
-    },
-    {
-      "title": "Sozialdemokrat Sinkevicius neuer Regierungschef in Litauen",
-      "link": "https://www.tagesschau.de/ausland/europa/litauen-neuer-premier-sinkevicius-100.html"
-    },
-    {
-      "title": "Wagenknecht und Weidel? Das BSW und die Annäherung an die AfD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-afd-brief-100.html"
-    },
-    {
-      "title": "London erhöht Verteidigungsetat um 15 Milliarden Pfund",
-      "link": "https://www.tagesschau.de/ausland/europa/vereinigtes-koenigreich-verteidigungsetat-100.html"
-    },
-    {
-      "title": "Grenzkontrollen in Bulgarien: Prinzip \"Kohle, durchwinken, Kohle, durchwinken\"",
-      "link": "https://www.tagesschau.de/ausland/europa/bulgarien-lebensmittel-grenzkontrollen-100.html"
-    },
-    {
-      "title": "Ex-Kanzler Scholz hat einen neuen Job",
-      "link": "https://www.tagesschau.de/inland/scholz-neuer-job-100.html"
-    },
-    {
-      "title": "Wo Stellen wegfallen - und wo neue entstehen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/stellenabbau-deutschland-100.html"
     }
   ]
 }
