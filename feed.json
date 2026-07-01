@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "NATO-Generalsekretär Rutte lobt Deutschlands Einsatz die NATO",
+      "link": "https://www.tagesschau.de/inland/rutte-nato-deutschland-100.html"
+    },
+    {
+      "title": "Tankstellen-Pächter befürchten neuen Unmut von Autofahrern",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tankrabatt-bilanz-100.html"
+    },
+    {
+      "title": "Spritpreise ziehen mit dem Ende des Tankrabatts kräftig an",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/spritpreise-tankrabatt-steuererleichterung-100.html"
+    },
+    {
+      "title": "Anschläge in Griechenland - wohl gegen Politiker",
+      "link": "https://www.tagesschau.de/ausland/europa/brandanschlaege-griechenland-100.html"
+    },
+    {
+      "title": "Auswärtiges Amt weitet Reisewarnung auf ganz Russland aus",
+      "link": "https://www.tagesschau.de/ausland/europa/reisewarnung-russland-104.html"
+    },
+    {
+      "title": "Mindestens fünf Tote bei Hochhausbrand in Antwerpen",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-antwerpen-brand-100.html"
+    },
+    {
+      "title": "Halbjahresbilanz: Weniger Börsengänge trotz robuster Aktienmärkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-bilanz-halbjahr-marktbericht-100.html"
+    },
+    {
+      "title": "Inflation im Euroraum sinkt deutlich auf 2,8 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-juni-verbraucherpreise-100.html"
+    },
+    {
+      "title": "Tote bei Überschwemmungen in Ghana und Elfenbeinküste",
+      "link": "https://www.tagesschau.de/ausland/afrika/ueberschwemmungen-ghana-elfenbeinkueste-100.html"
+    },
+    {
+      "title": "Neues Gesetz gegen Billig-Klamotten in Frankreich",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/frankreich-fast-fashion-gesetz-100.html"
+    },
+    {
       "title": "Venezuela: Tausende Verletzte - Krankenhäuser am Limit",
       "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-krankenhaeuser-100.html"
     },
@@ -39,46 +79,6 @@
     {
       "title": "Marktbericht: DAX mäandert um 25.000-Punkte-Marke",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-100.html"
-    },
-    {
-      "title": "Zollgebühr für kleine Pakete von Temu und Shein",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/temu-shein-zoll-102.html"
-    },
-    {
-      "title": "US-Regierung hebt Sperren für KI-Modelle von Anthropic auf",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/usa-anthropic-ki-100.html"
-    },
-    {
-      "title": "Inflation: Warum das Preisniveau bald wieder deutlich steigen könnte",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-lebensmittel-preise-ezb-100.html"
-    },
-    {
-      "title": "China ordnet Anpassung an Mehrheitsgesellschaft per Gesetz an",
-      "link": "https://www.tagesschau.de/ausland/asien/china-assimilationsgesetz-100.html"
-    },
-    {
-      "title": "Trump nahm 2025 über eine Milliarde Dollar mit Kryptogeschäften ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-einnahmen-krypto-100.html"
-    },
-    {
-      "title": "Neue Förderung: Aus Büros werden Wohnungen - ein Beispiel aus NRW",
-      "link": "https://www.tagesschau.de/wirtschaft/bueros-wohnungen-foerderung-100.html"
-    },
-    {
-      "title": "Meere im Juni so aufgeheizt wie nie zuvor",
-      "link": "https://www.tagesschau.de/wissen/klima/meere-warm-copernicus-100.html"
-    },
-    {
-      "title": "Welche Themen beim Koalitionsausschuss auf dem Tisch liegen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-100.html"
-    },
-    {
-      "title": "Kölner Dom kostet ab heute bis zu 12 Euro Eintritt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koelner-dom-eintritt-104.html"
-    },
-    {
-      "title": "Zwei Tote bei Waldbrand in Griechenland",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-thessaloniki-100.html"
     }
   ]
 }
