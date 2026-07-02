@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Vatikan schließt Piusbrüder aus der Kirche aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/pius-papst-exkommunikation-100.html"
+    },
+    {
       "title": "Kanzler Merz verteidigt Reformpläne der Bundesregierung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-interview-reformen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Vatikan schließt erzkonservative Piusbrüder aus Kirche aus",
       "link": "https://www.tagesschau.de/ausland/europa/exkommunikation-piusbrueder-100.html"
-    },
-    {
-      "title": "Pläne für den Arbeitsmarkt: \"Mehr Beweglichkeit für Unternehmen\"",
-      "link": "https://www.tagesschau.de/inland/arbeitsmarkt-koalition-100.html"
     }
   ]
 }
