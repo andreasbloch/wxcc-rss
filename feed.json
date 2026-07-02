@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "Marktbericht: Setzt sich der DAX über 25.000 Punkte fest?",
+      "title": "Marktbericht: DAX über 25.000 - Anleger warten auf US-Jobdaten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-138.html"
+    },
+    {
+      "title": "Infineon eröffnet neue Chipfabrik in Dresden",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-chipfabrik-dresden-100.html"
+    },
+    {
+      "title": "Ukraine meldet massive russische Luftangriffe - mehrere Tote",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-120.html"
+    },
+    {
+      "title": "Panzerbauer KNDS bläst Börsengang vorerst ab",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-boersengang-ruestung-100.html"
+    },
+    {
+      "title": "Zentrum soll bei Munitionsbergung in Nord- und Ostsee helfen",
+      "link": "https://www.tagesschau.de/inland/kompetenzentrum-munitionsbergung-rostock-100.html"
     },
     {
       "title": "Parlamentswahl in Algerien: Wahlkampf gegen das Desinteresse",
@@ -15,10 +31,6 @@
     {
       "title": "Wie giftig ist das Pestizid Fluazinam wirklich?",
       "link": "https://www.tagesschau.de/investigativ/br-recherche/pestizid-fluazinam-100.html"
-    },
-    {
-      "title": "Ukraine meldet massive russische Luftangriffe - mehrere Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-120.html"
     },
     {
       "title": "Pflegepersonal - AOK kritisiert Fehlanreize für Heimbetreiber",
@@ -67,18 +79,6 @@
     {
       "title": "Deutsche Bahn setzt ab sofort auch im Fernverkehr Bodycams ein",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-sicherheit-bodycams-100.html"
-    },
-    {
-      "title": "Trump lobt indirekte Gespräche mit Iran in Katar",
-      "link": "https://www.tagesschau.de/ausland/asien/gespraeche-usa-iran-katar-100.html"
-    },
-    {
-      "title": "250 Jahre USA: Wer sich noch dazugehörig fühlt",
-      "link": "https://www.tagesschau.de/ausland/usa-250-jahre-100.html"
-    },
-    {
-      "title": "NATO-Generalsekretär Rutte lobt Deutschlands Einsatz die NATO",
-      "link": "https://www.tagesschau.de/inland/rutte-nato-deutschland-100.html"
     }
   ]
 }
