@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Kanzler Merz verteidigt Reformpläne der Bundesregierung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-interview-reformen-100.html"
+    },
+    {
+      "title": "Reformpläne: Kritik und Lob von Opposition und Verbänden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-reaktionen-100.html"
+    },
+    {
+      "title": "Absturz in CITIC Tower: Pekings Behörden nennen Details zu Flugzeug-Crash",
+      "link": "https://www.tagesschau.de/ausland/asien/china-leichtflugzeug-100.html"
+    },
+    {
+      "title": "1.000 Tage Dauerkrise: Der Nahe Osten hat seinen Kompass verloren",
+      "link": "https://www.tagesschau.de/kommentar/israel-gaza-hamas-jahrestag-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX schafft neues Allzeithoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-138.html"
+    },
+    {
       "title": "ARD-DeutschlandTrend: Der Druck auf Merz wächst",
       "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-juli-102.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Pläne für den Arbeitsmarkt: \"Mehr Beweglichkeit für Unternehmen\"",
       "link": "https://www.tagesschau.de/inland/arbeitsmarkt-koalition-100.html"
-    },
-    {
-      "title": "Studie: Deutsche Politiker unterschätzen Bereitschaft zum Klimaschutz",
-      "link": "https://www.tagesschau.de/wissen/klima/politiker-klimaschutz-bevoelkerung-100.html"
-    },
-    {
-      "title": "Auf welche Reformen sich Schwarz-Rot geeinigt hat",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-koalitionsausschuss-102.html"
-    },
-    {
-      "title": "Marktbericht: DAX über 25.000 - Anleger warten auf US-Jobdaten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-138.html"
-    },
-    {
-      "title": "Infineon eröffnet neue Chipfabrik in Dresden",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-chipfabrik-dresden-100.html"
-    },
-    {
-      "title": "Panzerbauer KNDS bläst Börsengang vorerst ab",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-boersengang-ruestung-100.html"
     }
   ]
 }
