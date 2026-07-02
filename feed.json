@@ -1,20 +1,48 @@
 {
   "items": [
     {
-      "title": "Pläne für den Arbeitsmarkt: \"Mehr Beweglichkeit für Unternehmen\"",
-      "link": "https://www.tagesschau.de/inland/arbeitsmarkt-koalition-100.html"
+      "title": "Michael Thonet: Wie sein Kaffeehaus-Stuhl die Welt eroberte",
+      "link": "https://www.tagesschau.de/kultur/design-pionier-michael-thonet-100.html"
     },
     {
-      "title": "Studie: Deutsche Politiker unterschätzen Bereitschaft zum Klimaschutz",
-      "link": "https://www.tagesschau.de/wissen/klima/politiker-klimaschutz-bevoelkerung-100.html"
+      "title": "Trümmer und Traumata - 1.000 Tage nach dem Überfall der Hamas",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-geiselnahme-100.html"
+    },
+    {
+      "title": "Koalition stellt Reformpläne vor: Ein staatstragender Auftritt",
+      "link": "https://www.tagesschau.de/inland/analyse-koalition-reformpaket-100.html"
     },
     {
       "title": "Niederlage vor EuGH: Google muss EU-Rekordstrafe zahlen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-rekordstrafe-eu-100.html"
     },
     {
+      "title": "Kurserholung: Bayer-Aktie schafft es an die DAX-Spitze",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bayer-aktie-glyphosat-usa-100.html"
+    },
+    {
+      "title": "Erste Sommerreisewelle erwartet: Wo Stau droht",
+      "link": "https://www.tagesschau.de/inland/sommerferien-reiseverkehr-stau-100.html"
+    },
+    {
       "title": "Ukraine meldet massive russische Luftangriffe - mehrere Tote",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-120.html"
+    },
+    {
+      "title": "Vatikan schließt erzkonservative Piusbrüder aus Kirche aus",
+      "link": "https://www.tagesschau.de/ausland/europa/exkommunikation-piusbrueder-100.html"
+    },
+    {
+      "title": "Wie die Koalition Steuerzahler entlasten will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-koalition-einigung-100.html"
+    },
+    {
+      "title": "Pläne für den Arbeitsmarkt: \"Mehr Beweglichkeit für Unternehmen\"",
+      "link": "https://www.tagesschau.de/inland/arbeitsmarkt-koalition-100.html"
+    },
+    {
+      "title": "Studie: Deutsche Politiker unterschätzen Bereitschaft zum Klimaschutz",
+      "link": "https://www.tagesschau.de/wissen/klima/politiker-klimaschutz-bevoelkerung-100.html"
     },
     {
       "title": "Auf welche Reformen sich Schwarz-Rot geeinigt hat",
@@ -42,7 +70,7 @@
     },
     {
       "title": "Parlamentswahl in Algerien: Wahlkampf gegen das Desinteresse",
-      "link": "https://www.tagesschau.de/ausland/algerien-parlamentswahlen-100.html"
+      "link": "https://www.tagesschau.de/ausland/afrika/algerien-parlamentswahlen-100.html"
     },
     {
       "title": "Koalitionsausschuss: Einigung auf Paket für Wachstum und Beschäftigung",
@@ -51,34 +79,6 @@
     {
       "title": "Wie giftig ist das Pestizid Fluazinam wirklich?",
       "link": "https://www.tagesschau.de/investigativ/br-recherche/pestizid-fluazinam-100.html"
-    },
-    {
-      "title": "Pflegepersonal - AOK kritisiert Fehlanreize für Heimbetreiber",
-      "link": "https://www.tagesschau.de/investigativ/rbb/aok-abrechnung-pflegepersonal-100.html"
-    },
-    {
-      "title": "Venezuela: Hoffnung auf Neuanfang durch Erdbeben erschüttert",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-folgen-102.html"
-    },
-    {
-      "title": "Koalitionsspitzen beraten über Reformen - Kanzler Merz optimistisch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-optimistisch-vor-koalitionsausschuss-100.html"
-    },
-    {
-      "title": "In Polen explodieren nach Ende der Preisbremse die Spritpreise",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-spritpreise-100.html"
-    },
-    {
-      "title": "Was die Supreme-Court-Urteile für die Macht des Präsidenten bedeuten",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-supreme-court-urteile-100.html"
-    },
-    {
-      "title": "Rente erhöht - und plötzlich steuerpflichtig",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rente-erhoehung-steuern-100.html"
-    },
-    {
-      "title": "Village-People-Sänger Victor Willis mit 74 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/village-people-saenger-victor-willis-tot-100.html"
     }
   ]
 }
