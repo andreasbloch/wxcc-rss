@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "ARD-DeutschlandTrend: Der Druck auf Merz wächst",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-juli-102.html"
+    },
+    {
+      "title": "Schwarz-rote Reformen: Das soll sich bei der Krankschreibung ändern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/krankschreibung-krankheitstage-reform-100.html"
+    },
+    {
+      "title": "Ukraine meldet massive russische Luftangriffe - mehrere Tote",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-120.html"
+    },
+    {
+      "title": "DAX erreicht nach sinkenden Ölpreisen Rekordstand",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/dax-rekordhoch-108.html"
+    },
+    {
+      "title": "Frauen betäubt und missbraucht: Schlag gegen Online-Gruppen",
+      "link": "https://www.tagesschau.de/ausland/europa/ermittler-online-netzwerk-missbrauch-100.html"
+    },
+    {
+      "title": "Wie die Koalition Steuerzahler entlasten will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-koalition-einigung-100.html"
+    },
+    {
+      "title": "Wenn die Zeit abläuft: Abschied von den Erdbebenopfern in Venezuela",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-trauer-100.html"
+    },
+    {
       "title": "Michael Thonet: Wie sein Kaffeehaus-Stuhl die Welt eroberte",
       "link": "https://www.tagesschau.de/kultur/design-pionier-michael-thonet-100.html"
     },
@@ -25,16 +53,8 @@
       "link": "https://www.tagesschau.de/inland/sommerferien-reiseverkehr-stau-100.html"
     },
     {
-      "title": "Ukraine meldet massive russische Luftangriffe - mehrere Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-120.html"
-    },
-    {
       "title": "Vatikan schließt erzkonservative Piusbrüder aus Kirche aus",
       "link": "https://www.tagesschau.de/ausland/europa/exkommunikation-piusbrueder-100.html"
-    },
-    {
-      "title": "Wie die Koalition Steuerzahler entlasten will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-koalition-einigung-100.html"
     },
     {
       "title": "Pläne für den Arbeitsmarkt: \"Mehr Beweglichkeit für Unternehmen\"",
@@ -49,10 +69,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-koalitionsausschuss-102.html"
     },
     {
-      "title": "Frauen betäubt und missbraucht: Schlag gegen Online-Gruppen",
-      "link": "https://www.tagesschau.de/ausland/europa/ermittler-online-netzwerk-missbrauch-100.html"
-    },
-    {
       "title": "Marktbericht: DAX über 25.000 - Anleger warten auf US-Jobdaten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-138.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Panzerbauer KNDS bläst Börsengang vorerst ab",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-boersengang-ruestung-100.html"
-    },
-    {
-      "title": "Zentrum soll bei Munitionsbergung in Nord- und Ostsee helfen",
-      "link": "https://www.tagesschau.de/inland/kompetenzentrum-munitionsbergung-rostock-100.html"
-    },
-    {
-      "title": "Parlamentswahl in Algerien: Wahlkampf gegen das Desinteresse",
-      "link": "https://www.tagesschau.de/ausland/afrika/algerien-parlamentswahlen-100.html"
-    },
-    {
-      "title": "Koalitionsausschuss: Einigung auf Paket für Wachstum und Beschäftigung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-102.html"
-    },
-    {
-      "title": "Wie giftig ist das Pestizid Fluazinam wirklich?",
-      "link": "https://www.tagesschau.de/investigativ/br-recherche/pestizid-fluazinam-100.html"
     }
   ]
 }
