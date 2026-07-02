@@ -1,16 +1,36 @@
 {
   "items": [
     {
+      "title": "Pläne für den Arbeitsmarkt: \"Mehr Beweglichkeit für Unternehmen\"",
+      "link": "https://www.tagesschau.de/inland/arbeitsmarkt-koalition-100.html"
+    },
+    {
+      "title": "Studie: Deutsche Politiker unterschätzen Bereitschaft zum Klimaschutz",
+      "link": "https://www.tagesschau.de/wissen/klima/politiker-klimaschutz-bevoelkerung-100.html"
+    },
+    {
+      "title": "Niederlage vor EuGH: Google muss EU-Rekordstrafe zahlen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-rekordstrafe-eu-100.html"
+    },
+    {
+      "title": "Ukraine meldet massive russische Luftangriffe - mehrere Tote",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-120.html"
+    },
+    {
+      "title": "Auf welche Reformen sich Schwarz-Rot geeinigt hat",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reformen-koalitionsausschuss-102.html"
+    },
+    {
+      "title": "Frauen betäubt und missbraucht: Schlag gegen Online-Gruppen",
+      "link": "https://www.tagesschau.de/ausland/europa/ermittler-online-netzwerk-missbrauch-100.html"
+    },
+    {
       "title": "Marktbericht: DAX über 25.000 - Anleger warten auf US-Jobdaten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-138.html"
     },
     {
       "title": "Infineon eröffnet neue Chipfabrik in Dresden",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-chipfabrik-dresden-100.html"
-    },
-    {
-      "title": "Ukraine meldet massive russische Luftangriffe - mehrere Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-120.html"
     },
     {
       "title": "Panzerbauer KNDS bläst Börsengang vorerst ab",
@@ -59,26 +79,6 @@
     {
       "title": "Village-People-Sänger Victor Willis mit 74 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/village-people-saenger-victor-willis-tot-100.html"
-    },
-    {
-      "title": "Erstmals DNA von Steinzeitmenschen an Höhlenwänden gefunden",
-      "link": "https://www.tagesschau.de/wissen/forschung/dna-menschen-hoehlenmalerei-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX ohne positive Impulse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-100.html"
-    },
-    {
-      "title": "Erneut mehr Verdachtsmeldungen bei der Bundeswehr",
-      "link": "https://www.tagesschau.de/investigativ/wdr/bundeswehr-rechtsextremismus-136.html"
-    },
-    {
-      "title": "Gas-Pipelines: Erste Anklage gegen mutmaßlichen Nord-Stream-Saboteur",
-      "link": "https://www.tagesschau.de/investigativ/anklage-nordstream-ukraine-russland-100.html"
-    },
-    {
-      "title": "Deutsche Bahn setzt ab sofort auch im Fernverkehr Bodycams ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-sicherheit-bodycams-100.html"
     }
   ]
 }
