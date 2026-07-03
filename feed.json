@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "FIFA-WM-Finale: Elf Minuten Halbzeitshow",
+      "link": "https://www.tagesschau.de/ausland/amerika/halbzeitshow-fussball-wm-100.html"
+    },
+    {
+      "title": "Warum Hitze alle gefährdet - und was künftig schützt",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/hitze-schutz-104.html"
+    },
+    {
       "title": "Ukraine meldet massive russische Luftangriffe - mehrere Tote",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-120.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Niederlage vor EuGH: Google muss EU-Rekordstrafe zahlen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-rekordstrafe-eu-100.html"
-    },
-    {
-      "title": "Kurserholung: Bayer-Aktie schafft es an die DAX-Spitze",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/bayer-aktie-glyphosat-usa-100.html"
-    },
-    {
-      "title": "Erste Sommerreisewelle erwartet: Wo Stau droht",
-      "link": "https://www.tagesschau.de/inland/sommerferien-reiseverkehr-stau-100.html"
     }
   ]
 }
