@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "NATO-Staaten einig über Militärhilfe für die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/nato-ukraine-hilfe-100.html"
+    },
+    {
       "title": "Klinische Studie für Medikamente gegen seltene Ebola-Variante",
       "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-klinische-tests-medikamente-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Argentinien verhängt Stadionverbote gegen zahlungsunwillige Väter",
       "link": "https://www.tagesschau.de/ausland/amerika/argentinien-unterhalt-100.html"
-    },
-    {
-      "title": "Schwarz-rote Reformen: Das soll sich bei der Krankschreibung ändern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankschreibung-krankheitstage-reform-100.html"
     }
   ]
 }
