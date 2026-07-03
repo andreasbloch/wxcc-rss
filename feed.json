@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX setzt Rekordlauf fort",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-rekordhoch-geldanlage-102.html"
+    },
+    {
+      "title": "Wahl in Algerien: Beteiligung so niedrig wie nie",
+      "link": "https://www.tagesschau.de/ausland/afrika/algerien-parlamentswahl-wahlbeteiligung-gering-wie-nie-100.html"
+    },
+    {
+      "title": "UN-Wetterorganisation: El Niño macht Extremwetter jetzt wahrscheinlicher",
+      "link": "https://www.tagesschau.de/wissen/klima/el-nino-unweltorganisation-meteorologie-100.html"
+    },
+    {
+      "title": "Massenproteste gegen Sparpläne bei Mercedes-Benz",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-proteste-autobauer-ig-metall-102.html"
+    },
+    {
+      "title": "Steuerreform der Bundesregierung: Warum die Entlastung verpuffen könnte",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-bundesregierung-entlastungen-100.html"
+    },
+    {
       "title": "Aktion #ichstillwoichwill: Warum Stillen bis heute provoziert",
       "link": "https://www.tagesschau.de/kultur/aktion-ich-still-wo-ich-will-100.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Venezuela plant Millionen-Fonds für den Wiederaufbau nach Erdbeben",
       "link": "https://www.tagesschau.de/ausland/amerika/venezuela-beben-hilfe-fonds-100.html"
-    },
-    {
-      "title": "Marktbericht: Reformpaket treibt Börsenkurse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-rekordhoch-geldanlage-102.html"
-    },
-    {
-      "title": "IG Metall kündigt \"heißen Sommer\" für die Autobranche an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-proteste-autobauer-ig-metall-100.html"
-    },
-    {
-      "title": "Umgang mit Flugzeug-Crash in China: Augenblickliche Stille",
-      "link": "https://www.tagesschau.de/ausland/asien/china-kleinflugzeug-unglueck-reaktionen-100.html"
-    },
-    {
-      "title": "Erneute Angriffe auf Ukraine - mindestens vier Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-tote-106.html"
-    },
-    {
-      "title": "US-Gericht: Einwanderer dürfen maximal 90 Tage inhaftiert werden",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-gericht-einwanderer-100.html"
     }
   ]
 }
