@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Bundeshaushalt 2027: Klingbeil plant höhere Ausgaben und mehr Schulden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-166.html"
+    },
+    {
       "title": "NATO-Staaten einig über Militärhilfe für die Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/nato-ukraine-hilfe-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kap Verde ist nach der WM nicht mehr dasselbe Land",
       "link": "https://www.tagesschau.de/ausland/kap-verde-wm-102.html"
-    },
-    {
-      "title": "Argentinien verhängt Stadionverbote gegen zahlungsunwillige Väter",
-      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-unterhalt-100.html"
     }
   ]
 }
