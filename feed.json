@@ -1,20 +1,32 @@
 {
   "items": [
     {
-      "title": "In Iran beginnt Trauerfeier für getöteten obersten Führer Chamenei",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-trauerfeier-ali-chamenei-100.html"
+      "title": "Russland meldet Einnahme wichtiger Stadt im ukrainischen Donbass",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-krieg-142.html"
+    },
+    {
+      "title": "Tote bei russischen Angriffen - Ukraine attackiert Ölanlagen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-174.html"
+    },
+    {
+      "title": "AfD-Parteitag: Demonstranten versammeln sich - mehrere Blockaden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-erfurt-demonstrationen-100.html"
     },
     {
       "title": "AfD-Parteitag in Erfurt: Was ist bei den Demos erlaubt - und was nicht?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/adf-parteitag-erfurt-faq-versammlungsfreiheit-100.html"
     },
     {
-      "title": "Popstar Swift und Footballer Kelce sind verheiratet",
-      "link": "https://www.tagesschau.de/ausland/amerika/swift-kelce-hochzeit-102.html"
+      "title": "KI-Firmen kaufen offenbar Antiquariate leer - Buchhändler alarmiert",
+      "link": "https://www.tagesschau.de/kultur/ki-firmen-antiquarische-buecher-100.html"
     },
     {
-      "title": "Russland meldet Einnahme wichtiger Stadt im ukrainischen Donbass",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russland-krieg-142.html"
+      "title": "In Iran beginnt Trauerfeier für getöteten obersten Führer Chamenei",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-trauerfeier-ali-chamenei-100.html"
+    },
+    {
+      "title": "Popstar Swift und Footballer Kelce sind verheiratet",
+      "link": "https://www.tagesschau.de/ausland/amerika/swift-kelce-hochzeit-102.html"
     },
     {
       "title": "Was beim Bundesparteitag der AfD auf dem Spiel steht",
@@ -67,18 +79,6 @@
     {
       "title": "Fast 50 Prozent mehr E-Autos im ersten Halbjahr neu zugelassen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autos-neuzulassungen-kba-elektromobilitaet-100.html"
-    },
-    {
-      "title": "\"Vernünftige\" Lösungen bei Krankschreibungen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankschreibung-krankheitstage-au-100.html"
-    },
-    {
-      "title": "Ökonom Heinemann zu Reform-Beschlüssen: \"Dieses Paket hilft\"",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/reformpaket-bundesregierung-wachstum-heinemann-100.html"
-    },
-    {
-      "title": "Anschlag in Monaco: Interpol fahndet nach Ukrainerin aus Deutschland",
-      "link": "https://www.tagesschau.de/ausland/europa/anschlag-monaco-100.html"
     }
   ]
 }
