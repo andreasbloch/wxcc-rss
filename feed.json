@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Alice Weidel und Tino Chrupalla als AfD-Vorsitzende wiedergewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-weidel-chrupalla-wiederwahl-100.html"
+    },
+    {
+      "title": "Papst auf Lampedusa - \"Habt den Mut, anders zu denken\"",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-papst-lampedusa-100.html"
+    },
+    {
+      "title": "Bundesparteitag: Zehntausende protestieren gegen AfD in Erfurt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-erfurt-demonstrationen-100.html"
+    },
+    {
       "title": "Pilotprojekt für junge Arbeitslose: Ein Ausweg aus dem Teufelskreis?",
       "link": "https://www.tagesschau.de/inland/gesellschaft/pirmasens-arbeitslosigkeit-grundsicherung-100.html"
     },
@@ -13,16 +25,8 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/krankschreibung-reform-100.html"
     },
     {
-      "title": "Alice Weidel und Tino Chrupalla als AfD-Vorsitzende wiedergewählt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-weidel-chrupalla-wiederwahl-100.html"
-    },
-    {
       "title": "Tote bei russischen Angriffen - Ukraine attackiert Ölanlagen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-174.html"
-    },
-    {
-      "title": "AfD-Parteitag in Erfurt trotz Protesten pünktlich gestartet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-erfurt-demonstrationen-100.html"
     },
     {
       "title": "Hitzewelle: Parade beim US-Unabhängigkeitstag abgesagt",
@@ -75,10 +79,6 @@
     {
       "title": "So unterschiedlich regeln andere europäische Länder Krankschreibungen",
       "link": "https://www.tagesschau.de/ausland/europa/krankschreibung-europa-100.html"
-    },
-    {
-      "title": "Krankschreibungen: Was die Koalition plant und was noch offen ist",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/krankschreibung-reformen-koalition-100.html"
     }
   ]
 }
