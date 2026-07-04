@@ -1,8 +1,24 @@
 {
   "items": [
     {
+      "title": "Pilotprojekt für junge Arbeitslose: Ein Ausweg aus dem Teufelskreis?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pirmasens-arbeitslosigkeit-grundsicherung-100.html"
+    },
+    {
+      "title": "Baustoffe werden knapp: Recycling kommt kaum zum Einsatz",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/baustoffe-knapp-recycling-100.html"
+    },
+    {
+      "title": "Geplante Reform zu Krankschreibung auch in Koalition umstritten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/krankschreibung-reform-100.html"
+    },
+    {
       "title": "Alice Weidel und Tino Chrupalla als AfD-Vorsitzende wiedergewählt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-weidel-chrupalla-wiederwahl-100.html"
+    },
+    {
+      "title": "Tote bei russischen Angriffen - Ukraine attackiert Ölanlagen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-174.html"
     },
     {
       "title": "AfD-Parteitag in Erfurt trotz Protesten pünktlich gestartet",
@@ -15,10 +31,6 @@
     {
       "title": "250 Jahre USA: Eine verpasste Chance für ein gespaltenes Land?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-250-jahre-unabhaengig-feier-trump-100.html"
-    },
-    {
-      "title": "Tote bei russischen Angriffen - Ukraine attackiert Ölanlagen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-174.html"
     },
     {
       "title": "Kinder in Venezuela: Spielen zwischen den Trümmern",
@@ -67,18 +79,6 @@
     {
       "title": "Krankschreibungen: Was die Koalition plant und was noch offen ist",
       "link": "https://www.tagesschau.de/inland/innenpolitik/krankschreibung-reformen-koalition-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX setzt Rekordlauf fort",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-rekordhoch-geldanlage-102.html"
-    },
-    {
-      "title": "Wahl in Algerien: Beteiligung so niedrig wie nie",
-      "link": "https://www.tagesschau.de/ausland/afrika/algerien-parlamentswahl-wahlbeteiligung-gering-wie-nie-100.html"
-    },
-    {
-      "title": "UN-Wetterorganisation: El Niño macht Extremwetter jetzt wahrscheinlicher",
-      "link": "https://www.tagesschau.de/wissen/klima/el-nino-unweltorganisation-meteorologie-100.html"
     }
   ]
 }
