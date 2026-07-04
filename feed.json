@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Parlamentswahl in Israel: Geben arabische Frauen den Ausschlag?",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-araber-frauen-100.html"
+    },
+    {
       "title": "Haushaltsentwurf: Klingbeil will auch beim Klimafonds sparen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/klingbeil-klimafonds-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "NATO-Staaten einig über Militärhilfe für die Ukraine",
       "link": "https://www.tagesschau.de/ausland/europa/nato-ukraine-hilfe-100.html"
-    },
-    {
-      "title": "Klinische Studie für Medikamente gegen seltene Ebola-Variante",
-      "link": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-klinische-tests-medikamente-100.html"
     }
   ]
 }
