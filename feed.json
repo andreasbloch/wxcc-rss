@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Analyse zum AfD-Parteitag: Wie Weidel und Höcke ihre Macht ausbauen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-weidel-chrupalla-102.html"
+    },
+    {
+      "title": "In mehreren südeuropäischen Ländern breiten sich Waldbrände aus",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-griechenland-100.html"
+    },
+    {
       "title": "Das Sommerinterview mit Vizekanzler Klingbeil im Faktencheck",
       "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-klingbeil-100.html"
     },
@@ -11,10 +19,6 @@
     {
       "title": "Mehr als eine Million Menschen bei der CSD-Parade in Köln",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/csd-koeln-130.html"
-    },
-    {
-      "title": "In mehreren südeuropäischen Ländern breiten sich Waldbrände aus",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-griechenland-100.html"
     },
     {
       "title": "Kommentar zum AfD-Parteitag: Keine Zeit für Streit",
@@ -75,10 +79,6 @@
     {
       "title": "250 Jahre USA: Unwetter verzögert Trump-Rede - Festmeile evakuiert",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-unwetter-250-jahre-usa-100.html"
-    },
-    {
-      "title": "Behörden in Venezuela melden fast 3.000 Tote nach Erdbeben",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-opferzahl-steigt-100.html"
     }
   ]
 }
