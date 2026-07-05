@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Zehntausende Teilnehmende bei der CSD-Parade in Köln",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/csd-koeln-130.html"
+    },
+    {
+      "title": "Kommentar zum AfD-Parteitag: Keine Zeit für Streit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kommentar-afd-102.html"
+    },
+    {
       "title": "Abschluss des AfD-Parteitags: \"Endlich aus der Opposition in die Regierung\"",
       "link": "https://www.tagesschau.de/inland/afd-parteitag-weidel-chrupalla-100.html"
     },
@@ -9,7 +17,7 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-polizeibilanz-100.html"
     },
     {
-      "title": "Statt auf Öl setzt Brasilien auf Alkohol im Straßenverkehr",
+      "title": "Kraftstoff aus Mais treibt Brasilien an",
       "link": "https://www.tagesschau.de/wirtschaft/oelkrise-brasilien-alkohol-100.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "Analyse zu AfD-Bundesparteitag in Erfurt: Professionelle Radikale",
       "link": "https://www.tagesschau.de/inland/afd-parteitag-erfurt-110.html"
-    },
-    {
-      "title": "Alice Weidel und Tino Chrupalla als AfD-Vorsitzende wiedergewählt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-weidel-chrupalla-wiederwahl-100.html"
-    },
-    {
-      "title": "Parlamentswahl in Israel: Geben arabische Frauen den Ausschlag?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-araber-frauen-100.html"
     }
   ]
 }
