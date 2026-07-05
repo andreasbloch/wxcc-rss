@@ -1,8 +1,16 @@
 {
   "items": [
     {
-      "title": "Zehntausende Teilnehmende bei der CSD-Parade in Köln",
+      "title": "ARD-Sommerinterview: Klingbeil fordert Pragmatismus bei Krankschreibung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-klingbeil-100.html"
+    },
+    {
+      "title": "Mehr als eine Million Menschen bei der CSD-Parade in Köln",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/csd-koeln-130.html"
+    },
+    {
+      "title": "In mehreren südeuropäischen Ländern breiten sich Waldbrände aus",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-griechenland-100.html"
     },
     {
       "title": "Kommentar zum AfD-Parteitag: Keine Zeit für Streit",
@@ -71,14 +79,6 @@
     {
       "title": "Chrupalla: \"Bürger erwarten von der AfD Führungsqualitäten\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-chrupalla-tagesthemen-100.html"
-    },
-    {
-      "title": "Bundesparteitag: Zehntausende protestieren gegen AfD in Erfurt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-erfurt-demonstrationen-100.html"
-    },
-    {
-      "title": "Analyse zu AfD-Bundesparteitag in Erfurt: Professionelle Radikale",
-      "link": "https://www.tagesschau.de/inland/afd-parteitag-erfurt-110.html"
     }
   ]
 }
