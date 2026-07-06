@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Trump und Selenskyj wollen sich beim NATO-Gipfel treffen",
+      "link": "https://www.tagesschau.de/ausland/trump-selenskyj-treffen-ankara-100.html"
+    },
+    {
+      "title": "Zahl der Toten nach Erdbeben in Venezuela steigt weiter",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-tote-102.html"
+    },
+    {
       "title": "Analyse zum AfD-Parteitag: Wie Weidel und Höcke ihre Macht ausbauen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-parteitag-weidel-chrupalla-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "30 Jahre nach \"Dolly\": Wie das Klonschaf die Forschung veränderte",
       "link": "https://www.tagesschau.de/wissen/forschung/klonen-schaf-dolly-tiere-100.html"
-    },
-    {
-      "title": "Altersabsicherung oder Verkaufsfalle: Was das Altersvorsorgedepot bietet",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-renten-reform-100.html"
-    },
-    {
-      "title": "250 Jahre USA: Unwetter verzögert Trump-Rede - Festmeile evakuiert",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-unwetter-250-jahre-usa-100.html"
     }
   ]
 }
