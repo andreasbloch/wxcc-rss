@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Etatentwurf 2027: Regierung spielt auf Zeit - und verspielt Chancen",
+      "link": "https://www.tagesschau.de/kommentar/haushalt-entwurf-2027-100.html"
+    },
+    {
+      "title": "Die EVP und rechte Parteien: Schadet Manfred Webers Kurs der EU?",
+      "link": "https://www.tagesschau.de/ausland/europa/weber-evp-brandmauer-100.html"
+    },
+    {
       "title": "Die Straße als Erstaufnahme für Geflüchtete in Paris",
       "link": "https://www.tagesschau.de/ausland/europa/paris-gefluechtete-100.html"
     },
@@ -23,10 +31,6 @@
     {
       "title": "Ungewöhnliche tagesschau-Reichweiten auf TikTok - woran liegt das?",
       "link": "https://www.tagesschau.de/kultur/reichweiten-tagesschau-tiktok-100.html"
-    },
-    {
-      "title": "Etatentwurf 2027: Regierung spielt auf Zeit - und verspielt Chancen",
-      "link": "https://www.tagesschau.de/kommentar/haushalt-entwurf-2027-100.html"
     },
     {
       "title": "Schulden, Steuern, Sparmaßnahmen: Das steckt im Haushalt 2027",
@@ -75,10 +79,6 @@
     {
       "title": "Prozess um Wilke-Wurst-Skandal gestartet",
       "link": "https://www.tagesschau.de/inland/regional/hessen/wilke-wurst-skandal-prozess-100.html"
-    },
-    {
-      "title": "Proteste in Israel: Ultraorthodoxe wehren sich gegen Wehrpflicht",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-ultraorthodoxe-wehrpflicht-102.html"
     }
   ]
 }
