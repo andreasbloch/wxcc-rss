@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Ein milliardenschwerer Großauftrag aus Kanada für Kieler Schiffbauer",
+      "link": "https://www.tagesschau.de/wirtschaft/u-boot-deal-kanada-deutschland-100.html"
+    },
+    {
       "title": "Kanada bestellt bis zu zwölf U-Boote in Deutschland",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tkms-u-boote-kanada-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Getöteter Oberster Führer Irans: Trauerzug mit Chameneis Sarg zieht durch Teheran",
       "link": "https://www.tagesschau.de/ausland/iran-teheran-trauerfeier-100.html"
-    },
-    {
-      "title": "Mehr Aufträge: Hoffnungsschimmer für die gebeutelte Industrie",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/industrieauftraege-102.html"
     }
   ]
 }
