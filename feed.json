@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "NATO-Gipfel in der Türkei: Auf der Suche nach dem Geist von Ankara",
+      "link": "https://www.tagesschau.de/ausland/nato-gipfel-ankara-zusammenfassung-100.html"
+    },
+    {
       "title": "Ungarns ÖRR entschuldigt sich für Lügen unter Orban",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-rundfunk-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Explosionen in Damaskus während Macron-Besuch",
       "link": "https://www.tagesschau.de/ausland/asien/syrien-explosionen-macron-100.html"
-    },
-    {
-      "title": "Internetsperren für verbotenes Samidoun-Netzwerk greifen allmählich",
-      "link": "https://www.tagesschau.de/investigativ/swr/samidoun-netzwerk-verbot-100.html"
     }
   ]
 }
