@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Ungarns ÖRR entschuldigt sich für Lügen unter Orban",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-rundfunk-100.html"
+    },
+    {
+      "title": "Le Pen will trotz Urteils bei Präsidentschaftswahl 2027 antreten",
+      "link": "https://www.tagesschau.de/ausland/europa/le-pen-kandidatur-100.html"
+    },
+    {
+      "title": "Weniger Förderung: Wieder Änderungen im Heizkeller",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/heizungsgesetz-aenderungen-foerdergeld-100.html"
+    },
+    {
       "title": "Regierung will Wohnbau beschleunigen: Was bringt der \"\"Gebäudetyp E\"?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/gebauedetyp-e-wohnraum-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Internetsperren für verbotenes Samidoun-Netzwerk greifen allmählich",
       "link": "https://www.tagesschau.de/investigativ/swr/samidoun-netzwerk-verbot-100.html"
-    },
-    {
-      "title": "Anti-Folterkommission: Verstöße in Kommissariaten und Haftanstalten",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/menschenrechte-jva-100.html"
-    },
-    {
-      "title": "Tschechien darf Neonazi Liebich an Deutschland ausliefern",
-      "link": "https://www.tagesschau.de/ausland/europa/liebich-auslieferung-106.html"
-    },
-    {
-      "title": "Regierung will Förderung von klimafreundlichen Heizungen kürzen",
-      "link": "https://www.tagesschau.de/inland/foerderung-klimafreundliches-heizen-100.html"
     }
   ]
 }
