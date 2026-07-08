@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Chance auf Schadensersatz für Zehntausende Energiekunden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/sammelklage-energieversorger-100.html"
+    },
+    {
+      "title": "Polarisierend und entschlossen: UniCredit-Chef Andrea Orcel",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-andrea-orcel-portrait-100.html"
+    },
+    {
+      "title": "Ukraine: Erneut Angriffe auf Kiew in der Nacht",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-angriffe-russland-104.html"
+    },
+    {
+      "title": "Grüne prüfen rechtliche Schritte, um Gesundheitsreform zu stoppen",
+      "link": "https://www.tagesschau.de/inland/gesundheitsreform-gruene-kritik-100.html"
+    },
+    {
+      "title": "Marktbericht: Die Nahost-Krise ist zurück an der Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Was verbirgt Chinas Militär auf dem Meer?",
+      "link": "https://www.tagesschau.de/podcast-11km-china-militaer-meer-100.html"
+    },
+    {
+      "title": "Zahl der Angriffe auf Bahn-Beschäftigte und Bundespolizisten steigt",
+      "link": "https://www.tagesschau.de/inland/angriffe-bahnmitarbeiter-100.html"
+    },
+    {
+      "title": "USA greifen erneut Iran an - Reaktion auf Attacken auf Handelsschiffe",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-usa-102.html"
+    },
+    {
+      "title": "Millionen-Geschäft mit illegalen Online-Casinos",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/illegal-online-casino-gluecksspiel-100.html"
+    },
+    {
       "title": "Wie Windräder beim Waldumbau helfen können",
       "link": "https://www.tagesschau.de/wissen/klima/windraeder-helfen-beim-waldumbau-100.html"
     },
@@ -9,12 +45,8 @@
       "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-100.html"
     },
     {
-      "title": "US-Militär: USA greifen erneut Iran an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-usa-102.html"
-    },
-    {
-      "title": "Manhattan: Hochhaus in New York wegen Einsturzgefahr geräumt",
-      "link": "https://www.tagesschau.de/ausland/new-york-einsturzgefahr-100.html"
+      "title": "Manhattan: Hochhaus wegen Einsturzgefahr geräumt",
+      "link": "https://www.tagesschau.de/ausland/amerika/new-york-einsturzgefahr-100.html"
     },
     {
       "title": "NATO-Gipfel in der Türkei: Auf der Suche nach dem Geist von Ankara",
@@ -47,38 +79,6 @@
     {
       "title": "Marktbericht: Tech-Ausverkauf belastet Börse",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-geldanlage-102.html"
-    },
-    {
-      "title": "Drogenbericht 2025: Jeder vierte Drogentote war noch keine 30 Jahre alt",
-      "link": "https://www.tagesschau.de/inland/drogenbericht-bundesregierung-100.html"
-    },
-    {
-      "title": "Angst vor dem nächsten Blutbad im Sudan",
-      "link": "https://www.tagesschau.de/ausland/afrika/sudan-al-obeid-befuerchtungen-100.html"
-    },
-    {
-      "title": "Was der Bund tun kann, wenn ein Land Bundesrecht nicht befolgen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/laender-bund-bundeszwang-100.html"
-    },
-    {
-      "title": "Umstrittene Spenden: Farage will Mandat abgeben und erneut kandidieren",
-      "link": "https://www.tagesschau.de/ausland/europa/farage-parlamentsmandat-reform-uk-100.html"
-    },
-    {
-      "title": "Wachsende Kritik an Reformplänen zur Informationsfreiheit",
-      "link": "https://www.tagesschau.de/inland/informationsfreiheitsgesetz-kritik-100.html"
-    },
-    {
-      "title": "Erneut Beschuss von Tankern in der Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-brand-tanker-100.html"
-    },
-    {
-      "title": "NATO-Chef fordert \"Revolution\" in der Verteidigungsindustrie",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-gipfel-ankara-102.html"
-    },
-    {
-      "title": "80 Jahre Bikini: Ein Zweiteiler mit Sprengkraft",
-      "link": "https://www.tagesschau.de/kultur/bikini-80-jahre-zweiteiler-mit-sprengkraft-100.html"
     }
   ]
 }
