@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Wadephul-Interview: USA und Iran \"sollten zur Besinnung kommen\"",
+      "link": "https://www.tagesschau.de/ausland/asien/wadephul-iran-nato-100.html"
+    },
+    {
+      "title": "Treffen in Ankara: Was bleibt von diesem NATO-Gipfel?",
+      "link": "https://www.tagesschau.de/ausland/asien/nato-gipfel-trump-ankara-100.html"
+    },
+    {
       "title": "Liveblog zur Sicherheitspolitik: ++ Trump spricht von \"sehr erfolgreichem NATO-Gipfel\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-122.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Hinweise auf Amoktat: Mehrere Verletzte an Gymnasium in Bayern",
       "link": "https://www.tagesschau.de/inland/regional/gymnasium-schongau-amoktat-100.html"
-    },
-    {
-      "title": "KI-Assistenzsystem soll Bahnreisende besser informieren",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-ki-kunden-kommunikation-100.html"
-    },
-    {
-      "title": "Zahl der Angriffe auf Bahn-Beschäftigte und Bundespolizisten steigt",
-      "link": "https://www.tagesschau.de/inland/angriffe-bahnmitarbeiter-100.html"
     }
   ]
 }
