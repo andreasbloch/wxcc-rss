@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Manhattan: Hochhaus in New York wegen Einsturzgefahr geräumt",
-      "link": "https://www.tagesschau.de/ausland/new-york-einsturzgefahr-100.html"
+      "title": "Wie Windräder beim Waldumbau helfen können",
+      "link": "https://www.tagesschau.de/wissen/klima/windraeder-helfen-beim-waldumbau-100.html"
     },
     {
-      "title": "US-Militär: USA starten erneut Angriffe auf Iran",
+      "title": "Kommentar zu Le Pen: Die Zockerin geht eine hochriskante Wette ein",
+      "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-100.html"
+    },
+    {
+      "title": "US-Militär: USA greifen erneut Iran an",
       "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-usa-102.html"
+    },
+    {
+      "title": "Manhattan: Hochhaus in New York wegen Einsturzgefahr geräumt",
+      "link": "https://www.tagesschau.de/ausland/new-york-einsturzgefahr-100.html"
     },
     {
       "title": "NATO-Gipfel in der Türkei: Auf der Suche nach dem Geist von Ankara",
@@ -41,7 +49,7 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-geldanlage-102.html"
     },
     {
-      "title": "Drogenbericht 2025: Zahl der Drogentoten auf neuem Höchststand",
+      "title": "Drogenbericht 2025: Jeder vierte Drogentote war noch keine 30 Jahre alt",
       "link": "https://www.tagesschau.de/inland/drogenbericht-bundesregierung-100.html"
     },
     {
@@ -71,14 +79,6 @@
     {
       "title": "80 Jahre Bikini: Ein Zweiteiler mit Sprengkraft",
       "link": "https://www.tagesschau.de/kultur/bikini-80-jahre-zweiteiler-mit-sprengkraft-100.html"
-    },
-    {
-      "title": "EU-Parlament stimmt für Überprüfung der Parteifamilie der AfD",
-      "link": "https://www.tagesschau.de/ausland/europa/pruefverfahren-esn-afd-100.html"
-    },
-    {
-      "title": "Auf Talfahrt: Samsung verbucht Rekordgewinn - Aktie bricht ein",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/samsung-236.html"
     }
   ]
 }
