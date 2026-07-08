@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Manhattan: Hochhaus in New York wegen Einsturzgefahr geräumt",
+      "link": "https://www.tagesschau.de/ausland/new-york-einsturzgefahr-100.html"
+    },
+    {
       "title": "US-Militär: USA starten erneut Angriffe auf Iran",
       "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-usa-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Auf Talfahrt: Samsung verbucht Rekordgewinn - Aktie bricht ein",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/samsung-236.html"
-    },
-    {
-      "title": "Was vom NATO-Gipfel in Ankara zu erwarten ist",
-      "link": "https://www.tagesschau.de/ausland/nato-gipfel-212.html"
     }
   ]
 }
