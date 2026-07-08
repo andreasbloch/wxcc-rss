@@ -1,12 +1,36 @@
 {
   "items": [
     {
-      "title": "Liveblog zur Sicherheitspolitik: ++ Trump droht Iran mit weiteren Angriffen ++",
+      "title": "Liveblog zur Sicherheitspolitik: ++ Merz will 5-Prozent-Ziel schneller erreichen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-122.html"
+    },
+    {
+      "title": "Trauerprozession für getöteten Chamenei im Irak",
+      "link": "https://www.tagesschau.de/ausland/asien/chamenei-trauerzeremonien-100.html"
+    },
+    {
+      "title": "Trump droht Iran bei NATO-Gipfel mit neuen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-usa-abkommen-102.html"
+    },
+    {
+      "title": "NATO-Gipfel: Milliarden für die Ukraine - milde Töne von Trump",
+      "link": "https://www.tagesschau.de/ausland/europa/nato-gipfel-ukraine-110.html"
     },
     {
       "title": "Hinweise auf Amoktat: Mehrere Verletzte an Gymnasium in Schongau",
       "link": "https://www.tagesschau.de/inland/regional/bayern/amoktat-gymnasium-schongau-100.html"
+    },
+    {
+      "title": "Informationsfreiheitsgesetz: Hubig will Auskunftspflicht der Regierung bewahren",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ifg-reform-hubig-100.html"
+    },
+    {
+      "title": "Commerzbank-Aktionäre nehmen Übernahmeangebot der UniCredit an",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-uebernahme-commerzbank-100.html"
+    },
+    {
+      "title": "Landgericht Berlin verurteilt Palliativarzt wegen Mordserie",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/palliativarzt-mordserie-urteil-berlin-100.html"
     },
     {
       "title": "Ölpreise steigen: Krieg in Iran ist wieder Thema an der Börse",
@@ -15,10 +39,6 @@
     {
       "title": "Grüne reichen Eilantrag beim Verfassungsgericht gegen Gesundheitsreform ein",
       "link": "https://www.tagesschau.de/inland/gesundheitsreform-gruene-kritik-102.html"
-    },
-    {
-      "title": "Landgericht Berlin verurteilt Palliativarzt wegen Mordserie",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/palliativarzt-mordserie-urteil-berlin-100.html"
     },
     {
       "title": "Mit KI gegen Kriminalität: Polizei soll mehr digitale Befugnisse bekommen ",
@@ -59,26 +79,6 @@
     {
       "title": "Ukraine: Erneut schwere Angriffe auf Kiew und andere Städte",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-angriffe-russland-104.html"
-    },
-    {
-      "title": "Sorgen wegen drohendem Einsturz: Hochhaus in Manhattan für stabil erklärt",
-      "link": "https://www.tagesschau.de/ausland/amerika/new-york-einsturzgefahr-102.html"
-    },
-    {
-      "title": "SED-Opferbeauftragte Zupke: \"Diktatur ist weg, Folgen bleiben\"",
-      "link": "https://www.tagesschau.de/inland/sed-opferbeauftragte-104.html"
-    },
-    {
-      "title": "Commerzbank-Aktionäre nehmen Übernahmeangebot der UniCredit an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-uebernahme-commerzbank-100.html"
-    },
-    {
-      "title": "Marktbericht: Anleger blicken sorgenvoll auf den Nahen Osten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-100.html"
-    },
-    {
-      "title": "Trump sorgt beim NATO-Gipfel mit neuer Grönland-Aussage für Ärger",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-gipfel-trump-groenland-100.html"
     }
   ]
 }
