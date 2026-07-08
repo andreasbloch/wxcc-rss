@@ -1,8 +1,16 @@
 {
   "items": [
     {
+      "title": "Kommentar: NATO sendet Signal der Geschlossenheit",
+      "link": "https://www.tagesschau.de/kommentar/kommentar-nato-gipfel-104.html"
+    },
+    {
       "title": "Liveblog zur Sicherheitspolitik: ++ Trump spricht von \"sehr erfolgreichem NATO-Gipfel\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-122.html"
+    },
+    {
+      "title": "Trump droht Iran bei NATO-Gipfel mit neuen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-usa-abkommen-102.html"
     },
     {
       "title": "NATO-Gipfel: Milliarden für die Ukraine - milde Töne von Trump",
@@ -31,10 +39,6 @@
     {
       "title": "Trauerprozession für getöteten Chamenei im Irak",
       "link": "https://www.tagesschau.de/ausland/asien/chamenei-trauerzeremonien-100.html"
-    },
-    {
-      "title": "Trump droht Iran bei NATO-Gipfel mit neuen Angriffen",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-usa-abkommen-102.html"
     },
     {
       "title": "Hinweise auf Amoktat: Mehrere Verletzte an Gymnasium in Schongau",
@@ -75,10 +79,6 @@
     {
       "title": "Zahl der Angriffe auf Bahn-Beschäftigte und Bundespolizisten steigt",
       "link": "https://www.tagesschau.de/inland/angriffe-bahnmitarbeiter-100.html"
-    },
-    {
-      "title": "USA und Iran: \"Ich sehe keine Kompromisslösung\"",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-perspektiven-100.html"
     }
   ]
 }
