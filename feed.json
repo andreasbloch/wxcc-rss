@@ -1,8 +1,32 @@
 {
   "items": [
     {
-      "title": "Liveblog zur Sicherheitspolitik: ++ Merz will 5-Prozent-Ziel schneller erreichen ++",
+      "title": "Liveblog zur Sicherheitspolitik: ++ Trump spricht von \"sehr erfolgreichem NATO-Gipfel\" ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-122.html"
+    },
+    {
+      "title": "NATO-Gipfel: Milliarden für die Ukraine - milde Töne von Trump",
+      "link": "https://www.tagesschau.de/ausland/europa/nato-gipfel-ukraine-110.html"
+    },
+    {
+      "title": "Nach Gerichtsurteil: Marine Le Pen stürzt sich in den Wahlkampf",
+      "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-102.html"
+    },
+    {
+      "title": "Marktbericht: DAX rauscht nach Eskalation im Nahen Osten in die Tiefe",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-100.html"
+    },
+    {
+      "title": "Warum die Opposition das Gesundheits-Sparpaket stoppen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-gesetz-kritik-100.html"
+    },
+    {
+      "title": "Die zentralen Punkte der NATO-Erklärung",
+      "link": "https://www.tagesschau.de/ausland/asien/nato-erklaerung-ankara-100.html"
+    },
+    {
+      "title": "Erste deutsche Störsatelliten sollen 2027 starten",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/weltraum-strategie-bundesregierung-satelliten-militaer-100.html"
     },
     {
       "title": "Trauerprozession für getöteten Chamenei im Irak",
@@ -11,10 +35,6 @@
     {
       "title": "Trump droht Iran bei NATO-Gipfel mit neuen Angriffen",
       "link": "https://www.tagesschau.de/ausland/asien/trump-iran-usa-abkommen-102.html"
-    },
-    {
-      "title": "NATO-Gipfel: Milliarden für die Ukraine - milde Töne von Trump",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-gipfel-ukraine-110.html"
     },
     {
       "title": "Hinweise auf Amoktat: Mehrere Verletzte an Gymnasium in Schongau",
@@ -59,26 +79,6 @@
     {
       "title": "USA und Iran: \"Ich sehe keine Kompromisslösung\"",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-perspektiven-100.html"
-    },
-    {
-      "title": "US-Präsident Trump will Handel mit Spanien einstellen",
-      "link": "https://www.tagesschau.de/ausland/trump-spanien-102.html"
-    },
-    {
-      "title": "Polizeibeauftragter: Grenzkontrollen so \"auf Dauer nicht tragbar\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/grenzkontrollen-polizei-belastung-100.html"
-    },
-    {
-      "title": "Neue Angriffe: Trump erklärt Vereinbarungen mit Iran für beendet",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-usa-abkommen-100.html"
-    },
-    {
-      "title": "Apple scheitert vor EU-Gericht mit Klage gegen strengere Regeln",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-eu-digital-markets-act-100.html"
-    },
-    {
-      "title": "Ukraine: Erneut schwere Angriffe auf Kiew und andere Städte",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-angriffe-russland-104.html"
     }
   ]
 }
