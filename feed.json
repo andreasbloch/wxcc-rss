@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Tödlicher Angriff auf Zugbegleiter: Ein Urteil mit Ansage",
+      "link": "https://www.tagesschau.de/inland/urteil-tod-zugbegleiter-angriff-100.html"
+    },
+    {
+      "title": "\"Chatkontrolle\": Scan-Erlaubnis nimmt Hürde im EU-Parlament",
+      "link": "https://www.tagesschau.de/ausland/europa/chatkontrolle-eu-104.html"
+    },
+    {
+      "title": "Bundespräsident Steinmeier übergibt Haus der Geschichte letzte Kohle",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bundespraesident-steinmeier-steinkohle-haus-der-geschichte-100.html"
+    },
+    {
+      "title": "Europäischer Gerichtshof: Widerrufsrecht gilt auch für Streaming-Abos",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-streaming-100.html"
+    },
+    {
+      "title": "Was der Kauf der \"Tomahawks\" für Deutschland bedeutet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tomahawks-verteidigung-usa-100.html"
+    },
+    {
+      "title": "Aufsichtsrat tagt: Harte Einsparungen bei VW befürchtet",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-vw-aufsichtsratssitzung-100.html"
+    },
+    {
+      "title": "Gesundheitsreform im Bundestag: Warum die Eilanträge erfolglos waren",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-gesundheitsreform-102.html"
+    },
+    {
+      "title": "Mehr Verletzte bei Unfall am Frankfurter Flughafen als bisher bekannt",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-flughafen-122.html"
+    },
+    {
+      "title": "\"Irans Regime hat sich zumindest gefestigt\"",
+      "link": "https://www.tagesschau.de/ausland/adebahr-iran-100.html"
+    },
+    {
+      "title": "Wie Trump ethische Regeln bei seinen Finanzen missachtet",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-einnahmen-krypto-aktien-100.html"
+    },
+    {
       "title": "Kompromiss der Koalition: BAföG-Erhöhung verschiebt sich um halbes Jahr",
       "link": "https://www.tagesschau.de/inland/gesellschaft/bafoeg-erhoehung-bundesregierung-100.html"
     },
@@ -37,48 +77,8 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-usa-ruestung-tomahawk-100.html"
     },
     {
-      "title": "Trotz Iran-Kriegs: Exporte wachsen vierten Monat in Folge",
+      "title": "Trotz Iran-Kriegs: Exporte wachsen den vierten Monat in Folge",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-handel-mai-100.html"
-    },
-    {
-      "title": "Hitzewelle in Deutschland - mehr als 5.000 Tote bis Ende Juni",
-      "link": "https://www.tagesschau.de/wissen/klima/robert-koch-institut-hitzetote-deutschland-100.html"
-    },
-    {
-      "title": "Zehn Jahre Haft für tödlichen Angriff auf Zugbegleiter in Rheinland-Pfalz",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zugbegleiter-urteil-100.html"
-    },
-    {
-      "title": "Buchmarkt: Junge Menschen kaufen weniger Bücher",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/buchmarkt-entwicklungen-100.html"
-    },
-    {
-      "title": "Marktbericht: Anleger tasten sich wieder nach vorne",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-110.html"
-    },
-    {
-      "title": "Entlastungsgesetz im Bundestag: Spürbare Hilfe oder \"Frechheit\"?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungsgesetz-bundestag-100.html"
-    },
-    {
-      "title": "Schriftstellerin Wunnicke erhält Georg-Büchner-Preis 2026",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/buechner-preis-wunnicke-100.html"
-    },
-    {
-      "title": "Tote bei Überschwemmungen in China",
-      "link": "https://www.tagesschau.de/ausland/asien/ueberschwemmungen-china-tote-100.html"
-    },
-    {
-      "title": "Heißester Juni in Westeuropa seit Aufzeichnungsbeginn",
-      "link": "https://www.tagesschau.de/wissen/klima/copernicus-hitzerekord-juni-100.html"
-    },
-    {
-      "title": "Meta baut Rechenzentrum in Kanada für neun Milliarden Dollar",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-rechenzentrum-kanada-100.html"
-    },
-    {
-      "title": "Wie Volkswagen sich in China neu erfinden will",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-neu-erfinden-100.html"
     }
   ]
 }
