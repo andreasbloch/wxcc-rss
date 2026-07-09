@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "USA greifen erneut Iran an - Teheran kündigt Gegenangriffe an",
+      "title": "Wie Bots die Kommentarspalten auf Social Media manipulieren",
+      "link": "https://www.tagesschau.de/investigativ/iran-social-media-bots-100.html"
+    },
+    {
+      "title": "USA greifen erneut Iran an - Teheran reagiert mit Gegenangriffen",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-110.html"
+    },
+    {
+      "title": "BTS auf der WM-Bühne: Warum die FIFA auf K-Pop setzt",
+      "link": "https://www.tagesschau.de/kultur/bts-bei-der-wm-fifa-und-k-pop-100.html"
+    },
+    {
+      "title": "VW-Sparpläne sorgen in Region für Existenzängste",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-sparprogramm-100.html"
+    },
+    {
+      "title": "Rede zur politischen Lage: Merz hält Regierungserklärung im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-vor-regierungserklaerung-100.html"
     },
     {
       "title": "Wadephul-Interview: USA und Iran \"sollten zur Besinnung kommen\"",
@@ -63,22 +79,6 @@
     {
       "title": "Informationsfreiheitsgesetz: Hubig will Auskunftspflicht der Regierung bewahren",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ifg-reform-hubig-100.html"
-    },
-    {
-      "title": "Commerzbank-Aktionäre nehmen Übernahmeangebot der UniCredit an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-uebernahme-commerzbank-100.html"
-    },
-    {
-      "title": "Ölpreise steigen: Krieg in Iran ist wieder Thema an der Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreis-134.html"
-    },
-    {
-      "title": "Grüne reichen Eilantrag beim Verfassungsgericht gegen Gesundheitsreform ein",
-      "link": "https://www.tagesschau.de/inland/gesundheitsreform-gruene-kritik-102.html"
-    },
-    {
-      "title": "Mit KI gegen Kriminalität: Polizei soll mehr digitale Befugnisse bekommen ",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ki-ermittlungen-gesetz-100.html"
     }
   ]
 }
