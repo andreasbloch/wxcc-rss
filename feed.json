@@ -1,12 +1,40 @@
 {
   "items": [
     {
-      "title": "Wie Bots die Kommentarspalten auf Social Media manipulieren",
-      "link": "https://www.tagesschau.de/investigativ/iran-social-media-bots-100.html"
+      "title": "Tote bei Überschwemmungen in China",
+      "link": "https://www.tagesschau.de/ausland/asien/ueberschwemmungen-china-tote-100.html"
+    },
+    {
+      "title": "Heißester Juni in Westeuropa seit Aufzeichnungsbeginn",
+      "link": "https://www.tagesschau.de/wissen/klima/copernicus-hitzerekord-juni-100.html"
     },
     {
       "title": "USA greifen erneut Iran an - Teheran reagiert mit Gegenangriffen",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-110.html"
+    },
+    {
+      "title": "Meta baut Rechenzentrum in Kanada für neun Milliarden Dollar",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-rechenzentrum-kanada-100.html"
+    },
+    {
+      "title": "Wie Volkswagen sich in China neu erfinden will",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-neu-erfinden-100.html"
+    },
+    {
+      "title": "VW: Bald mehr Klarheit zu Jobs und Werken?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-vw-aufsichtsratssitzung-100.html"
+    },
+    {
+      "title": "DAX auf Erholungskurs",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-110.html"
+    },
+    {
+      "title": "11KM-Podcast: Neapels Supervulkan - wie groß ist die Gefahr?",
+      "link": "https://www.tagesschau.de/podcast-11km-italien-neapel-vulkan-100.html"
+    },
+    {
+      "title": "Wie Bots die Kommentarspalten auf Social Media manipulieren",
+      "link": "https://www.tagesschau.de/investigativ/iran-social-media-bots-100.html"
     },
     {
       "title": "BTS auf der WM-Bühne: Warum die FIFA auf K-Pop setzt",
@@ -51,34 +79,6 @@
     {
       "title": "Nach Gerichtsurteil: Marine Le Pen stürzt sich in den Wahlkampf",
       "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-102.html"
-    },
-    {
-      "title": "Marktbericht: DAX rauscht nach Eskalation im Nahen Osten in die Tiefe",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-100.html"
-    },
-    {
-      "title": "Warum die Opposition das Gesundheits-Sparpaket stoppen will",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-gesetz-kritik-100.html"
-    },
-    {
-      "title": "Die zentralen Punkte der NATO-Erklärung",
-      "link": "https://www.tagesschau.de/ausland/asien/nato-erklaerung-ankara-100.html"
-    },
-    {
-      "title": "Erste deutsche Störsatelliten sollen 2027 starten",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/weltraum-strategie-bundesregierung-satelliten-militaer-100.html"
-    },
-    {
-      "title": "Trauerprozession für getöteten Chamenei im Irak",
-      "link": "https://www.tagesschau.de/ausland/asien/chamenei-trauerzeremonien-100.html"
-    },
-    {
-      "title": "Hinweise auf Amoktat: Mehrere Verletzte an Gymnasium in Schongau",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/amoktat-gymnasium-schongau-100.html"
-    },
-    {
-      "title": "Informationsfreiheitsgesetz: Hubig will Auskunftspflicht der Regierung bewahren",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ifg-reform-hubig-100.html"
     }
   ]
 }
