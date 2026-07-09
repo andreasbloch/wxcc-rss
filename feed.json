@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Regierungserklärung von Merz: Ein Treuebekenntnis vor der Sommerpause",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-vor-sommerpause-100.html"
+    },
+    {
+      "title": "Gericht weist Klage gegen Zurückweisung aus formalen Gründen ab",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gericht-zurueckweisung-grenze-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX wieder über 25.000 Punkten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-110.html"
+    },
+    {
       "title": "Tödlicher Angriff auf Zugbegleiter: Ein Urteil mit Ansage",
       "link": "https://www.tagesschau.de/inland/urteil-tod-zugbegleiter-angriff-100.html"
     },
     {
       "title": "\"Chatkontrolle\": Scan-Erlaubnis nimmt Hürde im EU-Parlament",
       "link": "https://www.tagesschau.de/ausland/europa/chatkontrolle-eu-104.html"
-    },
-    {
-      "title": "Bundespräsident Steinmeier übergibt Haus der Geschichte letzte Kohle",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bundespraesident-steinmeier-steinkohle-haus-der-geschichte-100.html"
     },
     {
       "title": "Europäischer Gerichtshof: Widerrufsrecht gilt auch für Streaming-Abos",
@@ -41,6 +49,10 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-einnahmen-krypto-aktien-100.html"
     },
     {
+      "title": "Bundespräsident Steinmeier übergibt Haus der Geschichte letzte Kohle",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bundespraesident-steinmeier-steinkohle-haus-der-geschichte-100.html"
+    },
+    {
       "title": "Kompromiss der Koalition: BAföG-Erhöhung verschiebt sich um halbes Jahr",
       "link": "https://www.tagesschau.de/inland/gesellschaft/bafoeg-erhoehung-bundesregierung-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Sängerin Bonnie Tyler im Alter von 75 Jahren gestorben",
       "link": "https://www.tagesschau.de/kultur/bonnie-tyler-tot-102.html"
-    },
-    {
-      "title": "Abgeordnetenhaus-Wahl: Berliner JU-Chef fordert Rückzug Wegners",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-wahl-wegner-100.html"
-    },
-    {
-      "title": "Einigung mit den USA: Deutschland kauft \"Tomahawk\"-Marschflugkörper",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-usa-ruestung-tomahawk-100.html"
-    },
-    {
-      "title": "Trotz Iran-Kriegs: Exporte wachsen den vierten Monat in Folge",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-handel-mai-100.html"
     }
   ]
 }
