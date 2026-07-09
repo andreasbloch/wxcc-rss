@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Sängerin Bonnie Tyler im Alter von 75 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/bonnie-tyler-tot-102.html"
+    },
+    {
+      "title": "Abgeordnetenhaus-Wahl: Berliner JU-Chef fordert Rückzug Wegners",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-wahl-wegner-100.html"
+    },
+    {
+      "title": "Einigung mit den USA: Deutschland kauft \"Tomahawk\"-Marschflugkörper",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-usa-ruestung-tomahawk-100.html"
+    },
+    {
+      "title": "Trotz Iran-Kriegs: Exporte wachsen vierten Monat in Folge",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-handel-mai-100.html"
+    },
+    {
+      "title": "Hitzewelle in Deutschland - mehr als 5.000 Tote bis Ende Juni",
+      "link": "https://www.tagesschau.de/wissen/klima/robert-koch-institut-hitzetote-deutschland-100.html"
+    },
+    {
+      "title": "Zehn Jahre Haft für tödlichen Angriff auf Zugbegleiter in Rheinland-Pfalz",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/zugbegleiter-urteil-100.html"
+    },
+    {
+      "title": "Buchmarkt: Junge Menschen kaufen weniger Bücher",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/buchmarkt-entwicklungen-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger tasten sich wieder nach vorne",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-110.html"
+    },
+    {
+      "title": "Entlastungsgesetz im Bundestag: Spürbare Hilfe oder \"Frechheit\"?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungsgesetz-bundestag-100.html"
+    },
+    {
+      "title": "Schriftstellerin Wunnicke erhält Georg-Büchner-Preis 2026",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/buechner-preis-wunnicke-100.html"
+    },
+    {
       "title": "Tote bei Überschwemmungen in China",
       "link": "https://www.tagesschau.de/ausland/asien/ueberschwemmungen-china-tote-100.html"
     },
@@ -21,12 +61,8 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-neu-erfinden-100.html"
     },
     {
-      "title": "VW: Bald mehr Klarheit zu Jobs und Werken?",
+      "title": "Aufsichtsrat tagt: Harte Einsparungen bei VW befürchtet",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-vw-aufsichtsratssitzung-100.html"
-    },
-    {
-      "title": "DAX auf Erholungskurs",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-110.html"
     },
     {
       "title": "11KM-Podcast: Neapels Supervulkan - wie groß ist die Gefahr?",
@@ -43,42 +79,6 @@
     {
       "title": "VW-Sparpläne sorgen in Region für Existenzängste",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-sparprogramm-100.html"
-    },
-    {
-      "title": "Rede zur politischen Lage: Merz hält Regierungserklärung im Bundestag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-vor-regierungserklaerung-100.html"
-    },
-    {
-      "title": "Wadephul-Interview: USA und Iran \"sollten zur Besinnung kommen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/wadephul-iran-nato-100.html"
-    },
-    {
-      "title": "Treffen in Ankara: Was bleibt von diesem NATO-Gipfel?",
-      "link": "https://www.tagesschau.de/ausland/asien/nato-gipfel-trump-ankara-100.html"
-    },
-    {
-      "title": "Liveblog zur Sicherheitspolitik: ++ Trump spricht von \"sehr erfolgreichem NATO-Gipfel\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-iran-mittwoch-122.html"
-    },
-    {
-      "title": "Landgericht Berlin verurteilt Palliativarzt wegen Mordserie",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/palliativarzt-mordserie-urteil-berlin-100.html"
-    },
-    {
-      "title": "Kommentar: NATO sendet Signal der Geschlossenheit",
-      "link": "https://www.tagesschau.de/kommentar/kommentar-nato-gipfel-104.html"
-    },
-    {
-      "title": "Trump droht Iran bei NATO-Gipfel mit neuen Angriffen",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-iran-usa-abkommen-102.html"
-    },
-    {
-      "title": "NATO-Gipfel: Milliarden für die Ukraine - milde Töne von Trump",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-gipfel-ukraine-110.html"
-    },
-    {
-      "title": "Nach Gerichtsurteil: Marine Le Pen stürzt sich in den Wahlkampf",
-      "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-praesidentschaft-102.html"
     }
   ]
 }
