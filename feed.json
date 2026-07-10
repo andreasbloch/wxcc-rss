@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html"
+    },
+    {
+      "title": "Waldbrandgefahr steigt am Wochenende teils auf höchste Warnstufe",
+      "link": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-104.html"
+    },
+    {
+      "title": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
+      "link": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
+    },
+    {
+      "title": "Wie Wärmepumpen auch kühlen können",
+      "link": "https://www.tagesschau.de/wissen/technologie/waermepumpe-zum-kuehlen-100.html"
+    },
+    {
+      "title": "Neue Regeln für Wärmepumpe und Gas: Was sich beim Heizen ändert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-gebaeudemodernisierungsgesetz-foerderung-100.html"
+    },
+    {
+      "title": "Tote bei Waldbrand im Süden Spaniens",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html"
+    },
+    {
       "title": "DAX vom Rekordhoch weit entfernt",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-vw-100.html"
     },
@@ -33,10 +57,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-sparpaket-krankenkassen-100.html"
     },
     {
-      "title": "Tote bei Waldbrand im Süden Spaniens",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html"
-    },
-    {
       "title": "Bundestag und Bundesrat stimmen für Gebäudemodernisierungsgesetz",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-gebaeude-modernisierung-gesetz-100.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Adoption soll Japans Monarchie retten - Frauen bleiben ausgeschlossen",
       "link": "https://www.tagesschau.de/ausland/asien/japan-reform-kaiserhaus-thronfolge-100.html"
-    },
-    {
-      "title": "Umzug des Bundespräsidenten: Vom Schloss in den Modulbau",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-steinmeier-umzug-100.html"
-    },
-    {
-      "title": "Stabile Beiträge bei Krankenkassen - auf wessen Kosten?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sparpaket-gesetzliche-krankenkassen-berufsgruppen-100.html"
-    },
-    {
-      "title": "Betriebsrat setzt VW-Chef Blume Ultimatum bis heute",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-sparplaene-betriebsrat-ultimatum-100.html"
-    },
-    {
-      "title": "Ukraine attackiert erneut russische Energieanlagen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-raffinerien-russland-100.html"
-    },
-    {
-      "title": "Welche Preise besonders stark steigen und sinken",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-verbraucherpreise-deutschland-100.html"
     }
   ]
 }
