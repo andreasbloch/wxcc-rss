@@ -1,15 +1,51 @@
 {
   "items": [
     {
+      "title": "Kraftstoffkrise: Langes Warten an Russlands Tankstellen",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-krieg-ukraine-tanken-kraftstoff-100.html"
+    },
+    {
+      "title": "Tote bei Waldbrand im Süden Spaniens",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html"
+    },
+    {
+      "title": "Industrieunglück in China : Mindesten 28 Tote bei Brand in Schuhfabrik",
+      "link": "https://www.tagesschau.de/ausland/asien/china-brand-schuhfabrik-100.html"
+    },
+    {
+      "title": "Leiden Frauen mehr unter Hitze als Männer?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/frauen-hitze-100.html"
+    },
+    {
+      "title": "Warum Chinas Exporterfolge Jobs in Deutschland und Europa bedrohen",
+      "link": "https://www.tagesschau.de/wirtschaft/china-export-126.html"
+    },
+    {
+      "title": "Betriebsrat setzt VW-Chef Blume Ultimatum bis heute",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-sparplaene-betriebsrat-ultimatum-100.html"
+    },
+    {
+      "title": "Spätwerke von Musikikonen: Meisterwerke und Totalausfälle",
+      "link": "https://www.tagesschau.de/kultur/rolling-stones-madonna-alterswerke-von-musik-legenden-100.html"
+    },
+    {
+      "title": "Unfälle mit E-Rollern - Opfer sollen leichter Schadenersatz erhalten",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/e-scooter-haftungsregeln-verschaerft-100.html"
+    },
+    {
+      "title": "DAX kaum verändert erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-vw-100.html"
+    },
+    {
+      "title": "Irans ehemaliger Oberster Führer Chamenei beigesetzt",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-begraebnis-chamenei-100.html"
+    },
+    {
       "title": "Präsident und Sohn: Wer hat die Macht in Uganda?",
       "link": "https://www.tagesschau.de/ausland/afrika/uganda-regierung-repression-100.html"
     },
     {
-      "title": "Mindestens zwölf Tote bei Waldbrand im Süden Spaniens",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html"
-    },
-    {
-      "title": "Krankenkassenreform im Bundestag: Schafft es das Sparpaket ins Ziel?",
+      "title": "GKV-Reform im Bundestag: Schafft es das Sparpaket ins Ziel?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/reform-krankenversicherung-100.html"
     },
     {
@@ -43,42 +79,6 @@
     {
       "title": "Tödlicher Angriff auf Zugbegleiter: Ein Urteil mit Ansage",
       "link": "https://www.tagesschau.de/inland/urteil-tod-zugbegleiter-angriff-100.html"
-    },
-    {
-      "title": "\"Chatkontrolle\": Scan-Erlaubnis nimmt Hürde im EU-Parlament",
-      "link": "https://www.tagesschau.de/ausland/europa/chatkontrolle-eu-104.html"
-    },
-    {
-      "title": "Europäischer Gerichtshof: Widerrufsrecht gilt auch für Streaming-Abos",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-streaming-100.html"
-    },
-    {
-      "title": "Was der Kauf der \"Tomahawks\" für Deutschland bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tomahawks-verteidigung-usa-100.html"
-    },
-    {
-      "title": "Aufsichtsrat tagt: Harte Einsparungen bei VW befürchtet",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-vw-aufsichtsratssitzung-100.html"
-    },
-    {
-      "title": "Gesundheitsreform im Bundestag: Warum die Eilanträge erfolglos waren",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-gesundheitsreform-102.html"
-    },
-    {
-      "title": "Mehr Verletzte bei Unfall am Frankfurter Flughafen als bisher bekannt",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-flughafen-122.html"
-    },
-    {
-      "title": "\"Irans Regime hat sich zumindest gefestigt\"",
-      "link": "https://www.tagesschau.de/ausland/adebahr-iran-100.html"
-    },
-    {
-      "title": "Wie Trump ethische Regeln bei seinen Finanzen missachtet",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-einnahmen-krypto-aktien-100.html"
-    },
-    {
-      "title": "Bundespräsident Steinmeier übergibt Haus der Geschichte letzte Kohle",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bundespraesident-steinmeier-steinkohle-haus-der-geschichte-100.html"
     }
   ]
 }
