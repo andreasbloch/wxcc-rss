@@ -1,8 +1,44 @@
 {
   "items": [
     {
+      "title": "Adoption soll Japans Monarchie retten - Frauen bleiben ausgeschlossen",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-reform-kaiserhaus-thronfolge-100.html"
+    },
+    {
+      "title": "Umzug des Bundespräsidenten: Vom Schloss in den Modulbau",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-steinmeier-umzug-100.html"
+    },
+    {
+      "title": "Bundestag stimmt für umstrittenes Krankenkassen-Sparpaket",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-sparpaket-krankenkassen-100.html"
+    },
+    {
+      "title": "Stabile Beiträge bei Krankenkassen - auf wessen Kosten?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sparpaket-gesetzliche-krankenkassen-berufsgruppen-100.html"
+    },
+    {
+      "title": "Betriebsrat setzt VW-Chef Blume Ultimatum bis heute",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-sparplaene-betriebsrat-ultimatum-100.html"
+    },
+    {
+      "title": "Ukraine attackiert erneut russische Energieanlagen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-raffinerien-russland-100.html"
+    },
+    {
+      "title": "Welche Preise besonders stark steigen und sinken",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-verbraucherpreise-deutschland-100.html"
+    },
+    {
+      "title": "Die KI-Rally geht am DAX vorbei",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-vw-100.html"
+    },
+    {
       "title": "Kraftstoffkrise: Langes Warten an Russlands Tankstellen",
       "link": "https://www.tagesschau.de/ausland/europa/russland-krieg-ukraine-tanken-kraftstoff-100.html"
+    },
+    {
+      "title": "Krawalle in Düsseldorf nach Marokkos WM-Aus",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wm-spiel-ausschreitungen-duesseldorf-100.html"
     },
     {
       "title": "Tote bei Waldbrand im Süden Spaniens",
@@ -21,20 +57,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/china-export-126.html"
     },
     {
-      "title": "Betriebsrat setzt VW-Chef Blume Ultimatum bis heute",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-sparplaene-betriebsrat-ultimatum-100.html"
-    },
-    {
       "title": "Spätwerke von Musikikonen: Meisterwerke und Totalausfälle",
       "link": "https://www.tagesschau.de/kultur/rolling-stones-madonna-alterswerke-von-musik-legenden-100.html"
     },
     {
       "title": "Unfälle mit E-Rollern - Opfer sollen leichter Schadenersatz erhalten",
       "link": "https://www.tagesschau.de/inland/gesellschaft/e-scooter-haftungsregeln-verschaerft-100.html"
-    },
-    {
-      "title": "DAX kaum verändert erwartet",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-vw-100.html"
     },
     {
       "title": "Irans ehemaliger Oberster Führer Chamenei beigesetzt",
@@ -51,34 +79,6 @@
     {
       "title": "Zahl der Erdbeben-Opfer in Venezuela steigt auf 3.889",
       "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-venezuela-120.html"
-    },
-    {
-      "title": "Bundestag beschließt Gesetz zur Entlastung von Ländern und Kommunen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesetz-entlastung-kommunen-bundestag-100.html"
-    },
-    {
-      "title": "Beratungen von VW-Aufsichtsrat enden ohne Klarheit zu Sparplänen",
-      "link": "https://www.tagesschau.de/wirtschaft/vw-zukunftsplan-100.html"
-    },
-    {
-      "title": "Revolver mit sechs Patronen: Erdoğans Geschenk irritiert Gäste des NATO-Gipfels",
-      "link": "https://www.tagesschau.de/ausland/asien/erdogan-nato-gipfel-ankara-100.html"
-    },
-    {
-      "title": "Regierungserklärung von Merz: Ein Treuebekenntnis vor der Sommerpause",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungserklaerung-merz-vor-sommerpause-100.html"
-    },
-    {
-      "title": "Gericht weist Klage gegen Zurückweisung aus formalen Gründen ab",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gericht-zurueckweisung-grenze-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX wieder über 25.000 Punkten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-110.html"
-    },
-    {
-      "title": "Tödlicher Angriff auf Zugbegleiter: Ein Urteil mit Ansage",
-      "link": "https://www.tagesschau.de/inland/urteil-tod-zugbegleiter-angriff-100.html"
     }
   ]
 }
