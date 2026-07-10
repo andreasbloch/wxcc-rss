@@ -1,16 +1,48 @@
 {
   "items": [
     {
+      "title": "Britischer Rechtspopulist: \"Teflon-Image von Farage hat Kratzer\"",
+      "link": "https://www.tagesschau.de/ausland/europa/nigel-farage-skandal-100.html"
+    },
+    {
+      "title": "Berlins Regierender Bürgermeister Wegner tritt bei Wahl nicht mehr an",
+      "link": "https://www.tagesschau.de/inland/wegner-wahl-100.html"
+    },
+    {
+      "title": "Bundestag und Bundesrat stimmen für umstrittenes Krankenkassen-Sparpaket",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-sparpaket-krankenkassen-100.html"
+    },
+    {
+      "title": "Tote bei Waldbrand im Süden Spaniens",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html"
+    },
+    {
+      "title": "Bundestag und Bundesrat stimmen für Gebäudemodernisierungsgesetz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-gebaeude-modernisierung-gesetz-100.html"
+    },
+    {
+      "title": "Kommentar zur Klimapolitik: Das Fundament droht zu brechen",
+      "link": "https://www.tagesschau.de/kommentar/klimapolitik-bundesregierung-schwaechung-100.html"
+    },
+    {
+      "title": "Kartellamt: Steuerentlastung überwiegend an Verbraucher weitergegeben",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bundeskartellamt-tankrabatt-verbraucher-100.html"
+    },
+    {
+      "title": "Investitionen in Sicherheit schafft Tausende neue Jobs",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/investitionen-112.html"
+    },
+    {
+      "title": "EU sieht Suchtgefahr bei Facebook und Instagram",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-meta-suchtgefahr-100.html"
+    },
+    {
       "title": "Adoption soll Japans Monarchie retten - Frauen bleiben ausgeschlossen",
       "link": "https://www.tagesschau.de/ausland/asien/japan-reform-kaiserhaus-thronfolge-100.html"
     },
     {
       "title": "Umzug des Bundespräsidenten: Vom Schloss in den Modulbau",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-steinmeier-umzug-100.html"
-    },
-    {
-      "title": "Bundestag stimmt für umstrittenes Krankenkassen-Sparpaket",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-sparpaket-krankenkassen-100.html"
     },
     {
       "title": "Stabile Beiträge bei Krankenkassen - auf wessen Kosten?",
@@ -41,44 +73,12 @@
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wm-spiel-ausschreitungen-duesseldorf-100.html"
     },
     {
-      "title": "Tote bei Waldbrand im Süden Spaniens",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html"
-    },
-    {
       "title": "Industrieunglück in China : Mindesten 28 Tote bei Brand in Schuhfabrik",
       "link": "https://www.tagesschau.de/ausland/asien/china-brand-schuhfabrik-100.html"
     },
     {
       "title": "Leiden Frauen mehr unter Hitze als Männer?",
       "link": "https://www.tagesschau.de/wissen/gesundheit/frauen-hitze-100.html"
-    },
-    {
-      "title": "Warum Chinas Exporterfolge Jobs in Deutschland und Europa bedrohen",
-      "link": "https://www.tagesschau.de/wirtschaft/china-export-126.html"
-    },
-    {
-      "title": "Spätwerke von Musikikonen: Meisterwerke und Totalausfälle",
-      "link": "https://www.tagesschau.de/kultur/rolling-stones-madonna-alterswerke-von-musik-legenden-100.html"
-    },
-    {
-      "title": "Unfälle mit E-Rollern - Opfer sollen leichter Schadenersatz erhalten",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/e-scooter-haftungsregeln-verschaerft-100.html"
-    },
-    {
-      "title": "Irans ehemaliger Oberster Führer Chamenei beigesetzt",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-begraebnis-chamenei-100.html"
-    },
-    {
-      "title": "Präsident und Sohn: Wer hat die Macht in Uganda?",
-      "link": "https://www.tagesschau.de/ausland/afrika/uganda-regierung-repression-100.html"
-    },
-    {
-      "title": "GKV-Reform im Bundestag: Schafft es das Sparpaket ins Ziel?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reform-krankenversicherung-100.html"
-    },
-    {
-      "title": "Zahl der Erdbeben-Opfer in Venezuela steigt auf 3.889",
-      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-venezuela-120.html"
     }
   ]
 }
