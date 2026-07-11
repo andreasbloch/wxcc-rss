@@ -1,8 +1,36 @@
 {
   "items": [
     {
+      "title": "Söder versichert, dass \"Minijobs bleiben\"",
+      "link": "https://www.tagesschau.de/inland/soeder-minijobs-100.html"
+    },
+    {
+      "title": "Verdächtiger im Mordfall Widdecombe wieder frei",
+      "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-102.html"
+    },
+    {
+      "title": "Linksextreme Gruppe bekennt sich zu Sabotage auf Bahnstrecke Köln-Düsseldorf",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bahnsperrung-koeln-duesseldorf-sabotage-100.html"
+    },
+    {
+      "title": "Gericht in Südafrika öffnet Tür zum Handel mit Nashorn-Hörnern",
+      "link": "https://www.tagesschau.de/ausland/afrika/rhinozeros-horn-suedafrika-100.html"
+    },
+    {
+      "title": "Sanierung als Alternative: Marode Brücke abreißen - muss das sein?",
+      "link": "https://www.tagesschau.de/wirtschaft/marode-bruecken-alternativen-abriss-100.html"
+    },
+    {
+      "title": "Wie ein Krankenhaus sich für die Hitze wappnet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-klinik-vorbereitungen-100.html"
+    },
+    {
       "title": "Nach Feuer: Bahnstrecke zwischen Düsseldorf und Köln gesperrt",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/zugausfall-nrw-feuer-100.html"
+    },
+    {
+      "title": "31 Jahre nach Srebrenica-Massaker: Trauer und Suche nach Spuren",
+      "link": "https://www.tagesschau.de/ausland/europa/srebrenica-gedenken-108.html"
     },
     {
       "title": "Meta nimmt nach Protesten KI-Bildgenerator \"Muse Image\" vom Netz",
@@ -15,10 +43,6 @@
     {
       "title": "Mordermittlungen nach Tod von britischer Politikerin Widdecombe",
       "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-100.html"
-    },
-    {
-      "title": "Linksextreme Gruppe bekennt sich zu Sabotage auf Bahnstrecke Köln-Düsseldorf",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bahnsperrung-koeln-duesseldorf-sabotage-100.html"
     },
     {
       "title": "Taiwan und China: Hunderttausende wegen Taifun \"Bavi\" evakuiert",
@@ -55,30 +79,6 @@
     {
       "title": "CHP-Bürgermeister: Bürgernah - und Erdoğans Partei ein Dorn im Auge",
       "link": "https://www.tagesschau.de/ausland/europa/tuerkei-chp-buergermeister-100.html"
-    },
-    {
-      "title": "Wie Hitze auf Zyklus und Menstruation wirken kann",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/hitze-menstruation-frauengesundheit-100.html"
-    },
-    {
-      "title": "Apple verklagt OpenAI wegen angeblich gestohlener Firmengeheimnisse",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chatgpt-apple-100.html"
-    },
-    {
-      "title": "Gesundheitsreform: Was sich mit dem Sparpaket für Versicherte ändert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesundheitsreform-sparpaket-aenderungen-100.html"
-    },
-    {
-      "title": "Neues Gesetz in Frankreich macht Schüsse von Polizisten zu Notwehr",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-polizeigesetz-protest-100.html"
-    },
-    {
-      "title": "Waldbrandgefahr steigt am Wochenende teils auf höchste Warnstufe",
-      "link": "https://www.tagesschau.de/inland/waldbrandgefahr-deutschland-104.html"
-    },
-    {
-      "title": "Dritte Hitzewelle des Jahres: Frankreich verschärft Krisenplan",
-      "link": "https://www.tagesschau.de/ausland/europa/hitzewelle-frankreich-warnstufe-100.html"
     }
   ]
 }
