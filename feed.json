@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Offenbar weiter Gespräche zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-174.html"
+    },
+    {
+      "title": "Apple verklagt OpenAI wegen angeblich gestohlener Firmengeheimnisse",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/chatgpt-apple-100.html"
+    },
+    {
       "title": "Belgien plant Straßenmaut für alle Autos",
       "link": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html"
     },
@@ -31,10 +39,6 @@
     {
       "title": "Neue Regeln für Wärmepumpe und Gas: Was sich beim Heizen ändert",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-gebaeudemodernisierungsgesetz-foerderung-100.html"
-    },
-    {
-      "title": "Tote bei Waldbrand im Süden Spaniens",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-spanien-andalusien-100.html"
     },
     {
       "title": "DAX vom Rekordhoch weit entfernt",
@@ -75,10 +79,6 @@
     {
       "title": "Kommentar zur Klimapolitik: Das Fundament droht zu brechen",
       "link": "https://www.tagesschau.de/kommentar/klimapolitik-bundesregierung-schwaechung-100.html"
-    },
-    {
-      "title": "Kartellamt: Steuerentlastung überwiegend an Verbraucher weitergegeben",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bundeskartellamt-tankrabatt-verbraucher-100.html"
     }
   ]
 }
