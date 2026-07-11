@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Belgien plant Straßenmaut für alle Autos",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html"
+    },
+    {
       "title": "Mordermittlungen nach Tod von britischer Politikerin Widdecombe",
       "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kartellamt: Steuerentlastung überwiegend an Verbraucher weitergegeben",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bundeskartellamt-tankrabatt-verbraucher-100.html"
-    },
-    {
-      "title": "Investitionen in Sicherheit schafft Tausende neue Jobs",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/investitionen-112.html"
     }
   ]
 }
