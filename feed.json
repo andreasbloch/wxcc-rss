@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html"
+    },
+    {
+      "title": "Linksextreme Gruppe bekennt sich zu Sabotage auf Bahnstrecke Köln-Düsseldorf",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bahnsperrung-koeln-duesseldorf-sabotage-100.html"
+    },
+    {
+      "title": "Indien: Im Land der sinkenden Geburtenrate",
+      "link": "https://www.tagesschau.de/ausland/asien/bevoelkerung-indien-weniger-geburten-100.html"
+    },
+    {
+      "title": "Nigeria am Weltbevölkerungstag: \"Der schlafende Riese ist erwacht\"",
+      "link": "https://www.tagesschau.de/ausland/afrika/nigeria-bevoelkerungswachstum-100.html"
+    },
+    {
       "title": "Wie ein Krankenhaus sich für die Hitze wappnet",
       "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-klinik-vorbereitungen-100.html"
     },
@@ -19,10 +35,6 @@
     {
       "title": "Verdächtiger im Mordfall Widdecombe wieder frei",
       "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-102.html"
-    },
-    {
-      "title": "Linksextreme Gruppe bekennt sich zu Sabotage auf Bahnstrecke Köln-Düsseldorf",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bahnsperrung-koeln-duesseldorf-sabotage-100.html"
     },
     {
       "title": "Gericht in Südafrika öffnet Tür zum Handel mit Nashorn-Hörnern",
@@ -57,10 +69,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerloch-diskussion-100.html"
     },
     {
-      "title": "Krieg gegen die Ukraine: Wieder russische Angriffe auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/angriffe-kiew-wadephul-100.html"
-    },
-    {
       "title": "Belgien plant Straßenmaut für alle Autos",
       "link": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Forderung aus Wirtschaft und Politik: Deutsche Klimaneutralität erst 2050",
       "link": "https://www.tagesschau.de/inland/innenpolitik/wirtschaft-klimaziele-100.html"
-    },
-    {
-      "title": "USA fordern von Iran freien Seeweg in der Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/usa-iran-174.html"
-    },
-    {
-      "title": "Mit dem richtigen Fahrverhalten spritsparend in den Urlaub",
-      "link": "https://www.tagesschau.de/wirtschaft/spritsparen-autofahren-100.html"
     }
   ]
 }
