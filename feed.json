@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Neue US-Angriffe auf Iran - Straße von Hormus gesperrt",
+      "link": "https://www.tagesschau.de/ausland/asien/us-angriff-iran-100.html"
+    },
+    {
       "title": "Neuer Anlauf für Iran-Verhandlungen im Oman",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-verhandlungen-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Belgien plant Straßenmaut für alle Autos",
       "link": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html"
-    },
-    {
-      "title": "Kommunen bedauern das Ja des Bundesrats zur Gesundheitsreform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kritik-gesundheitspolitik-sparpaket-100.html"
     }
   ]
 }
