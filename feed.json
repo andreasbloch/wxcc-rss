@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "Geiselnahme in Berliner Supermarkt beendet - Großeinsatz der Polizei",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/geiselnahme-supermarkt-berlin-100.html"
+      "title": "Bundespräsident im ZDF-Interview: \"Überparteilichkeit nicht mehr ausreichend\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-laut-steinmeier-nicht-ueberparteilich-100.html"
+    },
+    {
+      "title": "ARD-Sommerinterview: Linken-Chefin Schwerdtner kritisiert Reformen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-linke-schwerdtner-100.html"
+    },
+    {
+      "title": "Das Sommerinterview mit Linken-Chefin Schwerdtner im Faktencheck",
+      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-schwerdtner-100.html"
+    },
+    {
+      "title": "Ukrainischer Präsident Selenskyj will Regierung umbauen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-regierungsumbildung-110.html"
+    },
+    {
+      "title": "Iran attackiert Ziele in mehreren Golfstaaten",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-golfstaaten-108.html"
     },
     {
       "title": "Syrisches Parlament kommt erstmals nach Assad-Sturz zusammen",
@@ -19,10 +35,6 @@
     {
       "title": "Drohnenjagd in Frankreich - künftig auch durch Privatfirmen",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-drohnen-100.html"
-    },
-    {
-      "title": "Iran attackiert Ziele in mehreren Golfstaaten",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-golfstaaten-108.html"
     },
     {
       "title": "Republikanischer US-Senator Lindsey Graham gestorben",
@@ -67,18 +79,6 @@
     {
       "title": "Im Juni so viele Badetote wie seit 23 Jahren nicht mehr",
       "link": "https://www.tagesschau.de/inland/gesellschaft/badetote-juni-102.html"
-    },
-    {
-      "title": "Brauchen wir bei Hitze mehr Elektrolyte?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/elektrolyte-bei-hitze-100.html"
-    },
-    {
-      "title": "Warum die Geburtenrate weiter zurückgeht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/geburtenrate-gruende-folgen-100.html"
-    },
-    {
-      "title": "Flucht vor xenophober Gewalt: Zurück aus Südafrika in die Armut",
-      "link": "https://www.tagesschau.de/ausland/afrika/migranten-suedafrika-102.html"
     }
   ]
 }
