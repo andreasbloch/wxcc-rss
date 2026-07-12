@@ -1,12 +1,20 @@
 {
   "items": [
     {
-      "title": "Im Juni so viele Badetote wie seit 23 Jahren nicht mehr",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/badetote-juni-102.html"
+      "title": "Taifun Bavi trifft große Teile Ostasiens",
+      "link": "https://www.tagesschau.de/ausland/asien/taifun-bavi-ostasien-100.html"
+    },
+    {
+      "title": "Das Smartphone auf dem Tisch - taugen Apps als Spielpartner?",
+      "link": "https://www.tagesschau.de/kultur/spiel-des-jahres-trend-zum-smartphone-100.html"
     },
     {
       "title": "Neue US-Angriffe auf Iran - Straße von Hormus gesperrt",
       "link": "https://www.tagesschau.de/ausland/asien/us-angriff-iran-100.html"
+    },
+    {
+      "title": "Im Juni so viele Badetote wie seit 23 Jahren nicht mehr",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/badetote-juni-102.html"
     },
     {
       "title": "Brauchen wir bei Hitze mehr Elektrolyte?",
@@ -71,14 +79,6 @@
     {
       "title": "Sanierung als Alternative: Marode Brücke abreißen - muss das sein?",
       "link": "https://www.tagesschau.de/wirtschaft/marode-bruecken-alternativen-abriss-100.html"
-    },
-    {
-      "title": "31 Jahre nach Srebrenica-Massaker: Trauer und Suche nach Spuren",
-      "link": "https://www.tagesschau.de/ausland/europa/srebrenica-gedenken-108.html"
-    },
-    {
-      "title": "Meta nimmt nach Protesten KI-Bildgenerator \"Muse Image\" vom Netz",
-      "link": "https://www.tagesschau.de/ausland/amerika/meta-ki-bildgenerator-abgeschaltet-100.html"
     }
   ]
 }
