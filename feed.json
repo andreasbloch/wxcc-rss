@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Das Sommerinterview mit Linken-Chefin Schwerdtner im Faktencheck",
+      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-schwerdtner-100.html"
+    },
+    {
+      "title": "Terrorverdacht nach Waffenfund nahe Synagoge in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-synagoge-terrorermittlungen-100.html"
+    },
+    {
+      "title": "China investiert neuerdings massiv in den Bereich Biotechnologie",
+      "link": "https://www.tagesschau.de/wirtschaft/biotechnologie-china-102.html"
+    },
+    {
       "title": "Bundespräsident im ZDF-Interview: \"Überparteilichkeit nicht mehr ausreichend\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-laut-steinmeier-nicht-ueberparteilich-100.html"
     },
     {
       "title": "ARD-Sommerinterview: Linken-Chefin Schwerdtner kritisiert Reformen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-linke-schwerdtner-100.html"
-    },
-    {
-      "title": "Das Sommerinterview mit Linken-Chefin Schwerdtner im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-schwerdtner-100.html"
     },
     {
       "title": "Ukrainischer Präsident Selenskyj will Regierung umbauen",
@@ -71,14 +79,6 @@
     {
       "title": "Das Smartphone auf dem Tisch - taugen Apps als Spielpartner?",
       "link": "https://www.tagesschau.de/kultur/spiel-des-jahres-trend-zum-smartphone-100.html"
-    },
-    {
-      "title": "Neue US-Angriffe auf Iran - Straße von Hormus gesperrt",
-      "link": "https://www.tagesschau.de/ausland/asien/us-angriff-iran-100.html"
-    },
-    {
-      "title": "Im Juni so viele Badetote wie seit 23 Jahren nicht mehr",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/badetote-juni-102.html"
     }
   ]
 }
