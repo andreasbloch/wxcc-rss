@@ -1,8 +1,28 @@
 {
   "items": [
     {
+      "title": "Im Juni so viele Badetote wie seit 23 Jahren nicht mehr",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/badetote-juni-102.html"
+    },
+    {
       "title": "Neue US-Angriffe auf Iran - Straße von Hormus gesperrt",
       "link": "https://www.tagesschau.de/ausland/asien/us-angriff-iran-100.html"
+    },
+    {
+      "title": "Brauchen wir bei Hitze mehr Elektrolyte?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/elektrolyte-bei-hitze-100.html"
+    },
+    {
+      "title": "Warum die Geburtenrate weiter zurückgeht",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/geburtenrate-gruende-folgen-100.html"
+    },
+    {
+      "title": "Flucht vor xenophober Gewalt: Zurück aus Südafrika in die Armut",
+      "link": "https://www.tagesschau.de/ausland/afrika/migranten-suedafrika-102.html"
+    },
+    {
+      "title": "VW-Chef sieht \"intelligentere Lösungen\" als Werksschließungen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-blume-100.html"
     },
     {
       "title": "Neuer Anlauf für Iran-Verhandlungen im Oman",
@@ -11,10 +31,6 @@
     {
       "title": "Linksextreme Gruppe bekennt sich zu Sabotage auf Bahnstrecke Köln-Düsseldorf",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bahnsperrung-koeln-duesseldorf-sabotage-100.html"
-    },
-    {
-      "title": "Nach Feuer: Bahnstrecke zwischen Düsseldorf und Köln gesperrt",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/zugausfall-nrw-feuer-100.html"
     },
     {
       "title": "Krieg gegen die Ukraine: Mehrere Tote nach russischen Angriffen",
@@ -63,22 +79,6 @@
     {
       "title": "Meta nimmt nach Protesten KI-Bildgenerator \"Muse Image\" vom Netz",
       "link": "https://www.tagesschau.de/ausland/amerika/meta-ki-bildgenerator-abgeschaltet-100.html"
-    },
-    {
-      "title": "Mordermittlungen nach Tod von britischer Politikerin Widdecombe",
-      "link": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-tod-von-politikerin-uk-100.html"
-    },
-    {
-      "title": "Taiwan und China: Hunderttausende wegen Taifun \"Bavi\" evakuiert",
-      "link": "https://www.tagesschau.de/ausland/taifun-bavi-taiwan-china-100.html"
-    },
-    {
-      "title": "Schwarz-rote Spitzenpolitiker warnen vor unnötigen Sommerloch-Debatten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerloch-diskussion-100.html"
-    },
-    {
-      "title": "Belgien plant Straßenmaut für alle Autos",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-maut-100.html"
     }
   ]
 }
