@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "US-Bundesstaaten wollen Warner-Übernahme durch Paramount stoppen",
+      "link": "https://www.tagesschau.de/ausland/amerika/klage-warner-paramount-uebernahme-100.html"
+    },
+    {
+      "title": "Massiver IT-Ausfall bei der Berliner Justiz",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/it-stoerung-berliner-justiz-100.html"
+    },
+    {
       "title": "Berlin-Wahl: Finanzsenator Evers ist neuer CDU-Spitzenkandidat",
       "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-stefan-evers-zum-neuen-spitzenkandidat-der-berliner-cdu-gewaehlt-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Frankfurt übernimmt Behandlung eines Ebola-Patienten",
       "link": "https://www.tagesschau.de/inland/regional/hessen/ebola-patient-uniklinik-frankfurt-100.html"
-    },
-    {
-      "title": "tagesschau-App wird smarter, persönlicher und interaktiver",
-      "link": "https://www.tagesschau.de/mehr/in-eigener-sache-app-100.html"
-    },
-    {
-      "title": "Kann die wachsende Rüstungsindustrie Arbeitsplätze retten?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/smag-ruestung-boersengang-verteidigung-100.html"
     }
   ]
 }
