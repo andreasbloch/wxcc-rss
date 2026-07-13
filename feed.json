@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "tagesschau-App wird smarter, persönlicher und interaktiver",
+      "link": "https://www.tagesschau.de/mehr/in-eigener-sache-app-100.html"
+    },
+    {
+      "title": "Kann die wachsende Rüstungsindustrie Arbeitsplätze retten?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/smag-ruestung-boersengang-verteidigung-100.html"
+    },
+    {
+      "title": "Realitätscheck voraus: Berichtssaison läuft an",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-berichtssaison-100.html"
+    },
+    {
+      "title": "Cyberangriffe: Auswärtiges Amt bestellt russischen Botschafter ein",
+      "link": "https://www.tagesschau.de/ausland/cyberangriffe-russland-sanktionen-botschafter-100.html"
+    },
+    {
+      "title": "Schauspieler Sam Neill (\"Jurassic Park\", \"Das Piano\") mit 78 Jahren gestorben",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/schauspieler-sam-neill-tot-100.html"
+    },
+    {
+      "title": "EU-Experten empfehlen Social-Media-Verbot für Kinder unter 13 Jahren",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-social-media-vorgaben-kinder-100.html"
+    },
+    {
+      "title": "VW-Chef Blume: Bis zu 50.000 Stellen könnten wegfallen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-blume-sparplaene-100.html"
+    },
+    {
+      "title": "Hubig will Entschädigung für zu Unrecht inhaftierte anheben",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/justiz-entschaedigung-zu-unrecht-inhaftiert-gesetz-100.html"
+    },
+    {
+      "title": "Frankreich: Großer Brand im Wald von Fontainebleau bei Paris",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbrand-nahe-paris-100.html"
+    },
+    {
       "title": "Flugtickets sind im ersten Halbjahr deutlich teurer geworden",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/flugtickets-preise-102.html"
     },
@@ -29,10 +65,6 @@
       "link": "https://www.tagesschau.de/inland/tabaksteuer-102.html"
     },
     {
-      "title": "Schauspieler Sam Neill (\"Jurassic Park\", \"Das Piano\") mit 78 Jahren gestorben",
-      "link": "https://www.tagesschau.de/ausland/ozeanien/schauspieler-sam-neill-tot-100.html"
-    },
-    {
       "title": "USA-Iran-Konflikt: Wie geht es weiter mit der Straße von Hormus?",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-strasse-hormus-102.html"
     },
@@ -47,38 +79,6 @@
     {
       "title": "Landwirte reagieren auf veränderte klimatische Bedingungen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/agrar-preise-ernte-trockenheit-100.html"
-    },
-    {
-      "title": "Kallas in der Kritik: Wie viel Außenpolitik darf die EU-Chefdiplomatin machen?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-aussenpolitik-kallas-100.html"
-    },
-    {
-      "title": "In Haft statt im Krankenhaus",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-arzt-israel-100.html"
-    },
-    {
-      "title": "Social-Media-Mindestalter: EU-Experten geben Empfehlung ab",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-social-media-alter-100.html"
-    },
-    {
-      "title": "Berichte über Tote bei israelischen Angriffen in Gaza",
-      "link": "https://www.tagesschau.de/ausland/asien/nahost-gaza-108.html"
-    },
-    {
-      "title": "Unklarheit über Status der Straße von Hormus und gegenseitige Angriffe",
-      "link": "https://www.tagesschau.de/ausland/asien/strasse-von-hormus-geschlossen-oder-nicht-100.html"
-    },
-    {
-      "title": "Feuerwehr kämpft in mehreren Bundesländern gegen Wald- und Feldbrände",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/feuer-hitze-waldbrand-100.html"
-    },
-    {
-      "title": "Das Sommerinterview mit Linken-Chefin Schwerdtner im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-schwerdtner-100.html"
-    },
-    {
-      "title": "Terrorverdacht nach Waffenfund nahe Synagoge in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-synagoge-terrorermittlungen-100.html"
     }
   ]
 }
