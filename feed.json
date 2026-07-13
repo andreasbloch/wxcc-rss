@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Flugtickets sind im ersten Halbjahr deutlich teurer geworden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/flugtickets-preise-102.html"
+    },
+    {
+      "title": "Urteil des OLG München: Freiheitsstrafen wegen Versklavung jesidischer Mädchen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-jesiden-irak-100.html"
+    },
+    {
+      "title": "Frankfurt übernimmt Behandlung eines Ebola-Patienten",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/ebola-patient-uniklinik-frankfurt-100.html"
+    },
+    {
+      "title": "\"Koalition der Willigen\" berät über weitere Hilfen für die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-koalition-der-willigen-eu-aussenminister-100.html"
+    },
+    {
+      "title": "Fluggastrechte: Was sich für Passagiere ab 2027 ändert",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fluggastrechte-eu-reform-100.html"
+    },
+    {
+      "title": "Marktbericht: Neue Spannungen machen DAX-Anleger nervös",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-dow-iran-100.html"
+    },
+    {
+      "title": "Bericht: Regierung will Tabaksteuer stärker anheben als geplant",
+      "link": "https://www.tagesschau.de/inland/tabaksteuer-102.html"
+    },
+    {
       "title": "Schauspieler Sam Neill (\"Jurassic Park\", \"Das Piano\") mit 78 Jahren gestorben",
       "link": "https://www.tagesschau.de/ausland/ozeanien/schauspieler-sam-neill-tot-100.html"
     },
@@ -9,20 +37,12 @@
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-strasse-hormus-102.html"
     },
     {
-      "title": "Frankfurt übernimmt Behandlung eines Ebola-Patienten",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/ebola-patient-uniklinik-frankfurt-100.html"
-    },
-    {
       "title": "27 Tote bei Feuer in Bangkok",
       "link": "https://www.tagesschau.de/ausland/asien/bangkok-feuer-100.html"
     },
     {
       "title": "Neue US-Angriffe auf Iran",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-112.html"
-    },
-    {
-      "title": "Marktbericht: Ölpreise legen kräftig zu",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-dow-iran-100.html"
     },
     {
       "title": "Landwirte reagieren auf veränderte klimatische Bedingungen",
@@ -35,10 +55,6 @@
     {
       "title": "In Haft statt im Krankenhaus",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-arzt-israel-100.html"
-    },
-    {
-      "title": "Bericht: Regierung will Tabaksteuer stärker anheben als geplant",
-      "link": "https://www.tagesschau.de/inland/tabaksteuer-102.html"
     },
     {
       "title": "Social-Media-Mindestalter: EU-Experten geben Empfehlung ab",
@@ -63,22 +79,6 @@
     {
       "title": "Terrorverdacht nach Waffenfund nahe Synagoge in Frankreich",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-synagoge-terrorermittlungen-100.html"
-    },
-    {
-      "title": "China investiert neuerdings massiv in den Bereich Biotechnologie",
-      "link": "https://www.tagesschau.de/wirtschaft/biotechnologie-china-102.html"
-    },
-    {
-      "title": "Bundespräsident im ZDF-Interview: \"Überparteilichkeit nicht mehr ausreichend\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-laut-steinmeier-nicht-ueberparteilich-100.html"
-    },
-    {
-      "title": "ARD-Sommerinterview: Linken-Chefin Schwerdtner kritisiert Reformen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-linke-schwerdtner-100.html"
-    },
-    {
-      "title": "Ukrainischer Präsident Selenskyj will Regierung umbauen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-regierungsumbildung-110.html"
     }
   ]
 }
