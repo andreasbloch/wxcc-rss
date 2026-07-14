@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Warum die Bundesregierung die Tabaksteuer stärker erhöhen will",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bundeshaushalt-tabaksteuer-rauchen-wird-teurer-100.html"
+    },
+    {
+      "title": "München schränkt Wassernutzung stark ein",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/muenchen-verhaengt-wasserverbote-100.html"
+    },
+    {
+      "title": "Mehrere Tote bei Gebäudebrand in Brüsseler Innenstadt",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-gebaeudebrand-bruessel-100.html"
+    },
+    {
+      "title": "China-Politik: Wie Deutschland seine Industrie schützen will",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/china-wettbewerb-deutschland-100.html"
+    },
+    {
+      "title": "Bevölkerungszahl der EU geht bis 2100 laut Studie um fast 52 Millionen zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-sinkende-bevoelkerungszahl-100.html"
+    },
+    {
+      "title": "EZB bereitet Testphase mit 36 Banken für digitalen Euro vor",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-testphase-digitaler-euro-100.html"
+    },
+    {
       "title": "Angriff an Gymnasium in Schongau: Hinweise auf extremistisches Motiv",
       "link": "https://www.tagesschau.de/inland/messerangriff-schongau-gymnasium-extremismus-verdacht-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Nahrungsergänzungsmittel LaVita erhält Negativpreis",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/negativpreis-goldener-windbeutel-fruchtsaft-100.html"
-    },
-    {
-      "title": "Anträge auf Kriegsdienstverweigerung laut Bericht deutlich gestiegen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kriegsdienstverweigerung-anstieg-100.html"
-    },
-    {
-      "title": "Einwanderungsbehörde: Wieder tödliche ICE-Einsätze in den USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-ice-einsatz-tote-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX kämpft mit 25.000-Punkte-Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-162.html"
-    },
-    {
-      "title": "Fünf Jahre nach der Ahrtal-Flut - welche Rolle spielt der Klimawandel?",
-      "link": "https://www.tagesschau.de/wissen/klima/flut-ahrtal-klimawandel-100.html"
-    },
-    {
-      "title": "Hinweise auf schwere Mängel nach Feuer in Bangkok",
-      "link": "https://www.tagesschau.de/ausland/asien/bangkok-feuer-102.html"
-    },
-    {
-      "title": "Berlin-Wahl: Finanzsenator Evers ist neuer CDU-Spitzenkandidat",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-stefan-evers-zum-neuen-spitzenkandidat-der-berliner-cdu-gewaehlt-102.html"
     }
   ]
 }
