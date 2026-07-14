@@ -1,12 +1,44 @@
 {
   "items": [
     {
+      "title": "Angriff an Gymnasium in Schongau: Hinweise auf extremistisches Motiv",
+      "link": "https://www.tagesschau.de/inland/messerangriff-schongau-gymnasium-extremismus-verdacht-100.html"
+    },
+    {
+      "title": "Frankreich setzt mit Militärparade Zeichen für Ukraine-Unterstützung",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-nationalfeiertag-macron-100.html"
+    },
+    {
+      "title": "Ukraine greift Ölproduktion an, Russland ein Schiff",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-russland-104.html"
+    },
+    {
+      "title": "\"Koalition der Willigen\": Tusk kündigt gemeinsames Manöver in Polen an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-der-willigen-manoever-100.html"
+    },
+    {
+      "title": "Großbritannien: Die morschen Mauern von Westminster",
+      "link": "https://www.tagesschau.de/ausland/europa/westminster-renovierung-100.html"
+    },
+    {
+      "title": "Marktbericht: Trump treibt die Ölpreise wieder nach oben",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-usa-iran-oelpreis-hormus-100.html"
+    },
+    {
+      "title": "Massiver IT-Ausfall bei der Berliner Justiz",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/it-stoerung-berliner-justiz-100.html"
+    },
+    {
       "title": "Straße von Hormus: Dritte Nacht in Folge US-Angriffe auf Iran",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-angriffe-hormus-100.html"
     },
     {
       "title": "Extreme Hochwasser in Deutschland: \"Häufig fehlt der Erfahrungsschatz\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/thomas-roggenkamp-hochwasserschutz-100.html"
+    },
+    {
+      "title": "Ermittlungen gegen Justizbedienstete in NRW und Rheinland-Pfalz",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/ermittlungen-justizbedienstete-nrw-100.html"
     },
     {
       "title": "Israel: Knesset verabschiedet umstrittenes \"Thora-Grundgesetz\"",
@@ -37,10 +69,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-162.html"
     },
     {
-      "title": "Massiver IT-Ausfall bei der Berliner Justiz",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/it-stoerung-berliner-justiz-100.html"
-    },
-    {
       "title": "Fünf Jahre nach der Ahrtal-Flut - welche Rolle spielt der Klimawandel?",
       "link": "https://www.tagesschau.de/wissen/klima/flut-ahrtal-klimawandel-100.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "Berlin-Wahl: Finanzsenator Evers ist neuer CDU-Spitzenkandidat",
       "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-stefan-evers-zum-neuen-spitzenkandidat-der-berliner-cdu-gewaehlt-102.html"
-    },
-    {
-      "title": "Pflegekosten: Eigenanteil für Pflege im Heim erneut gestiegen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/pflegekosten-gestiegen-100.html"
-    },
-    {
-      "title": "Fünfter Jahrestag der Ahrtal-Flut: Lernen aus der Katastrophe?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ahrtal-flut-aufarbeitung-100.html"
-    },
-    {
-      "title": "Japan: Wie einer Frau der Ausstieg aus der Yakuza gelang",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-yakuza-aussteigerin-102.html"
-    },
-    {
-      "title": "US-Bundesstaaten wollen Warner-Übernahme durch Paramount stoppen",
-      "link": "https://www.tagesschau.de/ausland/amerika/klage-warner-paramount-uebernahme-100.html"
-    },
-    {
-      "title": "Europäer schmieden Bündnis für Raketenabwehr",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-buendnisraketenabwehr-europa-100.html"
-    },
-    {
-      "title": "7.000 Hektar verbrannt und 13 Tote bei Waldbrand in Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-andalusien-feuer-100.html"
-    },
-    {
-      "title": "US-Präsident Trump kündigt neue Seeblockade gegen Iran an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-trump-seeblockade-100.html"
     }
   ]
 }
