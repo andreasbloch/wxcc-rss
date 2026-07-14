@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Pflegekosten: Eigenanteil für Pflege im Heim erneut gestiegen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pflegekosten-gestiegen-100.html"
+    },
+    {
+      "title": "Marktbericht: Hält sich der DAX über 25.000 Punkten?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-162.html"
+    },
+    {
+      "title": "Fünfter Jahrestag der Ahrtal-Flut: Lernen aus der Katastrophe?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ahrtal-flut-aufarbeitung-100.html"
+    },
+    {
+      "title": "Anträge auf Kriegsdienstverweigerung laut Bericht deutlich gestiegen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kriegsdienstverweigerung-anstieg-100.html"
+    },
+    {
       "title": "Straße von Hormus: Dritte Nacht in Folge US-Angriffe auf Iran",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-angriffe-hormus-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Mordfall Widdecombe: Terrorabwehr übernimmt Ermittlungen",
       "link": "https://www.tagesschau.de/ausland/europa/widdecombe-mordfall-terror-100.html"
-    },
-    {
-      "title": "Mehr als 35 Grad: Europa ächzt unter der nächsten Hitzewelle",
-      "link": "https://www.tagesschau.de/ausland/europa/hitzewelle-europa-deutschland-100.html"
-    },
-    {
-      "title": "Krieg im Nahen Osten: Angriff auf Flughafen Sanaa im Jemen",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-jemen-angriff-sanaa-flughafen-100.html"
-    },
-    {
-      "title": "Prien will Unterhaltsvorschuss kürzen - Widerstand wächst",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/unterhalt-vorschuss-kuerzung-kritik-100.html"
-    },
-    {
-      "title": "EU-Experten empfehlen Zugangsbeschränkungen für Social Media",
-      "link": "https://www.tagesschau.de/ausland/europa/social-media-altersgrenze-100.html"
     }
   ]
 }
