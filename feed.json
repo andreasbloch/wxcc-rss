@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "2:0-Sieg gegen Frankreich: Spanien erreicht WM-Finale",
+      "link": "https://www.tagesschau.de/sport/fussball-wm-halbfinale-spanien-sieg-100.html"
+    },
+    {
       "title": "Lage am Persischen Golf: \"Kein Krieg, aber auch kein Frieden\"",
       "link": "https://www.tagesschau.de/ausland/asien/nahost-konflikt-lage-golf-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Massiver IT-Ausfall bei der Berliner Justiz",
       "link": "https://www.tagesschau.de/inland/regional/berlin/it-stoerung-berliner-justiz-100.html"
-    },
-    {
-      "title": "Straße von Hormus: Dritte Nacht in Folge US-Angriffe auf Iran",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-angriffe-hormus-100.html"
     }
   ]
 }
