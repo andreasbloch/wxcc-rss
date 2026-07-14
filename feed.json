@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Mehr als 50 Millionen US-Dollar: Rekord für T-Rex bei Auktion in New York",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-rekord-versteigerung-dinosaurier-gus-100.html"
+    },
+    {
+      "title": "Mehrere Tote bei Gebäudebrand in Brüsseler Innenstadt",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-gebaeudebrand-bruessel-100.html"
+    },
+    {
       "title": "Warum die Bundesregierung die Tabaksteuer stärker erhöhen will",
       "link": "https://www.tagesschau.de/inland/gesellschaft/bundeshaushalt-tabaksteuer-rauchen-wird-teurer-100.html"
     },
     {
       "title": "München schränkt Wassernutzung stark ein",
       "link": "https://www.tagesschau.de/inland/regional/bayern/muenchen-verhaengt-wasserverbote-100.html"
-    },
-    {
-      "title": "Mehrere Tote bei Gebäudebrand in Brüsseler Innenstadt",
-      "link": "https://www.tagesschau.de/ausland/europa/belgien-gebaeudebrand-bruessel-100.html"
     },
     {
       "title": "China-Politik: Wie Deutschland seine Industrie schützen will",
@@ -75,10 +79,6 @@
     {
       "title": "Nach schwerem Hagel im Norden: DWD warnt vor weiteren Unwettern",
       "link": "https://www.tagesschau.de/inland/unwetter-hagel-norddeutschland-aussichten-100.html"
-    },
-    {
-      "title": "Nahrungsergänzungsmittel LaVita erhält Negativpreis",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/negativpreis-goldener-windbeutel-fruchtsaft-100.html"
     }
   ]
 }
