@@ -1,8 +1,28 @@
 {
   "items": [
     {
+      "title": "Abstimmung in Abgeordnetenkammer:  Schlappe für Italiens Ministerpräsidentin Meloni",
+      "link": "https://www.tagesschau.de/ausland/europa/meloni-wahlrecht-italien-100.html"
+    },
+    {
+      "title": "Produktion in der größten Diamantenmine Südafrikas wird gestoppt",
+      "link": "https://www.tagesschau.de/ausland/afrika/diamanten-krise-suedafrika-100.html"
+    },
+    {
+      "title": "\"Offline Clubs\": Wenn Menschen bezahlen, um gemeinsam das Handy auszuschalten",
+      "link": "https://www.tagesschau.de/kultur/offline-clubs-100.html"
+    },
+    {
       "title": "US-Seeblockade wieder in Kraft - Angriffe auf Iran gehen weiter",
       "link": "https://www.tagesschau.de/ausland/neue-angriffswelle-iran-100.html"
+    },
+    {
+      "title": "Abstimmung in Nationalversammlung: Frankreich will Sterbehilfe ermöglichen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-sterbehilfe-106.html"
+    },
+    {
+      "title": "74-jähriger Mann in Florida hingerichtet - nach 40 Jahren Haft",
+      "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-74-jaehriger-florida-100.html"
     },
     {
       "title": "2:0-Sieg gegen Frankreich: Spanien erreicht WM-Finale",
@@ -59,26 +79,6 @@
     {
       "title": "Angriff an Gymnasium in Schongau: Hinweise auf extremistisches Motiv",
       "link": "https://www.tagesschau.de/inland/messerangriff-schongau-gymnasium-extremismus-verdacht-100.html"
-    },
-    {
-      "title": "Frankreich setzt mit Militärparade Zeichen für Ukraine-Unterstützung",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-nationalfeiertag-macron-100.html"
-    },
-    {
-      "title": "Ukraine greift Ölproduktion an, Russland ein Schiff",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-russland-104.html"
-    },
-    {
-      "title": "\"Koalition der Willigen\": Tusk kündigt gemeinsames Manöver in Polen an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-der-willigen-manoever-100.html"
-    },
-    {
-      "title": "Großbritannien: Die morschen Mauern von Westminster",
-      "link": "https://www.tagesschau.de/ausland/europa/westminster-renovierung-100.html"
-    },
-    {
-      "title": "Marktbericht: Trump treibt die Ölpreise wieder nach oben",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-usa-iran-oelpreis-hormus-100.html"
     }
   ]
 }
