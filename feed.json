@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX rutscht knapp unter 25.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-berichtssaison-100.html"
+    },
+    {
+      "title": "Entlastungskabinett: Erste Schritte auf dem Weg zu weniger Bürokratie",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungskabinett-100.html"
+    },
+    {
+      "title": "Gesunder Lebensstil verringert laut WHO auch Demenzrisiko",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/demenz-gesunderlebensstil-studie-100.html"
+    },
+    {
+      "title": "Irritation und Kritik nach AfD-Veranstaltung in Dessau-Roßlau",
+      "link": "https://www.tagesschau.de/inland/afd-wahlkampfauftritt-100.html"
+    },
+    {
       "title": "Israel: Oberstes Gericht kassiert vorerst Sonderrechte für Ultraorthodoxe",
       "link": "https://www.tagesschau.de/ausland/asien/israel-gerichtshof-ultraorthodoxe-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Großbritannien plant nächtliche Social-Media-Sperre für Jugendliche",
       "link": "https://www.tagesschau.de/ausland/grossbritannien-social-media-100.html"
-    },
-    {
-      "title": "Liebich von Tschechien nach Deutschland gebracht",
-      "link": "https://www.tagesschau.de/inland/liebich-auslieferung-108.html"
-    },
-    {
-      "title": "Gründe für Überschuldung: Krankheit vor Arbeitslosigkeit",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gruende-schulden-deutsche-100.html"
-    },
-    {
-      "title": "Hilfsorganisation verteilt übrig gebliebenes WM-Essen an Bedürftige",
-      "link": "https://www.tagesschau.de/ausland/amerika/wm-gerettetes-essen-beduerftige-100.html"
-    },
-    {
-      "title": "Chinas Wirtschaft wächst so langsam wie seit Ende 2022 nicht",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-wirtschaftswachstum-langsamer-100.html"
     }
   ]
 }
