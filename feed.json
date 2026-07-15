@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Fußball-Weltmeisterschaft: Argentinien zieht mit 2:1 gegen England ins Finale",
+      "link": "https://www.tagesschau.de/sport/wm-argentinien-england-100.html"
+    },
+    {
+      "title": "US-Militär verkündet Start neuer Angriffswelle auf Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/us-angriffe-iran-100.html"
+    },
+    {
       "title": "Frankreich erlaubt Sterbehilfe für Schwerkranke unter Auflagen",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-sterbehilfe-108.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "EU will Schutz für wehrfähige Ukrainer einschränken",
       "link": "https://www.tagesschau.de/ausland/europa/eu-rat-schutz-ukrainer-100.html"
-    },
-    {
-      "title": "Sommerpressekonferenz des Kanzlers: \"Die Koalition hat Tritt gefasst\"",
-      "link": "https://www.tagesschau.de/inland/merz-pk-108.html"
-    },
-    {
-      "title": "\"Entlastungskabinett\" beschließt Maßnahmen zum Bürokratieabbau",
-      "link": "https://www.tagesschau.de/inland/regierung-buerokratie-abbau-100.html"
     }
   ]
 }
