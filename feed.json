@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Frankreich erlaubt Sterbehilfe für Schwerkranke unter Auflagen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-sterbehilfe-108.html"
+    },
+    {
       "title": "Journalist Can Dündar: \"Fast alle haben Erdoğan satt\"",
       "link": "https://www.tagesschau.de/kultur/interview-can-duendar-100.html"
     },
@@ -13,7 +17,7 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-sommer-pressekonferenz-108.html"
     },
     {
-      "title": "Was unternimmt das russische Militär im Grenzgebiet zu Finnland?",
+      "title": "Was macht Putins Militär im Grenzgebiet zu Finnland?",
       "link": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "\"Entlastungskabinett\" beschließt Maßnahmen zum Bürokratieabbau",
       "link": "https://www.tagesschau.de/inland/regierung-buerokratie-abbau-100.html"
-    },
-    {
-      "title": "Was beim Unterhaltsvorschuss geplant ist - und wen das betrifft",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/unterhaltsvorschuss-prien-kritik-100.html"
     }
   ]
 }
