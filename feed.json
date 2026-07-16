@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "AfD-Spitze fordert Ende von NRW-Landesparteitag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-106.html"
+    },
+    {
+      "title": "Wieder fremdenfeindliche Proteste in Südafrika - aus dem Ausland gesteuert? -",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-fremdenfeindliche-proteste-100.html"
+    },
+    {
       "title": "Ukraine: Was die Ablösung von Verteidigungsminister Fedorow bedeutet",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-fedorow-ruecktritt-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "USA verhängen 25 Prozent Zoll auf viele Importe aus Brasilien",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zoelle-usa-brasilien-100.html"
-    },
-    {
-      "title": "Spahn als Vater - Diskussion über Leihmutterschaft",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/leihmutterschaft-spahn-cdu-100.html"
-    },
-    {
-      "title": "Chipfertiger TSMC mit fünftem Rekord-Quartal in Folge",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/thema-des-tages-tsmc-chipbranche-100.html"
     }
   ]
 }
