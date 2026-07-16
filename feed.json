@@ -1,12 +1,28 @@
 {
   "items": [
     {
-      "title": "Brückeneinsturz in Genua: Top-Manager zu zwölf Jahren Haft verurteilt",
-      "link": "https://www.tagesschau.de/ausland/europa/genua-urteil-100.html"
-    },
-    {
       "title": "Ukraine: Was die Ablösung von Verteidigungsminister Fedorow bedeutet",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-fedorow-ruecktritt-100.html"
+    },
+    {
+      "title": "Kassenreform: Was bedeuten die Kürzungen für Psychotherapien?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/psychotherapie-gkv-reform-100.html"
+    },
+    {
+      "title": "BGH-Urteil: Fitnessstudio muss einfache Online-Kündigung anbieten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-kuendigungen-fitnesstudios-100.html"
+    },
+    {
+      "title": "Bundesregierung: Ostdeutsche haben seltener Spitzenämter",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/westdeutschland-ostdeutschland-luecke-100.html"
+    },
+    {
+      "title": "EuGH: FIFA-Regeln könnten gegen Kartellrecht verstoßen",
+      "link": "https://www.tagesschau.de/ausland/europa/eugh-fifa-spielevermittler-100.html"
+    },
+    {
+      "title": "Brückeneinsturz in Genua: Top-Manager zu zwölf Jahren Haft verurteilt",
+      "link": "https://www.tagesschau.de/ausland/europa/genua-urteil-100.html"
     },
     {
       "title": "Studie: Wie ein Virus Multiple Sklerose mitauslösen kann",
@@ -63,22 +79,6 @@
     {
       "title": "Nach Geschichtsstreit: Polnische Kommune ringt um Ukraine-Hilfe",
       "link": "https://www.tagesschau.de/ausland/europa/polen-ukraine-114.html"
-    },
-    {
-      "title": "UN befürchten mehr als 500 Tote bei Bootsunglücken vor Myanmar",
-      "link": "https://www.tagesschau.de/ausland/asien/myanmar-bootsunfall-tote-100.html"
-    },
-    {
-      "title": "Immer mehr tödliche Unfälle mit E-Scootern",
-      "link": "https://www.tagesschau.de/inland/e-scooter-unfaelle-statistik-2025-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX pendelt um 25.000 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-berichtssaison-100.html"
-    },
-    {
-      "title": "Elektroautos legen bei Neuzulassungen deutlich zu",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/elektro-autos-erstes-halbjahr-100.html"
     }
   ]
 }
