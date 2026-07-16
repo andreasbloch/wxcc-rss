@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Ukrainischer Verteidigungsminister Fedorow tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-verteidigungsminister-fedorow-ruecktritt-100.html"
+    },
+    {
+      "title": "Deutsch-Französischer Ministerrat: Schadensbegrenzung nach FCAS-Bruchlandung",
+      "link": "https://www.tagesschau.de/inland/ministerrat-macron-merz-facs-100.html"
+    },
+    {
+      "title": "Russland feuert Raketen auf Kiew ab",
+      "link": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html"
+    },
+    {
+      "title": "US-Wirtschaft läuft robust - noch",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/us-banken-bilanzen-konjunktur-100.html"
+    },
+    {
+      "title": "Waldbrände in Kanada: Toronto hat derzeit schlechteste Luftqualität weltweit",
+      "link": "https://www.tagesschau.de/ausland/amerika/toronto-luftqualitaet-waldbraende-100.html"
+    },
+    {
+      "title": "Nach Geschichtsstreit: Polnische Kommune ringt um Ukraine-Hilfe",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-ukraine-114.html"
+    },
+    {
+      "title": "UN befürchten mehr als 500 Tote bei Bootsunglücken vor Myanmar",
+      "link": "https://www.tagesschau.de/ausland/asien/myanmar-bootsunfall-tote-100.html"
+    },
+    {
+      "title": "Immer mehr tödliche Unfälle mit E-Scootern",
+      "link": "https://www.tagesschau.de/inland/e-scooter-unfaelle-statistik-2025-100.html"
+    },
+    {
       "title": "Marktbericht: DAX pendelt um 25.000 Punkte",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-berichtssaison-100.html"
     },
@@ -13,20 +45,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/elektro-autos-erstes-halbjahr-100.html"
     },
     {
-      "title": "Neuer Unterhaltsvorschuss soll im Juli in die Regierungsabstimmung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-regierungsabstimmung-100.html"
-    },
-    {
       "title": "EU-Kommissar Brunner fordert Ende deutscher Grenzkontrollen",
       "link": "https://www.tagesschau.de/inland/grenzkontrollen-deutschland-kritik-urlaub-stau-100.html"
     },
     {
       "title": "Trump genehmigt wieder umstrittene ICE-Kontrollen",
       "link": "https://www.tagesschau.de/ausland/amerika/ice-trump-verkehrskontrollen-100.html"
-    },
-    {
-      "title": "Russland feuert Raketen auf Kiew ab",
-      "link": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html"
     },
     {
       "title": "Vance räumt Fehler bei Veröffentlichung von Epstein-Akten ein",
@@ -55,30 +79,6 @@
     {
       "title": "Ebola breitet sich in Demokratischer Republik Kongo aus",
       "link": "https://www.tagesschau.de/ausland/afrika/ebola-breitet-sich-weiter-aus-100.html"
-    },
-    {
-      "title": "Zahl der Opfer in Venezuela weiter gestiegen - EU stellt Mittel bereit",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-totenzahlen-100.html"
-    },
-    {
-      "title": "Fußball-Weltmeisterschaft: Argentinien zieht mit 2:1 gegen England ins Finale",
-      "link": "https://www.tagesschau.de/sport/wm-argentinien-england-100.html"
-    },
-    {
-      "title": "Frankreich erlaubt Sterbehilfe für Schwerkranke unter Auflagen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-sterbehilfe-108.html"
-    },
-    {
-      "title": "Journalist Can Dündar: \"Fast alle haben Erdoğan satt\"",
-      "link": "https://www.tagesschau.de/kultur/interview-can-duendar-100.html"
-    },
-    {
-      "title": "Weiter Grenzkontrollen zwischen Deutschland und Österreich",
-      "link": "https://www.tagesschau.de/inland/grenzkontrollen-deutschland-oesterreich-100.html"
-    },
-    {
-      "title": "Bundeskanzler Merz: Sommerbilanz mit angezogener Handbremse",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-sommer-pressekonferenz-108.html"
     }
   ]
 }
