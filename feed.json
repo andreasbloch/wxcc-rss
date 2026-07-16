@@ -1,16 +1,36 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX pendelt um 25.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-berichtssaison-100.html"
+    },
+    {
+      "title": "Milliardensumme: Uber übernimmt Lieferdienst Delivery Hero",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-delivery-hero-uber-100.html"
+    },
+    {
+      "title": "Elektroautos legen bei Neuzulassungen deutlich zu",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/elektro-autos-erstes-halbjahr-100.html"
+    },
+    {
+      "title": "Neuer Unterhaltsvorschuss soll im Juli in die Regierungsabstimmung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-regierungsabstimmung-100.html"
+    },
+    {
+      "title": "EU-Kommissar Brunner fordert Ende deutscher Grenzkontrollen",
+      "link": "https://www.tagesschau.de/inland/grenzkontrollen-deutschland-kritik-urlaub-stau-100.html"
+    },
+    {
+      "title": "Trump genehmigt wieder umstrittene ICE-Kontrollen",
+      "link": "https://www.tagesschau.de/ausland/amerika/ice-trump-verkehrskontrollen-100.html"
+    },
+    {
       "title": "Russland feuert Raketen auf Kiew ab",
       "link": "https://www.tagesschau.de/ausland/europa/raketen-auf-kiew-100.html"
     },
     {
       "title": "Vance räumt Fehler bei Veröffentlichung von Epstein-Akten ein",
       "link": "https://www.tagesschau.de/ausland/amerika/vance-raeumt-fehler-bei-kommunikation-ein-epstein-100.html"
-    },
-    {
-      "title": "Marktbericht: Nervosität vor TSMC-Zahlen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-berichtssaison-100.html"
     },
     {
       "title": "Wie Straßen hitzefest werden können",
@@ -59,26 +79,6 @@
     {
       "title": "Bundeskanzler Merz: Sommerbilanz mit angezogener Handbremse",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-sommer-pressekonferenz-108.html"
-    },
-    {
-      "title": "Was macht Putins Militär im Grenzgebiet zu Finnland?",
-      "link": "https://www.tagesschau.de/ausland/europa/situation-grenze-russland-finnland-100.html"
-    },
-    {
-      "title": "Entlastungskabinett: Erste Schritte auf dem Weg zu weniger Bürokratie",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungskabinett-100.html"
-    },
-    {
-      "title": "Gesunder Lebensstil verringert laut WHO auch Demenzrisiko",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/demenz-gesunderlebensstil-studie-100.html"
-    },
-    {
-      "title": "Irritation und Kritik nach AfD-Veranstaltung in Dessau-Roßlau",
-      "link": "https://www.tagesschau.de/inland/afd-wahlkampfauftritt-100.html"
-    },
-    {
-      "title": "Israel: Oberstes Gericht kassiert vorerst Sonderrechte für Ultraorthodoxe",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gerichtshof-ultraorthodoxe-100.html"
     }
   ]
 }
