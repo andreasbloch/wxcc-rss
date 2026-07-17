@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Netflix nutzt KI in rund 300 Filmen und Serien",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-einsatz-kuenstliche-intelligenz-100.html"
+    },
+    {
+      "title": "Andy Burnham wird Labour-Chef: Zwischen Hoffen und Zweifeln",
+      "link": "https://www.tagesschau.de/ausland/europa/andy-burnham-labour-manchester-100.html"
+    },
+    {
+      "title": "Trump will Social-Media-Beiträge auf Truth Social zu Geld machen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-truth-social-104.html"
+    },
+    {
+      "title": "Marktbericht: Tech-Ausverkauf schickt Börsen auf Talfahrt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-394.html"
+    },
+    {
       "title": "Krankenkassen verlieren durch Fehlinvestitionen mindestens 170 Millionen Euro",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/krankenkassen-immobilienfonds-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Brücken-Einsturz in Genua: Gemischte Gefühle nach Urteil gegen Top-Manager",
       "link": "https://www.tagesschau.de/ausland/europa/italien-genua-brueckeneinsturz-urteil-100.html"
-    },
-    {
-      "title": "Kassenreform: Was bedeuten die Kürzungen für Psychotherapien?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/psychotherapie-gkv-reform-100.html"
-    },
-    {
-      "title": "BGH-Urteil: Fitnessstudio muss einfache Online-Kündigung anbieten",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-kuendigungen-fitnesstudios-100.html"
-    },
-    {
-      "title": "Bundesregierung: Ostdeutsche haben seltener Spitzenämter",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/westdeutschland-ostdeutschland-luecke-100.html"
-    },
-    {
-      "title": "EuGH äußert Zweifel an FIFA-Regeln zu Spielerberatern",
-      "link": "https://www.tagesschau.de/ausland/europa/eugh-fifa-spielevermittler-100.html"
     }
   ]
 }
