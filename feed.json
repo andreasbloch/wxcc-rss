@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Iranische Medien: USA greifen Brücken und Flughafen an",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-104.html"
+    },
+    {
+      "title": "Warken rechnet mit 650 Millionen Euro Einnahmen aus Zuckersteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-warken-100.html"
+    },
+    {
       "title": "AfD-Spitze fordert Ende von NRW-Landesparteitag",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-106.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Milliardensumme: Uber übernimmt Lieferdienst Delivery Hero",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-delivery-hero-uber-100.html"
-    },
-    {
-      "title": "Klingbeil will Straffreiheit nach Selbstanzeige abschaffen",
-      "link": "https://www.tagesschau.de/inland/steuerbetrug-massnahmenkatalog-klingbeil-hubig-100.html"
-    },
-    {
-      "title": "USA verhängen 25 Prozent Zoll auf viele Importe aus Brasilien",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zoelle-usa-brasilien-100.html"
     }
   ]
 }
