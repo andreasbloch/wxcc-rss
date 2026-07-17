@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Regierungswechsel in London: Andy Burnham wird Labour-Chef",
+      "link": "https://www.tagesschau.de/ausland/europa/england-burnham-wird-neuer-labour-chef-100.html"
+    },
+    {
+      "title": "Mögliche Übernahme: Warum es bei PayPal kriselt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paypal-stripe-advent-uebernahme-100.html"
+    },
+    {
+      "title": "Danger Dan und Igor Levit: Ärger um abgesagten ZDF-Auftritt",
+      "link": "https://www.tagesschau.de/kultur/faq-zdf-streit-auftritt-danger-dan-igor-levit-100.html"
+    },
+    {
+      "title": "EU-Kommission will Emissionshandel aufweichen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/emissionshandel-klimaschutz-100.html"
+    },
+    {
+      "title": "Nordrhein-Westfalen: AfD bricht Parteitag in Marl nicht ab",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/nrw-afd-parteitag-kein-abbruch-trotz-streit-100.html"
+    },
+    {
+      "title": "100.000 Jobs, vier Werke: VW-Streit eskaliert zur Sommerpause",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-volkswagen-zukunft-100.html"
+    },
+    {
       "title": "Kommentar zu Leihmutterschaft: Spahn schadet dem Vertrauen in den Rechtsstaat",
       "link": "https://www.tagesschau.de/kommentar/jens-spahn-leihmutterschaft-102.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Trump will Social-Media-Beiträge auf Truth Social zu Geld machen",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-truth-social-104.html"
-    },
-    {
-      "title": "Krankenkassen verlieren durch Fehlinvestitionen mindestens 170 Millionen Euro",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/krankenkassen-immobilienfonds-100.html"
-    },
-    {
-      "title": "Wegovy-Tablette: Was die neue Abnehmpille kann",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/adipositas-pille-wegovy-zulassung-100.html"
-    },
-    {
-      "title": "Vor Kongresswahlen: Trump wirft China Diebstahl von Wahldaten vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-an-die-nation-104.html"
-    },
-    {
-      "title": "Deutsch-französisches Treffen im Rheinland: Große Kulisse, viele Probleme",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-frankreich-treffen-100.html"
-    },
-    {
-      "title": "Warken rechnet mit 650 Millionen Euro Einnahmen aus Zuckersteuer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-warken-100.html"
-    },
-    {
-      "title": "AfD-Spitze fordert Ende von NRW-Landesparteitag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-106.html"
     }
   ]
 }
