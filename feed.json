@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Debatte um Leihmutterschaft: Grüne fordern Erklärung von Spahn",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jens-spahn-leihmutterschaft-100.html"
+    },
+    {
+      "title": "Marktbericht: Schwache Tech-Vorgaben ziehen DAX nach unten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-394.html"
+    },
+    {
+      "title": "BerlinTrend: CDU legt mit neuem Spitzenkandidaten zu",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlintrend-cdu-legt-nach-spitzenkandidat-wechsel-zu-linke-fuehrt-umfrage-an-100.html"
+    },
+    {
+      "title": "Falkland-Banner: Nach Halbfinal-Sieg droht Argentinien Ärger",
+      "link": "https://www.tagesschau.de/ausland/amerika/falkland-banner-wm-halbfinale-argentinien-england-100.html"
+    },
+    {
+      "title": "Putin-Kritiker Nadeschdin vor Gericht",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-nadeschdin-gericht-100.html"
+    },
+    {
       "title": "Netflix nutzt KI in rund 300 Filmen und Serien",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-einsatz-kuenstliche-intelligenz-100.html"
     },
@@ -11,10 +31,6 @@
     {
       "title": "Trump will Social-Media-Beiträge auf Truth Social zu Geld machen",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-truth-social-104.html"
-    },
-    {
-      "title": "Marktbericht: Tech-Ausverkauf schickt Börsen auf Talfahrt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-394.html"
     },
     {
       "title": "Krankenkassen verlieren durch Fehlinvestitionen mindestens 170 Millionen Euro",
@@ -63,22 +79,6 @@
     {
       "title": "Iran-Krieg: Golfstaaten fürchten neue Eskalation",
       "link": "https://www.tagesschau.de/ausland/asien/doha-130.html"
-    },
-    {
-      "title": "Marktbericht: DAX kann Verluste eindämmen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-berichtssaison-100.html"
-    },
-    {
-      "title": "Wadephul an der NATO-Nordflanke: Alles, nur kein Alarmismus",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wadephul-norwegen-finnland-100.html"
-    },
-    {
-      "title": "US-Spritpreise: Wird die Wahl an der Zapfsäule entschieden?",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-benzin-tanken-100.html"
-    },
-    {
-      "title": "Brücken-Einsturz in Genua: Gemischte Gefühle nach Urteil gegen Top-Manager",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-genua-brueckeneinsturz-urteil-100.html"
     }
   ]
 }
