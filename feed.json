@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Tech-Schwäche zieht DAX nach unten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-394.html"
+    },
+    {
+      "title": "Jens Spahn (CDU) verteidigt Leihmutterschaft gegen Kritik",
+      "link": "https://www.tagesschau.de/inland/spahn-cdu-leihmutterschaft-reaktionen-100.html"
+    },
+    {
+      "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
+      "link": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html"
+    },
+    {
       "title": "Israels Parlament löst sich auf - Wahlkampf beginnt",
       "link": "https://www.tagesschau.de/ausland/asien/knesset-israel-106.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Kommentar zu Leihmutterschaft: Spahn schadet dem Vertrauen in den Rechtsstaat",
       "link": "https://www.tagesschau.de/kommentar/jens-spahn-leihmutterschaft-102.html"
-    },
-    {
-      "title": "BGH-Urteil: Eigentümer haben Anspruch auf Klimaanlage am Balkon",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaanlagen-balkon-wohnungseigentuemer-100.html"
-    },
-    {
-      "title": "SpaceX bricht \"Starship\"-Testflug kur vor dem Start ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-spacex-testflug-abbruch-musk-100.html"
-    },
-    {
-      "title": "Schifffahrt, Energieversorgung und Umwelt leiden unter Niedrigwasser",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/schifffahrt-niedrigwasser-100.html"
     }
   ]
 }
