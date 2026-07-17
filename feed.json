@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Krankenkassen verlieren durch Fehlinvestitionen mindestens 170 Millionen Euro",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/krankenkassen-immobilienfonds-100.html"
+    },
+    {
+      "title": "Wegovy-Tablette: Was die neue Abnehmpille kann",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/adipositas-pille-wegovy-zulassung-100.html"
+    },
+    {
+      "title": "Vor Kongresswahlen: Trump wirft China Diebstahl von Wahldaten vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-rede-an-die-nation-104.html"
+    },
+    {
+      "title": "Deutsch-französisches Treffen im Rheinland: Große Kulisse, viele Probleme",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-frankreich-treffen-100.html"
+    },
+    {
       "title": "Iranische Medien: USA greifen Brücken und Flughafen an",
       "link": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-104.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "EuGH äußert Zweifel an FIFA-Regeln zu Spielerberatern",
       "link": "https://www.tagesschau.de/ausland/europa/eugh-fifa-spielevermittler-100.html"
-    },
-    {
-      "title": "Brückeneinsturz in Genua: Top-Manager zu zwölf Jahren Haft verurteilt",
-      "link": "https://www.tagesschau.de/ausland/europa/genua-urteil-100.html"
-    },
-    {
-      "title": "Studie: Wie ein Virus Multiple Sklerose mitauslösen kann",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/multiple-sklerose-virus-100.html"
-    },
-    {
-      "title": "Bär plant Weltraumgesetz und Astronauten-Programm für Jugendliche",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/baer-weltraumgesetz-astronauten-programm-100.html"
-    },
-    {
-      "title": "Milliardensumme: Uber übernimmt Lieferdienst Delivery Hero",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-delivery-hero-uber-100.html"
     }
   ]
 }
