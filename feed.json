@@ -1,16 +1,24 @@
 {
   "items": [
     {
+      "title": "Künstliche Intelligenz: Verdrängen KI-Bands echte Musiker?",
+      "link": "https://www.tagesschau.de/kultur/kuenstliche-intelligenz-musik-bands-100.html"
+    },
+    {
+      "title": "Reaktionen auf den Rücktritt von Jens Spahn als Unionsfraktionsvorsitzenden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-spahn-ruecktritt-100.html"
+    },
+    {
+      "title": "Politikwissenschaftler zu Spahn: \"Spahn hat das Thema unterschätzt\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/interview-oliver-lembcke-100.html"
+    },
+    {
       "title": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
       "link": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html"
     },
     {
       "title": "Mehrere potenzielle Kandidaten für den Vorsitz der Unionsfraktion",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-nachfolger-unionsfraktion-100.html"
-    },
-    {
-      "title": "Reaktionen auf den Rücktritt von Jens Spahn als Unionsfraktionsvorsitzenden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-spahn-ruecktritt-100.html"
     },
     {
       "title": "Regierung plant Bürokratie-Abbau: Betriebe bleiben skeptisch",
@@ -71,14 +79,6 @@
     {
       "title": "Tote und Verletzte nach Erdrutsch im Westen Chinas",
       "link": "https://www.tagesschau.de/ausland/asien/china-erdrutsch-130.html"
-    },
-    {
-      "title": "Nach Entlassung von Minister Fedorow: Erneut Proteste in Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-proteste-entlassung-fedorow-100.html"
-    },
-    {
-      "title": "USA und Iran: Rechtswidriger Krieg - aber zulässige Seeblockade?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-blockade-maut-angriffe-recht-100.html"
     }
   ]
 }
