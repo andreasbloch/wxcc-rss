@@ -1,16 +1,20 @@
 {
   "items": [
     {
-      "title": "Nach dem Rücktritt von Spahn stellt sich die Frage nach dem Nachfolger",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-104.html"
-    },
-    {
       "title": "Debatte um Leihmutterschaft: Unions-Fraktionschef Spahn tritt zurück",
       "link": "https://www.tagesschau.de/inland/innenpolitik/jens-spahn-ruecktritt-100.html"
     },
     {
       "title": "Nordrhein-Westfalen: AfD bricht Parteitag in Marl nicht ab",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/nrw-afd-parteitag-kein-abbruch-trotz-streit-100.html"
+    },
+    {
+      "title": "Ehrgeiz und Wille zur Macht: Spahns politische Karriere",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-spahn-102.html"
+    },
+    {
+      "title": "Nach dem Rücktritt von Spahn stellt sich die Frage nach dem Nachfolger",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-104.html"
     },
     {
       "title": "Polens Präsident Nawrocki: Mit Vetos macht er Tusk das Regieren schwer",
@@ -75,10 +79,6 @@
     {
       "title": "Marktbericht: Tech-Schwäche zieht DAX nach unten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-394.html"
-    },
-    {
-      "title": "Deutsch-französischer Gipfel: Mehr Zusammenarbeit in der Rüstung",
-      "link": "https://www.tagesschau.de/ausland/europa/deutschland-frankreich-gipfel-bruehl-100.html"
     }
   ]
 }
