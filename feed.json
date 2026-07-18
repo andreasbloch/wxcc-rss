@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Mehrere potenzielle Kandidaten für den Vorsitz der Unionsfraktion",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-nachfolger-unionsfraktion-100.html"
+    },
+    {
       "title": "Reaktionen auf den Rücktritt von Jens Spahn als Unionsfraktionsvorsitzenden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-spahn-ruecktritt-100.html"
     },
@@ -13,8 +17,8 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/jens-spahn-ruecktritt-100.html"
     },
     {
-      "title": "Nordrhein-Westfalen: AfD bricht Parteitag in Marl nicht ab",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/nrw-afd-parteitag-kein-abbruch-trotz-streit-100.html"
+      "title": "NRW-AfD beendet turbulente Listenaufstellung - Machtkampf im Landesverband",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-parteitag-nrw-100.html"
     },
     {
       "title": "Ehrgeiz und Wille zur Macht: Spahns politische Karriere",
@@ -75,10 +79,6 @@
     {
       "title": "USA und Iran: Rechtswidriger Krieg - aber zulässige Seeblockade?",
       "link": "https://www.tagesschau.de/ausland/asien/iran-blockade-maut-angriffe-recht-100.html"
-    },
-    {
-      "title": "Wie der Machtkampf in NRW die AfD unter Druck setzt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-streit-100.html"
     }
   ]
 }
