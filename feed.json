@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Das Sommerinterview mit Grünen-Chefin Brantner im Faktencheck",
+      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-brantner-100.html"
+    },
+    {
+      "title": "Bahn-Boom: Wie der Wettbewerb in Italien den Fernverkehr verändert",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/italo-fernverkehr-italien-100.html"
+    },
+    {
       "title": "Grünen-Chefin Brantner: \"Merz hat jetzt die Chance, sich zu befreien\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-brantner-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
       "link": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html"
-    },
-    {
-      "title": "Debatte über Leihmutterschaft: Was der Spahn-Rücktritt für die CDU bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-108.html"
-    },
-    {
-      "title": "Künstliche Intelligenz: Verdrängen KI-Bands echte Musiker?",
-      "link": "https://www.tagesschau.de/kultur/kuenstliche-intelligenz-musik-bands-100.html"
     }
   ]
 }
