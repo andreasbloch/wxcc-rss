@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Spanien ist Fußball-Weltmeister 2026",
+      "link": "https://www.tagesschau.de/sport/spanien-fussball-weltmeister-100.html"
+    },
+    {
       "title": "Mindestens fünf Tote nach Erdbeben im Zentrum Perus",
       "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Problemfall Generalsanierungen: Haben Bahn und Politik einen Plan?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bahn-sanierung-bundesregierung-100.html"
-    },
-    {
-      "title": "WM-Finale: Eine Halbzeitshow wie beim Super Bowl",
-      "link": "https://www.tagesschau.de/ausland/wm-halbzeitshow-106.html"
     }
   ]
 }
