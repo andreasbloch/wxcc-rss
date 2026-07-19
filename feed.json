@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Grünen-Chefin Brantner: \"Merz hat jetzt die Chance, sich zu befreien\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-brantner-100.html"
+    },
+    {
       "title": "Spanien: Großer Waldbrand bei Madrid außer Kontrolle",
       "link": "https://www.tagesschau.de/ausland/europa/spanien-waldbrand-madrid-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Künstliche Intelligenz: Verdrängen KI-Bands echte Musiker?",
       "link": "https://www.tagesschau.de/kultur/kuenstliche-intelligenz-musik-bands-100.html"
-    },
-    {
-      "title": "Reaktionen auf den Rücktritt von Jens Spahn als Unionsfraktionsvorsitzenden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-spahn-ruecktritt-100.html"
     }
   ]
 }
