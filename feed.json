@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Warum Pflegefachkraft in Australien ein Traumjob ist",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/pflege-australien-100.html"
+    },
+    {
       "title": "Spahn-Rücktritt: Merz erwägt Kabinettsumbau",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-leihmutterschaft-merz-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Mehrere potenzielle Kandidaten für den Vorsitz der Unionsfraktion",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-nachfolger-unionsfraktion-100.html"
-    },
-    {
-      "title": "Regierung plant Bürokratie-Abbau: Betriebe bleiben skeptisch",
-      "link": "https://www.tagesschau.de/wirtschaft/buerokratie-bremst-wirtschaft-regierung-plant-reform-100.html"
     }
   ]
 }
