@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Neue Angriffe zwischen USA und Iran",
+      "link": "https://www.tagesschau.de/ausland/nahost-lage-108.html"
+    },
+    {
+      "title": "WM-Finale: Eine Halbzeitshow wie beim Super Bowl",
+      "link": "https://www.tagesschau.de/ausland/wm-halbzeitshow-106.html"
+    },
+    {
+      "title": "Erneut massiver russischer Raketenangriff auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html"
+    },
+    {
       "title": "Ungarns Staatspräsident macht Weg zu eigener Absetzung frei",
       "link": "https://www.tagesschau.de/ausland/ungarn-praesident-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "USA und Iran melden neue gegenseitige Angriffe in der Golfregion",
       "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-usa-104.html"
-    },
-    {
-      "title": "Wie das Rätsel um einen Holocaust-Täter gelöst wurde",
-      "link": "https://www.tagesschau.de/inland/jakobus-onnen-holocaust-foto-100.html"
-    },
-    {
-      "title": "Waldbrände in Kanada: Trump droht mit Zöllen wegen Luftverschmutzung",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-kanada-waldbrand-trump-zoelle-100.html"
-    },
-    {
-      "title": "Innenminister Dobrindt warnt vor verschärfter Sicherheitslage",
-      "link": "https://www.tagesschau.de/inland/sicherheit-dobrindt-anschlagsgefahr-100.html"
     }
   ]
 }
