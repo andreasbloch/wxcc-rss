@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "USA verlegen offenbar weitere Kampfjets nach Nahost",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-100.html"
+    },
+    {
       "title": "Das Sommerinterview mit Grünen-Chefin Brantner im Faktencheck",
       "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-brantner-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Norwegische Inselgruppe: Lofoten erheben Abgabe gegen \"Overtourism\"",
       "link": "https://www.tagesschau.de/ausland/europa/tourismusabgabe-norwegen-100.html"
-    },
-    {
-      "title": "Rahmenabkommen: Iran setzt Vereinbarung mit USA aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/iran-usa-rahmenabkommen-ausgesetzt-100.html"
     }
   ]
 }
