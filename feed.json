@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Spahn-Rücktritt: Merz erwägt Kabinettsumbau",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-leihmutterschaft-merz-100.html"
+    },
+    {
+      "title": "Erneut massiver russischer Raketenangriff auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html"
+    },
+    {
+      "title": "Nach Studie: Was tut sich gegen Rassismus in Behörden?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/inra-studie-rassismus-behoerden-100.html"
+    },
+    {
       "title": "Abwesend in Brüssel: Wie oft deutsche Minister bei EU-Treffen fehlen",
       "link": "https://www.tagesschau.de/ausland/europa/ministerrat-abwesenheit-100.html"
     },
@@ -19,10 +31,6 @@
     {
       "title": "EU verbietet Vernichtung unverkaufter Kleidung - wie wirksam ist das?",
       "link": "https://www.tagesschau.de/wissen/klima/eu-verbot-kleidung-vernichtung-100.html"
-    },
-    {
-      "title": "Erneut massiver russischer Raketenangriff auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html"
     },
     {
       "title": "Führerschein für viele Menschen unbezahlbar",
@@ -71,14 +79,6 @@
     {
       "title": "Regierung plant Bürokratie-Abbau: Betriebe bleiben skeptisch",
       "link": "https://www.tagesschau.de/wirtschaft/buerokratie-bremst-wirtschaft-regierung-plant-reform-100.html"
-    },
-    {
-      "title": "Debatte um Leihmutterschaft: Unions-Fraktionschef Spahn tritt zurück",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/jens-spahn-ruecktritt-100.html"
-    },
-    {
-      "title": "NRW-AfD beendet turbulente Listenaufstellung - Machtkampf im Landesverband",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-parteitag-nrw-100.html"
     }
   ]
 }
