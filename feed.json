@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Spanien feiert seine Fußballweltmeister",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-fussball-nationalmannschaft-ankunft-100.html"
+    },
+    {
       "title": "Schachgroßmeisterin Polgar will nicht Ungarns Präsidentin werden",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesidentschaft-polgar-absage-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Neue Waldbrände in Südfrankreich ausgebrochen",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-100.html"
-    },
-    {
-      "title": "Burnham als neuer Premier: Was das Amt inzwischen so schwierig macht",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regierung-premier-burnham-100.html"
     }
   ]
 }
