@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Andy Burnham ist neuer Premierminister in Großbritannien",
+      "link": "https://www.tagesschau.de/ausland/europa/burnham-ernennung-premier-koenig-charles-100.html"
+    },
+    {
+      "title": "Proteste in Indien: \"Cockroach\"-Demo gegen Regierung in Neu-Delhi",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-cockroach-proteste-100.html"
+    },
+    {
+      "title": "Für Tech-Aktien schlägt die Stunde der Wahrheit",
+      "link": "https://www.tagesschau.de/wirtschaft/mb-mittag-dax-ki-berichtssaison-100.html"
+    },
+    {
+      "title": "Mann stirbt bei Polizeieinsatz in Bologna - Aufklärung gefordert",
+      "link": "https://www.tagesschau.de/ausland/europa/bologna-tod-marrokaner-100.html"
+    },
+    {
+      "title": "Neue Waldbrände in Südfrankreich ausgebrochen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-100.html"
+    },
+    {
+      "title": "Burnham als neuer Premier: Was das Amt inzwischen so schwierig macht",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regierung-premier-burnham-100.html"
+    },
+    {
+      "title": "Geringste Erdbeerernte seit 31 Jahren erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ernte-spargel-erdbeeren-100.html"
+    },
+    {
+      "title": "Elektroautos sind seit 2020 deutlich günstiger geworden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-preise-kaufpraemie-100.html"
+    },
+    {
       "title": "EU-Kommission verhängt 550-Millionen-Strafe gegen AliExpress",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-strafe-aliexpress-100.html"
     },
@@ -11,10 +43,6 @@
     {
       "title": "Spahn-Rücktritt: Merz erwägt Kabinettsumbau",
       "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-leihmutterschaft-merz-100.html"
-    },
-    {
-      "title": "Neue Waldbrände in Südfrankreich ausgebrochen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-100.html"
     },
     {
       "title": "IW Köln: Mieten in Deutschland deutlich gestiegen",
@@ -37,10 +65,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/spanien-reaktionen-sieg-wm-finale-100.html"
     },
     {
-      "title": "Burnham als neuer Premier: Was das Amt inzwischen so schwierig macht",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regierung-premier-burnham-100.html"
-    },
-    {
       "title": "Marktbericht: Schafft der DAX heute die Stabilisierung?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-396.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Was von dieser WM der Widersprüche bleibt",
       "link": "https://www.tagesschau.de/ausland/amerika/wm-bilanz-100.html"
-    },
-    {
-      "title": "Bäcker im Interview: \"Ein Beruf mit Zukunft\"",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/baeckereien-pleiten-interview-100.html"
-    },
-    {
-      "title": "Spanien ist Fußball-Weltmeister 2026",
-      "link": "https://www.tagesschau.de/sport/spanien-fussball-weltmeister-100.html"
-    },
-    {
-      "title": "Mindestens fünf Tote nach Erdbeben im Zentrum Perus",
-      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-100.html"
-    },
-    {
-      "title": "Eskalation zwischen USA und Iran: Wie geht es in der Golfregion weiter?",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-angriffe-102.html"
-    },
-    {
-      "title": "USA verlegen offenbar weitere Kampfjets nach Nahost",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-100.html"
-    },
-    {
-      "title": "Das Sommerinterview mit Grünen-Chefin Brantner im Faktencheck",
-      "link": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-brantner-100.html"
     }
   ]
 }
