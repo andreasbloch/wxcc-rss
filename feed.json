@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Gedenken an Hitler-Attentat im Bendlerblock - mit Zwischenfall",
+      "link": "https://www.tagesschau.de/inland/gedenken-bendlerblock-afd-kranz-100.html"
+    },
+    {
+      "title": "USA: Mexikanischer Drogenboss \"El Mayo\" zu lebenslanger Haft verurteilt",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-el-mayo-verurteilung-100.html"
+    },
+    {
+      "title": "Machtkampf: AfD-Bundesvorstand setzt Untersuchungskommission ein",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-machtkampf-kommission-100.html"
+    },
+    {
       "title": "Neuer Premier Burnham will Briten wieder Hoffnung geben",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-neuer-premier-burnham-100.html"
     },
@@ -15,10 +27,6 @@
     {
       "title": "Haftbefehl gegen Verdächtigen von Stade in der Türkei",
       "link": "https://www.tagesschau.de/inland/stade-tuerkei-haftbefehl-100.html"
-    },
-    {
-      "title": "Machtkampf: AfD-Bundesvorstand setzt Untersuchungskommission ein",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-machtkampf-kommission-100.html"
     },
     {
       "title": "Unionsfraktion: Abstimmung über Spahn-Nachfolge am 29. Juli",
@@ -71,14 +79,6 @@
     {
       "title": "Elektroautos sind seit 2020 deutlich günstiger geworden",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-preise-kaufpraemie-100.html"
-    },
-    {
-      "title": "Spahn-Rücktritt: Merz erwägt Kabinettsumbau",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-leihmutterschaft-merz-100.html"
-    },
-    {
-      "title": "IW Köln: Mieten in Deutschland deutlich gestiegen",
-      "link": "https://www.tagesschau.de/wirtschaft/mietpreise-anstieg-iw-100.html"
     }
   ]
 }
