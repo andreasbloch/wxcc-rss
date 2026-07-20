@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Großbritanniens neuer Premier Burnham bildet Kabinett um",
+      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-burnham-minister-100.html"
+    },
+    {
       "title": "Spanien feiert seine Fußballweltmeister",
       "link": "https://www.tagesschau.de/ausland/europa/spanien-fussball-nationalmannschaft-ankunft-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Mann stirbt bei Polizeieinsatz in Bologna - Aufklärung gefordert",
       "link": "https://www.tagesschau.de/ausland/europa/bologna-tod-marrokaner-100.html"
-    },
-    {
-      "title": "Neue Waldbrände in Südfrankreich ausgebrochen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-100.html"
     }
   ]
 }
