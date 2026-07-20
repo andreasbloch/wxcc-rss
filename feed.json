@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Schachgroßmeisterin Polgar will nicht Ungarns Präsidentin werden",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesidentschaft-polgar-absage-100.html"
+    },
+    {
+      "title": "Bahn-Konkurrent Italo bestellt 26 Schnellzüge bei Siemens",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/italo-zuege-siemens-bestellung-100.html"
+    },
+    {
       "title": "Gedenken an Hitler-Attentat im Bendlerblock - mit Zwischenfall",
       "link": "https://www.tagesschau.de/inland/gedenken-bendlerblock-afd-kranz-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Burnham als neuer Premier: Was das Amt inzwischen so schwierig macht",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-regierung-premier-burnham-100.html"
-    },
-    {
-      "title": "Geringste Erdbeerernte seit 31 Jahren erwartet",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ernte-spargel-erdbeeren-100.html"
-    },
-    {
-      "title": "Elektroautos sind seit 2020 deutlich günstiger geworden",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/elektroautos-preise-kaufpraemie-100.html"
     }
   ]
 }
