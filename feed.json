@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Bäcker im Interview: \"Ein Beruf mit Zukunft\"",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/baeckereien-pleiten-interview-100.html"
+    },
+    {
+      "title": "US-Armee meldet neue Angriffe auf Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-102.html"
+    },
+    {
       "title": "Ukraine wirft Russland Angriff auf ziviles Schiff vor",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Mutmaßliche Sexualdelikte: Tate-Brüder in den USA festgenommen",
       "link": "https://www.tagesschau.de/ausland/tate-brueder-100.html"
-    },
-    {
-      "title": "EU verbietet Vernichtung unverkaufter Kleidung - wie wirksam ist das?",
-      "link": "https://www.tagesschau.de/wissen/klima/eu-verbot-kleidung-vernichtung-100.html"
-    },
-    {
-      "title": "Führerschein für viele Menschen unbezahlbar",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/fuehrerschein-in-deutschland-immer-teurer-100.html"
     }
   ]
 }
