@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Frankreich beschließt Social-Media-Verbot für Kinder unter 15 Jahren",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-102.html"
+    },
+    {
       "title": "Bonn zieht vorübergehend Großteil der Stadtbahnen aus dem Verkehr",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bonn-stadtbahnen-schaeden-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Europas Banken im Fokus",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-banken-100.html"
-    },
-    {
-      "title": "Deutsche Bahn plant bundesweites Alkoholverbot an Bahnhöfen",
-      "link": "https://www.tagesschau.de/inland/deutsche-bahn-alkoholverbot-100.html"
     }
   ]
 }
