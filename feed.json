@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "DR Kongo: Zahl der Ebola-Infizierten steigt weiter",
+      "link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-122.html"
+    },
+    {
       "title": "Großbritanniens neuer Premier Burnham bildet Kabinett um",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-burnham-minister-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Für Tech-Aktien schlägt die Stunde der Wahrheit",
       "link": "https://www.tagesschau.de/wirtschaft/mb-mittag-dax-ki-berichtssaison-100.html"
-    },
-    {
-      "title": "Mann stirbt bei Polizeieinsatz in Bologna - Aufklärung gefordert",
-      "link": "https://www.tagesschau.de/ausland/europa/bologna-tod-marrokaner-100.html"
     }
   ]
 }
