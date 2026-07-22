@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Brandmauer-Debatte: Kretschmer für Gespräche mit allen Parteien",
+      "link": "https://www.tagesschau.de/inland/kretschmer-brandmauer-100.html"
+    },
+    {
+      "title": "Mittelamerika: Nicaraguas Präsident Ortega will Wahlen abschaffen",
+      "link": "https://www.tagesschau.de/ausland/ortega-nicaragua-wahlen-100.html"
+    },
+    {
       "title": "Frankreich: Die Not der Weinbauern nach den Waldbränden",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-weinbauern-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Wo Tanken besonders teuer ist - und wo sich sparen lässt",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tanken-sprit-preise-ausland-100.html"
-    },
-    {
-      "title": "Tote bei Sturzfluten in afghanischer Provinz Nuristan",
-      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-sturzfluten-tote-100.html"
-    },
-    {
-      "title": "Heizungsaustausch: Wer jetzt mit wie viel Geld rechnen kann",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizung-foerderung-kfw-100.html"
     }
   ]
 }
