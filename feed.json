@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Aktuelle Dürre in Europa durch Klimawandel verursacht",
+      "link": "https://www.tagesschau.de/wissen/klima/duerre-europa-klimawandel-100.html"
+    },
+    {
+      "title": "Porsche-Aufsichtsrat unterstützt Sparpaket",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/porsche-stellenabbau-102.html"
+    },
+    {
       "title": "EU-Kommission billigt Warner-Übernahme durch Paramount",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/warner-paramount-uebernahme-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Verdacht auf Cum-Cum-Geschäfte: Ermittler durchsuchen Deutsche Bank",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/razzia-deutsche-bank-cum-cum-100.html"
-    },
-    {
-      "title": "Tech-Firmen am Finanzmarkt: Was KI kostet und wer das alles bezahlt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/kuenstliche-intelligenz-kosten-100.html"
-    },
-    {
-      "title": "Könnten KI-gestützte Hackerangriffe zur neuen Gefahr werden?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-hackerangriff-folgen-100.html"
     }
   ]
 }
