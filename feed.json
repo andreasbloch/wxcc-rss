@@ -1,11 +1,27 @@
 {
   "items": [
     {
+      "title": "Bis zu 200 Prozent: Trump kündigt Zölle auf Arzneimittel an",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-arnzeimittel-generika-100.html"
+    },
+    {
+      "title": "KI von OpenAI steuert eigenständig Hackerangriff",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-hackerangriff-100.html"
+    },
+    {
+      "title": "Hegseth beziffert Kriegskosten in Iran auf 37,5 Milliarden Dollar",
+      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-haushaltsausschuss-irankrieg-100.html"
+    },
+    {
+      "title": "Handelsroute: Nordwestpassage als neuer globaler Seeweg?",
+      "link": "https://www.tagesschau.de/ausland/nordwestpassage-kanada-100.html"
+    },
+    {
       "title": "Braunau in Österreich: Hitlers Geburtshaus wird zu Polizeistation",
       "link": "https://www.tagesschau.de/ausland/europa/hitler-geburtshaus-polizei-100.html"
     },
     {
-      "title": "Londoner Polizei: Festnahmen mit Hilfe von Gesichtserkennung",
+      "title": "Londoner Polizei: Festnahmen mithilfe von Gesichtserkennung",
       "link": "https://www.tagesschau.de/ausland/europa/london-gesichtserkennung-100.html"
     },
     {
@@ -63,22 +79,6 @@
     {
       "title": "Ein Alkoholverbot gegen die Gewalt an Bahnhöfen?",
       "link": "https://www.tagesschau.de/inland/gesellschaft/alkoholverbot-bahnhof-koeln-100.html"
-    },
-    {
-      "title": "Bundesweites Alkoholverbot in Bahnhöfen: Die wichtigen Kernpunkte",
-      "link": "https://www.tagesschau.de/inland/bahn-alkoholverbot-faq-100.html"
-    },
-    {
-      "title": "Rumänien meldet Angriff auf Gas-Tanker im Schwarzen Meer",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-frachter-schwarzes-meer-100.html"
-    },
-    {
-      "title": "EU sperrt Kunstbiennale in Venedig wegen Teilnahme Russlands Gelder",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-biennale-venedig-russland-100.html"
-    },
-    {
-      "title": "Schwimmbad-Preise sind überdurchschnittlich gestiegen",
-      "link": "https://www.tagesschau.de/inland/schwimmbad-besuch-kosten-100.html"
     }
   ]
 }
