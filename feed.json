@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Prozess gegen Nicolás Maduro soll am 1. Juni 2027 beginnen",
+      "link": "https://www.tagesschau.de/ausland/amerika/maduro-prozess-100.html"
+    },
+    {
+      "title": "Experte zu KI-Hackerangriff: \"Hochgefährlich für die globale Cybersicherheit\"",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-hackerangriff-interview-100.html"
+    },
+    {
+      "title": "Waldbrände in Südeuropa: Der komplexe Kampf gegen das Feuer",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-waldbrandsaison-100.html"
+    },
+    {
       "title": "Mychajlo Drapatyj: Ein Hoffnungsträger an der Spitze der ukrainischen Armee",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-neuer-oberbefehlshaber-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Millionenprozess: Bonner Landgericht weist Klage wegen Corona-Masken ab",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-urteil-bei-maskenprozess-landgericht-bonn-weist-millionenklage-gegen-bund-ab-100.html"
-    },
-    {
-      "title": "Galeria prüft mögliche Schließungen von 33 Filialen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/galeria-filialen-pruefstand-schliessung-100.html"
-    },
-    {
-      "title": "Steigende Kraftstoffpreise: Reiche gegen neuen Tankrabatt",
-      "link": "https://www.tagesschau.de/inland/reiche-gegen-tankrabatt-preisdeckel-100.html"
-    },
-    {
-      "title": "Wälder in Frankreich, Spanien und Italien brennen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-sizilien-spanien-100.html"
     }
   ]
 }
