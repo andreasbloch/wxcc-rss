@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Braunau in Österreich: Hitlers Geburtshaus wird zu Polizeistation",
+      "link": "https://www.tagesschau.de/ausland/europa/hitler-geburtshaus-polizei-100.html"
+    },
+    {
+      "title": "Londoner Polizei: Festnahmen mit Hilfe von Gesichtserkennung",
+      "link": "https://www.tagesschau.de/ausland/europa/london-gesichtserkennung-100.html"
+    },
+    {
+      "title": "Iran-Krieg: Erstmals wieder Explosionen in Teheran",
+      "link": "https://www.tagesschau.de/ausland/teheran-iran-usa-100.html"
+    },
+    {
       "title": "Brandmauer-Debatte: Kretschmer für Gespräche mit allen Parteien",
       "link": "https://www.tagesschau.de/inland/kretschmer-brandmauer-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Schwimmbad-Preise sind überdurchschnittlich gestiegen",
       "link": "https://www.tagesschau.de/inland/schwimmbad-besuch-kosten-100.html"
-    },
-    {
-      "title": "Ukrainischer Armeechef Syrskyj unter Druck",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-proteste-armeechef-100.html"
-    },
-    {
-      "title": "Tödlicher Polizeieinsatz in Bologna: Vertrauensprobe für Italiens Rechtsstaat",
-      "link": "https://www.tagesschau.de/ausland/europa/vertrauensprobe-rechtsstaat-italien-100.html"
-    },
-    {
-      "title": "Wo Tanken besonders teuer ist - und wo sich sparen lässt",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tanken-sprit-preise-ausland-100.html"
     }
   ]
 }
