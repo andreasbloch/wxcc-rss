@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "EU-Kommission billigt Warner-Übernahme durch Paramount",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/warner-paramount-uebernahme-100.html"
+    },
+    {
       "title": "Prozess gegen Nicolás Maduro soll am 1. Juni 2027 beginnen",
       "link": "https://www.tagesschau.de/ausland/amerika/maduro-prozess-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Könnten KI-gestützte Hackerangriffe zur neuen Gefahr werden?",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-hackerangriff-folgen-100.html"
-    },
-    {
-      "title": "Millionenprozess: Bonner Landgericht weist Klage wegen Corona-Masken ab",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-urteil-bei-maskenprozess-landgericht-bonn-weist-millionenklage-gegen-bund-ab-100.html"
     }
   ]
 }
