@@ -1,12 +1,44 @@
 {
   "items": [
     {
-      "title": "Airbus begeistert die Anleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-airbus-100.html"
+      "title": "ARD-Korrespondent: \"Merz hat mit Frei jemanden geholt, der klar auf Kurs ist\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktionsvorsitz-100.html"
+    },
+    {
+      "title": "Verdacht auf Cum-Cum-Geschäfte: Ermittler durchsuchen Deutsche Bank",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/razzia-deutsche-bank-cum-cum-100.html"
+    },
+    {
+      "title": "Tech-Firmen am Finanzmarkt: Was KI kostet und wer das alles bezahlt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/kuenstliche-intelligenz-kosten-100.html"
+    },
+    {
+      "title": "Könnten KI-gestützte Hackerangriffe zur neuen Gefahr werden?",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-hackerangriff-folgen-100.html"
     },
     {
       "title": "Millionenprozess: Bonner Landgericht weist Klage wegen Corona-Masken ab",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-urteil-bei-maskenprozess-landgericht-bonn-weist-millionenklage-gegen-bund-ab-100.html"
+    },
+    {
+      "title": "Galeria prüft mögliche Schließungen von 33 Filialen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/galeria-filialen-pruefstand-schliessung-100.html"
+    },
+    {
+      "title": "Großeinsatz in JVA Siegburg - Aufstand geplant?",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/polizeieinsatz-jva-siegburg-100.html"
+    },
+    {
+      "title": "Steigende Kraftstoffpreise: Reiche gegen neuen Tankrabatt",
+      "link": "https://www.tagesschau.de/inland/reiche-gegen-tankrabatt-preisdeckel-100.html"
+    },
+    {
+      "title": "Wälder in Frankreich, Spanien und Italien brennen",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-sizilien-spanien-100.html"
+    },
+    {
+      "title": "Airbus begeistert die Anleger",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-airbus-100.html"
     },
     {
       "title": "Proteste in Indien: Modi hat ein \"Kakerlaken\"-Problem",
@@ -15,14 +47,6 @@
     {
       "title": "Reichsbürger-Gruppe \"Königreich Deutschland\": Mutmaßliche Anführer angeklagt",
       "link": "https://www.tagesschau.de/inland/anklage-reichsbuerger-anfuehrer-100.html"
-    },
-    {
-      "title": "Wälder in Frankreich, Spanien und Italien brennen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-sizilien-spanien-100.html"
-    },
-    {
-      "title": "Verdacht auf Cum-Cum-Geschäfte: Ermittler durchsuchen Deutsche Bank",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/razzia-deutsche-bank-cum-cum-100.html"
     },
     {
       "title": "Anschläge in Norwegen vor 15 Jahren: \"Das Trauma sitzt in deinem Körper\"",
@@ -55,30 +79,6 @@
     {
       "title": "Marktbericht: DAX tritt auf der Stelle",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-iran-oel-100.html"
-    },
-    {
-      "title": "Zehn Jahre nach OEZ-Anschlag: Hinterbliebene fühlen sich im Stich gelassen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/oez-attentat-muenchen-100.html"
-    },
-    {
-      "title": "Lob für Alkoholverbot an Bahnhöfen - aber Fragen zur Umsetzung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-alkoholverbot-bahnhoefe-100.html"
-    },
-    {
-      "title": "Bis zu 200 Prozent: Trump kündigt Zölle auf Arzneimittel an",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-arnzeimittel-generika-100.html"
-    },
-    {
-      "title": "KI von OpenAI steuert eigenständig Hackerangriff",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-hackerangriff-100.html"
-    },
-    {
-      "title": "Hegseth beziffert Kriegskosten in Iran auf 37,5 Milliarden Dollar",
-      "link": "https://www.tagesschau.de/ausland/amerika/hegseth-haushaltsausschuss-irankrieg-100.html"
-    },
-    {
-      "title": "Handelsroute: Nordwestpassage als neuer globaler Seeweg?",
-      "link": "https://www.tagesschau.de/ausland/nordwestpassage-kanada-100.html"
     }
   ]
 }
