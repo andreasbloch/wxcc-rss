@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Treffen der Außenminister: Rubio und Lawrow kommen in Manila zusammen",
+      "link": "https://www.tagesschau.de/ausland/asien/rubio-lawrow-treffen-manila-100.html"
+    },
+    {
+      "title": "Abkommen mit den USA: Das saudische Streben nach Atomkraft",
+      "link": "https://www.tagesschau.de/ausland/saudi-arabien-atomprogramm-100.html"
+    },
+    {
+      "title": "Waldbrände in Frankreich und Spanien: Tausende in Sicherheit gebracht",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-100.html"
+    },
+    {
+      "title": "Google-Mutter Alphabet erhöht Milliardeninvestitionen in KI",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-cloud-ki-zahlen-investitionen-100.html"
+    },
+    {
+      "title": "Bundesregierung spricht nach KI-Hackerangriff von \"Paradigmenwechsel\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reaktion-ki-angriff-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger schwanken zwischen Bilanzen und Ölpreisen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html"
+    },
+    {
+      "title": "Huthi-Miliz beschießt saudischen Tanker im Roten Meer",
+      "link": "https://www.tagesschau.de/ausland/huthi-rotes-meer-104.html"
+    },
+    {
       "title": "EZB-Präsidentin Lagarde: Bleibt sie oder geht sie?",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-lagarde-104.html"
     },
@@ -21,7 +49,7 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/bverfg-gesetzgebung-zeitplan-100.html"
     },
     {
-      "title": "Neue US-Angriffe gegen Iran und gegenseitige Drohungen",
+      "title": "Neue Angriffe und gegenseitige Drohungen - Huthi-Miliz greift Tanker an",
       "link": "https://www.tagesschau.de/ausland/asien/angriffe-usa-iran-100.html"
     },
     {
@@ -51,34 +79,6 @@
     {
       "title": "Mychajlo Drapatyj: Ein Hoffnungsträger an der Spitze der ukrainischen Armee",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-neuer-oberbefehlshaber-100.html"
-    },
-    {
-      "title": "Ukrainische Armee mit neuer Führung: \"Eine schlechte Nachricht für Russland\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-abloesung-syrskyj-selenskyj-100.html"
-    },
-    {
-      "title": "Großeinsatz in JVA Siegburg - Aufstand geplant?",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/polizeieinsatz-jva-siegburg-100.html"
-    },
-    {
-      "title": "Trump droht Iran bei Angriffen auf Schiffe mit Vergeltung",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-drohung-102.html"
-    },
-    {
-      "title": "Thorsten Frei: Bürgermeister, Kanzleramtschef, Fraktionsvorsitz?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/thorsten-frei-portraet-100.html"
-    },
-    {
-      "title": "Gedenken an Attentat im Olympia-Einkaufszentrum",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-oez-attentat-100.html"
-    },
-    {
-      "title": "Frei als Fraktionschef: Stühlerücken für mehr Stabilität in der Union?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fraktionschef-frei-union-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX macht Boden gut",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-iran-oel-100.html"
     }
   ]
 }
