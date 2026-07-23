@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "UniCredit steht kurz vor Commerzbank-Übernahme",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-unicredit-100.html"
+    },
+    {
+      "title": "Wohnungsbau in Deutschland fällt auf 15-Jahrestief",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wohnungsbau-deutschland-sinkt-100.html"
+    },
+    {
+      "title": "Waldbrände in Frankreich und Spanien: Tausende in Sicherheit gebracht",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-100.html"
+    },
+    {
+      "title": "Rotes Meer: Huthi beschießen Tanker aus Saudi-Arabien",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-rotes-meer-oeltanker-angriff-100.html"
+    },
+    {
+      "title": "Mehr als 1.000 Ebola-Tote in Demokratischer Republik Kongo",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-tote-102.html"
+    },
+    {
+      "title": "Reiseverkehr: ADAC warnt vor erhöhter Staugefahr am Wochenende",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/reise-verkehr-sommerferien-deutschland-100.html"
+    },
+    {
+      "title": "Klage gegen Bundesregierung: Ehefrau von Deutschem sitzt in Gaza fest",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-gaza-klage-100.html"
+    },
+    {
+      "title": "Verstoß gegen Digitalregeln: EU verhängt Rekordstrafe gegen Google",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-strafe-digitalgesetze-100.html"
+    },
+    {
       "title": "Wadephul: \"Afrika sollte für uns Chancenkontinent sein\"",
       "link": "https://www.tagesschau.de/ausland/afrika/wadephul-afrika-reise-102.html"
     },
@@ -29,10 +61,6 @@
       "link": "https://www.tagesschau.de/ausland/saudi-arabien-atomprogramm-100.html"
     },
     {
-      "title": "Waldbrände in Frankreich und Spanien: Tausende in Sicherheit gebracht",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-100.html"
-    },
-    {
       "title": "Google-Mutter Alphabet erhöht Milliardeninvestitionen in KI",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-cloud-ki-zahlen-investitionen-100.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "USA und Saudi-Arabien: Atomabkommen in Washington unterzeichnet",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-saudi-arabien-atomabkommen-100.html"
-    },
-    {
-      "title": "Buddhistische Gruppen: Manipulation in Buddhas Namen?",
-      "link": "https://www.tagesschau.de/investigativ/br-recherche/seelenfaenger-buddhistische-gruppen-100.html"
-    },
-    {
-      "title": "Klimakrise: Was kostet das Nichtstun?",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/klimaawandel-kosten-wirtschaft-100.html"
-    },
-    {
-      "title": "Bundesverfassungsgericht urteilt über Abgeordnetenrechte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bverfg-gesetzgebung-zeitplan-100.html"
-    },
-    {
-      "title": "Neue US-Angriffe auf Iran - Teheran attackiert Golfstaaten",
-      "link": "https://www.tagesschau.de/ausland/asien/angriffe-usa-iran-100.html"
-    },
-    {
-      "title": "Aktuelle Dürre in Europa durch Klimawandel verursacht",
-      "link": "https://www.tagesschau.de/wissen/klima/duerre-europa-klimawandel-100.html"
-    },
-    {
-      "title": "Porsche-Aufsichtsrat unterstützt Sparpaket",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/porsche-stellenabbau-102.html"
-    },
-    {
-      "title": "EU-Kommission billigt Warner-Übernahme durch Paramount",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/warner-paramount-uebernahme-100.html"
     }
   ]
 }
