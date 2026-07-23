@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Wadephul: \"Afrika sollte für uns Chancenkontinent sein\"",
+      "link": "https://www.tagesschau.de/ausland/afrika/wadephul-afrika-reise-102.html"
+    },
+    {
+      "title": "Verfassungsklage wegen Beratungszeit für \"Heizungsgesetz\" abgewiesen",
+      "link": "https://www.tagesschau.de/inland/gebaeudeenergiegesetz-verfassungsgericht-urteil-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger blicken auf Ölpreise und die EZB",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html"
+    },
+    {
+      "title": "US-Repräsentantenhaus billigt mehr als eine Billion Dollar fürs Pentagon",
+      "link": "https://www.tagesschau.de/ausland/amerika/militaeretat--usa-100.html"
+    },
+    {
+      "title": "Innenministerium will wohl härtere Einschnitte am Informationsfreiheitsgesetz",
+      "link": "https://www.tagesschau.de/investigativ/mdr/ifg-bundesinnenministerium-100.html"
+    },
+    {
       "title": "Treffen der Außenminister: Rubio und Lawrow kommen in Manila zusammen",
       "link": "https://www.tagesschau.de/ausland/asien/rubio-lawrow-treffen-manila-100.html"
     },
@@ -21,12 +41,8 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reaktion-ki-angriff-100.html"
     },
     {
-      "title": "Marktbericht: Anleger schwanken zwischen Bilanzen und Ölpreisen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html"
-    },
-    {
       "title": "Huthi-Miliz beschießt saudischen Tanker im Roten Meer",
-      "link": "https://www.tagesschau.de/ausland/huthi-rotes-meer-104.html"
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-rotes-meer-104.html"
     },
     {
       "title": "EZB-Präsidentin Lagarde: Bleibt sie oder geht sie?",
@@ -49,7 +65,7 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/bverfg-gesetzgebung-zeitplan-100.html"
     },
     {
-      "title": "Neue Angriffe und gegenseitige Drohungen - Huthi-Miliz greift Tanker an",
+      "title": "Neue US-Angriffe auf Iran - Teheran attackiert Golfstaaten",
       "link": "https://www.tagesschau.de/ausland/asien/angriffe-usa-iran-100.html"
     },
     {
@@ -63,22 +79,6 @@
     {
       "title": "EU-Kommission billigt Warner-Übernahme durch Paramount",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/warner-paramount-uebernahme-100.html"
-    },
-    {
-      "title": "Prozess gegen Nicolás Maduro soll am 1. Juni 2027 beginnen",
-      "link": "https://www.tagesschau.de/ausland/amerika/maduro-prozess-100.html"
-    },
-    {
-      "title": "Experte zu KI-Hackerangriff: \"Hochgefährlich für die globale Cybersicherheit\"",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-hackerangriff-interview-100.html"
-    },
-    {
-      "title": "Waldbrände in Südeuropa: Der komplexe Kampf gegen das Feuer",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-waldbrandsaison-100.html"
-    },
-    {
-      "title": "Mychajlo Drapatyj: Ein Hoffnungsträger an der Spitze der ukrainischen Armee",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-neuer-oberbefehlshaber-100.html"
     }
   ]
 }
