@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Neue US-Angriffe gegen den Iran",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-usa-iran-100.html"
+    },
+    {
+      "title": "USA und Saudi-Arabien: Atomabkommen in Washington unterzeichnet",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-saudi-arabien-atomabkommen-100.html"
+    },
+    {
       "title": "Aktuelle Dürre in Europa durch Klimawandel verursacht",
       "link": "https://www.tagesschau.de/wissen/klima/duerre-europa-klimawandel-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Justizreform in Ungarn: Generalstaatsanwalt Nagy tritt zurück",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-justizreform-100.html"
-    },
-    {
-      "title": "ARD-Korrespondent: \"Merz hat mit Frei jemanden geholt, der klar auf Kurs ist\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktionsvorsitz-100.html"
-    },
-    {
-      "title": "Verdacht auf Cum-Cum-Geschäfte: Ermittler durchsuchen Deutsche Bank",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/razzia-deutsche-bank-cum-cum-100.html"
     }
   ]
 }
