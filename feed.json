@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Gewinn bricht erneut ein - VW senkt Umsatzausblick",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-gewinn-einbruch-100.html"
+    },
+    {
+      "title": "Merz baut Kabinett um: Verkehrsminister Schnieder muss offenbar gehen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/verkehrsminister-schnieder-muss-gehen-100.html"
+    },
+    {
+      "title": "Ankündigung der US-Regierung: Neue Zölle gegen 60 Handelspartner",
+      "link": "https://www.tagesschau.de/ausland/amerika/zoll-trump-zwangsarbeit-100.html"
+    },
+    {
+      "title": "US-Präsident Trump verhängt neue Zölle für 60 Länder - was jetzt gilt",
+      "link": "https://www.tagesschau.de/ausland/amerika/wichtige-antworten-zu-neuen-us-zoellen-100.html"
+    },
+    {
+      "title": "Personalumbau der Union: Merz will Wechsel im Kabinett bekanntmachen",
+      "link": "https://www.tagesschau.de/inland/merz-kabinett-neuaufstellung-100.html"
+    },
+    {
+      "title": "So lief die Debatte um die Guterres-Nachfolge",
+      "link": "https://www.tagesschau.de/ausland/gueterres-debatte-100.html"
+    },
+    {
+      "title": "Marktbericht: Hohe Ölpreise schicken Börsen auf Talfahrt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-iran-100.html"
+    },
+    {
       "title": "US-Regierung verhängt neue Zölle gegen 60 Länder",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-180.html"
     },
@@ -15,10 +43,6 @@
     {
       "title": "Waldbrände: Spanien ruft Notstand aus - Frankreich bittet EU um Hilfe",
       "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-124.html"
-    },
-    {
-      "title": "Personalumbau der Union: Merz will Wechsel im Kabinett bekanntmachen",
-      "link": "https://www.tagesschau.de/inland/merz-kabinett-neuaufstellung-100.html"
     },
     {
       "title": "Gesundheitsministerin Nina Warken soll Kanzleramtsschefin werden",
@@ -49,36 +73,12 @@
       "link": "https://www.tagesschau.de/inland/linnemann-portraet-gesundheitsministerium-100.html"
     },
     {
-      "title": "Außenminister Wadephul trifft Amtskollegen Lamolla in Südafrika",
+      "title": "Außenminister Wadephul trifft Amtskollegen Lamola in Südafrika",
       "link": "https://www.tagesschau.de/ausland/afrika/wadephul-suedafrika-100.html"
     },
     {
       "title": "Trump: Saudis sollen für Atomdeal auf Israel zugehen",
       "link": "https://www.tagesschau.de/ausland/asien/trump-atomdeal-saudi-arabien-100.html"
-    },
-    {
-      "title": "Rubio-Lawrow-Treffen in Manila: \"Nicht übermäßig optimistisch\"",
-      "link": "https://www.tagesschau.de/ausland/asien/russland-usa-lawrow-rubio-100.html"
-    },
-    {
-      "title": "Abschiebungen nach Afghanistan bald nicht nur für Straftäter?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-144.html"
-    },
-    {
-      "title": "Marktbericht: Der DAX knickt ein",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html"
-    },
-    {
-      "title": "EU verhängt weiteres Sanktionspaket gegen Russland",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-140.html"
-    },
-    {
-      "title": "US-Atomabkommen mit Saudi-Arabien: Ein Deal, der Sorgen macht",
-      "link": "https://www.tagesschau.de/kommentar/saudi-arabien-atomkraft-102.html"
-    },
-    {
-      "title": "Vier Frauen und zwei Männer kämpfen um Nachfolge von UN-Chef Guterres",
-      "link": "https://www.tagesschau.de/ausland/korrespondenten/un-nachfolge-guterres-100.html"
     }
   ]
 }
