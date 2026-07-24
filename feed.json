@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Internationaler Strafgerichtshof - Chefankläger Khan wird wohl des Amtes enthoben",
+      "link": "https://www.tagesschau.de/ausland/internationaler-strafgerichtshof-khan-absetzung-100.html"
+    },
+    {
+      "title": "Trump droht nach Google-Strafe der EU mit neuen Zöllen",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-google-eu-100.html"
+    },
+    {
       "title": "Nach Kabinettsumbildung: \"Merz hat die Gunst der Stunde genutzt\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-merz-lembcke-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Mindestens 50 Tote in Indien bei Überschwemmungen",
       "link": "https://www.tagesschau.de/ausland/asien/indien-monsun-ueberschwemmungen-100.html"
-    },
-    {
-      "title": "Wacken Open Air 2026: Zwischen Dorfacker und Wall Street",
-      "link": "https://www.tagesschau.de/kultur/heavy-metal-festival-wacken-als-marke-100.html"
-    },
-    {
-      "title": "Batteriehersteller Varta stellt mehrere Insolvenzanträge",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/varta-batterien-insolvenzantrag-100.html"
     }
   ]
 }
