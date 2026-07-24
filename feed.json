@@ -1,16 +1,44 @@
 {
   "items": [
     {
+      "title": "EU-Kommission kritisiert Jugendschutz bei TikTok - Strafen drohen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-tiktok-schutz-minderjaehrige-100.html"
+    },
+    {
+      "title": "Warken als Kanzleramtschefin, Linnemann als Gesundheitsminister bestätigt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-als-kanzleramtschefin-bestaetigt-100.html"
+    },
+    {
+      "title": "Deutsche Autohersteller sparen - mit gravierenden Folgen",
+      "link": "https://www.tagesschau.de/wirtschaft/autobranche-106.html"
+    },
+    {
+      "title": "Waldbrände: Spanien ruft Notstand aus - Frankreich bittet EU um Hilfe",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-124.html"
+    },
+    {
+      "title": "Wie umgehen mit Pekings Gebietsansprüchen im Südchinesischen Meer?",
+      "link": "https://www.tagesschau.de/ausland/asien/philippinen-china-usa-spannungen-100.html"
+    },
+    {
+      "title": "Somalische Piraten halten Schiff mit acht Deutschen fest",
+      "link": "https://www.tagesschau.de/ausland/afrika/golf-von-aden-tanker-100.html"
+    },
+    {
+      "title": "SAP-Zahlen treiben Aktie nach oben - Softwarebranche atmet auf",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/mb-mittags-sap-aktie-100.html"
+    },
+    {
+      "title": "US-Präsident Trump verhängt neue Zölle für 60 Länder - was jetzt gilt",
+      "link": "https://www.tagesschau.de/ausland/amerika/wichtige-antworten-zu-neuen-us-zoellen-100.html"
+    },
+    {
       "title": "Bundesverfassungsgericht: Pauschaler Aufnahmestopp von Afghanen ist \"Willkür\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-afghanin-aufnahme-100.html"
     },
     {
       "title": "So soll das neue Kabinett aussehen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-kabinett-umbildung-100.html"
-    },
-    {
-      "title": "Waldbrände: Spanien ruft Notstand aus - Frankreich bittet EU um Hilfe",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-124.html"
     },
     {
       "title": "Jürgen Klopp ist neuer Bundestrainer",
@@ -33,10 +61,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/warner-paramount-uebernahme-gerichtsbeschluss-100.html"
     },
     {
-      "title": "Warken als Kanzleramtschefin, Linnemann als Gesundheitsminister bestätigt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-als-kanzleramtschefin-bestaetigt-100.html"
-    },
-    {
       "title": "Gewinn bricht erneut ein - VW senkt Umsatzausblick",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-gewinn-einbruch-100.html"
     },
@@ -49,36 +73,12 @@
       "link": "https://www.tagesschau.de/ausland/amerika/zoll-trump-zwangsarbeit-100.html"
     },
     {
-      "title": "US-Präsident Trump verhängt neue Zölle für 60 Länder - was jetzt gilt",
-      "link": "https://www.tagesschau.de/ausland/amerika/wichtige-antworten-zu-neuen-us-zoellen-100.html"
-    },
-    {
       "title": "Personalumbau der Union: Merz will Wechsel im Kabinett bekanntmachen",
       "link": "https://www.tagesschau.de/inland/merz-kabinett-neuaufstellung-100.html"
     },
     {
       "title": "So lief die Debatte um die Guterres-Nachfolge",
       "link": "https://www.tagesschau.de/ausland/gueterres-debatte-100.html"
-    },
-    {
-      "title": "US-Regierung verhängt neue Zölle gegen 60 Länder",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-180.html"
-    },
-    {
-      "title": "USA setzen Angriffe auf Iran in 13. Nacht in Folge fort",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-118.html"
-    },
-    {
-      "title": "Goldpreis unter Druck: Ist Gold noch ein sicherer Hafen?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/goldpreis-kursrutsch-zinsen-sicherer-hafen-100.html"
-    },
-    {
-      "title": "Gesundheitsministerin Nina Warken soll Kanzleramtsschefin werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-portraet-gesundheitsministerin-100.html"
-    },
-    {
-      "title": "USA: Lebenslange Haft für Mörder von Politikerin und Ehemann",
-      "link": "https://www.tagesschau.de/ausland/amerika/minnesota-haft-mord-politikerin-100.html"
     }
   ]
 }
