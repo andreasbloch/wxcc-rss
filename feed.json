@@ -1,20 +1,40 @@
 {
   "items": [
     {
+      "title": "US-Regierung verhängt neue Zölle gegen 60 Länder",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-180.html"
+    },
+    {
+      "title": "USA setzen Angriffe auf Iran in 13. Nacht in Folge fort",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-118.html"
+    },
+    {
+      "title": "Goldpreis unter Druck: Ist Gold noch ein sicherer Hafen?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/goldpreis-kursrutsch-zinsen-sicherer-hafen-100.html"
+    },
+    {
+      "title": "Waldbrände: Spanien ruft Notstand aus - Frankreich bittet EU um Hilfe",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-124.html"
+    },
+    {
+      "title": "Personalumbau der Union: Merz will Wechsel im Kabinett bekanntmachen",
+      "link": "https://www.tagesschau.de/inland/merz-kabinett-neuaufstellung-100.html"
+    },
+    {
+      "title": "Gesundheitsministerin Nina Warken soll Kanzleramtsschefin werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/warken-portraet-gesundheitsministerin-100.html"
+    },
+    {
       "title": "USA: Lebenslange Haft für Mörder von Politikerin und Ehemann",
       "link": "https://www.tagesschau.de/ausland/amerika/minnesota-haft-mord-politikerin-100.html"
     },
     {
-      "title": "Nahost: Deutschland zieht Marineschiffe aus Golf von Aden ab",
+      "title": "Deutschland zieht Marineschiffe aus Golf von Aden ab",
       "link": "https://www.tagesschau.de/ausland/nahost-schiffe-verlegung-100.html"
     },
     {
       "title": "Frankreich und Spanien: Feuer wüten weiter - Campingplätze geräumt",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-102.html"
-    },
-    {
-      "title": "USA: Trump verhängt neue Zölle auf Importe aus 60 Ländern",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-180.html"
     },
     {
       "title": "Messerattacke: Verdächtiger von Regensburg soll vor Haftrichter",
@@ -59,26 +79,6 @@
     {
       "title": "Vier Frauen und zwei Männer kämpfen um Nachfolge von UN-Chef Guterres",
       "link": "https://www.tagesschau.de/ausland/korrespondenten/un-nachfolge-guterres-100.html"
-    },
-    {
-      "title": "Wie Wälder sich nach Großbränden selbst erneuern",
-      "link": "https://www.tagesschau.de/wissen/klima/rolle-waldbraende-natur-100.html"
-    },
-    {
-      "title": "Neue Euro-Noten: Berühmte Europäer oder Vögel und Flüsse?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ezb-entwuerfe-banknoten-100.html"
-    },
-    {
-      "title": "Britischer Premier Burnham senkt die Gewerbesteuer für Pubs, Clubs &amp; Live-Musik",
-      "link": "https://www.tagesschau.de/ausland/europa/gewerbesteuer-grossbritannien-100.html"
-    },
-    {
-      "title": "FAQ: Was bedeutet der US-Atomdeal mit Saudi-Arabien?",
-      "link": "https://www.tagesschau.de/ausland/asien/atomabkommen-usa-saudi-arabien-100.html"
-    },
-    {
-      "title": "Trump droht Huthi und Iran \"militärische Bestrafung\" an",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-huthi-usa-iran-100.html"
     }
   ]
 }
