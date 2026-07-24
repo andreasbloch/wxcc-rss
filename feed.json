@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Gordie-Howe-Brücke zwischen Kanada und den USA eröffnet",
+      "link": "https://www.tagesschau.de/ausland/amerika/gordie-howe-bruecke-100.html"
+    },
+    {
       "title": "Internationaler Strafgerichtshof - Chefankläger Khan wird abgesetzt",
       "link": "https://www.tagesschau.de/ausland/internationaler-strafgerichtshof-khan-absetzung-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Edinburgh führt Touristensteuer ein",
       "link": "https://www.tagesschau.de/ausland/europa/schottland-edinburgh-touristensteuer-100.html"
-    },
-    {
-      "title": "Mindestens 50 Tote in Indien bei Überschwemmungen",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-monsun-ueberschwemmungen-100.html"
     }
   ]
 }
