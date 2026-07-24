@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Nach Kabinettsumbildung: \"Merz hat die Gunst der Stunde genutzt\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-merz-lembcke-100.html"
+    },
+    {
+      "title": "Russische Zentralbank senkt Leitzins erneut",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-leitzins-102.html"
+    },
+    {
+      "title": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html"
+    },
+    {
       "title": "Türkei: Kann sich Özels \"Neue Partei\" durchsetzen?",
       "link": "https://www.tagesschau.de/ausland/europa/chp-spaltung-oezel-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Batteriehersteller Varta stellt mehrere Insolvenzanträge",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/varta-batterien-insolvenzantrag-100.html"
-    },
-    {
-      "title": "Manöver \"Pitch Black\": Sich besser kennenlernen - für einen Ernstfall?",
-      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-manoever-pitch-black-100.html"
-    },
-    {
-      "title": "Russland und Ukraine: Droht die Rückkehr der Getreidekrise?",
-      "link": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-angriffe-schiffe-100.html"
-    },
-    {
-      "title": "Bundesverfassungsgericht: Pauschaler Aufnahmestopp von Afghanen ist \"Willkür\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-afghanin-aufnahme-100.html"
     }
   ]
 }
