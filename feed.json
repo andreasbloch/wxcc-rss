@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "USA: Lebenslange Haft für Mörder von Politikerin und Ehemann",
+      "link": "https://www.tagesschau.de/ausland/amerika/minnesota-haft-mord-politikerin-100.html"
+    },
+    {
+      "title": "Nahost: Deutschland zieht Marineschiffe aus Golf von Aden ab",
+      "link": "https://www.tagesschau.de/ausland/nahost-schiffe-verlegung-100.html"
+    },
+    {
+      "title": "Frankreich und Spanien: Feuer wüten weiter - Campingplätze geräumt",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-102.html"
+    },
+    {
+      "title": "USA: Trump verhängt neue Zölle auf Importe aus 60 Ländern",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-180.html"
+    },
+    {
       "title": "Messerattacke: Verdächtiger von Regensburg soll vor Haftrichter",
       "link": "https://www.tagesschau.de/inland/regensburg-ueberfall-bank-100.html"
     },
@@ -49,10 +65,6 @@
       "link": "https://www.tagesschau.de/wissen/klima/rolle-waldbraende-natur-100.html"
     },
     {
-      "title": "Frankreich und Spanien: Feuer wüten weiter - Campingplätze geräumt",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-102.html"
-    },
-    {
       "title": "Neue Euro-Noten: Berühmte Europäer oder Vögel und Flüsse?",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ezb-entwuerfe-banknoten-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Trump droht Huthi und Iran \"militärische Bestrafung\" an",
       "link": "https://www.tagesschau.de/ausland/asien/trump-huthi-usa-iran-100.html"
-    },
-    {
-      "title": "Frühstartrente: Wie Altersvorsorge im Kindesalter klappen soll",
-      "link": "https://www.tagesschau.de/inland/fruehstartrente-100.html"
-    },
-    {
-      "title": "EZB lässt Leitzins unverändert nach Zinserhöhung im Juni",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsentscheidung-juli-100.html"
-    },
-    {
-      "title": "Wie gerecht ist das Reformpaket der Koalition?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reformpaket-koalition-100.html"
     }
   ]
 }
