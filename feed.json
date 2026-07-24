@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Edinburgh führt Touristensteuer ein",
+      "link": "https://www.tagesschau.de/ausland/europa/schottland-edinburgh-touristensteuer-100.html"
+    },
+    {
+      "title": "Mindestens 50 Tote in Indien bei Überschwemmungen",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-monsun-ueberschwemmungen-100.html"
+    },
+    {
+      "title": "Wacken Open Air 2026: Zwischen Dorfacker und Wall Street",
+      "link": "https://www.tagesschau.de/kultur/heavy-metal-festival-wacken-als-marke-100.html"
+    },
+    {
+      "title": "Batteriehersteller Varta stellt mehrere Insolvenzanträge",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/varta-batterien-insolvenzantrag-100.html"
+    },
+    {
+      "title": "Manöver \"Pitch Black\": Sich besser kennenlernen - für einen Ernstfall?",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-manoever-pitch-black-100.html"
+    },
+    {
+      "title": "Israelische Siedler gegen Palästinenser: Gewalt im Westjordanland eskaliert",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-palaestinenser-102.html"
+    },
+    {
+      "title": "Russland und Ukraine: Droht die Rückkehr der Getreidekrise?",
+      "link": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-angriffe-schiffe-100.html"
+    },
+    {
+      "title": "Bundesverfassungsgericht: Pauschaler Aufnahmestopp von Afghanen ist \"Willkür\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-afghanin-aufnahme-100.html"
+    },
+    {
       "title": "EU-Kommission kritisiert Jugendschutz bei TikTok - Strafen drohen",
       "link": "https://www.tagesschau.de/ausland/europa/eu-tiktok-schutz-minderjaehrige-100.html"
     },
@@ -33,10 +65,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/wichtige-antworten-zu-neuen-us-zoellen-100.html"
     },
     {
-      "title": "Bundesverfassungsgericht: Pauschaler Aufnahmestopp von Afghanen ist \"Willkür\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-afghanin-aufnahme-100.html"
-    },
-    {
       "title": "So soll das neue Kabinett aussehen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-kabinett-umbildung-100.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "PMOS - ein oft unerkanntes Gesundheitsrisiko bei Frauen",
       "link": "https://www.tagesschau.de/wissen/gesundheit/hormonstoerung-pmos-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX erholt sich zum Wochenschluss etwas",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-iran-100.html"
-    },
-    {
-      "title": "US-Gericht verlängert Stopp für Warner-Übernahme durch Paramount",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/warner-paramount-uebernahme-gerichtsbeschluss-100.html"
-    },
-    {
-      "title": "Gewinn bricht erneut ein - VW senkt Umsatzausblick",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-gewinn-einbruch-100.html"
-    },
-    {
-      "title": "Merz baut Kabinett um: Verkehrsminister Schnieder muss offenbar gehen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/verkehrsminister-schnieder-muss-gehen-100.html"
-    },
-    {
-      "title": "Ankündigung der US-Regierung: Neue Zölle gegen 60 Handelspartner",
-      "link": "https://www.tagesschau.de/ausland/amerika/zoll-trump-zwangsarbeit-100.html"
-    },
-    {
-      "title": "Personalumbau der Union: Merz will Wechsel im Kabinett bekanntmachen",
-      "link": "https://www.tagesschau.de/inland/merz-kabinett-neuaufstellung-100.html"
-    },
-    {
-      "title": "So lief die Debatte um die Guterres-Nachfolge",
-      "link": "https://www.tagesschau.de/ausland/gueterres-debatte-100.html"
     }
   ]
 }
