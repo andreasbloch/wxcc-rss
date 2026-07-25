@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "CSD 2026: Queere Räume in Berlin unter Druck",
+      "link": "https://www.tagesschau.de/kultur/queere-orte-in-berlin-kampf-ums-ueberleben-100.html"
+    },
+    {
+      "title": "Ukraine nimmt Russlands Online-Handel ins Visier",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-angriffe-wildberries-petersburg-100.html"
+    },
+    {
+      "title": "Mandat von UN-Menschenrechtskommissar Türk um vier Jahre verlängert",
+      "link": "https://www.tagesschau.de/ausland/volker-tuerk-un-menschenrechtskommissar-100.html"
+    },
+    {
       "title": "Nach Attacke auf saudisches Schiff: Militärbündnis greift Huthi im Jemen an",
       "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-angriffe-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Kommentar: Merz' Kabinettsumbau ist ein verstolperter Neuanfang",
       "link": "https://www.tagesschau.de/kommentar/merz-kabinettumbau-100.html"
-    },
-    {
-      "title": "VW-Chef Blume: \"Ein Werk zu schließen, ist immer die letzte Lösung\"",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-vorstandschef-blume-interview-100.html"
-    },
-    {
-      "title": "Brände in Spanien vereinen sich zu großer Feuerfront",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-notstand-waldbraende-100.html"
-    },
-    {
-      "title": "Sultan von Brunei feiert 80. Geburtstag mit großer Parade",
-      "link": "https://www.tagesschau.de/ausland/asien/brunei-sultan-geburtstag-100.html"
     }
   ]
 }
