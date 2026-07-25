@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - ein Toter und Verletzte",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html"
+    },
+    {
       "title": "CSD in Berlin vorzeitig abgebrochen",
       "link": "https://www.tagesschau.de/inland/regional/berlin/csd-berlin-gegenproteste-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Paramount setzt Warner-Übernahme nach mehreren Klagen aus",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-uebernahme-warner-100.html"
-    },
-    {
-      "title": "CSD 2026: Queere Räume in Berlin unter Druck",
-      "link": "https://www.tagesschau.de/kultur/queere-orte-in-berlin-kampf-ums-ueberleben-100.html"
     }
   ]
 }
