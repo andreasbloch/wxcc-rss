@@ -1,16 +1,24 @@
 {
   "items": [
     {
-      "title": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html"
-    },
-    {
       "title": "Spanien: Großfeuer bei Madrid sind \"nicht zu löschen\"",
       "link": "https://www.tagesschau.de/ausland/waldbraende-spanien-122.html"
     },
     {
+      "title": "150. Jubiläum der Bayreuther Festspiele mit Polit-Prominenz gestartet",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/bayreuther-festspiele-116.html"
+    },
+    {
       "title": "Hunderttausende bei CSD-Parade in Berlin",
       "link": "https://www.tagesschau.de/inland/regional/berlin/csd-berlin-gegenproteste-100.html"
+    },
+    {
+      "title": "Guterres besucht als erster UN-Generalsekretär seit 15 Jahren Syrien",
+      "link": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html"
+    },
+    {
+      "title": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html"
     },
     {
       "title": "Elster, App, Steuerberater: Frist für die Steuererklärung endet",
@@ -71,14 +79,6 @@
     {
       "title": "Ukraine nimmt Russlands Online-Handel ins Visier",
       "link": "https://www.tagesschau.de/ausland/europa/russland-angriffe-wildberries-petersburg-100.html"
-    },
-    {
-      "title": "Mandat von UN-Menschenrechtskommissar Türk um vier Jahre verlängert",
-      "link": "https://www.tagesschau.de/ausland/volker-tuerk-un-menschenrechtskommissar-100.html"
-    },
-    {
-      "title": "Gordie-Howe-Brücke zwischen Kanada und den USA eröffnet",
-      "link": "https://www.tagesschau.de/ausland/amerika/gordie-howe-bruecke-100.html"
     }
   ]
 }
