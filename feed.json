@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Hunderttausende beim CSD in Berlin erwartet",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/csd-berlin-gegenproteste-100.html"
+    },
+    {
+      "title": "So schützen Kleingärten vor Hitze",
+      "link": "https://www.tagesschau.de/wissen/klima/kleingaerten-klimaschutz-100.html"
+    },
+    {
+      "title": "Nach Attacke auf saudisches Schiff: Militärbündnis greift Huthi im Jemen an",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-angriffe-100.html"
+    },
+    {
+      "title": "Waldbrände in Frankreich: Feuer bewegen sich auf Bordeaux zu",
+      "link": "https://www.tagesschau.de/ausland/waldbraende-frankreich-bordeaux-100.html"
+    },
+    {
       "title": "Paramount setzt Warner-Übernahme nach mehreren Klagen aus",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-uebernahme-warner-100.html"
     },
@@ -15,10 +31,6 @@
     {
       "title": "Mandat von UN-Menschenrechtskommissar Türk um vier Jahre verlängert",
       "link": "https://www.tagesschau.de/ausland/volker-tuerk-un-menschenrechtskommissar-100.html"
-    },
-    {
-      "title": "Nach Attacke auf saudisches Schiff: Militärbündnis greift Huthi im Jemen an",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-angriffe-100.html"
     },
     {
       "title": "Gordie-Howe-Brücke zwischen Kanada und den USA eröffnet",
@@ -67,18 +79,6 @@
     {
       "title": "Verfassungsgericht kippt pauschalen Aufnahmestopp für Afghanen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bverfg-afghanistan-aufnahme-100.html"
-    },
-    {
-      "title": "Regensburg: Mutmaßlicher Täter war kurz vor der Tat in Polizeigewahrsam",
-      "link": "https://www.tagesschau.de/inland/regensburg-messerangriff-nachklapp-100.html"
-    },
-    {
-      "title": "Polens größte Oppositionspartei spaltet sich",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-pis-morawiecki-100.html"
-    },
-    {
-      "title": "Israelische Siedler gegen Palästinenser: Gewalt im Westjordanland eskaliert",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-palaestinenser-102.html"
     }
   ]
 }
