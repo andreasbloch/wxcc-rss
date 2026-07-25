@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Paramount setzt Warner-Übernahme nach mehreren Klagen aus",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-uebernahme-warner-100.html"
+    },
+    {
       "title": "CSD 2026: Queere Räume in Berlin unter Druck",
       "link": "https://www.tagesschau.de/kultur/queere-orte-in-berlin-kampf-ums-ueberleben-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Israelische Siedler gegen Palästinenser: Gewalt im Westjordanland eskaliert",
       "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-palaestinenser-102.html"
-    },
-    {
-      "title": "Kommentar: Merz' Kabinettsumbau ist ein verstolperter Neuanfang",
-      "link": "https://www.tagesschau.de/kommentar/merz-kabinettumbau-100.html"
     }
   ]
 }
