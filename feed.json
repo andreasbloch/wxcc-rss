@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "Waldbrände in Frankreich: Feuer rückt näher an Bordeaux heran",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-feuer-breitet-sich-aus-bordeaux-100.html"
+    },
+    {
       "title": "CSD-Liveblog: ++ Anschlagsverdacht - Polizei ermittelt mit Fahndungsaufruf ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html"
+    },
+    {
+      "title": "FAQ: Was über den Angriff auf den Berliner CSD bekannt ist",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/anschlag-csd-100.html"
+    },
+    {
+      "title": "Bayreuther Festspiele: Wagners Oper \"Rienzi\" und der NS-Schatten",
+      "link": "https://www.tagesschau.de/kultur/wagners-rienzi-bayreuther-festspiele-100.html"
     },
     {
       "title": "So steht es um die weltweite Aids-Bekämpfung",
@@ -67,18 +79,6 @@
     {
       "title": "Waldbrände in Frankreich: Feuer bewegen sich auf Bordeaux zu",
       "link": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-bordeaux-100.html"
-    },
-    {
-      "title": "Nach Bericht über Air Force One: Trump und kritische Journalisten  - ein \"Stresstest\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-nyt-100.html"
-    },
-    {
-      "title": "Albanien: Kushners Luxusprojekt steht auf der Kippe",
-      "link": "https://www.tagesschau.de/ausland/europa/albanien-flamingo-revolution-kushner-luxus-resort-100.html"
-    },
-    {
-      "title": "Zukünftiger Unionsfraktionschef Frei nennt Panne bei Regierungsumbildung \"Pech\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-reax-frei-100.html"
     }
   ]
 }
