@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Verkehrsminister Schnieder will um Entlassung bitten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schnieder-entlassung-102.html"
+    },
+    {
+      "title": "CSD-Anschlag in Berlin: Bundeskanzler Merz beschwört Zusammenhalt",
+      "link": "https://www.tagesschau.de/inland/anschlag-csd-berlin-reaktionen-100.html"
+    },
+    {
       "title": "Liveblog zu Angriff auf CSD: ++ Bundesanwaltschaft soll Ermittlungen übernehmen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "ARD-Korrespondent: \"Dimensionen, die Frankreich bisher nicht kannte\"",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-102.html"
-    },
-    {
-      "title": "Spanien: Großfeuer bei Madrid sind \"nicht zu löschen\"",
-      "link": "https://www.tagesschau.de/ausland/waldbraende-spanien-122.html"
-    },
-    {
-      "title": "150. Jubiläum der Bayreuther Festspiele mit Polit-Prominenz gestartet",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/bayreuther-festspiele-116.html"
     }
   ]
 }
