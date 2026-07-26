@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Liveblog zu Angriff auf CSD: ++ Fahndung laut Dobrindt mit \"\"sehr hohem\" Einsatz ++",
+      "title": "Liveblog zu Angriff auf CSD: ++ Bundesanwaltschaft soll Ermittlungen übernehmen ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html"
+    },
+    {
+      "title": "FAQ: Was über den Angriff auf den Berliner CSD bekannt ist",
+      "link": "https://www.tagesschau.de/inland/anschlag-csd-100.html"
+    },
+    {
+      "title": "Angriff auf CSD Berlin: Tatverdächtiger polizeibekannter Islamist",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csd-berlin-anschlag-tatverdaechtiger-100.html"
+    },
+    {
+      "title": "Angriff auf CSD: Dobrindt spricht von islamistischem Terroranschlag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-csd-berlin-anschlag-100.html"
     },
     {
       "title": "Volksparteien im Osten: Die Geschichte einer Entfremdung?",
@@ -11,14 +23,6 @@
     {
       "title": "Welt-AIDS-Konferenz: Brasiliens Kampf um neue HIV-Medikamente",
       "link": "https://www.tagesschau.de/ausland/amerika/suedamerika-brasilien-welt-aids-konferenz-100.html"
-    },
-    {
-      "title": "Angriff auf CSD: Dobrindt spricht von islamistischem Terroranschlag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-csd-berlin-anschlag-100.html"
-    },
-    {
-      "title": "FAQ: Was über den Angriff auf den Berliner CSD bekannt ist",
-      "link": "https://www.tagesschau.de/inland/anschlag-csd-100.html"
     },
     {
       "title": "Leben in Iran: Zaghafte Erleichterung und große Unsicherheit",
@@ -75,10 +79,6 @@
     {
       "title": "150. Jubiläum der Bayreuther Festspiele mit Polit-Prominenz gestartet",
       "link": "https://www.tagesschau.de/inland/regional/bayern/bayreuther-festspiele-116.html"
-    },
-    {
-      "title": "Guterres besucht als erster UN-Generalsekretär seit 15 Jahren Syrien",
-      "link": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html"
     }
   ]
 }
