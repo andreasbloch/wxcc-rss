@@ -1,16 +1,48 @@
 {
   "items": [
     {
+      "title": "Liveblog zu CSD-Anschlag: ++ Todesopfer war Mutter aus Polen ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-anschlag-csd-berlin-montag-100.html"
+    },
+    {
+      "title": "CSD-Verein warnt nach Anschlag vor Spaltung und Hass gegen Muslime",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/anschlag-csd-reaktionen-102.html"
+    },
+    {
+      "title": "Feuer in Südeuropa: Brände wüten weiter - Sorge vor neuer Hitze",
+      "link": "https://www.tagesschau.de/ausland/braende-frankreich-spanien-italien-100.html"
+    },
+    {
+      "title": "Falsche Tätervorwürfe in Sozialen Netzwerken nach Anschlag auf CSD",
+      "link": "https://www.tagesschau.de/faktenfinder/berlin-csd-anschlag-fakes-100.html"
+    },
+    {
+      "title": "Chronologie: Islamistischer Terror in Deutschland",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/chronik-islamistischer-terror-deutschland-102.html"
+    },
+    {
+      "title": "Nach CSD-Anschlag: Merz will Bewegungsfreiheit von Gefährdern einschränken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/attentat-csd-berlin-debatte-strafrecht-staatsbuergerschaft-100.html"
+    },
+    {
+      "title": "EU und USA: Leichte Hoffnung auf der Achterbahn",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-usa-turnberry-abkommen-bilanz-100.html"
+    },
+    {
+      "title": "Sparmaßnahmen bei VW-Töchtern Audi und Porsche",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/porsche-betriebsversammlung-einsparungen-audi-prognose-100.html"
+    },
+    {
+      "title": "Nächste Hitzephase für Deutschland kündigt sich an",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-deutschland-148.html"
+    },
+    {
       "title": "Chiphersteller CXMT: Spektakuläres Börsendebüt in China",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boersengang-cxmt-100.html"
     },
     {
       "title": "Hoppermann ist neue CDU-Generalsekretärin",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-hoppermann-generalsekretaerin-100.html"
-    },
-    {
-      "title": "Liveblog zu CSD-Anschlag: ++ Wegner: Todesopfer stammte aus Polen ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-anschlag-csd-berlin-montag-100.html"
     },
     {
       "title": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
@@ -41,44 +73,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-oelpreis-100.html"
     },
     {
-      "title": "FAQ: Was über den Angriff auf den Berliner CSD bekannt ist",
-      "link": "https://www.tagesschau.de/inland/anschlag-csd-100.html"
-    },
-    {
       "title": "Wie der Generalbundesanwalt zum CSD-Anschlag ermittelt",
       "link": "https://www.tagesschau.de/inland/generalbundesanwalt-csd-anschlag-100.html"
     },
     {
       "title": "USA: Mehrere Menschen durch Schüsse bei Fest in Seattle getötet",
       "link": "https://www.tagesschau.de/ausland/amerika/seattle-fest-schuesse-100.html"
-    },
-    {
-      "title": "CSU-Klausurtagung am Rande des Personalkarussells",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-klausurtagung-108.html"
-    },
-    {
-      "title": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-braende-bordeaux-100.html"
-    },
-    {
-      "title": "Anschlag auf CSD Berlin: Tatverdächtiger ist tot",
-      "link": "https://www.tagesschau.de/inland/csd-tatverdaechtiger-polizeieinsatz-100.html"
-    },
-    {
-      "title": "Zehntausende protestieren gegen Massentourismus auf Mallorca",
-      "link": "https://www.tagesschau.de/ausland/europa/mallorca-massentourismus-proteste-100.html"
-    },
-    {
-      "title": "Söder verteidigt Merz' Kabinettsumbau nach Kritik an Hängepartie",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-kabinettsumbau-100.html"
-    },
-    {
-      "title": "Liveblog zu Angriff auf CSD: ++ Dobrindt: \"Keine weitere Gefährdung\" ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html"
-    },
-    {
-      "title": "Steffen Bilger soll neuer Verkehrsminister werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-nachfolge-verkehrsminister-100.html"
     }
   ]
 }
