@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Zehntausende protestieren gegen Massentourismus auf Mallorca",
+      "link": "https://www.tagesschau.de/ausland/europa/mallorca-proteste-106.html"
+    },
+    {
       "title": "Söder verteidigt Merz' Kabinettsumbau nach Kritik an Hängepartie",
       "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-kabinettsumbau-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "So steht es um die weltweite Aids-Bekämpfung",
       "link": "https://www.tagesschau.de/wissen/gesundheit/aids-stand-der-forschung-100.html"
-    },
-    {
-      "title": "So regeln EU-Staaten die Leihmutterschaft",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-leihmutterschaft-100.html"
     }
   ]
 }
