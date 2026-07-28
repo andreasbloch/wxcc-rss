@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Hohe Produktionskosten: Hitze macht italienischen Käse-Herstellern zu schaffen",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-hersteller-kaese-hitze-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX-Rekord bleibt in Reichweite",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreis-100.html"
+    },
+    {
+      "title": "Mercedes erneut mit Gewinneinbruch in Autosparte",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-benz-quartalsergebnis-gewinneinbruch-autosparte-100.html"
+    },
+    {
+      "title": "Hitzewelle schürt Sorge vor Ausbreitung von Waldbränden in Europa",
+      "link": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-120.html"
+    },
+    {
+      "title": "Selenskyj bei Trump: Eine kaum für möglich gehaltene Annäherung",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-bei-trump-100.html"
+    },
+    {
       "title": "KI im Wahlkampf in Israel: \"Wählermanipulation in nie dagewesener Art.\"",
       "link": "https://www.tagesschau.de/ausland/asien/israel-wahlkampf-ki-100.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "CSD-Verein warnt nach Anschlag vor Spaltung und Hass gegen Muslime",
       "link": "https://www.tagesschau.de/inland/innenpolitik/anschlag-csd-reaktionen-102.html"
-    },
-    {
-      "title": "Falsche Tätervorwürfe in Sozialen Netzwerken nach Anschlag auf CSD",
-      "link": "https://www.tagesschau.de/faktenfinder/berlin-csd-anschlag-fakes-100.html"
-    },
-    {
-      "title": "Chronologie: Islamistischer Terror in Deutschland",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/chronik-islamistischer-terror-deutschland-102.html"
-    },
-    {
-      "title": "Nach CSD-Anschlag: Merz will Bewegungsfreiheit von Gefährdern einschränken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/attentat-csd-berlin-debatte-strafrecht-staatsbuergerschaft-100.html"
-    },
-    {
-      "title": "EU und USA: Leichte Hoffnung auf der Achterbahn",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-usa-turnberry-abkommen-bilanz-100.html"
-    },
-    {
-      "title": "Sparmaßnahmen bei VW-Töchtern Audi und Porsche",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/porsche-betriebsversammlung-einsparungen-audi-prognose-100.html"
     }
   ]
 }
