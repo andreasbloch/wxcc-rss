@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Gespräche in Washington: Trump empfängt Selenskyj und Netanjahu",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-netanjahu-102.html"
+    },
+    {
+      "title": "Nach CSD-Attentat: Verschärfungen im Polizei- und Strafrecht machbar?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-forderungen-recht-100.html"
+    },
+    {
       "title": "Messerangriff in Regensburg: Verdächtiger in Psychiatrie verlegt",
       "link": "https://www.tagesschau.de/inland/regional/bayern/messerangriff-regensburg-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Kospi verliert 10,8 Prozent: Halbleiter-Beben in Fernost",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-einbruch-asien-kospi-100.html"
-    },
-    {
-      "title": "Ab heute kann über das Jugendwort des Jahres abgestimmt werden",
-      "link": "https://www.tagesschau.de/kultur/sprache-jugendwort-des-jahres-kandidaten-100.html"
-    },
-    {
-      "title": "Myanmar: Aung San Suu Kyis Familie fordert Lebenszeichen",
-      "link": "https://www.tagesschau.de/ausland/asien/myanmar-wahl-hintergrund-100.html"
     }
   ]
 }
