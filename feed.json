@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Prozess um Anschlag auf ver.di-Demo: Anklage fordert lebenslange Haft",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/prozess-anschlag-verdi-100.html"
+    },
+    {
+      "title": "Probleme in Beziehungen zu USA: Ein Sicherheitsrisiko für Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-belastete-beziehung-100.html"
+    },
+    {
+      "title": "Waldbrände in Europa: Was Reisende jetzt wissen müssen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rechte-reisen-waldbraende-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX behauptet sich in schwierigem Umfeld",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreis-100.html"
+    },
+    {
       "title": "Frankreich und Spanien: Erste Erfolge im Kampf gegen die Waldbrände",
       "link": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-122.html"
     },
@@ -33,10 +49,6 @@
       "link": "https://www.tagesschau.de/ausland/amerika/ueberpruefung-militaerpraesenz-usa-100.html"
     },
     {
-      "title": "Probleme in Beziehungen zu USA: Ein Sicherheitsrisiko für Israel",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-belastete-beziehung-100.html"
-    },
-    {
       "title": "Reaktion auf CSD-Anschlag: \"Queerfeindlichkeit beim Namen nennen\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/interview-csd-alhambra-gesellschaft-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Sparmaßnahmen bei Porsche: Vorerst Erleichterung in Zuffenhausen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/porsche-sparkurs-100.html"
-    },
-    {
-      "title": "Marktbericht: Kurssturz in Südkorea lässt Anleger kalt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreis-100.html"
-    },
-    {
-      "title": "Online-Buchungsrekord für Ferienwohnungen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ferienhaeuser-buchungen-online-100.html"
-    },
-    {
-      "title": "Hitzewelle im Juni sorgte für Rekordabsatz von Wasser und Eis",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verkauf-eis-wasser-hitzewelle-100.html"
     }
   ]
 }
