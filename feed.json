@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Mehrere Tech-Unternehmen haben eine KI-Sicherheitsallianz gegründet",
+      "link": "https://www.tagesschau.de/wirtschaft/ki-sicherheitsallianz-techunternehmen-100.html"
+    },
+    {
       "title": "Dobrindt nach Anschlag auf CSD: \"Präventivhaft für Gefährder zwingend notwendig\"",
       "link": "https://www.tagesschau.de/inland/dobrindt-anschlag-csd-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Hoppermann ist neue CDU-Generalsekretärin",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-hoppermann-generalsekretaerin-100.html"
-    },
-    {
-      "title": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-madrid-100.html"
     }
   ]
 }
