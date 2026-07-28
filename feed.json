@@ -1,12 +1,32 @@
 {
   "items": [
     {
-      "title": "Porsche muss sparen: Vorerst Erleichterung in Zuffenhausen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/porsche-sparkurs-100.html"
+      "title": "Kospi verliert 10,8 Prozent: Halbleiter-Beben in Fernost",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-einbruch-asien-kospi-100.html"
+    },
+    {
+      "title": "Anschlag auf CSD: Bekennervideo auf Handy des mutmaßlichen Attentäters gefunden",
+      "link": "https://www.tagesschau.de/inland/csd-anschlag-bekennervideo-100.html"
+    },
+    {
+      "title": "Erdbeben der Stärke 7,1 erschüttert Südwesten Japans",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-158.html"
+    },
+    {
+      "title": "Ab heute kann über das Jugendwort des Jahres abgestimmt werden",
+      "link": "https://www.tagesschau.de/kultur/sprache-jugendwort-des-jahres-kandidaten-100.html"
+    },
+    {
+      "title": "Myanmar: Aung San Suu Kyis Familie fordert Lebenszeichen",
+      "link": "https://www.tagesschau.de/ausland/asien/myanmar-wahl-hintergrund-100.html"
     },
     {
       "title": "Debatte nach Anschlag auf CSD: Fußfessel oder Präventivhaft für Gefährder?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-debatte-csu-spd-strafrecht-bka-100.html"
+    },
+    {
+      "title": "Sparmaßnahmen bei Porsche: Vorerst Erleichterung in Zuffenhausen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/porsche-sparkurs-100.html"
     },
     {
       "title": "Marktbericht: Kurssturz in Südkorea lässt Anleger kalt",
@@ -17,7 +37,7 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ferienhaeuser-buchungen-online-100.html"
     },
     {
-      "title": "Hitzewelle sorgt für Rekordabsatz von Wasser und Eis",
+      "title": "Hitzewelle im Juni sorgte für Rekordabsatz von Wasser und Eis",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verkauf-eis-wasser-hitzewelle-100.html"
     },
     {
@@ -54,31 +74,11 @@
     },
     {
       "title": "Mehrere Tech-Unternehmen haben eine KI-Sicherheitsallianz gegründet",
-      "link": "https://www.tagesschau.de/wirtschaft/ki-sicherheitsallianz-techunternehmen-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-sicherheitsallianz-techunternehmen-100.html"
     },
     {
       "title": "Dobrindt nach Anschlag auf CSD: \"Präventivhaft für Gefährder zwingend notwendig\"",
       "link": "https://www.tagesschau.de/inland/dobrindt-anschlag-csd-100.html"
-    },
-    {
-      "title": "Großbritannien: Burnham empfängt Selenskyj - erster ausländischer Besucher",
-      "link": "https://www.tagesschau.de/ausland/gb-ukraine-usa-selenskyj-100.html"
-    },
-    {
-      "title": "Liveblog zu Anschlag auf CSD: ++ Polizei verstärkt Schutz für CSD Hamburg ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-anschlag-csd-berlin-montag-100.html"
-    },
-    {
-      "title": "Kabinettsumbau sorgt für Ärger mit CDU-Fraktion in Rheinland-Pfalz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-schnieder-rheinland-pfalz-100.html"
-    },
-    {
-      "title": "Marktbericht: Günstiger Nachrichtenmix treibt DAX an",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-oelpreis-100.html"
-    },
-    {
-      "title": "Feuer in Südeuropa: Brände wüten weiter - Sorge vor neuer Hitze",
-      "link": "https://www.tagesschau.de/ausland/braende-frankreich-spanien-italien-100.html"
     }
   ]
 }
