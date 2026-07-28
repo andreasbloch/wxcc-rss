@@ -1,8 +1,24 @@
 {
   "items": [
     {
+      "title": "Frankreich und Spanien: Erste Erfolge im Kampf gegen die Waldbrände",
+      "link": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-122.html"
+    },
+    {
       "title": "Deutschland schiebt erneut Menschen nach Afghanistan ab",
       "link": "https://www.tagesschau.de/inland/innenpolitik/abschiebeflug-afghanen-102.html"
+    },
+    {
+      "title": "Erdbeben der Stärke 7,1 erschüttert Südwesten Japans",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-158.html"
+    },
+    {
+      "title": "CSU-Landesgruppe: Eine Klausurtagung im Schatten von Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-landesgruppe-kabinettsumbildung-100.html"
+    },
+    {
+      "title": "Prekäre Bedingungen für Erntehelfer: EU-Sanktionen greifen kaum",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/erntehelfer-128.html"
     },
     {
       "title": "Anschlag auf CSD: Bekennervideo auf Handy des mutmaßlichen Täters gefunden",
@@ -41,10 +57,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-einbruch-asien-kospi-100.html"
     },
     {
-      "title": "Erdbeben der Stärke 7,1 erschüttert Südwesten Japans",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-158.html"
-    },
-    {
       "title": "Ab heute kann über das Jugendwort des Jahres abgestimmt werden",
       "link": "https://www.tagesschau.de/kultur/sprache-jugendwort-des-jahres-kandidaten-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Hitzewelle im Juni sorgte für Rekordabsatz von Wasser und Eis",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verkauf-eis-wasser-hitzewelle-100.html"
-    },
-    {
-      "title": "Waldbrände in Europa - Warum wüten die Feuer diesmal so heftig?",
-      "link": "https://www.tagesschau.de/ausland/europa/braende-europa-frankreich-spanien-faq-100.html"
-    },
-    {
-      "title": "Hohe Produktionskosten: Hitze macht italienischen Käse-Herstellern zu schaffen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/italien-hersteller-kaese-hitze-100.html"
-    },
-    {
-      "title": "Mercedes erneut mit Gewinneinbruch in Autosparte",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-benz-quartalsergebnis-gewinneinbruch-autosparte-100.html"
     }
   ]
 }
