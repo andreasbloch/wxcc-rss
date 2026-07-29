@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Steinmeier ernennt Warken, Bilger und Linnemann zu Ministern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-umbildung-ernennung-minister-100.html"
+    },
+    {
+      "title": "Neue Hitzewelle hat Deutschland im Griff - schwere Gewitter erwartet",
+      "link": "https://www.tagesschau.de/inland/wetter-hitze-138.html"
+    },
+    {
+      "title": "Kommentar: Die Fraktion steht noch, der Kanzler wackelt",
+      "link": "https://www.tagesschau.de/kommentar/kabinettsumbau-merz-100.html"
+    },
+    {
+      "title": "Irischer Musiker Glen Hansard bei Motorradunfall gestorben",
+      "link": "https://www.tagesschau.de/kultur/glenhansard-motorradunfall-100.html"
+    },
+    {
+      "title": "Disziplinarverfahren gegen Münchens Ex-Oberbürgermeister Reiter beendet",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/br-disziplinarverfahren-gegen-muenchens-alt-ob-reiter-eingestellt-102.html"
+    },
+    {
+      "title": "Faktenfinder: Falschbehauptungen über Waldbrände in Südeuropa",
+      "link": "https://www.tagesschau.de/faktenfinder/waldbraende-falschbehauptungen-102.html"
+    },
+    {
+      "title": "Wie Extremwetter zum Risiko für Festivals wird",
+      "link": "https://www.tagesschau.de/kultur/open-air-festivals-extremwetter-100.html"
+    },
+    {
       "title": "Frei zum Vorsitzenden der Unionsfraktion gewählt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/frei-wahl-fraktionschef-100.html"
     },
@@ -41,10 +69,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-stellenabbau-104.html"
     },
     {
-      "title": "Steinmeier ernennt Warken, Bilger und Linnemann zu Ministern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-umbildung-ernennung-minister-100.html"
-    },
-    {
       "title": "BASF kommt beim Konzernumbau voran - Aktie im Plus",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-basf-quartalszahlen-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Berliner Justiz wehrt sich gegen Kritik nach CSD-Anschlag",
       "link": "https://www.tagesschau.de/inland/innenpolitik/berliner-justiz-kritik-csd-anschlag-100.html"
-    },
-    {
-      "title": "Zwei Todesfälle in Deutschland durch Vibrionen-Infektion",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/tote-nach-vibrionen-infektion-100.html"
-    },
-    {
-      "title": "Zahl der Toten in Japan steigt auf mindestens 18",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-172.html"
-    },
-    {
-      "title": "Hintergrund zur Kabinettsumbildung: Drei Entlassungen, drei Ernennungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-warken-linnemann-bilger-100.html"
-    },
-    {
-      "title": "Ernennung und Vereidigung: Wann ist ein Minister ein Minister?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ernennung-minister-union-100.html"
-    },
-    {
-      "title": "Feuer bei Bordeaux: Was die freiwilligen Helfer im Brandgebiet leisten",
-      "link": "https://www.tagesschau.de/ausland/europa/brand-frankreich-100.html"
-    },
-    {
-      "title": "Staat tief im Minus: Schulden steigen auf 2.662,2 Milliarden Euro",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/verschuldung-anstieg-pro-kopf-100.html"
     }
   ]
 }
