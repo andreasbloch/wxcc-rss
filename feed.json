@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Militär wehrt offenbar Raketen aus Iran ab",
+      "link": "https://www.tagesschau.de/ausland/asien/nahost-iran-100.html"
+    },
+    {
       "title": "Gespräche in Washington: Trump empfängt Selenskyj und Netanjahu",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-netanjahu-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Hitzewelle schürt Sorge vor Ausbreitung von Waldbränden in Europa",
       "link": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-120.html"
-    },
-    {
-      "title": "Kospi verliert 10,8 Prozent: Halbleiter-Beben in Fernost",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-einbruch-asien-kospi-100.html"
     }
   ]
 }
