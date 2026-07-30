@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Medienberichte: Bahn erstmals seit sieben Jahren mit Gewinn",
+      "link": "https://www.tagesschau.de/wirtschaft/deutsche-bahn-gewinn-100.html"
+    },
+    {
       "title": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
       "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Autobauer in der Krise: Warum auch BMW jetzt viele Stellen streicht",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-sparprogramm-102.html"
-    },
-    {
-      "title": "CDU-Personalumbau: Was wird aus dem Unmut über Merz?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/union-fraktion-vorsitz-cdu-100.html"
     }
   ]
 }
