@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Recht auf Reparatur: Neue Pflichten für Händler und Verkäufer",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-recht-reparatur-102.html"
+    },
+    {
       "title": "Ankunft zahlreicher Migranten: Spanien entsendet Soldaten in Exklave Ceuta",
       "link": "https://www.tagesschau.de/ausland/ceuta-migration-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Russische Rakete über Polen abgestürzt?",
       "link": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html"
-    },
-    {
-      "title": "Adidas enttäuscht die Börse trotz starken WM-Geschäfts",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/mittags-mb-donnerstag-100.html"
     }
   ]
 }
