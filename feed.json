@@ -1,8 +1,32 @@
 {
   "items": [
     {
-      "title": "Russland greift ukrainische Städte Kiew und Lwiw an",
+      "title": "Mehr Tote nach Erdbeben in Japan, Hoffnung auf Überlebende schwindet",
+      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-174.html"
+    },
+    {
+      "title": "Marktbericht: Anleger grübeln über Fed-Zinsentscheid nach",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-dow-ki-blase-100.html"
+    },
+    {
+      "title": "Ab heute sind die Ressourcen der Erde aufgebraucht",
+      "link": "https://www.tagesschau.de/wissen/klima/erdueberlastungstag-ressourcenverbrauch-weltweit-100.html"
+    },
+    {
+      "title": "Städtetag fordert Milliardensummen für Klimaanpassung",
+      "link": "https://www.tagesschau.de/inland/staedtetag-fordert-milliarden-fuer-hitzeschutze-100.html"
+    },
+    {
+      "title": "Russland greift Ukraine landesweit mit Raketen an",
       "link": "https://www.tagesschau.de/ausland/europa/russische-angriffe-ukraine-106.html"
+    },
+    {
+      "title": "Rumänien: Mit Kampfjets und Diplomatie gegen russische Drohnen",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnen-100.html"
+    },
+    {
+      "title": "Einkommen im Alter: Warum Ängste Aktiensparen verhindern",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/aktien-anlage-alterssicherung-100.html"
     },
     {
       "title": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
@@ -21,8 +45,8 @@
       "link": "https://www.tagesschau.de/inland/bilger-union-verkehrsministerium-100.html"
     },
     {
-      "title": "Personalumbau in der CDU: Merz hat jetzt kein Schutzschild mehr",
-      "link": "https://www.tagesschau.de/analyse-cdu-personalumbau-100.html"
+      "title": "Personalumbau in der CDU: Merz hat jetzt keinen Schutzschild mehr",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-cdu-personalumbau-100.html"
     },
     {
       "title": "US-Notenbank Fed lässt Zinssatz erneut unverändert",
@@ -55,30 +79,6 @@
     {
       "title": "Marktbericht: Gute Quartalszahlen grenzen DAX-Verluste ein",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreis-102.html"
-    },
-    {
-      "title": "Neue Hitzewelle hat Deutschland im Griff - schwere Gewitter erwartet",
-      "link": "https://www.tagesschau.de/inland/wetter-hitze-138.html"
-    },
-    {
-      "title": "Kommentar: Die Fraktion steht noch, der Kanzler wackelt",
-      "link": "https://www.tagesschau.de/kommentar/kabinettsumbau-merz-100.html"
-    },
-    {
-      "title": "Irischer Musiker Glen Hansard bei Motorradunfall gestorben",
-      "link": "https://www.tagesschau.de/kultur/glenhansard-motorradunfall-100.html"
-    },
-    {
-      "title": "Disziplinarverfahren gegen Münchens Ex-Oberbürgermeister Reiter beendet",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/br-disziplinarverfahren-gegen-muenchens-alt-ob-reiter-eingestellt-102.html"
-    },
-    {
-      "title": "Faktenfinder: Falschbehauptungen über Waldbrände in Südeuropa",
-      "link": "https://www.tagesschau.de/faktenfinder/waldbraende-falschbehauptungen-102.html"
-    },
-    {
-      "title": "Wie Extremwetter zum Risiko für Festivals wird",
-      "link": "https://www.tagesschau.de/kultur/open-air-festivals-extremwetter-100.html"
     }
   ]
 }
