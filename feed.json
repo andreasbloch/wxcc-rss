@@ -1,8 +1,28 @@
 {
   "items": [
     {
+      "title": "Neuer Streit zwischen USA und China wegen humanoider Roboter",
+      "link": "https://www.tagesschau.de/ausland/asien/china-roboter-102.html"
+    },
+    {
+      "title": "El Niño und Waldbrände: Warum die Feuergefahr steigt",
+      "link": "https://www.tagesschau.de/wissen/el-nino-waldbraende-100.html"
+    },
+    {
+      "title": "BGH betont strenge Regeln für Ärzte-Siegel",
+      "link": "https://www.tagesschau.de/inland/bgh-urteil-focus-aerzte-siegel-100.html"
+    },
+    {
+      "title": "Mehr als 1.500 Tote durch Ebola-Ausbruch in Demokratischer Republik Kongo",
+      "link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-ausbruch-100.html"
+    },
+    {
       "title": "Russische Rakete über Polen abgestürzt?",
       "link": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html"
+    },
+    {
+      "title": "Adidas enttäuscht die Börse trotz starken WM-Geschäfts",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/mittags-mb-donnerstag-100.html"
     },
     {
       "title": "Brand auf US-Tanker in Ägypten - Drohne offenbar Auslöser",
@@ -59,26 +79,6 @@
     {
       "title": "Nach Anschlag auf CSD: Demo \"Zug der Liebe\" in Berlin abgesagt",
       "link": "https://www.tagesschau.de/inland/regional/berlin/zug-der-liebe-abgesagt-100.html"
-    },
-    {
-      "title": "Russland greift Ukraine landesweit mit Raketen an",
-      "link": "https://www.tagesschau.de/ausland/europa/russische-angriffe-ukraine-106.html"
-    },
-    {
-      "title": "BMW-Gewinn bricht ein: Die Krise der deutschen Autobauer",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ueberblick-autobauer-krise-probleme-sparmassnahmen-100.html"
-    },
-    {
-      "title": "Horn von Afrika: Im Schatten des Iran-Kriegs erstarkt die Piraterie",
-      "link": "https://www.tagesschau.de/ausland/afrika/somalia-erstarken-piraterie-100.html"
-    },
-    {
-      "title": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
-      "link": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html"
-    },
-    {
-      "title": "Mehr Tote nach Erdbeben in Japan, Hoffnung auf Überlebende schwindet",
-      "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-174.html"
     }
   ]
 }
