@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Niedrige Flusspegel: Mehrere Länder drosseln Produktion von Atomstrom",
+      "link": "https://www.tagesschau.de/ausland/europa/donau-pegel-atomstrom-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX ohne klaren Trend",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-dow-ki-blase-100.html"
+    },
+    {
+      "title": "Warum Paare ihre Kinder von Leihmüttern in Mexiko austragen lassen",
+      "link": "https://www.tagesschau.de/ausland/amerika/leihmutterschaft-mexiko-100.html"
+    },
+    {
       "title": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
       "link": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Deutsche Wirtschaft mit Mini-Wachstum",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-wirtschaftswachstum-deutschland-100.html"
-    },
-    {
-      "title": "Terrormiliz: \"Der IS setzt auf das Scheitern Syriens\"",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-staerke-is-100.html"
-    },
-    {
-      "title": "Laut RKI: 2026 bereits fast 10.000 Menschen wegen Hitze gestorben",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-sterbefaelle-100.html"
-    },
-    {
-      "title": "VW-Rivale Stellantis verdreifacht operativen Gewinn",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stellantis-opel-gewinnplus-100.html"
     }
   ]
 }
