@@ -1,12 +1,44 @@
 {
   "items": [
     {
-      "title": "VW-Rivale Stellantis verdreifacht operativen Gewinn",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stellantis-opel-gewinnplus-100.html"
-    },
-    {
       "title": "Russische Rakete über Polen abgestürzt?",
       "link": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html"
+    },
+    {
+      "title": "Brand auf US-Tanker in Ägypten - Drohne offenbar Auslöser",
+      "link": "https://www.tagesschau.de/ausland/afrika/drohnenangriff-aegypten-100.html"
+    },
+    {
+      "title": "Lückenhafte Kontrollen gegen Schleuserkriminalität in Großstädten",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-wohnungsanmeldungen-100.html"
+    },
+    {
+      "title": "Frankreich und Spanien melden leichte Entspannung bei Waldbränden",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-128.html"
+    },
+    {
+      "title": "Deutsche Wirtschaft mit Mini-Wachstum",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-wirtschaftswachstum-deutschland-100.html"
+    },
+    {
+      "title": "Terrormiliz: \"Der IS setzt auf das Scheitern Syriens\"",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-staerke-is-100.html"
+    },
+    {
+      "title": "Laut RKI: 2026 bereits fast 10.000 Menschen wegen Hitze gestorben",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-sterbefaelle-100.html"
+    },
+    {
+      "title": "Bahn erstmals seit sieben Jahren mit Gewinn",
+      "link": "https://www.tagesschau.de/wirtschaft/deutsche-bahn-gewinn-100.html"
+    },
+    {
+      "title": "Kräftige Gewitter und Sturmböen nach Hitze erwartet",
+      "link": "https://www.tagesschau.de/inland/hitze-und-unwetterwarnung-100.html"
+    },
+    {
+      "title": "VW-Rivale Stellantis verdreifacht operativen Gewinn",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stellantis-opel-gewinnplus-100.html"
     },
     {
       "title": "Erdüberlastungstag - wie belastbar sind die Zahlen?",
@@ -47,38 +79,6 @@
     {
       "title": "Mehr Tote nach Erdbeben in Japan, Hoffnung auf Überlebende schwindet",
       "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-174.html"
-    },
-    {
-      "title": "Ab heute sind die Ressourcen der Erde aufgebraucht",
-      "link": "https://www.tagesschau.de/wissen/klima/erdueberlastungstag-ressourcenverbrauch-weltweit-100.html"
-    },
-    {
-      "title": "Städtetag fordert Milliardensummen für Klimaanpassung",
-      "link": "https://www.tagesschau.de/inland/staedtetag-fordert-milliarden-fuer-hitzeschutze-100.html"
-    },
-    {
-      "title": "Rumänien: Mit Kampfjets und Diplomatie gegen russische Drohnen",
-      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnen-100.html"
-    },
-    {
-      "title": "Einkommen im Alter: Warum Ängste Aktiensparen verhindern",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/aktien-anlage-alterssicherung-100.html"
-    },
-    {
-      "title": "Medienberichte: Bahn erstmals seit sieben Jahren mit Gewinn",
-      "link": "https://www.tagesschau.de/wirtschaft/deutsche-bahn-gewinn-100.html"
-    },
-    {
-      "title": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html"
-    },
-    {
-      "title": "Bilger: Stimmung in der Union und Pläne im Verkehrsministerium",
-      "link": "https://www.tagesschau.de/inland/bilger-union-verkehrsministerium-100.html"
-    },
-    {
-      "title": "Personalumbau in der CDU: Merz hat jetzt keinen Schutzschild mehr",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-cdu-personalumbau-100.html"
     }
   ]
 }
