@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Russland greift ukrainische Städte Kiew und Lwiw an",
+      "link": "https://www.tagesschau.de/ausland/europa/russische-angriffe-ukraine-106.html"
+    },
+    {
+      "title": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
+      "link": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html"
+    },
+    {
       "title": "Medienberichte: Bahn erstmals seit sieben Jahren mit Gewinn",
       "link": "https://www.tagesschau.de/wirtschaft/deutsche-bahn-gewinn-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Wie Extremwetter zum Risiko für Festivals wird",
       "link": "https://www.tagesschau.de/kultur/open-air-festivals-extremwetter-100.html"
-    },
-    {
-      "title": "Nach CSD-Anschlag: Prien will Programme gegen Radikalisierung stärken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-radikalisierung-100.html"
-    },
-    {
-      "title": "Autobauer in der Krise: Warum auch BMW jetzt viele Stellen streicht",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-sparprogramm-102.html"
     }
   ]
 }
