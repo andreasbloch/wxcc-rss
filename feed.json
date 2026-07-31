@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Langzeitstudie zu Frühchen - wie gut holen sie im Leben auf?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/fruehgeborene-studie-langzeit-entwicklung-100.html"
+    },
+    {
+      "title": "Trump-Plan für Gaza: Skepsis in Israel und bei Palästinensern",
+      "link": "https://www.tagesschau.de/ausland/gaza-abkommen-hamas-100.html"
+    },
+    {
+      "title": "Marktbericht: KI-Hoffnung stützt den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html"
+    },
+    {
+      "title": "UN-Generalsekretär Guterres fordert neue Zypern-Gespräche",
+      "link": "https://www.tagesschau.de/ausland/europa/guterres-fordert-neue-un-gespraeche-zypern-100.html"
+    },
+    {
+      "title": "Wie \"Rave the Planet\" die Loveparade weiterdenkt",
+      "link": "https://www.tagesschau.de/kultur/loveparade-revival-rave-the-planet-100.html"
+    },
+    {
       "title": "Dobrindt will Grenzkontrollen in Deutschland verlängern",
       "link": "https://www.tagesschau.de/inland/dobrindt-grenzkontrollen-116.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Medien berichten von mehr als 40.000 Migranten in Ceuta",
       "link": "https://www.tagesschau.de/ausland/europa/migration-ceuta-100.html"
-    },
-    {
-      "title": "Neues Ausbildungsjahr beginnt: Wie KI das Handwerk stärkt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-kuenstliche-intelligenz-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX hängt wenige Punkte unter Allzeithoch fest",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html"
-    },
-    {
-      "title": "Zahl der Arbeitslosen steigt im Juli über drei Millionen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/arbeitslose-zahlen-juli-100.html"
-    },
-    {
-      "title": "Halbleiter unter Druck: Drei Gefahren für den KI-Boom",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/halbleiter-chip-kurssturz-ki-china-100.html"
-    },
-    {
-      "title": "Die Verbindungen des CSD-Attentäters nach Mauretanien",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/csd-attentaeter-mauretanien-100.html"
     }
   ]
 }
