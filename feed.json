@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Der verzweifelte Kampf der Feuerwehr und Freiwilliger in der Gironde",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-106.html"
+    },
+    {
+      "title": "Studie belegt den Einfluss des Klimawandels auf Feuerwetter",
+      "link": "https://www.tagesschau.de/wissen/klima/klimawandel-waldbraende-100.html"
+    },
+    {
       "title": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
       "link": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "El Niño und Waldbrände: Warum die Feuergefahr steigt",
       "link": "https://www.tagesschau.de/wissen/el-nino-waldbraende-100.html"
-    },
-    {
-      "title": "BGH betont strenge Regeln für Ärzte-Siegel",
-      "link": "https://www.tagesschau.de/inland/bgh-urteil-focus-aerzte-siegel-100.html"
-    },
-    {
-      "title": "Mehr als 1.500 Tote durch Ebola-Ausbruch in Demokratischer Republik Kongo",
-      "link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-ausbruch-100.html"
     }
   ]
 }
