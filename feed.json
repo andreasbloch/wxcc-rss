@@ -1,20 +1,32 @@
 {
   "items": [
     {
-      "title": "Ein weiterer Schritt Richtung Frieden in Gaza?",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-hamas-israel-104.html"
+      "title": "GEMA vs. Suno: KI-Firma darf Melodien nicht ungefragt nutzen",
+      "link": "https://www.tagesschau.de/kultur/urteil-gema-vs-suno-100.html"
     },
     {
       "title": "Spanische Exklave in Nordafrika: EU bietet Spanien Hilfe in Ceuta an",
       "link": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-100.html"
     },
     {
-      "title": "Debatte über Fünf-Prozent-Hürde: Ist die Sperrklausel noch zeitgemäß?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-sperrklausel-wahlen-100.html"
+      "title": "Nach Berlin-Anschlag: Wie bereiten sich die kommenden CSD-Paraden vor?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/csd-sicherheit-100.html"
     },
     {
       "title": "Verbraucherpreise: Inflation in der Eurozone steigt im Juli leicht",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-juli-100.html"
+    },
+    {
+      "title": "Kretschmer kündigt Ablehnung der Rentenreform im Bundesrat an",
+      "link": "https://www.tagesschau.de/inland/kritik-osten-rentenplaene-100.html"
+    },
+    {
+      "title": "Ein weiterer Schritt Richtung Frieden in Gaza?",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-hamas-israel-104.html"
+    },
+    {
+      "title": "Debatte über Fünf-Prozent-Hürde: Ist die Sperrklausel noch zeitgemäß?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-sperrklausel-wahlen-100.html"
     },
     {
       "title": "Verwirrung über von Trump verkündete Gaza-Einigung",
@@ -53,10 +65,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/waldbrand-kreta-108.html"
     },
     {
-      "title": "Kretschmer kündigt Ablehnung der Rentenreform im Bundesrat an",
-      "link": "https://www.tagesschau.de/inland/kritik-osten-rentenplaene-100.html"
-    },
-    {
       "title": "Der verzweifelte Kampf der Feuerwehr und Freiwilliger in der Gironde",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-106.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Recht auf Reparatur: Neue Pflichten für Händler und Verkäufer",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-recht-reparatur-102.html"
-    },
-    {
-      "title": "Ankunft zahlreicher Migranten: Spanien entsendet Soldaten in Exklave Ceuta",
-      "link": "https://www.tagesschau.de/ausland/ceuta-migration-102.html"
-    },
-    {
-      "title": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
-      "link": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html"
     }
   ]
 }
