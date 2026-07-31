@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Bei Testläufen: Anthropic-KI greift eigenständig Unternehmen an",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-ki-angriff-unternehmen-100.html"
+    },
+    {
+      "title": "Nach Ankunft vieler Migranten: Sánchez reist nach Ceuta",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-sanchez-100.html"
+    },
+    {
+      "title": "Waldbrände in Südeuropa: Starker Wind macht Lage auf Kreta unkontrollierbar",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-kreta-108.html"
+    },
+    {
+      "title": "Kretschmer kündigt Ablehnung der Rentenreform im Bundesrat an",
+      "link": "https://www.tagesschau.de/inland/kritik-osten-rentenplaene-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX könnte wieder Kurs Richtung Rekord nehmen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html"
+    },
+    {
       "title": "Der verzweifelte Kampf der Feuerwehr und Freiwilliger in der Gironde",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-106.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Verhindert Israel humanitäre Hilfe im Gazastreifen?",
       "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-humanitaere-hilfe-100.html"
-    },
-    {
-      "title": "Die Verbindungen des CSD-Attentäters nach Mauretanien",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/csd-attentaeter-mauretanien-100.html"
-    },
-    {
-      "title": "Inflation im Juli auf voraussichtlich 2,8 Prozent gestiegen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-juli-102.html"
-    },
-    {
-      "title": "Welche Themen bewegen Deutschland? Machen Sie mit bei \"ARD - Deine Meinung zählt\"",
-      "link": "https://www.tagesschau.de/ard-deine-meinung-zaehlt-106.html"
-    },
-    {
-      "title": "Neuer Streit zwischen USA und China wegen humanoider Roboter",
-      "link": "https://www.tagesschau.de/ausland/asien/china-roboter-102.html"
-    },
-    {
-      "title": "El Niño und Waldbrände: Warum die Feuergefahr steigt",
-      "link": "https://www.tagesschau.de/wissen/el-nino-waldbraende-100.html"
     }
   ]
 }
