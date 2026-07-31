@@ -1,8 +1,48 @@
 {
   "items": [
     {
-      "title": "Bei Testläufen: Anthropic-KI greift eigenständig Unternehmen an",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-ki-angriff-unternehmen-100.html"
+      "title": "Ein weiterer Schritt Richtung Frieden in Gaza?",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-hamas-israel-104.html"
+    },
+    {
+      "title": "Spanische Exklave in Nordafrika: EU bietet Spanien Hilfe in Ceuta an",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-100.html"
+    },
+    {
+      "title": "Debatte über Fünf-Prozent-Hürde: Ist die Sperrklausel noch zeitgemäß?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-sperrklausel-wahlen-100.html"
+    },
+    {
+      "title": "Verbraucherpreise: Inflation in der Eurozone steigt im Juli leicht",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-juli-100.html"
+    },
+    {
+      "title": "Verwirrung über von Trump verkündete Gaza-Einigung",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-hamas-150.html"
+    },
+    {
+      "title": "Medien berichten von mehr als 40.000 Migranten in Ceuta",
+      "link": "https://www.tagesschau.de/ausland/europa/migration-ceuta-100.html"
+    },
+    {
+      "title": "Neues Ausbildungsjahr beginnt: Wie KI das Handwerk stärkt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-kuenstliche-intelligenz-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX hängt wenige Punkte unter Allzeithoch fest",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html"
+    },
+    {
+      "title": "Zahl der Arbeitslosen steigt im Juli über drei Millionen",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/arbeitslose-zahlen-juli-100.html"
+    },
+    {
+      "title": "Halbleiter unter Druck: Drei Gefahren für den KI-Boom",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/halbleiter-chip-kurssturz-ki-china-100.html"
+    },
+    {
+      "title": "Die Verbindungen des CSD-Attentäters nach Mauretanien",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/csd-attentaeter-mauretanien-100.html"
     },
     {
       "title": "Nach Ankunft vieler Migranten: Sánchez reist nach Ceuta",
@@ -15,10 +55,6 @@
     {
       "title": "Kretschmer kündigt Ablehnung der Rentenreform im Bundesrat an",
       "link": "https://www.tagesschau.de/inland/kritik-osten-rentenplaene-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX könnte wieder Kurs Richtung Rekord nehmen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html"
     },
     {
       "title": "Der verzweifelte Kampf der Feuerwehr und Freiwilliger in der Gironde",
@@ -43,42 +79,6 @@
     {
       "title": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
       "link": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html"
-    },
-    {
-      "title": "Niedrige Flusspegel: Mehrere Länder drosseln Produktion von Atomstrom",
-      "link": "https://www.tagesschau.de/ausland/europa/donau-pegel-atomstrom-100.html"
-    },
-    {
-      "title": "40-Grad-Marke erneut geknackt - Abkühlung nach Gewittern",
-      "link": "https://www.tagesschau.de/inland/unwetter-hitzewelle-100.html"
-    },
-    {
-      "title": "Deutsche Bahn mit Gewinn, doch die Baustellen bleiben",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-schiene-verkehrsminister-100.html"
-    },
-    {
-      "title": "Warum Paare ihre Kinder von Leihmüttern in Mexiko austragen lassen",
-      "link": "https://www.tagesschau.de/ausland/amerika/leihmutterschaft-mexiko-100.html"
-    },
-    {
-      "title": "Hamburger Datenschutzbeauftragter: Verbot von Meta Glasses möglich",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/smart-glasses-verbot-100.html"
-    },
-    {
-      "title": "Rakete in Polens Luftraum alarmiert NATO",
-      "link": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX ohne klaren Trend",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-dow-ki-blase-100.html"
-    },
-    {
-      "title": "Kräftige Gewitter und Sturmböen nach Hitze erwartet",
-      "link": "https://www.tagesschau.de/inland/hitze-und-unwetterwarnung-100.html"
-    },
-    {
-      "title": "Verhindert Israel humanitäre Hilfe im Gazastreifen?",
-      "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-humanitaere-hilfe-100.html"
     }
   ]
 }
