@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Toter bei Unwetter in Sachsen - Gewitter in mehreren Regionen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html"
+    },
+    {
       "title": "Erdbeben der Stärke 4,7 erschüttert Region um Neapel",
       "link": "https://www.tagesschau.de/ausland/europa/erdbeben-italien-268.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Verbraucherpreise: Inflation in der Eurozone steigt im Juli leicht",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-juli-100.html"
-    },
-    {
-      "title": "Kretschmer kündigt Ablehnung der Rentenreform im Bundesrat an",
-      "link": "https://www.tagesschau.de/inland/kritik-osten-rentenplaene-100.html"
     }
   ]
 }
