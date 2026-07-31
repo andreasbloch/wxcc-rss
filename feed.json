@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Erdbeben der Stärke 4,7 erschüttert Region um Neapel",
+      "link": "https://www.tagesschau.de/ausland/europa/erdbeben-italien-268.html"
+    },
+    {
       "title": "Migranten in Ceuta: Italien setzt Schengen-Abkommen mit Spanien aus",
       "link": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kretschmer kündigt Ablehnung der Rentenreform im Bundesrat an",
       "link": "https://www.tagesschau.de/inland/kritik-osten-rentenplaene-100.html"
-    },
-    {
-      "title": "Debatte über Fünf-Prozent-Hürde: Ist die Sperrklausel noch zeitgemäß?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-sperrklausel-wahlen-100.html"
     }
   ]
 }
