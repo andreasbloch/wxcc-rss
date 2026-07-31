@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html"
+    },
+    {
       "title": "Recht auf Reparatur: Neue Pflichten für Händler und Verkäufer",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-recht-reparatur-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Mehr als 1.500 Tote durch Ebola-Ausbruch in Demokratischer Republik Kongo",
       "link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-ausbruch-100.html"
-    },
-    {
-      "title": "Russische Rakete über Polen abgestürzt?",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-flugobjekt-102.html"
     }
   ]
 }
