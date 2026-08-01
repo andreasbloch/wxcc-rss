@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
+      "link": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html"
+    },
+    {
       "title": "Extrembergsteiger Nirmal Purja stirbt am Broad Peak",
       "link": "https://www.tagesschau.de/ausland/nepal-bergsteiger-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Hitze stellt Landwirte beim Salatanbau vor neue Herausforderungen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/salatanbau-hitze-100.html"
-    },
-    {
-      "title": "Kampf gegen Dengue in Brasilien: 190 Millionen Mücken pro Woche",
-      "link": "https://www.tagesschau.de/ausland/amerika/mueckenfabrik-brasilien-100.html"
     }
   ]
 }
