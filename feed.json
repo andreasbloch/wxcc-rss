@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "SPD und Union streiten über Rente nach 45 Beitragsjahren",
+      "link": "https://www.tagesschau.de/inland/rentenreform-vorschlag-cdu-reaktionen-100.html"
+    },
+    {
+      "title": "Rekord-Niedrigwasser im Rhein belastet Binnenschifffahrt in NRW",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/niedrigwasser-rhein-104.html"
+    },
+    {
       "title": "Nach Ansturm auf Ceuta: Migranten kehren zurück, Europa diskutiert",
       "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Langzeitstudie zu Frühchen - wie gut holen sie im Leben auf?",
       "link": "https://www.tagesschau.de/wissen/gesundheit/fruehgeborene-studie-langzeit-entwicklung-100.html"
-    },
-    {
-      "title": "Trump-Plan für Gaza: Skepsis in Israel und bei Palästinensern",
-      "link": "https://www.tagesschau.de/ausland/gaza-abkommen-hamas-100.html"
-    },
-    {
-      "title": "Marktbericht: KI-Hoffnung stützt den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html"
     }
   ]
 }
