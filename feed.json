@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Neue Waldbrände in Griechenland ausgebrochen",
+      "link": "https://www.tagesschau.de/ausland/europa/walbraende-griechenland-100.html"
+    },
+    {
+      "title": "Erneut russischer Angriff auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html"
+    },
+    {
       "title": "Kommentar: Marokko setzt die Not seiner Bevölkerung als Druckmittel ein",
       "link": "https://www.tagesschau.de/kommentar/kommentar-ceuta-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Ein weiterer Schritt Richtung Frieden in Gaza?",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-hamas-israel-104.html"
-    },
-    {
-      "title": "Inzwischen etwa 60.000 Migranten in Ceuta angekommen - 34 Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-104.html"
-    },
-    {
-      "title": "Ganz Deutschland hat Ferien: ADAC rechnet mit vollen Straßen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/stauprognose-sommerferien-ratgeber-100.html"
     }
   ]
 }
