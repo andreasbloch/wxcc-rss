@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Deutliche EU-Kritik an Spanien - EU-Innenminister beraten über Ceuta-Krise",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-104.html"
+    },
+    {
+      "title": "Nach Andrang in Ceuta: Spanien verteidigt seine Migrationspolitik",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html"
+    },
+    {
       "title": "Feuer in Bordeaux unter Kontrolle - Lage bei Athen angespannt",
       "link": "https://www.tagesschau.de/ausland/europa/bordeaux-athen-waldbrand-100.html"
     },
@@ -37,10 +45,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-eu-100.html"
     },
     {
-      "title": "EU-Staaten wollen Ceuta-Sitzung - und kritisieren Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-104.html"
-    },
-    {
       "title": "SPD und Union debattieren über Rente nach 45 Beitragsjahren",
       "link": "https://www.tagesschau.de/inland/rentenreform-vorschlag-cdu-reaktionen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kampf gegen Dengue in Brasilien: 190 Millionen Mücken pro Woche",
       "link": "https://www.tagesschau.de/ausland/amerika/mueckenfabrik-brasilien-100.html"
-    },
-    {
-      "title": "Ab August greift Rechtsanspruch auf Ganztagsbetreuung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ganztagsbetreuung-grundschule-start-100.html"
     }
   ]
 }
