@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Trump sagt Angriffe auf Iran vorerst ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html"
+    },
+    {
+      "title": "EU-Richtlinie in Kraft: Wie sich die EU gegen KI-Gefahren wappnet",
+      "link": "https://www.tagesschau.de/ausland/ki-sicherheit-eu-gesetz-inkraft-100.html"
+    },
+    {
+      "title": "13 Tote bei Absturz von Kleinflugzeug in Peru",
+      "link": "https://www.tagesschau.de/ausland/asien/peru-absturz-flugzeug-100.html"
+    },
+    {
       "title": "Selenskyj bittet erneut um Lieferung von Patriot-Raketen",
       "link": "https://www.tagesschau.de/ausland/europa/selenskyj-patriot-raketen-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Forderung nach Neuwahlen: Wie die USA die Demokratie in Venezuela bremsen",
       "link": "https://www.tagesschau.de/ausland/amerika/venezuela-1190.html"
-    },
-    {
-      "title": "Bahn-Chefin Palla kritisiert \"organisierte Verantwortungslosigkeit\"",
-      "link": "https://www.tagesschau.de/wirtschaft/palla-kritik-bahn-100.html"
-    },
-    {
-      "title": "Kusama-Ausstellung in Köln knackt Besucherrekord",
-      "link": "https://www.tagesschau.de/kultur/yayoi-kusama-museum-ludwig-100.html"
-    },
-    {
-      "title": "Russlands Signale im Ärmelkanal",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-russland-schattenflotte-100.html"
     }
   ]
 }
