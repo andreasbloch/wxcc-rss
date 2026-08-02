@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "US-Bundesstaat Washington: Waldbrand erreicht US-Großstadt Spokane",
+      "link": "https://www.tagesschau.de/ausland/amerika/washington-state-waldbraende-100.html"
+    },
+    {
+      "title": "Ukraine-Krieg: Moskau meldet 635 abgefangene Drohnen - zwei Tote",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-russland-106.html"
+    },
+    {
+      "title": "Wo Parken, Abwasser und Müll am meisten kosten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kosten-kommunen-unterschiede-100.html"
+    },
+    {
       "title": "Trump sagt Angriffe auf Iran vorerst ab",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html"
     },
@@ -29,7 +41,7 @@
       "link": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-eu-aussengrenze-wadephul-100.html"
     },
     {
-      "title": "EU-Richtlinie in Kraft: Wie sich die EU gegen KI-Gefahren wappnet",
+      "title": "EU-Verordnung in Kraft: Wie sich die EU gegen KI-Gefahren wappnet",
       "link": "https://www.tagesschau.de/ausland/ki-sicherheit-eu-gesetz-inkraft-100.html"
     },
     {
@@ -67,18 +79,6 @@
     {
       "title": "Trump und Iran: Neue Angriffswelle - oder doch nur eine Drohung?",
       "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-trump-102.html"
-    },
-    {
-      "title": "Serbien: Wie ein Musikfestival in Ungnade fiel",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-festival-novi-sad-100.html"
-    },
-    {
-      "title": "Tricks gegen Hitze in der Stadt: Von A nach B - möglichst im Schatten",
-      "link": "https://www.tagesschau.de/wissen/klima/hitze-schatten-staedtebau-versiegelung-klimawandel-100.html"
-    },
-    {
-      "title": "Mindestens zehn Tote und viele Verletzte bei russischem Angriff auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html"
     }
   ]
 }
