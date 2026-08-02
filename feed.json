@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Brasiliens 80-jähriger Präsident Lula tritt zur Wiederwahl an",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-lula-kandidatur-100.html"
+    },
+    {
       "title": "Israel äußert Bedenken zu Trumps Plan für Gaza-Entwaffnung",
       "link": "https://www.tagesschau.de/ausland/asien/israel-bedenken-hamas-entwaffnung-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
       "link": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html"
-    },
-    {
-      "title": "Rhein verzeichnet historisch niedrige Wasserstände",
-      "link": "https://www.tagesschau.de/inland/niedrigwasser-rhein-rekordtief-100.html"
     }
   ]
 }
