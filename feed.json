@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Bas fordert Union zur Klärung bei \"Rente mit 63\" auf",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-bas-100.html"
+    },
+    {
+      "title": "CSU-Chef Söder wirbt für Geschlossenheit im ARD-Sommerinterview",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-soeder-112.html"
+    },
+    {
+      "title": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html"
+    },
+    {
       "title": "Ukraine-Krieg: Moskau meldet 635 abgefangene Drohnen - mehrere Tote",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-russland-106.html"
     },
@@ -11,14 +23,6 @@
     {
       "title": "Philippinische Aktivisten trotzen Chinas Machtanspruch",
       "link": "https://www.tagesschau.de/ausland/asien/suedchinesisches-meer-philippinen-china-100.html"
-    },
-    {
-      "title": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html"
-    },
-    {
-      "title": "CSU-Chef Söder wirbt für Geschlossenheit im ARD-Sommerinterview",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-soeder-112.html"
     },
     {
       "title": "Maßnahmen gegen Migration: Was folgt auf die Ereignisse in Ceuta?",
@@ -75,10 +79,6 @@
     {
       "title": "13 Tote bei Absturz von Kleinflugzeug in Peru",
       "link": "https://www.tagesschau.de/ausland/asien/peru-absturz-flugzeug-100.html"
-    },
-    {
-      "title": "Selenskyj bittet erneut um Lieferung von \"Patriot\"-Raketen",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-patriot-raketen-100.html"
     }
   ]
 }
