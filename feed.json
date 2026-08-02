@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Leben in Prag - zwischen Hitzeschutz und Klimaskepsis",
+      "link": "https://www.tagesschau.de/ausland/europa/hitzeschutz-klimaskepsis-tschechien-100.html"
+    },
+    {
+      "title": "Rückkehr aus Ceuta: Ein Nachbarort im Ausnahmezustand",
+      "link": "https://www.tagesschau.de/ausland/afrika/fnideq-nachbarstadt-ceuta-100.html"
+    },
+    {
+      "title": "Niedrigwasser der Donau: Ungarn erlebt \"beispiellose Energiekrise\"",
+      "link": "https://www.tagesschau.de/ausland/europa/niedrigwasser-donau-120.html"
+    },
+    {
+      "title": "US-Bundesstaat Washington: Waldbrand erreicht US-Großstadt Spokane",
+      "link": "https://www.tagesschau.de/ausland/amerika/washington-state-waldbraende-100.html"
+    },
+    {
+      "title": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-angriffe-106.html"
+    },
+    {
       "title": "Bas fordert Union zur Klärung bei \"Rente mit 63\" auf",
       "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-bas-100.html"
     },
@@ -57,28 +77,8 @@
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html"
     },
     {
-      "title": "US-Bundesstaat Washington: Waldbrand erreicht US-Großstadt Spokane",
-      "link": "https://www.tagesschau.de/ausland/amerika/washington-state-waldbraende-100.html"
-    },
-    {
       "title": "Wo Parken, Abwasser und Müll am meisten kosten",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kosten-kommunen-unterschiede-100.html"
-    },
-    {
-      "title": "Wie Jordanien im Iran-Krieg zwischen die Fronten geriet",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-jordanien-zwischen-fronten-100.html"
-    },
-    {
-      "title": "Wie sicher sind KI-Wasserzeichen?",
-      "link": "https://www.tagesschau.de/wissen/technologie/ki-eu-wasserzeichen-kennzeichnungspflicht-100.html"
-    },
-    {
-      "title": "EU-Verordnung in Kraft: Wie sich die EU gegen KI-Gefahren wappnet",
-      "link": "https://www.tagesschau.de/ausland/ki-sicherheit-eu-gesetz-inkraft-100.html"
-    },
-    {
-      "title": "13 Tote bei Absturz von Kleinflugzeug in Peru",
-      "link": "https://www.tagesschau.de/ausland/asien/peru-absturz-flugzeug-100.html"
     }
   ]
 }
