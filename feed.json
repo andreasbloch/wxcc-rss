@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Israel äußert Bedenken zu Trumps Plan für Gaza-Entwaffnung",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-bedenken-hamas-entwaffnung-100.html"
+    },
+    {
       "title": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
       "link": "https://www.tagesschau.de/inland/regional/berlin/mahnwache-csd-anschlag-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Rhein verzeichnet historisch niedrige Wasserstände",
       "link": "https://www.tagesschau.de/inland/niedrigwasser-rhein-rekordtief-100.html"
-    },
-    {
-      "title": "Trump sagt Angriffe auf Iran vorerst ab",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html"
     }
   ]
 }
