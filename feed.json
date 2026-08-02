@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Selenskyj bittet erneut um Lieferung von Patriot-Raketen",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-patriot-raketen-100.html"
+    },
+    {
       "title": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
       "link": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Russlands Signale im Ärmelkanal",
       "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-russland-schattenflotte-100.html"
-    },
-    {
-      "title": "Hitze stellt Landwirte beim Salatanbau vor neue Herausforderungen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/salatanbau-hitze-100.html"
     }
   ]
 }
