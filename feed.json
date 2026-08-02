@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/mahnwache-csd-anschlag-100.html"
+    },
+    {
       "title": "Leben in Prag - zwischen Hitzeschutz und Klimaskepsis",
       "link": "https://www.tagesschau.de/ausland/europa/hitzeschutz-klimaskepsis-tschechien-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Trump sagt Angriffe auf Iran vorerst ab",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html"
-    },
-    {
-      "title": "Wo Parken, Abwasser und Müll am meisten kosten",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kosten-kommunen-unterschiede-100.html"
     }
   ]
 }
