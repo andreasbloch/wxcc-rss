@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "US-Verhandlungen mit Iran: Trump sagt, es wird wieder geredet",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-gespraeche-102.html"
+    },
+    {
+      "title": "Selenskyj hofft auf Kriegsende bis Herbst",
+      "link": "https://www.tagesschau.de/ausland/europa/krieg-ukraine-selenskyj-angriffe-100.html"
+    },
+    {
       "title": "Unbekanntes Virus bei Rindern in Süddeutschland nachgewiesen",
       "link": "https://www.tagesschau.de/inland/virus-rinder-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "DWD warnt vor Hitze und Gewitter in weiten teilen Deutschlands",
       "link": "https://www.tagesschau.de/inland/gesellschaft/hitzewarnung-unwettergefahr-100.html"
-    },
-    {
-      "title": "Chronologie zum Iran-Krieg: Trumps Drohungen, Trumps Rückzieher",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-wechselnder-kurs-kehrtwende-100.html"
-    },
-    {
-      "title": "Verbraucherschützer kritisieren Ticket-Angebote bei der Bahn",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-supersparpreis-verbraucherschuetzer-100.html"
     }
   ]
 }
