@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Wirtschaftsexperte: \"Niedrigwasser ist ein Kostentreiber\"",
+      "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wirtschaft-100.html"
+    },
+    {
       "title": "US-Verhandlungen mit Iran: Trump sagt, es wird wieder geredet",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-iran-gespraeche-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Italien soll mehr Gratisstrände bekommen",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/italien-strand-meer-baden-100.html"
-    },
-    {
-      "title": "DWD warnt vor Hitze und Gewitter in weiten teilen Deutschlands",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzewarnung-unwettergefahr-100.html"
     }
   ]
 }
