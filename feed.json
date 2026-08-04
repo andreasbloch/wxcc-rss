@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "EU-Innenminister zu Ceuta: \"Natürlich\" Solidarität mit Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-innenminister-ceuta-100.html"
+    },
+    {
+      "title": "Hitze, Dürre, Waldbrände: Rufe nach Reaktion der Bundesregierung",
+      "link": "https://www.tagesschau.de/inland/hitze-trockenheit-waldbraende-klimaschutz-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger hieven DAX wieder auf ein Allzeithoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html"
+    },
+    {
+      "title": "Zahl der Asylerstanträge im Juli auf 4.311 gesunken",
+      "link": "https://www.tagesschau.de/inland/asylzahlen-juli-100.html"
+    },
+    {
+      "title": "Waldbrand in den Niederlanden  - Warnung vor Brandrauch in NRW",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-niederlande-rauch-kreis-kleve-100.html"
+    },
+    {
       "title": "Kommentar zu Ceuta: Die EU hat diesen Test nicht bestanden",
       "link": "https://www.tagesschau.de/kommentar/eu-ceuta-100.html"
     },
@@ -41,10 +61,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bp-oelkonzerne-oelpreis-gewinn-bilanz-inflation-100.html"
     },
     {
-      "title": "Waldbrand in den Niederlanden  - Warnung vor Brandrauch in NRW",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-niederlande-rauch-kreis-kleve-100.html"
-    },
-    {
       "title": "Hohe Kerosinpreise: Lufthansa-Gewinn bricht stark ein",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-gewinneinbruch-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Russland meldet mehrere Tote durch ukrainische Drohnenangriffe",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriffe-118.html"
-    },
-    {
-      "title": "Verletzte, Schäden und Verkehrsprobleme durch Unwetter",
-      "link": "https://www.tagesschau.de/inland/wetter-unwetter-102.html"
-    },
-    {
-      "title": "Kleinstes Modell von Boeings 737-Max-Reihe zugelassen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/boeing-zulassung-flugzeug-737max7-100.html"
-    },
-    {
-      "title": "Zahl der Erdbebenopfer in Venezuela steigt auf mehr als 6.000",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-tote-106.html"
-    },
-    {
-      "title": "Marktbericht: DAX markiert neue Rekordstände",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html"
     }
   ]
 }
