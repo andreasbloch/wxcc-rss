@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Debatte um Frühverrentung: Frei sieht keinen Spielraum für Verhandlungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentendebatte-106.html"
+    },
+    {
       "title": "Wirtschaftsexperte: \"Niedrigwasser ist ein Kostentreiber\"",
       "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wirtschaft-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Ukraine: Neue Angriffe auf russischen Versandhändler Wildberries",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-wildberries-100.html"
-    },
-    {
-      "title": "Italien soll mehr Gratisstrände bekommen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/italien-strand-meer-baden-100.html"
     }
   ]
 }
