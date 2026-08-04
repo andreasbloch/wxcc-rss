@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Wie ein chinesischer Essenslieferant einen wichtigen Literaturpreis gewann",
+      "link": "https://www.tagesschau.de/ausland/asien/china-lieferdiensfahrer-bekommt-literaturpreis-100.html"
+    },
+    {
       "title": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-drohnenangriff-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Bundesregierung erarbeitet Pläne für Zivildienst",
       "link": "https://www.tagesschau.de/inland/innenpolitik/zivildienst-112.html"
-    },
-    {
-      "title": "Flüsse erreichen neue Tiefststände durch Niedrigwasser",
-      "link": "https://www.tagesschau.de/inland/niedrigwasser-tiefstaende-fluesse-100.html"
     }
   ]
 }
