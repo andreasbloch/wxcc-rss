@@ -1,7 +1,31 @@
 {
   "items": [
     {
-      "title": "Interview zu Krise in Ceuta: \"Die Schuld Spanien zu geben war irrational\"",
+      "title": "US-Datenfirma Palantir steigert Umsatz um mehr als 90 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/datenanalyse-ki-palantir-umsatzplus-100.html"
+    },
+    {
+      "title": "Vier Verletzte nach Schüssen in Köln",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koeln-vier-verletzte-nach-schuessen-100.html"
+    },
+    {
+      "title": "USA: Waldbrände um Spokane wüten weiter - Verdächtiger festgenommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/waldbraende-washington-festnahme-100.html"
+    },
+    {
+      "title": "Russland meldet mehrere Tote durch ukrainische Drohnenangriffe",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriffe-118.html"
+    },
+    {
+      "title": "Marktbericht: Anleger in Rekordlaune",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html"
+    },
+    {
+      "title": "25 Demokratische US-Bundesstaaten klagen gegen Trumps neue Zölle",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-klage-100.html"
+    },
+    {
+      "title": "Interview zu Krise in Ceuta: \"Die Schuld Spanien zu geben, war irrational\"",
       "link": "https://www.tagesschau.de/ausland/europa/spanien-eu-ceuta-marokko-100.html"
     },
     {
@@ -45,10 +69,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-142.html"
     },
     {
-      "title": "Feuerwehren in Griechenland kämpfen gegen 73 Waldbrände",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html"
-    },
-    {
       "title": "Neue Angriffe im Gazastreifen: Hoffnung weicht Resignation",
       "link": "https://www.tagesschau.de/ausland/asien/gazastreifen-angriffe-116.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "Nach Andrang in Ceuta fordert Von der Leyen stärkeren EU-Grenzschutz",
       "link": "https://www.tagesschau.de/ausland/europa/vonderleyen-eu-ceuta-100.html"
-    },
-    {
-      "title": "Longevity in China - der Traum vom langen Leben",
-      "link": "https://www.tagesschau.de/ausland/asien/china-longevity-leben-100.html"
-    },
-    {
-      "title": "Aufruf in offenem Brief: Mehr als 1.000 Juristen für AfD-Verbot",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/juristen-afd-verbot-100.html"
-    },
-    {
-      "title": "Deutsch-französische Kooperation: Wie soll die atomare Abschreckung aussehen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-frankreich-nuklearkooperation-100.html"
-    },
-    {
-      "title": "Einzelhandel erzielt Umsatzplus trotz Kaufzurückhaltung",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/einzelhandel-umsaetze-umsatzplus-100.html"
-    },
-    {
-      "title": "Niedrigwassser am Rhein: Bilger lädt zu Krisentreffen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rhein-wassserstand-rekordtief-100.html"
     }
   ]
 }
