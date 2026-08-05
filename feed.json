@@ -1,11 +1,31 @@
 {
   "items": [
     {
+      "title": "Fördergeschäft der KfW steigt im ersten Halbjahr auf Rekordwert",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/kfw-foerdergeschaeft-rekordwert-100.html"
+    },
+    {
+      "title": "Kiew wieder unter russischem Raketenbeschuss",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html"
+    },
+    {
+      "title": "Queere Gemeinschaft fühlt sich nach CSD-Anschlag im Stich gelassen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/queere-menschen-berlin-100.html"
+    },
+    {
+      "title": "Israel lehnt Trumps Plan zur Hamas-Entwaffnung im Gazastreifen ab",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-hamas-entwaffnung-100.html"
+    },
+    {
+      "title": "Schiitische Wallfahrt in den Irak: Zwischen Glaube, Politik und Hitze",
+      "link": "https://www.tagesschau.de/ausland/asien/irak-wallfahrt-kerbela-100.html"
+    },
+    {
       "title": "Erste Dörfer nach Vulkanausbruch in Guatemala evakuiert",
       "link": "https://www.tagesschau.de/ausland/amerika/guatemala-vulkan-ausbruch-100.html"
     },
     {
-      "title": "Flughafen Leipzig: Ermittler entdecken \"unbekannte Masse\" und mutmaßlichen Zünder an Drohne",
+      "title": "Flughafen Leipzig/Halle: Ermittler entdecken \"unbekannte Masse\" und mutmaßlichen Zünder an Drohne",
       "link": "https://www.tagesschau.de/investigativ/drohne-leipzig-100.html"
     },
     {
@@ -19,10 +39,6 @@
     {
       "title": "Cyclospora-Parasit: Mehr als 10.000 Durchfall-Infektionen in den USA",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-parasit-durchfall-erkrankungen-100.html"
-    },
-    {
-      "title": "Kiew wieder unter russischem Raketenbeschuss",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html"
     },
     {
       "title": "SpaceX mit Verlust im ersten Quartal an der Börse",
@@ -63,22 +79,6 @@
     {
       "title": "Innenausschuss zum CSD-Anschlag: Zentrale Fragen bleiben ungeklärt",
       "link": "https://www.tagesschau.de/inland/innenpolitik/innenausschuss-csd-berlin-100.html"
-    },
-    {
-      "title": "Vier Verletzte nach Schüssen in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koeln-vier-verletzte-nach-schuessen-100.html"
-    },
-    {
-      "title": "EU-Innenminister zu Ceuta: \"Natürlich\" Solidarität mit Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-innenminister-ceuta-100.html"
-    },
-    {
-      "title": "Hitze, Dürre, Waldbrände: Rufe nach Reaktion der Bundesregierung",
-      "link": "https://www.tagesschau.de/inland/hitze-trockenheit-waldbraende-klimaschutz-100.html"
-    },
-    {
-      "title": "Marktbericht: Anleger hieven DAX wieder auf ein Allzeithoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html"
     }
   ]
 }
