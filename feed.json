@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "SPD uneins über Abschaffung der Rente mit 63",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rentendiskussion-102.html"
+    },
+    {
+      "title": "\"Rente mit 63\": Wer sie nutzt - und wer sich darum streitet",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/debatte-abschlagsfreie-rente-100.html"
+    },
+    {
       "title": "Behörden: \"Sehr ernster Sicherheitsvorfall\" am Flughafen Leipzig/Halle",
       "link": "https://www.tagesschau.de/inland/sicherheit-flughafen-leipzig-drohne-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "SpaceX mit Verlust im ersten Quartal an der Börse",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-erste-quartalszahlen-verlust-100.html"
-    },
-    {
-      "title": "Verhaltene Reaktionen von Sozialverbänden auf Zivildienstpläne",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/zivildienst-gestaltung-100.html"
-    },
-    {
-      "title": "Arbeitgeber kritisieren Widerstand gegen Ende der \"Rente mit 63\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bda-abschlagsfreie-fruehrente-100.html"
     }
   ]
 }
