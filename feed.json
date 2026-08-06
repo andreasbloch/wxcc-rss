@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Krisentreffen zu Niedrigwasser: Wenn die Wasserstraßen versiegen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/niedrigwasser-verkehrsministerkonferenz-bilger-100.html"
+    },
+    {
+      "title": "Sicherheitsdebatte nach Drohnenfund am Flughafen Leipzig/Halle",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohne-flughafen-leipzig-debatte-sicherheit-100.html"
+    },
+    {
+      "title": "Lebenslange Haft nach Auto-Anschlag auf ver.di-Demo in München",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/urteil-anschlag-verdi-demonstration-100.html"
+    },
+    {
+      "title": "Leipzig: Flugzeug neben Sprengstoff-Drohne war mit Munition beladen",
+      "link": "https://www.tagesschau.de/investigativ/drohnenfund-leipzig-100.html"
+    },
+    {
+      "title": "Russisches Haus in Berlin: Tarnung für russische Geheimdienste?",
+      "link": "https://www.tagesschau.de/investigativ/russisches-haus-104.html"
+    },
+    {
+      "title": "Robert Koch-Institut: Zahl der Hitzetoten höher als angenommen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/rki-hitzetote-2026-100.html"
+    },
+    {
+      "title": "Industrie überrascht dank Großaufträgen mit kräftigem Auftragsplus",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieunternehmen-auftraege-bundeswehr-infrastruktur-100.html"
+    },
+    {
       "title": "Kaum Ermittlungen wegen Preisverstößen an Tankstellen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/laender-ermittlungen-spritpreise-100.html"
     },
@@ -15,10 +43,6 @@
     {
       "title": "Niedrigwasser: Nur \"begrenzte Alternativen zur Binnenschifffahrt\"",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/niedrigwasser-industrie-und-schifffahrt-logistik-100.html"
-    },
-    {
-      "title": "Krisentreffen zu Niedrigwasser: Wenn die Wasserstraßen versiegen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/niedrigwasser-verkehrsministerkonferenz-bilger-100.html"
     },
     {
       "title": "Rüstungskonzerne: Wer vom Geschäft mit Drohnen und KI profitiert",
@@ -55,30 +79,6 @@
     {
       "title": "Island verweist Walfang-Gegner des Landes",
       "link": "https://www.tagesschau.de/ausland/europa/island-walfang-gegner-100.html"
-    },
-    {
-      "title": "Drohne am Flughafen Leipzig/Halle: Dobrindt sieht \"hybrides Anschlagsszenario\"",
-      "link": "https://www.tagesschau.de/inland/drohnenvorfall-leipzig-dobrindt-100.html"
-    },
-    {
-      "title": "WHO: Studien zu Ebola-Medikamenten und Impfstoffen starten",
-      "link": "https://www.tagesschau.de/ausland/afrika/who-ebola-medikamente-102.html"
-    },
-    {
-      "title": "Drohnenfund am Flughafen Leipzig/Halle: Sprengstoff und Zünder entdeckt",
-      "link": "https://www.tagesschau.de/investigativ/drohne-leipzig-100.html"
-    },
-    {
-      "title": "Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-fehlen-us-aid-folgen-100.html"
-    },
-    {
-      "title": "E-Autos: CSU will Förderung zugunsten deutscher Hersteller ändern",
-      "link": "https://www.tagesschau.de/inland/e-autos-foerderung-csu-100.html"
-    },
-    {
-      "title": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html"
     }
   ]
 }
