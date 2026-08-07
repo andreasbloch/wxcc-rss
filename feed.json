@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Dürre in Deutschland: Agrarminister sieht keinen akuten Handlungsbedarf",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/duerre-landwirte-ernteeinbussen-100.html"
+    },
+    {
       "title": "Starkregen und Schlammlawinen im Westen Österreichs",
       "link": "https://www.tagesschau.de/ausland/europa/oesterreich-starkregen-schlammlawinen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kinderschutz: Meta soll 567 Millionen Dollar Strafe zahlen",
       "link": "https://www.tagesschau.de/ausland/amerika/meta-strafe-kinderschutz-100.html"
-    },
-    {
-      "title": "Oman: Gestrandeter Öltanker könnte Umweltkatastrophe verursachen",
-      "link": "https://www.tagesschau.de/ausland/asien/oman-oeltanker-102.html"
     }
   ]
 }
