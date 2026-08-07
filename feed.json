@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Trump unternimmt neuen Vorstoß für Beschränkung von US-Geburtsrecht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-geburtsrecht-dekret-100.html"
+    },
+    {
+      "title": "Warum die Pläne für die Pflegereform auf Kritik stoßen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kritik-aenderungen-100.html"
+    },
+    {
+      "title": "Mindestens sieben Tote bei Schüssen an Schule in Thailand",
+      "link": "https://www.tagesschau.de/ausland/asien/thailand-tote-schuesse-schule-100.html"
+    },
+    {
       "title": "Zwei Straßenbahnen kollidiert - viele Verletzte in Gelsenkirchen",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/unfaelle-strassenbahn-gelsenkirchen-100.html"
     },
@@ -27,10 +39,6 @@
     {
       "title": "Kinderschutz: Meta soll 567 Millionen Dollar Strafe zahlen",
       "link": "https://www.tagesschau.de/ausland/amerika/meta-strafe-kinderschutz-100.html"
-    },
-    {
-      "title": "Trotz Supreme Court-Niederlage: Trump schränkt erneut Geburtsrecht ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-geburtsrecht-dekret-100.html"
     },
     {
       "title": "Oman: Gestrandeter Öltanker könnte Umweltkatastrophe verursachen",
@@ -71,14 +79,6 @@
     {
       "title": "Extrem-Niedrigwasser: Bilger will Sonntagsfahrverbot für Lkw lockern",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-niedrigwasser-100.html"
-    },
-    {
-      "title": "Israel klagt Siedler wegen Tötung eines Palästinensers an",
-      "link": "https://www.tagesschau.de/ausland/asien/irael-siedler-toetung-anklage-100.html"
-    },
-    {
-      "title": "Was Sie jetzt zur Wahl in Sachsen-Anhalt wissen müssen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-landtagswahl-100.html"
     }
   ]
 }
