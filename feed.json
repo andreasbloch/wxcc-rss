@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Oman - ein Tanker und die Angst vor einer Katastrophe",
+      "link": "https://www.tagesschau.de/ausland/asien/tanker-oel-oman-100.html"
+    },
+    {
       "title": "Marktbericht: Neuer DAX-Rekord nach US-Job-Daten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-oelpreis-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kommentar: Klimaschutz muss Chefsache werden",
       "link": "https://www.tagesschau.de/kommentar/klima-hitzeschutz-bund-chefsache-100.html"
-    },
-    {
-      "title": "Mehrere Tote bei Schüssen an Schule in Thailand",
-      "link": "https://www.tagesschau.de/ausland/asien/thailand-tote-schuesse-schule-100.html"
     }
   ]
 }
