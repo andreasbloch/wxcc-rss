@@ -1,7 +1,11 @@
 {
   "items": [
     {
-      "title": "Vorschlag von Verkehrsminister: Debatte über Lkw-Sonntagsfahrverbot",
+      "title": "Marktbericht: Neuer DAX-Rekord nach US-Job-Daten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-oelpreis-102.html"
+    },
+    {
+      "title": "Erste Bundesländer lockern wegen des Niedrigwassers Lkw-Sonntagsfahrverbot",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lkw-sonntagsfahrverbot-debatte-lockerung-100.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Mehrere Tote bei Schüssen an Schule in Thailand",
       "link": "https://www.tagesschau.de/ausland/asien/thailand-tote-schuesse-schule-100.html"
-    },
-    {
-      "title": "Marktbericht: Gute Wirtschaftsdaten helfen DAX auf die Sprünge",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-oelpreis-102.html"
     }
   ]
 }
