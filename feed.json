@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Streit mit Italien über Ceuta - Spanien führt Grenzkontrollen ein",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html"
+    },
+    {
+      "title": "US-Senat beschließt verschärfte Russland-Sanktionen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-sanktionen-134.html"
+    },
+    {
       "title": "Hitzewelle im Gazastreifen: \"Die Zelte sind wie stickige Backöfen\"",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-hitzewelle-notunterkunft-gesundheitskrise-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Dürre in Deutschland: Agrarminister sieht keinen akuten Handlungsbedarf",
       "link": "https://www.tagesschau.de/inland/gesellschaft/duerre-landwirte-ernteeinbussen-100.html"
-    },
-    {
-      "title": "Starkregen und Schlammlawinen im Westen Österreichs",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-starkregen-schlammlawinen-100.html"
-    },
-    {
-      "title": "Nationaler Sicherheitsrat tagt zu Vorfall mit Sprengstoff-Drohne",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnenvorfall-sicherheitsrat-100.html"
     }
   ]
 }
