@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Hitzewelle im Gazastreifen: \"Die Zelte sind wie stickige Backöfen\"",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-hitzewelle-notunterkunft-gesundheitskrise-100.html"
+    },
+    {
+      "title": "Abrissarbeiten an Bonner Nordbrücke beginnen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/beginn-abriss-nordbruecke-bonn-100.html"
+    },
+    {
+      "title": "US-Gericht stoppt vorerst Bau von Trumps Ballsaal",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ballsall-100.html"
+    },
+    {
       "title": "Mehrere Bundesländer lockern Lkw-Sonntagsfahrverbot",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lkw-sonntagsfahrverbot-debatte-lockerung-100.html"
     },
@@ -31,10 +43,6 @@
     {
       "title": "Ebolavirus in DR Kongo verbreitet sich schneller als je zuvor",
       "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-rasanter-anstieg-100.html"
-    },
-    {
-      "title": "Abrissarbeiten an Bonner Nordbrücke beginnen",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/beginn-abriss-nordbruecke-bonn-100.html"
     },
     {
       "title": "ICE Berlin-Paris fällt wegen technischer Probleme vorerst aus",
@@ -71,14 +79,6 @@
     {
       "title": "Nationaler Sicherheitsrat tagt zu Vorfall mit Sprengstoff-Drohne",
       "link": "https://www.tagesschau.de/inland/innenpolitik/drohnenvorfall-sicherheitsrat-100.html"
-    },
-    {
-      "title": "Wie gut ist Deutschland vor Drohnen geschützt?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/luftsicherheit-stand-100.html"
-    },
-    {
-      "title": "Kommunen fordern \"Kraftakt\" für Hitzeschutz und Wasserversorgung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hitze-schutz-duerre-wasserversorgung-100.html"
     }
   ]
 }
