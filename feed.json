@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Rotes Meer: Wie die Huthi den Iran-Krieg verändern",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriffe-rotes-meer-100.html"
+    },
+    {
+      "title": "Berliner Volksbühne eröffnet Schwimmbad vor der Theatersaison",
+      "link": "https://www.tagesschau.de/kultur/berlin-volksbuehne-schwimmbecken-100.html"
+    },
+    {
+      "title": "CDU-Spitze würde AfD-Koalition im Osten nicht dulden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/frei-cdu-afd-100.html"
+    },
+    {
+      "title": "Südafrika setzt nach fremdenfeindlichen Krawallen auf Schadensbegrenzung",
+      "link": "https://www.tagesschau.de/ausland/afrika/suedafrika-fremdenfeindliche-krawalle-wogen-glaetten-100.html"
+    },
+    {
       "title": "Restaurants geben reduzierte Mehrwertsteuer kaum weiter",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gastronomie-steuersenkung-preise-gaeste-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Ebolavirus in DR Kongo verbreitet sich schneller als je zuvor",
       "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-rasanter-anstieg-100.html"
-    },
-    {
-      "title": "ICE Berlin-Paris fällt wegen technischer Probleme vorerst aus",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-ice-berlin-paris-gestrichen-100.html"
-    },
-    {
-      "title": "Türkei, Pakistan und Saudi-Arabien schließen Verteidigungsabkommen",
-      "link": "https://www.tagesschau.de/ausland/asien/militaerpakt-tuerkei-saudi-arabien-pakistan-100.html"
-    },
-    {
-      "title": "Iran-Krieg: Ein bulgarisches Dorf gegen US-Flugzeuge",
-      "link": "https://www.tagesschau.de/ausland/europa/bulgarien-us-flugzeuge-100.html"
-    },
-    {
-      "title": "Mitarbeitende bei Landtagsabgeordneten: \"Mit Wahlkreisarbeit hat das nichts zu tun\"",
-      "link": "https://www.tagesschau.de/investigativ/fakt/landtagsabgeordnete-mitarbeiter-budget-100.html"
     }
   ]
 }
