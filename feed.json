@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Orban-Kritiker Baka soll Ungarns neuer Präsident werden",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-100.html"
+    },
+    {
       "title": "Sprengstoff-Drohne in Leipzig/Halle: Ein Angriff \"fremder Mächte\" - oder Russlands?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/drohne-sprengstoff-ermittlungen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Berliner Volksbühne eröffnet Schwimmbad vor der Theatersaison",
       "link": "https://www.tagesschau.de/kultur/berlin-volksbuehne-schwimmbecken-100.html"
-    },
-    {
-      "title": "CDU-Spitze würde AfD-Koalition im Osten nicht dulden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/frei-cdu-afd-100.html"
     }
   ]
 }
