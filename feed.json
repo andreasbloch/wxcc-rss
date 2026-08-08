@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Pride-Parade in Prag unter verschärften Sicherheitsvorkehrungen",
+      "link": "https://www.tagesschau.de/ausland/europa/prag-pride-sicherheitsvorkehrungen-100.html"
+    },
+    {
       "title": "US-Senat beschließt verschärfte Russland-Sanktionen",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-sanktionen-134.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Mehr als sieben Millionen Fahrzeuge mit \"Heimatkennzeichen\" unterwegs",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/auto-pkw-kennzeichen-heimatkennzeichen-100.html"
-    },
-    {
-      "title": "Dürre in Deutschland: Agrarminister sieht keinen akuten Handlungsbedarf",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/duerre-landwirte-ernteeinbussen-100.html"
     }
   ]
 }
