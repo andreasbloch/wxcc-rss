@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Was das Bankensterben für Kunden und Mittelstand heißt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/banken-land-fusionen-100.html"
+    },
+    {
+      "title": "Hai-Sichtungen vor New York trüben den Badespaß",
+      "link": "https://www.tagesschau.de/ausland/amerika/new-york-haie-100.html"
+    },
+    {
       "title": "Italien: Waldbrand am Westufer des Gardasees ausgebrochen",
       "link": "https://www.tagesschau.de/ausland/europa/waldbrand-gardasee-102.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "OpenAI pausiert teils Entwicklung von KI-Modell wegen Sicherheitsbedenken",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-100.html"
-    },
-    {
-      "title": "Pride-Parade in Prag unter verschärften Sicherheitsvorkehrungen",
-      "link": "https://www.tagesschau.de/ausland/europa/prag-pride-sicherheitsvorkehrungen-100.html"
-    },
-    {
-      "title": "US-Senat beschließt verschärfte Russland-Sanktionen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-sanktionen-134.html"
     }
   ]
 }
