@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "\"Bauernhofeffekt\": Warum der Kuhstall Kinder vor Allergien schützen kann",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/allergie-kinder-bauernhof-100.html"
+    },
+    {
       "title": "Ukraine meldet Tote bei Luftangriffen auf Vorort von Kiew",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-tote-angriffe-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Oman - ein Tanker und die Angst vor einer Katastrophe",
       "link": "https://www.tagesschau.de/ausland/asien/tanker-oel-oman-100.html"
-    },
-    {
-      "title": "Marktbericht: Neuer DAX-Rekord nach US-Job-Daten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-oelpreis-102.html"
     }
   ]
 }
