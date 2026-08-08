@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Mehr als 200 Menschen vor Waldbrand am Gardasee in Sicherheit gebracht",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-gardasee-102.html"
+    },
+    {
       "title": "Ukraine: Schutzlos gegen ballistische Raketen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-flugabwehr-102.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Hitzewelle im Gazastreifen: \"Die Zelte sind wie stickige Backöfen\"",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-hitzewelle-notunterkunft-gesundheitskrise-100.html"
-    },
-    {
-      "title": "US-Gericht stoppt vorerst Bau von Trumps Ballsaal",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ballsall-100.html"
     }
   ]
 }
