@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Vor 70 Jahren: Das Unglück von Marcinelle veränderte Europa",
+      "link": "https://www.tagesschau.de/ausland/europa/belgien-grubenunglueck-marcinelle-jahrestag-100.html"
+    },
+    {
       "title": "Rotes Meer: Wie die Huthi den Iran-Krieg verändern",
       "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriffe-rotes-meer-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Ceuta-Krise - Madrid droht Rom im Streit um Grenzkontrollen",
       "link": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-100.html"
-    },
-    {
-      "title": "Ebolavirus in DR Kongo verbreitet sich schneller als je zuvor",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-rasanter-anstieg-100.html"
     }
   ]
 }
