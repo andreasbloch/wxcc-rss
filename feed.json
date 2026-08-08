@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Restaurants geben reduzierte Mehrwertsteuer kaum weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gastronomie-steuersenkung-preise-gaeste-100.html"
+    },
+    {
       "title": "OpenAI pausiert teils Entwicklung von KI-Modell wegen Sicherheitsbedenken",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Mitarbeitende bei Landtagsabgeordneten: \"Mit Wahlkreisarbeit hat das nichts zu tun\"",
       "link": "https://www.tagesschau.de/investigativ/fakt/landtagsabgeordnete-mitarbeiter-budget-100.html"
-    },
-    {
-      "title": "Allianz und Münchener Rück fest auf Gewinnkurs",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-alv-muv-100.html"
     }
   ]
 }
