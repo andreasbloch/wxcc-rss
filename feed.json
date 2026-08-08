@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "OpenAI pausiert teils Entwicklung von KI-Modell wegen Sicherheitsbedenken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-100.html"
+    },
+    {
       "title": "Pride-Parade in Prag unter verschärften Sicherheitsvorkehrungen",
       "link": "https://www.tagesschau.de/ausland/europa/prag-pride-sicherheitsvorkehrungen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Allianz und Münchener Rück fest auf Gewinnkurs",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-alv-muv-100.html"
-    },
-    {
-      "title": "Mehr als sieben Millionen Fahrzeuge mit \"Heimatkennzeichen\" unterwegs",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/auto-pkw-kennzeichen-heimatkennzeichen-100.html"
     }
   ]
 }
