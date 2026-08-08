@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Paris führt Helmpflicht für E-Roller-Fahrer ein",
+      "link": "https://www.tagesschau.de/ausland/europa/helmpflicht-scooter-paris-100.html"
+    },
+    {
+      "title": "Mutmaßlich ukrainische Drohne explodiert in Bulgarien",
+      "link": "https://www.tagesschau.de/ausland/europa/drohne-bulgarien-100.html"
+    },
+    {
       "title": "Orban-Kritiker Baka soll Ungarns neuer Präsident werden",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Vor 70 Jahren: Das Unglück von Marcinelle veränderte Europa",
       "link": "https://www.tagesschau.de/ausland/europa/belgien-grubenunglueck-marcinelle-jahrestag-100.html"
-    },
-    {
-      "title": "Rotes Meer: Wie die Huthi den Iran-Krieg verändern",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriffe-rotes-meer-100.html"
-    },
-    {
-      "title": "Berliner Volksbühne eröffnet Schwimmbad vor der Theatersaison",
-      "link": "https://www.tagesschau.de/kultur/berlin-volksbuehne-schwimmbecken-100.html"
     }
   ]
 }
