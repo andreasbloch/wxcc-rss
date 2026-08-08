@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Großer Zulauf auch bei kleineren CSD-Demos",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/csd-demos-102.html"
+    },
+    {
       "title": "Was das Bankensterben für Kunden und Mittelstand heißt",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/banken-land-fusionen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Restaurants geben reduzierte Mehrwertsteuer kaum weiter",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/gastronomie-steuersenkung-preise-gaeste-100.html"
-    },
-    {
-      "title": "OpenAI pausiert teils Entwicklung von KI-Modell wegen Sicherheitsbedenken",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-100.html"
     }
   ]
 }
