@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Straße von Hormus: Iran pocht auf Zugeständnisse der USA",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-forderungen-strasse-von-hormus-100.html"
+    },
+    {
       "title": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Ukraine: Schutzlos gegen ballistische Raketen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-flugabwehr-102.html"
-    },
-    {
-      "title": "US-Senat bestätigt Todd Blanche als Justizminister",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-blanche-justizminister-102.html"
     }
   ]
 }
