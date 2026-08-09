@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Pentagon ruft Rüstungsindustrie zu schnellerer Waffenproduktion auf",
+      "link": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html"
+    },
+    {
       "title": "Selenskyj droht mit \"angemessener Antwort\" auf russische Angriffe",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-kieg-raketen-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kanadische Provinz British Columbia ruft wegen Waldbränden Notstand aus",
       "link": "https://www.tagesschau.de/ausland/amerika/notstand-waldbraende-kanada-100.html"
-    },
-    {
-      "title": "Niedrigwasser: Was die Lockerung des Lkw-Fahrverbots bedeutet",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/faq-lockerung-lkw-fahrverbot-100.html"
     }
   ]
 }
