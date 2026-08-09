@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Hamburgs Bürgermeister Tschentscher kritisiert schwarz-rote Steuerpolitik",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tschentscher-steuerpolitik-100.html"
+    },
+    {
       "title": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Himalaya: Fünf vermisste Bergsteiger tot in Nepal gefunden",
       "link": "https://www.tagesschau.de/ausland/asien/leichenfund-yalung-ri-100.html"
-    },
-    {
-      "title": "BUND kritisiert Lockerung des Sonntagsfahrverbots für Lkw",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/niedrigwasser-sonntagsfahrverbot-100.html"
     }
   ]
 }
