@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Ganztagsbetreuuung: Kraftakt für Kommunen - Gewinn für Kinder",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/ganztagsbetreuung-schulen-kommunen-100.html"
+    },
+    {
+      "title": "Schiffswrack aus der Römerzeit: Hunderte antike Krüge vor Sizilien gefunden",
+      "link": "https://www.tagesschau.de/ausland/europa/schiffswrack-amphoren-sizilien-100.html"
+    },
+    {
       "title": "EU-Außengrenze in Lettland: Wo sich Ceuta nicht wiederholen soll",
       "link": "https://www.tagesschau.de/ausland/europa/lettland-migration-belarus-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Was das Bankensterben für Kunden und Mittelstand heißt",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/banken-land-fusionen-100.html"
-    },
-    {
-      "title": "Hai-Sichtungen vor New York trüben den Badespaß",
-      "link": "https://www.tagesschau.de/ausland/amerika/new-york-haie-100.html"
-    },
-    {
-      "title": "Italien: Waldbrand am Westufer des Gardasees ausgebrochen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbrand-gardasee-102.html"
     }
   ]
 }
