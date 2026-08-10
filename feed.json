@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Gold ist wieder gefragt: Zehn Prozent über Jahrestiefstpreis",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-zinsen-goldpreis-100.html"
+    },
+    {
       "title": "Klingbeils Steuerpläne stoßen auf Kritik - auch aus der Union",
       "link": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-klingbeil-kritik-100.html"
     },
@@ -9,7 +13,7 @@
       "link": "https://www.tagesschau.de/ausland/europa/italien-ausbruch-vulkan-aetna-100.html"
     },
     {
-      "title": "DB Regio: 989 Übergriffe auf Zugbegleiter im ersten Halbjahr",
+      "title": "DB Regio registriert 989 Übergriffe auf Zugbegleiter im ersten Halbjahr",
       "link": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-bahnmitarbeitende-100.html"
     },
     {
@@ -75,10 +79,6 @@
     {
       "title": "Niedrigwasser: Binnenschiffer warnen vor Zweiteilung des Rheins",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/rhein-niedrigwasser-zweiteilung-binnenschiffer-100.html"
-    },
-    {
-      "title": "Erneut Waldbrände in Spanien und Frankreich ausgebrochen",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-frankreich-120.html"
     }
   ]
 }
