@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Weltweit 350 Hilfskräfte bei humanitären Einsätzen getötet",
+      "link": "https://www.tagesschau.de/ausland/europa/hilfskraefte-helfer-gaza-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX bleibt in der Nähe des Allzeithochs",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreise-iran-100.html"
+    },
+    {
+      "title": "Waldbrände in Kanada weiter außer Kontrolle",
+      "link": "https://www.tagesschau.de/ausland/amerika/waldbraende-kanada-136.html"
+    },
+    {
       "title": "KI braucht Rechenzentren - aber welche braucht Deutschland?",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-rechenzentren-welche-deutschland-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "EU-Außengrenze in Lettland: Wo sich Ceuta nicht wiederholen soll",
       "link": "https://www.tagesschau.de/ausland/europa/lettland-migration-belarus-100.html"
-    },
-    {
-      "title": "Hamburgs Bürgermeister Tschentscher kritisiert schwarz-rote Steuerpolitik",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tschentscher-steuerpolitik-100.html"
-    },
-    {
-      "title": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html"
-    },
-    {
-      "title": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html"
     }
   ]
 }
