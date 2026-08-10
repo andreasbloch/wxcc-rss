@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Erneut Waldbrände in Spanien und Frankreich ausgebrochen",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-frankreich-120.html"
+    },
+    {
       "title": "Pentagon ruft Rüstungsindustrie zu schnellerer Waffenproduktion auf",
       "link": "https://www.tagesschau.de/ausland/amerika/pentagon-waffenproduktion-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Dobrindt will nach Drohnen-Vorfall Forschung ausbauen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-zentrum-drohnenabwehr-100.html"
-    },
-    {
-      "title": "Kanadische Provinz British Columbia ruft wegen Waldbränden Notstand aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/notstand-waldbraende-kanada-100.html"
     }
   ]
 }
