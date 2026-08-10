@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Nach tagelangem Regen: Mindestens 15 Tote auf den Philippinen",
+      "link": "https://www.tagesschau.de/ausland/asien/philippinen-fluten-100.html"
+    },
+    {
+      "title": "Fast 30 Jahre nach Mord an Tupac Shakur: Prozessbeginn in Los Angeles",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-tupac-shakur-mord-prozess-100.html"
+    },
+    {
+      "title": "Trump setzt auf wirtschaftlichen Druck gegen Iran",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-wirtschaftlicher-druck-iran-100.html"
+    },
+    {
       "title": "Weltweit 350 Hilfskräfte bei humanitären Einsätzen getötet",
       "link": "https://www.tagesschau.de/ausland/europa/hilfskraefte-helfer-gaza-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Waldbrand am Gardasee unter Kontrolle",
       "link": "https://www.tagesschau.de/ausland/europa/italien-gardasee-waldbrand-unter-kontrolle-100.html"
-    },
-    {
-      "title": "Ganztagsbetreuuung: Kraftakt für Kommunen - Gewinn für Kinder",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/ganztagsbetreuung-schulen-kommunen-100.html"
-    },
-    {
-      "title": "Schiffswrack aus der Römerzeit: Hunderte antike Krüge vor Sizilien gefunden",
-      "link": "https://www.tagesschau.de/ausland/europa/schiffswrack-amphoren-sizilien-100.html"
-    },
-    {
-      "title": "EU-Außengrenze in Lettland: Wo sich Ceuta nicht wiederholen soll",
-      "link": "https://www.tagesschau.de/ausland/europa/lettland-migration-belarus-100.html"
     }
   ]
 }
