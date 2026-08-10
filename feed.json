@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "VdP-Zahlen: Mieten in Deutschland ziehen deutlich an",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mieten-preise-wohnungsmarkt-100.html"
+    },
+    {
+      "title": "Mehrere Tote bei ukrainischem Drohnenangriff in Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriff-104.html"
+    },
+    {
+      "title": "Warum werden in Malta kaum Asylanträge gestellt?",
+      "link": "https://www.tagesschau.de/ausland/europa/malta-migration-100.html"
+    },
+    {
       "title": "Auch Bilger will Drohnenabwehr an deutschen Flughäfen verbessern",
       "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-bilger-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Linken-Chef Pantisano schließt Unterstützung für CDU in Sachsen-Anhalt nicht aus",
       "link": "https://www.tagesschau.de/inland/innenpolitik/pantisano-linke-cdu-100.html"
-    },
-    {
-      "title": "SPD kritisiert Härtefallregel bei Familiennachzug als viel zu streng",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-familiennachzug-haertefall-kritik-100.html"
-    },
-    {
-      "title": "Bilger will Boni bei der Bahn mehr an Ziele knüpfen - und bekommt Zuspruch",
-      "link": "https://www.tagesschau.de/inland/bilger-bahn-boni-100.html"
-    },
-    {
-      "title": "Netanjahu stellt sich erneut gegen Trumps Gaza-Plan",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-hamas-trump-netanjahu-100.html"
     }
   ]
 }
