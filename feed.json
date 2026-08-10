@@ -1,12 +1,16 @@
 {
   "items": [
     {
-      "title": "Kampf gegen Geldwäsche und Steuerbetrug: Wenn der Zoll den Porsche beschlagnahmt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zoll-befugnisse-gesetz-100.html"
+      "title": "KI braucht Rechenzentren - aber welche braucht Deutschland?",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-rechenzentren-welche-deutschland-100.html"
     },
     {
       "title": "Juni und Juli waren in Westeuropa so warm wie noch nie",
       "link": "https://www.tagesschau.de/wissen/klima/westereuropa-hitze-sommer-100.html"
+    },
+    {
+      "title": "Kampf gegen Geldwäsche und Steuerbetrug: Wenn der Zoll den Porsche beschlagnahmt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zoll-befugnisse-gesetz-100.html"
     },
     {
       "title": "Niedrigwasser: Binnenschiffer warnen vor Zweiteilung des Rheins",
@@ -75,10 +79,6 @@
     {
       "title": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html"
-    },
-    {
-      "title": "Brasilien: Abholzung im Amazonas auf Zehnjahrestief",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-zehnjahrestief-100.html"
     }
   ]
 }
