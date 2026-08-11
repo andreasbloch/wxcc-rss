@@ -1,8 +1,60 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX erreicht neue Höhen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html"
+    },
+    {
+      "title": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html"
+    },
+    {
+      "title": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/lkw-fahrverbot-100.html"
+    },
+    {
+      "title": "Erdbeben mit mehr als 160 Toten: Notstand in Kolumbien",
+      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html"
+    },
+    {
+      "title": "DR Kongo: Müttersterblichkeit seit Ebola-Ausbruch fast verdoppelt",
+      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-muettersterblichkeit-100.html"
+    },
+    {
+      "title": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html"
+    },
+    {
       "title": "Syriens Ex-Machthaber Assad in Abwesenheit zum Tode verurteilt",
       "link": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesurteil-100.html"
+    },
+    {
+      "title": "Nach Vorfall am Flughafen Leipzig - Verdächtige DNA-Spuren und eine Antenne",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/dna-spuren-leipzig-100.html"
+    },
+    {
+      "title": "PKK-Gesetz in der Türkei: Historischer Schritt, offene Fragen",
+      "link": "https://www.tagesschau.de/ausland/asien/pkk-gesetz-tuerkei-100.html"
+    },
+    {
+      "title": "Zukunftsmarkt humanoide Roboter: Ansturm auf Aktien von Unitree",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-china-unitree-roboter-100.html"
+    },
+    {
+      "title": "Ukraine: Wie kann Deutschland trotz \"Patriot\"-Mangel helfen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/patriots-ukraine-europa-100.html"
+    },
+    {
+      "title": "Rekord für Tourismus in Deutschland: So viele Übernachtungen wie nie",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-tourismus-urlaub-100.html"
+    },
+    {
+      "title": "Longlist zum Deutschen Buchpreis: Sind das auch die 20 Besten?",
+      "link": "https://www.tagesschau.de/kultur/deutscher-buchpreis-longlist-102.html"
+    },
+    {
+      "title": "Tausende Urlauber sitzen nach Ausbruch des Ätna auf Sizilien fest",
+      "link": "https://www.tagesschau.de/ausland/europa/aetna-ausbruch-urlauber-100.html"
     },
     {
       "title": "Hitzeschutz an Schulen: Wenn Klassenzimmer zu heiß zum Lernen werden",
@@ -25,60 +77,8 @@
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/autohersteller-gewinn-fahrzeug-100.html"
     },
     {
-      "title": "Marktbericht: DAX bleibt der Nähe seiner Bestmarke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html"
-    },
-    {
       "title": "Wohin steuert die Bundeszentrale für politische Bildung?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-politische-bildung-unruhe-100.html"
-    },
-    {
-      "title": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html"
-    },
-    {
-      "title": "Trump erklärt Straße von Hormus für minenfrei",
-      "link": "https://www.tagesschau.de/ausland/asien/trump-strasse-von-hormus-frei-100.html"
-    },
-    {
-      "title": "Zürich: Wie der Mikrohandel die Drogenszene eindämmt",
-      "link": "https://www.tagesschau.de/ausland/europa/zuerich-drogen-mikrohandel-100.html"
-    },
-    {
-      "title": "Ablenkungsmanöver: Trump im Catering-Wagen statt in der Air Force One?",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-nato-gipfel-catering-wagen-100.html"
-    },
-    {
-      "title": "Volksinitiative: Will die Schweiz noch neutraler werden?",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-neutralitaet-102.html"
-    },
-    {
-      "title": "Ungarns neue Präsident: Ein Mann mit Prinzipien",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-parlament-wahl-praesident-100.html"
-    },
-    {
-      "title": "Klage von Verbraucherschützern: Sammelt Meta rechtswidrig Daten?",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/meta-ueberwachung-klage-100.html"
-    },
-    {
-      "title": "Ramelow für Zusammenarbeit von Linkspartei und CDU in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ramelow-linke-cdu-sachsen-anhalt-100.html"
-    },
-    {
-      "title": "Erdbeben mit mehr als 100 Toten: Notstand in Kolumbien",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html"
-    },
-    {
-      "title": "Ukraine: Kann Europa im Drohnen-Wettlauf mithalten?",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-aufruestung-100.html"
-    },
-    {
-      "title": "Parlament in der Türkei billigt Gesetz für Frieden mit der PKK",
-      "link": "https://www.tagesschau.de/ausland/tuerkei-pkk-gesetz-100.html"
-    },
-    {
-      "title": "Erdbeben in Kolumbien - viele Tote befürchtet",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-102.html"
     }
   ]
 }
