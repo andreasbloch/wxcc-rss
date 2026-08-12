@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-110.html"
+    },
+    {
+      "title": "Neue Regeln der EU: Diese Verpackungen gibt es bald nicht mehr",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neue-regeln-eu-verpackungsverordnung-100.html"
+    },
+    {
+      "title": "Verkehrsminister will Flüsse wegen niedriger Pegel ausbauen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-verkehrsminister-niedrigwasser-fluesse-100.html"
+    },
+    {
+      "title": "Anthropic führt Wasserzeichen bei KI-Texten ein",
+      "link": "https://www.tagesschau.de/wirtschaft/anthropic-ki-wasserzeichen-claude-100.html"
+    },
+    {
+      "title": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/lkw-fahrverbot-100.html"
+    },
+    {
       "title": "US-Militär beschießt Tanker im Golf von Oman",
       "link": "https://www.tagesschau.de/ausland/asien/nahost-hormus-us-beschuss-tanker-100.html"
     },
@@ -37,10 +57,6 @@
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html"
     },
     {
-      "title": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/lkw-fahrverbot-100.html"
-    },
-    {
       "title": "DR Kongo: Müttersterblichkeit seit Ebola-Ausbruch fast verdoppelt",
       "link": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-muettersterblichkeit-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Ukraine: Wie kann Deutschland trotz \"Patriot\"-Mangel helfen?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/patriots-ukraine-europa-100.html"
-    },
-    {
-      "title": "Rekord für Tourismus in Deutschland: So viele Übernachtungen wie nie",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-tourismus-urlaub-100.html"
-    },
-    {
-      "title": "Longlist zum Deutschen Buchpreis: Sind das auch die 20 Besten?",
-      "link": "https://www.tagesschau.de/kultur/deutscher-buchpreis-longlist-102.html"
-    },
-    {
-      "title": "Tausende Urlauber sitzen nach Ausbruch des Ätna auf Sizilien fest",
-      "link": "https://www.tagesschau.de/ausland/europa/aetna-ausbruch-urlauber-100.html"
-    },
-    {
-      "title": "Hitzeschutz an Schulen: Wenn Klassenzimmer zu heiß zum Lernen werden",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzeschutz-schulen-100.html"
     }
   ]
 }
