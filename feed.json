@@ -1,12 +1,36 @@
 {
   "items": [
     {
-      "title": "Liveblog zur Sonnenfinsternis: ++ Alaska macht den Anfang ++",
+      "title": "Ätna sorgt weiter für Reisechaos auf Sizilien",
+      "link": "https://www.tagesschau.de/ausland/europa/atna-ausbruch-flughafen-dicht-100.html"
+    },
+    {
+      "title": "Trumps Pressesprecherin Leavitt verlässt Weißes Haus",
+      "link": "https://www.tagesschau.de/ausland/trump-leavitt-100.html"
+    },
+    {
+      "title": "Liveblog: ++ Nächste partielle Sonnenfinsternis schon 2027 ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html"
     },
     {
-      "title": "Die Sonnenfinsternis im Livestream",
-      "link": "https://www.tagesschau.de/wissen/sonnenfinsternis-stream-100.html"
+      "title": "Ebola in DR Kongo: WHO warnt vor nie dagewesenem Ausmaß",
+      "link": "https://www.tagesschau.de/ausland/ebola-838.html"
+    },
+    {
+      "title": "Millionen verfolgen Sonnenfinsternis über Deutschland",
+      "link": "https://www.tagesschau.de/inland/sonnenfinsternis-446.html"
+    },
+    {
+      "title": "Umweltminister Schneider will Klimaanpassung zur Gemeinschaftsaufgabe machen",
+      "link": "https://www.tagesschau.de/inland/schneider-hitzeschutz-100.html"
+    },
+    {
+      "title": "Marktbericht: Ernüchterung nach Rekordfahrt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html"
+    },
+    {
+      "title": "Niedrigwasser: Bahn bietet Hilfe mit mehr Güterzügen an",
+      "link": "https://www.tagesschau.de/inland/verkehrsminister-hitzeschutz-bahn-100.html"
     },
     {
       "title": "Massen künstlicher Songs: Spotify will KI-Künstler klarer kennzeichnen",
@@ -55,30 +79,6 @@
     {
       "title": "Verkehrsminister will Flüsse wegen niedriger Pegel ausbauen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-verkehrsminister-niedrigwasser-fluesse-100.html"
-    },
-    {
-      "title": "Österreich: Wehrdienst soll länger dauern - Streit über den Zivildienst",
-      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-reform-wehrpflicht-100.html"
-    },
-    {
-      "title": "Schutz queerer Menschen im Grundgesetz - Ataman für Abstimmung im Bundestag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/debatte-rechte-queerer-menschen-bundestag-100.html"
-    },
-    {
-      "title": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-110.html"
-    },
-    {
-      "title": "Reform der Nachrichtendienste stößt auf Kritik der Opposition",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-kabinett-100.html"
-    },
-    {
-      "title": "Wie die totale Sonnenfinsternis am 11. August 1999 Millionen begeisterte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/totale-sonnenfinsternis-1999-100.html"
-    },
-    {
-      "title": "Marktbericht: Spannung vor US-Inflationsdaten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html"
     }
   ]
 }
