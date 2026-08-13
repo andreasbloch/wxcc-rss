@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rhein-niedrigwasser-folgen-100.html"
+    },
+    {
+      "title": "Tschechiens Regierung plant strenge Handyregeln an Schulen",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-handynutzung-schule-100.html"
+    },
+    {
+      "title": "Darmparasit Cyclospora breitet sich in den USA aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/parasit-eisbergsalat-usa-100.html"
+    },
+    {
       "title": "Ätna sorgt weiter für Reisechaos auf Sizilien",
       "link": "https://www.tagesschau.de/ausland/europa/atna-ausbruch-flughafen-dicht-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Bundesregierung will \"begleitetes Trinken\" für Jugendliche verbieten",
       "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-alkoholverbot-jugendliche-100.html"
-    },
-    {
-      "title": "Marktbericht: TUI macht weniger Gewinn",
-      "link": "https://www.tagesschau.de/wirtschaft/tui-190.html"
-    },
-    {
-      "title": "Regierung bringt Frühstartrente auf den Weg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsbeschluss-fruehstartrente-100.html"
-    },
-    {
-      "title": "Verkehrsminister will Flüsse wegen niedriger Pegel ausbauen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bilger-verkehrsminister-niedrigwasser-fluesse-100.html"
     }
   ]
 }
