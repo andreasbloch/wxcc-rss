@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Rekordserie geht erstmal nicht weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html"
+    },
+    {
+      "title": "Urteil gegen Airline: Passagiere dürfen mehrere Handgepäckstücke mitnehmen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/handgepaeck-flugzeug-100.html"
+    },
+    {
+      "title": "Niedrigwasser: Und plötzlich liegt eine Bazooka am Ufer",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/niedrigwasser-kampfmittel-rhein-100.html"
+    },
+    {
+      "title": "Was könnte gegen Niedrigwasser helfen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/faq-niedrigwasser-ausbau-fluesse-100.html"
+    },
+    {
+      "title": "Haftbefehl gegen AfD-Politiker Maximilian Krah erlassen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/krah-haftbefehl-100.html"
+    },
+    {
+      "title": "Beschädigter Tanker: Ölteppich vor Oman breitet sich weiter aus",
+      "link": "https://www.tagesschau.de/ausland/asien/oman-oelpest-tanker-100.html"
+    },
+    {
+      "title": "Niedriger Donaupegel: Rumänien schaltet einziges AKW komplett ab",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-akw-102.html"
+    },
+    {
+      "title": "Berliner Kältebus angezündet - Täter muss dauerhaft in Psychiatrie",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/kaeltebus-anschlag-berlin-taeter-psychiatrie-100.html"
+    },
+    {
+      "title": "Niedrigwasser: \"Gegen fehlendes Wasser hilft keine Technik\"  ",
+      "link": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wasserkraftwerk-100.html"
+    },
+    {
+      "title": "Trockenheit und Dürre: Getreideernte in Deutschland leidet stark",
+      "link": "https://www.tagesschau.de/wirtschaft/bauern-getreide-ernte-100.html"
+    },
+    {
+      "title": "Raketenstartbasis: Deutschland sucht seinen Weg ins All",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/raketen-bundeswehr-startbasis-100.html"
+    },
+    {
+      "title": "Studie: Soviel verdienten DAX-Vorstände 2025",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/gehalt-dax-vorstaende-dsw-100.html"
+    },
+    {
+      "title": "Riesige Marienstatue in Polen soll Pilger anziehen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-marienstatue-100.html"
+    },
+    {
+      "title": "Drohnenvorfall am Flughafen Leipzig: Was explodierte in Kursdorf?",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohnen-leipzig-100.html"
+    },
+    {
+      "title": "Gedenken an Mauerbau - Warnung vor Geschichtsvergessenheit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gedenken-mauerbau-100.html"
+    },
+    {
+      "title": "Israelische Armee fordert Palästinenser zum Verlassen ihrer Häuser auf",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-siedler-gewalt-100.html"
+    },
+    {
       "title": "Schwerarbeitspension: Wie funktioniert Österreichs Rente mit 60?",
       "link": "https://www.tagesschau.de/ausland/europa/oesterreich-schwerarbeitpension-100.html"
     },
@@ -15,70 +79,6 @@
     {
       "title": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-schwarzes-meer-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX-Rekordserie könnte sich fortsetzen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html"
-    },
-    {
-      "title": "Kritik aus Japan: Putin besucht umstrittene Kurilen-Insel",
-      "link": "https://www.tagesschau.de/ausland/asien/russland-kurilen-inseln-putin-100.html"
-    },
-    {
-      "title": "Kuba erinnert an Fidel Castro: Geburtstagsfeiern ohne Feierlaune",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-castro-106.html"
-    },
-    {
-      "title": "Kampf gegen die Berliner Mauer - für Achim Neumann ein Lebensthema",
-      "link": "https://www.tagesschau.de/kultur/65-jahre-mauerbau-100.html"
-    },
-    {
-      "title": "Trump-Sprecherin Leavitt - die oberste Influencerin des Weißen Hauses geht",
-      "link": "https://www.tagesschau.de/ausland/amerika/leavitt-ruecktritt-102.html"
-    },
-    {
-      "title": "Vor 65 Jahren: Berlin erinnert an den Mauerbau",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/mauerbau-gedenken-108.html"
-    },
-    {
-      "title": "Studie: AfD-Politik nicht auf Arbeiter ausgerichtet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-wirtschaftspolitik-arbeiter-100.html"
-    },
-    {
-      "title": "Sambia vor der Wahl: Kupfer, Reformen und hohe Preise",
-      "link": "https://www.tagesschau.de/ausland/afrika/wahl-sambia-106.html"
-    },
-    {
-      "title": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/rhein-niedrigwasser-folgen-100.html"
-    },
-    {
-      "title": "Tschechiens Regierung plant strenge Handyregeln an Schulen",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-handynutzung-schule-100.html"
-    },
-    {
-      "title": "Darmparasit Cyclospora breitet sich in den USA aus",
-      "link": "https://www.tagesschau.de/ausland/amerika/parasit-eisbergsalat-usa-100.html"
-    },
-    {
-      "title": "Ätna sorgt weiter für Reisechaos auf Sizilien",
-      "link": "https://www.tagesschau.de/ausland/europa/atna-ausbruch-flughafen-dicht-100.html"
-    },
-    {
-      "title": "Trumps Pressesprecherin Leavitt verlässt Weißes Haus",
-      "link": "https://www.tagesschau.de/ausland/trump-leavitt-100.html"
-    },
-    {
-      "title": "Liveblog: ++ Nächste partielle Sonnenfinsternis schon 2027 ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html"
-    },
-    {
-      "title": "Ebola in DR Kongo: WHO warnt vor nie dagewesenem Ausmaß",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-dr-kongo-ausbreitung-100.html"
-    },
-    {
-      "title": "Millionen verfolgen Sonnenfinsternis über Deutschland",
-      "link": "https://www.tagesschau.de/inland/sonnenfinsternis-446.html"
     }
   ]
 }
