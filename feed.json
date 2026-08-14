@@ -1,7 +1,31 @@
 {
   "items": [
     {
-      "title": "Alabali Radovan: Afghanen helfen ohne Taliban-Kooperation",
+      "title": "Lage am Ätna: \"Das hier ist ein ungewöhnlicher Ausbruch\"",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-aetna-asche-folgen-flugverkehr-100.html"
+    },
+    {
+      "title": "Warum Christopher Nolans \"Die Odyssee\" für Debatten sorgt",
+      "link": "https://www.tagesschau.de/kultur/die-odyssee-popkultur-kontroversen-100.html"
+    },
+    {
+      "title": "Warum Diesel trotz gesunkener Ölpreise so teuer bleibt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diesel-oelpreis-spritpreise-heizoel-100.html"
+    },
+    {
+      "title": "Grünen-Fraktionschefin: Regierung sieht bei Spritpreis-Abzocke zu",
+      "link": "https://www.tagesschau.de/inland/hohe-spritpreise-gruene-100.html"
+    },
+    {
+      "title": "Bauernverband befürchtet teils totalen Ernteausfall",
+      "link": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html"
+    },
+    {
+      "title": "Gericht weist Klage der US-Regierung gegen Harvard ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/klage-harvard-abgewiesen-100.html"
+    },
+    {
+      "title": "Alabali Radovan: Hilfe für Afghanen - ohne Taliban-Kooperation",
       "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html"
     },
     {
@@ -55,30 +79,6 @@
     {
       "title": "Trockenheit und Dürre: Getreideernte in Deutschland leidet stark",
       "link": "https://www.tagesschau.de/wirtschaft/bauern-getreide-ernte-100.html"
-    },
-    {
-      "title": "Raketenstartbasis: Deutschland sucht seinen Weg ins All",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/raketen-bundeswehr-startbasis-100.html"
-    },
-    {
-      "title": "Studie: Soviel verdienten DAX-Vorstände 2025",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/gehalt-dax-vorstaende-dsw-100.html"
-    },
-    {
-      "title": "Riesige Marienstatue in Polen soll Pilger anziehen",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-marienstatue-100.html"
-    },
-    {
-      "title": "Drohnenvorfall am Flughafen Leipzig: Was explodierte in Kursdorf?",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/drohnen-leipzig-100.html"
-    },
-    {
-      "title": "Gedenken an Mauerbau - Warnung vor Geschichtsvergessenheit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gedenken-mauerbau-100.html"
-    },
-    {
-      "title": "Israelische Armee fordert Palästinenser zum Verlassen ihrer Häuser auf",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-siedler-gewalt-100.html"
     }
   ]
 }
