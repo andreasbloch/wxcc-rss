@@ -1,12 +1,36 @@
 {
   "items": [
     {
-      "title": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
-      "link": "https://www.tagesschau.de/sport/sportschau/leichtathletik-em-gold-owen-ansah-100.html"
+      "title": "Kampf gegen die Flammen im Hürtgenwald",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html"
+    },
+    {
+      "title": "Schweres Erdbeben erschüttert Ostindonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html"
+    },
+    {
+      "title": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html"
+    },
+    {
+      "title": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html"
+    },
+    {
+      "title": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
+      "link": "https://www.tagesschau.de/ausland/europa/ceuta-274.html"
+    },
+    {
+      "title": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
+      "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html"
     },
     {
       "title": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
       "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html"
+    },
+    {
+      "title": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
+      "link": "https://www.tagesschau.de/sport/sportschau/leichtathletik-em-gold-owen-ansah-100.html"
     },
     {
       "title": "Mord an US-Versicherungschef: Angeklagter Luigi M. gesteht Schüsse",
@@ -55,30 +79,6 @@
     {
       "title": "Untersuchung zu Ryanair-Vorfall: Triebwerksteil zerschlug Flugzeugfenster",
       "link": "https://www.tagesschau.de/ausland/amerika/ryanair-flug-zwischenfall-fenster-102.html"
-    },
-    {
-      "title": "Ersthelfer begannen 2025 jede zweite Reanimation außerhalb von Kliniken",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/reanimation-ersthelfer-100.html"
-    },
-    {
-      "title": "Starke Geschäfte bei DAX-Konzernen - aber auch Stellenabbau",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/stellenabbau-dax-konzerne-rekordgewinne-100.html"
-    },
-    {
-      "title": "Bauernverband befürchtet teils totalen Ernteausfall",
-      "link": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html"
-    },
-    {
-      "title": "Marktbericht: Aktienkurs von HelloFresh stürzt auf Rekordtief",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/marktbericht-hellofresh-100.html"
-    },
-    {
-      "title": "EU-Migrationspolitik: Mit Faktenchecks gegen neue Ceuta-Gerüchte",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-fluechtlinge-152.html"
-    },
-    {
-      "title": "Brand in Berliner Hochhaus - Evakuierung über Drehleitern",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-friedrichshain-brand-hochhaus-100.html"
     }
   ]
 }
