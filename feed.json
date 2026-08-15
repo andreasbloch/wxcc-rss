@@ -1,8 +1,52 @@
 {
   "items": [
     {
+      "title": "Neue Erkenntnisse: Wie viel Kaffee ist gesund?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/kaffee-konsum-herz-kreislauf-diabetes-100.html"
+    },
+    {
+      "title": "Warum jetzt auch Bäckerei-Ketten von Finanzinvestoren übernommen werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/finanzinvestoren-handwerksbetriebe-baecker-eifler-100.html"
+    },
+    {
+      "title": "In der SPD grummelt es vor den Landtagswahlen immer lauter",
+      "link": "https://www.tagesschau.de/inland/spd-lage-vor-wahlen-100.html"
+    },
+    {
+      "title": "Schweres Erdbeben erschüttert Ostindonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html"
+    },
+    {
+      "title": "Flugbetrieb in Catania läuft wieder an - Warnstufe für Vulkan Ätna gesenkt",
+      "link": "https://www.tagesschau.de/ausland/europa/sizilien-flughafen-100.html"
+    },
+    {
+      "title": "Berlin: \"Rave the Planet\" mit verschärften Sicherheitsmaßnahmen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html"
+    },
+    {
+      "title": "Tote bei schwerem israelischem Angriff im Libanon",
+      "link": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html"
+    },
+    {
+      "title": "Indiens Premier Modi verspricht der Jugend Gratis-Kurse",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-jugendproteste-kakerlakenbewegung-bildung-100.html"
+    },
+    {
+      "title": "Wo ist der \"Geist von Anchorage\"?",
+      "link": "https://www.tagesschau.de/ausland/europa/ein-jahr-nach-gipfel-anchorage-100.html"
+    },
+    {
+      "title": "Waldbrände in Europa: Wo es gerade brennt",
+      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html"
+    },
+    {
       "title": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html"
+    },
+    {
+      "title": "Streit um den Sabbat in Israel: Ein Café als Ort des Kulturkampfs",
+      "link": "https://www.tagesschau.de/ausland/asien/sabbat-kulturkampf-israel-100.html"
     },
     {
       "title": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
@@ -11,10 +55,6 @@
     {
       "title": "Norddeutschland: Behörden warnen Badende vor Blaualgen",
       "link": "https://www.tagesschau.de/ostsee-blaualgen-100.html"
-    },
-    {
-      "title": "Schweres Erdbeben erschüttert Ostindonesien",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html"
     },
     {
       "title": "Patientenschützer wollen Hitze als Todesursache erfassen",
@@ -39,46 +79,6 @@
     {
       "title": "Grüne in Sachsen-Anhalt: Hoffnung für die Hoffnungslosen?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-sachsen-anhalt-banaszak-100.html"
-    },
-    {
-      "title": "Früherer Cambridge-Professor Arday tot aufgefunden",
-      "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html"
-    },
-    {
-      "title": "Kampf gegen die Flammen im Hürtgenwald",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html"
-    },
-    {
-      "title": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html"
-    },
-    {
-      "title": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html"
-    },
-    {
-      "title": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-274.html"
-    },
-    {
-      "title": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html"
-    },
-    {
-      "title": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
-      "link": "https://www.tagesschau.de/sport/sportschau/leichtathletik-em-gold-owen-ansah-100.html"
-    },
-    {
-      "title": "Mord an US-Versicherungschef: Angeklagter Luigi M. gesteht Schüsse",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-luigi-m-100.html"
-    },
-    {
-      "title": "ARD: Florian Hager bleibt Intendant des Hessischen Rundfunks",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html"
-    },
-    {
-      "title": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html"
     }
   ]
 }
