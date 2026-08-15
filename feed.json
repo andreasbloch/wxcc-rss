@@ -1,12 +1,52 @@
 {
   "items": [
     {
-      "title": "Kampf gegen die Flammen im Hürtgenwald",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html"
+      "title": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html"
+    },
+    {
+      "title": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
+      "link": "https://www.tagesschau.de/kommentar/taliban-bundesregierung-100.html"
+    },
+    {
+      "title": "Norddeutschland: Behörden warnen Badende vor Blaualgen",
+      "link": "https://www.tagesschau.de/ostsee-blaualgen-100.html"
     },
     {
       "title": "Schweres Erdbeben erschüttert Ostindonesien",
       "link": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html"
+    },
+    {
+      "title": "Patientenschützer wollen Hitze als Todesursache erfassen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hitzetote-erfassung-100.html"
+    },
+    {
+      "title": "Deutsche Bahn will alte Güterwaggons wieder in Betrieb nehmen",
+      "link": "https://www.tagesschau.de/inland/niedrigwasser-folgen-bahn-preise-100.html"
+    },
+    {
+      "title": "Millionen-Goldfund auf belgischer Baustelle",
+      "link": "https://www.tagesschau.de/ausland/europa/goldfund-belgien-100.html"
+    },
+    {
+      "title": "Fünf Jahre Taliban-Herrschaft - zwei Schwestern blicken zurück",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/afghanistan-gefluechtete-schwestern-100.html"
+    },
+    {
+      "title": "Fünf Jahre Taliban: Afghanistan, ein Land als Gefängnis",
+      "link": "https://www.tagesschau.de/ausland/asien/fuenf-jahre-taliban-herrschaft-100.html"
+    },
+    {
+      "title": "Grüne in Sachsen-Anhalt: Hoffnung für die Hoffnungslosen?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-sachsen-anhalt-banaszak-100.html"
+    },
+    {
+      "title": "Früherer Cambridge-Professor Arday tot aufgefunden",
+      "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html"
+    },
+    {
+      "title": "Kampf gegen die Flammen im Hürtgenwald",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html"
     },
     {
       "title": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
@@ -19,10 +59,6 @@
     {
       "title": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
       "link": "https://www.tagesschau.de/ausland/europa/ceuta-274.html"
-    },
-    {
-      "title": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
-      "link": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html"
     },
     {
       "title": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
@@ -43,42 +79,6 @@
     {
       "title": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX-Gewinne reichen nicht für Rekord",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html"
-    },
-    {
-      "title": "Ceuta: Irreführende Videos und KI-generierte Bilder im Umlauf",
-      "link": "https://www.tagesschau.de/faktenfinder/fakes-ceuta-100.html"
-    },
-    {
-      "title": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html"
-    },
-    {
-      "title": "Niederlage für Macron: Social-Media-Verbot gekippt",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-gekippt-100.html"
-    },
-    {
-      "title": "Waldbrände: Grüne fordern Merz zum Handeln auf",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gruene-waldbraende-forderungen-100.html"
-    },
-    {
-      "title": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
-      "link": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html"
-    },
-    {
-      "title": "Deutsche Bahn klagt gegen Mitbenutzung ihrer Strecken",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-klage-fernverkehr-100.html"
-    },
-    {
-      "title": "Warum die Fahrrinne im Rhein bisher nicht ausgebaut wurde",
-      "link": "https://www.tagesschau.de/wirtschaft/rhein-niedrigwasser-fahrrinne-100.html"
-    },
-    {
-      "title": "Untersuchung zu Ryanair-Vorfall: Triebwerksteil zerschlug Flugzeugfenster",
-      "link": "https://www.tagesschau.de/ausland/amerika/ryanair-flug-zwischenfall-fenster-102.html"
     }
   ]
 }
