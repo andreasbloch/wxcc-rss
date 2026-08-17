@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Warum deutsche Industrie ihr Glück in Ungarn sucht",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/unternehmen-abwanderung-ungarn-100.html"
+    },
+    {
+      "title": "Präsident Trump bremst gemeinsames Manöver mit Südkorea aus",
+      "link": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html"
+    },
+    {
+      "title": "Tschechiens Regierung beruft für heute \"Dürre-Gipfel\" ein",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-duerre-gipfel-100.html"
+    },
+    {
       "title": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
       "link": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "USA: Alaskas Rohstoffe abbauen - aber wie?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-alaska-abbau-rohstoffe-100.html"
-    },
-    {
-      "title": "Amanal Petros sichert sich EM-Gold im Marathon",
-      "link": "https://www.tagesschau.de/sport/leichtathletik-em-marathon-goldmedaille-100.html"
-    },
-    {
-      "title": "Reisebus mit Pilgergruppe in Ungarn verunglückt - zwölf Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ungarn-busunglueck-tote-verletzte-100.html"
-    },
-    {
-      "title": "NATO-Kampfjet schießt Drohne über Rumänien ab",
-      "link": "https://www.tagesschau.de/ausland/europa/nato-abschuss-drohne-rumaenien-100.html"
     }
   ]
 }
