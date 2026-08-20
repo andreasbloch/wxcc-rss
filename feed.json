@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html"
+    },
+    {
+      "title": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-debatte-wahlen-100.html"
+    },
+    {
+      "title": "Ernährungssicherheit: Wie sinnvoll sind die Maßnahmen der Politik?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ernaehrungssicherheit-landwirtschaft-100.html"
+    },
+    {
       "title": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-klinik-tote-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Nach Waldbrand in Südfrankreich: Wie kann der Wald resilienter werden?",
       "link": "https://www.tagesschau.de/ausland/europa/nach-waldbrand-frankreich-bordeaux-100.html"
-    },
-    {
-      "title": "Die Spritpreise sind wegen Niedrigwassers erneut gestiegen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/tanken-spritpreise-steigen-100.html"
-    },
-    {
-      "title": "Empörung und Kritik nach US-Entscheidung zu Strafgerichtshof",
-      "link": "https://www.tagesschau.de/ausland/amerika/reaktionen-usa-sanktionen-internationaler-strafgerichtshof-100.html"
-    },
-    {
-      "title": "Autofahrer könnten beim Wechsel der Kfz-Versicherung besonders viel sparen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/verivox-kfz-versicherungen-billiger-100.html"
     }
   ]
 }
