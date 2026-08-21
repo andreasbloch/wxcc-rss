@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Wirtschaft mahnt in Brief an Regierung Umsetzung von Reformen an",
+      "link": "https://www.tagesschau.de/wirtschaft/brief-konzerne-regierung-100.html"
+    },
+    {
+      "title": "Vor Landtagswahl: Klingbeil bei Wahlkampf in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/klingbeil-sachsen-anhalt-100.html"
+    },
+    {
+      "title": "Erdbeben erschüttert Andenregion in Peru",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-104.html"
+    },
+    {
       "title": "Europäer und Kanada fordern Israel auf, Siedlungspläne zurückzunehmen",
       "link": "https://www.tagesschau.de/ausland/asien/stellungnahme-israel-westjordanland-siedler-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Kinderärzte: Neue Untersuchung für Neun- bis Zehnjährige kommt",
       "link": "https://www.tagesschau.de/wissen/gesundheit/u10-untersuchung-kinder-100.html"
-    },
-    {
-      "title": "Internationaler Strafgerichtshof: Vereint gegen Kriegsverbrechen und Völkermord?",
-      "link": "https://www.tagesschau.de/ausland/amerika/faq-usa-sanktionen-internationaler-strafgerichtshof-100.html"
-    },
-    {
-      "title": "Urlaub in Dänemark boomt - vor allem bei Deutschen",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-tourismus-100.html"
-    },
-    {
-      "title": "Plagiatsvorwürfe: Berliner Senatorin lässt ihre Doktorarbeit prüfen",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/senatorin-badenberg-laesst-doktorarbeit-nach-plagiatsvorwuerfen-pruefen-100.html"
     }
   ]
 }
