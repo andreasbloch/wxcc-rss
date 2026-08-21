@@ -1,8 +1,24 @@
 {
   "items": [
     {
+      "title": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
+      "link": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html"
+    },
+    {
       "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
       "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html"
+    },
+    {
+      "title": "Ein Toter nach Schwertangriff an schwedischer Schule",
+      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html"
+    },
+    {
+      "title": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html"
+    },
+    {
+      "title": "Korruptionsskandal in der Ukraine weitet sich aus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html"
     },
     {
       "title": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
@@ -11,10 +27,6 @@
     {
       "title": "Marktbericht: DAX geht mit Gewinn aus der Woche",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html"
-    },
-    {
-      "title": "Mehrere Verletzte bei Angriff an schwedischer Schule",
-      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html"
     },
     {
       "title": "Jahrhundertsommer? Warum Forschende neu denken müssen",
@@ -67,18 +79,6 @@
     {
       "title": "Kunst vs. KI: Ist ein Bild ohne Kamera noch ein Foto?",
       "link": "https://www.tagesschau.de/kultur/fotografie-ki-kuenstliche-intelligenz-100.html"
-    },
-    {
-      "title": "Deutsche Industrie wächst so stark wie zuletzt 2022",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-mittagsschwerpunkt-100.html"
-    },
-    {
-      "title": "Nord-Stream-Verdächtiger kommt nach Festnahme in Kroatien in U-Haft",
-      "link": "https://www.tagesschau.de/ausland/europa/nord-stream-untersuchungshaft-100.html"
-    },
-    {
-      "title": "Was nach einem Jahr vom EU-US-Zolldeal geblieben ist",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/jahrestag-zolldeal-usa-eu-100.html"
     }
   ]
 }
