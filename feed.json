@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "title": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html"
+    },
+    {
+      "title": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html"
+    },
+    {
+      "title": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html"
+    },
+    {
+      "title": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html"
+    },
+    {
+      "title": "Mindestens 13 Migranten nach Bootsunglück vor Tunesien vermisst",
+      "link": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html"
+    },
+    {
+      "title": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-transmenschen-100.html"
+    },
+    {
+      "title": "Außenminister Wadephul zu unangekündigtem Besuch in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html"
+    },
+    {
+      "title": "Kanzler Merz besucht Waldbrandgebiet in NRW",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-besuch-100.html"
+    },
+    {
+      "title": "Klingbeil macht Vorstoß für Übergewinnsteuer bei Ölkonzernen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/uebergewinnsteuer-klingbeil-eu-100.html"
+    },
+    {
+      "title": "Langlebigkeit - Hype oder wissenschaftlich belegbar?",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/longevity-langlebigkeit-supplements-nahrungsergaenzung-100.html"
+    },
+    {
+      "title": "Trauer und Fassungslosigkeit nach Schwertangriff in Schweden",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-fagersta-schwertangriff-100.html"
+    },
+    {
       "title": "Humanoide Roboter: Kann Deutschland beim Boom mithalten?",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/humanoide-roboter-deutschland-industrie-china-100.html"
     },
@@ -21,16 +65,8 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-ozon-krywyj-rih-100.html"
     },
     {
-      "title": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html"
-    },
-    {
       "title": "Diebstahl in der Pflege: Wie sich Betroffene schützen können",
       "link": "https://www.tagesschau.de/inland/gesellschaft/diebstahl-senioren-pflege-100.html"
-    },
-    {
-      "title": "Außenminister Wadephul zu unangekündigtem Besuch in der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html"
     },
     {
       "title": "Magdeburg: Kaiser Otto der Große bekommt neues Grab",
@@ -43,42 +79,6 @@
     {
       "title": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html"
-    },
-    {
-      "title": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
-      "link": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html"
-    },
-    {
-      "title": "Tote und Verletzte nach Angriffen auf ukrainisches Einkaufszentrum",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-angriff-einkaufszentrum-100.html"
-    },
-    {
-      "title": "Ein Toter nach Schwertangriff an schwedischer Schule",
-      "link": "https://www.tagesschau.de/ausland/europa/schwertangriff-schweden-100.html"
-    },
-    {
-      "title": "Diplomatin Birkett führt bei Testabstimmung über Amt des UN-Generalsekretärs",
-      "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-auswahl-100.html"
-    },
-    {
-      "title": "Korruptionsskandal in der Ukraine weitet sich aus",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-selenskyj-102.html"
-    },
-    {
-      "title": "Ukraine verbietet beliebte Zeichentrickserie \"Mascha und der Bär\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-zeichentrickserie-russland-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX geht mit Gewinn aus der Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-staatsschulden-100.html"
-    },
-    {
-      "title": "Jahrhundertsommer? Warum Forschende neu denken müssen",
-      "link": "https://www.tagesschau.de/wissen/klima/wetter-klima-jahrhundertsommer-100.html"
-    },
-    {
-      "title": "Prinz Harry und Elton John müssen Prozesskosten in Millionenhöhe begleichen",
-      "link": "https://www.tagesschau.de/ausland/europa/daily-mail-prozesskosten-harry-elton-john-100.html"
     }
   ]
 }
