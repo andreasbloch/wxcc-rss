@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Magdeburg: Kaiser Otto der Große bekommt neues Grab",
+      "link": "https://www.tagesschau.de/kultur/kaisergrab-otto-der-grosse-magdeburger-dom-100.html"
+    },
+    {
+      "title": "Siedlungsbau im Westjordanland: Stresstest für Israels Verhältnis zu Europa",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungspolitik-eu-100.html"
+    },
+    {
+      "title": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html"
+    },
+    {
       "title": "Mehr als 300 Migranten von Holzboot vor Mauretanien gerettet",
       "link": "https://www.tagesschau.de/ausland/afrika/mauretanien-rettung-migranten-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "USA erstatten deutschen Firmen Hunderte Millionen Euro an Zöllen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/us-zoelle-rueckzahlungen-100.html"
-    },
-    {
-      "title": "Acht Tote bei Flugzeugabsturz auf US-Luftwaffenstützpunkt in Alaska",
-      "link": "https://www.tagesschau.de/ausland/amerika/alaska-flugzeugabsturz-luftwaffe-100.html"
-    },
-    {
-      "title": "Aktivisten von Tiananmen-Mahnwachen in Hongkong verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/hongkong-urteil-aktivisten-104.html"
-    },
-    {
-      "title": "Kunst vs. KI: Ist ein Bild ohne Kamera noch ein Foto?",
-      "link": "https://www.tagesschau.de/kultur/fotografie-ki-kuenstliche-intelligenz-100.html"
     }
   ]
 }
