@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
+      "link": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html"
+    },
+    {
+      "title": "Wie Künstliche Intelligenz die Justiz ausbremst",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html"
+    },
+    {
       "title": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html"
     },
@@ -49,10 +57,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/technologie/humanoide-roboter-deutschland-industrie-china-100.html"
     },
     {
-      "title": "Hessen: Autofahrer verletzt Passanten - offenbar medizinischer Notfall",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hofgeismar-auto-fussgaengerzone-100.html"
-    },
-    {
       "title": "Jabloko-Chef Rybakow: \"In Russland denken viele wie wir\"",
       "link": "https://www.tagesschau.de/ausland/europa/russland-jabloko-rybakow-wahlausschluss-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Siedlungsbau im Westjordanland: Stresstest für Israels Verhältnis zu Europa",
       "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungspolitik-eu-100.html"
-    },
-    {
-      "title": "US-Ermittlungen gegen TikTok enden mit 400-Millionen-Dollar-Vergleich",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tiktok-vergleich-usa-100.html"
     }
   ]
 }
