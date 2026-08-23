@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
+      "link": "https://www.tagesschau.de/ausland/amerika/schildkroeten-in-mexiko-touristenhit-100.html"
+    },
+    {
+      "title": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html"
+    },
+    {
+      "title": "Kasachstan wählt neues Parlament",
+      "link": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html"
+    },
+    {
+      "title": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
+      "link": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html"
+    },
+    {
+      "title": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html"
+    },
+    {
+      "title": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html"
+    },
+    {
       "title": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
       "link": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Humanoide Roboter: Kann Deutschland beim Boom mithalten?",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/humanoide-roboter-deutschland-industrie-china-100.html"
-    },
-    {
-      "title": "Jabloko-Chef Rybakow: \"In Russland denken viele wie wir\"",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-jabloko-rybakow-wahlausschluss-100.html"
-    },
-    {
-      "title": "Justizministerin Hubig will mehr Schutz für queere Menschen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-queere-menschen-grundgesetz-100.html"
-    },
-    {
-      "title": "Zahl der Todesopfer nach Angriff auf ukrainisches Einkaufszentrum gestiegen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-ozon-krywyj-rih-100.html"
-    },
-    {
-      "title": "Diebstahl in der Pflege: Wie sich Betroffene schützen können",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/diebstahl-senioren-pflege-100.html"
-    },
-    {
-      "title": "Magdeburg: Kaiser Otto der Große bekommt neues Grab",
-      "link": "https://www.tagesschau.de/kultur/kaisergrab-otto-der-grosse-magdeburger-dom-100.html"
-    },
-    {
-      "title": "Siedlungsbau im Westjordanland: Stresstest für Israels Verhältnis zu Europa",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-siedlungspolitik-eu-100.html"
     }
   ]
 }
