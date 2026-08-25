@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Warten auf Reformen: Wirtschaft will Taten sehen",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschafts-forderungen-kabinett-100.html"
+    },
+    {
+      "title": "ifo-Index: Die Zuversicht in der Wirtschaft wächst",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html"
+    },
+    {
+      "title": "Kabinettsklausur: Merz will mehr Wachstum ermöglichen",
+      "link": "https://www.tagesschau.de/inland/kabinettsklausur-union-spd-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger erfreut über starke Konjunkturdaten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html"
+    },
+    {
+      "title": "Konzernumbau beim Autohersteller: Was VW in China anders macht",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-china-136.html"
+    },
+    {
+      "title": "Handelsstreit zwischen USA und Kanada: Trumps Zölle, Carneys Härte",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-trump-carney-100.html"
+    },
+    {
+      "title": "Mit neuen Ideen gegen die Not im Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-wiederaufbau-100.html"
+    },
+    {
+      "title": "Tornado zieht über Südfrankreich - mehrere Verletzte",
+      "link": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html"
+    },
+    {
+      "title": "Baerbock wechselt an die Columbia-Universität",
+      "link": "https://www.tagesschau.de/ausland/amerika/baerbock-columbia-100.html"
+    },
+    {
       "title": "Referendum über EU-Beitrittsverhandlungen: Brüssel hofft auf ein Ja aus Island",
       "link": "https://www.tagesschau.de/ausland/europa/eu-beitritt-island-referendum-100.html"
     },
@@ -43,42 +79,6 @@
     {
       "title": "Unabhängigkeitstag der Ukraine - Kapitulation kommt nicht in Frage",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-unterstuetzung-100.html"
-    },
-    {
-      "title": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
-      "link": "https://www.tagesschau.de/ausland/europa/gedenken-amatrice-erdbeben-100.html"
-    },
-    {
-      "title": "Marktbericht: Seitwärts in die neue Woche",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html"
-    },
-    {
-      "title": "Kinos verzeichnen Plus bei Ticketverkäufen",
-      "link": "https://www.tagesschau.de/kultur/kinos-ticketverkauf-100.html"
-    },
-    {
-      "title": "EU-Klimadienst Copernicus: 21,1 Grad - Weltmeere warm wie nie",
-      "link": "https://www.tagesschau.de/wissen/weltmeere-rekordtemperatur-100.html"
-    },
-    {
-      "title": "Gas aus Norwegen: Uniper schließt Liefervertrag mit Equinor",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uniper-equinor-100.html"
-    },
-    {
-      "title": "Wie Apfelbauern mit Hitze und Trockenheit umgehen",
-      "link": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html"
-    },
-    {
-      "title": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
-      "link": "https://www.tagesschau.de/wirtschaft/tod-kuehne-100.html"
-    },
-    {
-      "title": "Marktbericht: Bitcoin meldet sich fulminant zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-bitcoin-100.html"
-    },
-    {
-      "title": "Selenskyj setzt zum Nationalfeiertag auf die \"Kraft der Gemeinschaft\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unabhaengigkeitstag-kiew-100.html"
     }
   ]
 }
