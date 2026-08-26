@@ -1,16 +1,72 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX bleibt auf hohem Niveau",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html"
+    },
+    {
+      "title": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html"
+    },
+    {
+      "title": "ARD-Vorwahlumfrage für Sachsen-Anhalt: AfD mit großem Vorsprung",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-sachsen-anhalt-100.html"
+    },
+    {
+      "title": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
+      "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html"
+    },
+    {
+      "title": "Meta und US-Staaten einigen sich auf Milliarden-Vergleich",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-meta-staaten-einigung-100.html"
+    },
+    {
+      "title": "\"Airport-Malaria\": Zwei Tote nach Infektion am Frankfurter Flughafen",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-am-frankfurter-flughafen-100.html"
+    },
+    {
+      "title": "Wie Menschen in Iran unter den wirtschaftlichen Kriegsfolgen leiden",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-alltag-folgen-100.html"
+    },
+    {
+      "title": "Deutsches Kino auf dem Vormarsch bei den Oscars",
+      "link": "https://www.tagesschau.de/kultur/vorauswahl-oscars-100.html"
+    },
+    {
+      "title": "Eurofurence in Hamburg: Konferenz der Kuscheltiere",
+      "link": "https://www.tagesschau.de/kultur/eurofurence-100.html"
+    },
+    {
+      "title": "Britisches Königshaus: Prinz Harry und Meghan wieder zurück in England",
+      "link": "https://www.tagesschau.de/ausland/europa/england-harry-meghan-100.html"
+    },
+    {
+      "title": "Klingbeil: \"Keine Zuckersteuer auf zuckerfreie Getränke\"",
+      "link": "https://www.tagesschau.de/inland/zuckersteuer-172.html"
+    },
+    {
+      "title": "Zweifel wegen des KI-Booms: SAP-Aktie tief im Minus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-sap-100.html"
+    },
+    {
+      "title": "Nach Kabinettsklausur: Merz fordert eine \"neue Zuversicht\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-abschluss-100.html"
+    },
+    {
+      "title": "Aufbruchstimmung in Syrien nach Auflösung von kurdischem Militärbündnis",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-sdf-aufbruch-100.html"
+    },
+    {
+      "title": "Russisches Haus in Berlin - Spionage getarnt als Kulturpflege?",
+      "link": "https://www.tagesschau.de/investigativ/wdr/russisches-haus-spionage-verdacht-russland-berlin-100.html"
+    },
+    {
       "title": "Einnahmen des Staates aus Erbschaftssteuer auf Rekordniveau",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/erbschaftssteuer-staatseinnahmen-100.html"
     },
     {
       "title": "Deutschlands Exporteure fassen Mut",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-zuversicht-eu-100.html"
-    },
-    {
-      "title": "Klingbeil: \"Keine Zuckersteuer auf zuckerfreie Getränke\"",
-      "link": "https://www.tagesschau.de/inland/zuckersteuer-172.html"
     },
     {
       "title": "Feuer in Naturschutzgebiet: Erster Verdacht zur Brandursache im Hohen Venn",
@@ -23,62 +79,6 @@
     {
       "title": "Viele Opfer bei Sturzflut in Nepal und Tibet befürchtet",
       "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaya-100.html"
-    },
-    {
-      "title": "Kreml bestätigt Besuch des CIA-Chefs in Moskau",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-cia-ratcliffe-russland-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX startet verhalten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html"
-    },
-    {
-      "title": "Bundesregierung berät auf Kabinettsklausur über Klimakrise und Reformen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-112.html"
-    },
-    {
-      "title": "\"Zombiefeuer\": Wie gefährlich sind diese wiederkehrenden Feuer?",
-      "link": "https://www.tagesschau.de/wissen/klima/waldbraende-zombiefeuer-100.html"
-    },
-    {
-      "title": "\"Airport-Malaria\": Ein Toter nach Infektion am Frankfurter Flughafen",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-am-frankfurter-flughafen-100.html"
-    },
-    {
-      "title": "Migranten und Forscher warnen vor AfD-Regierung in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/protestaktion-magdeburg-migranten-100.html"
-    },
-    {
-      "title": "Pakistan: Tote bei Brand auf Säuglingsstation in Islamabad",
-      "link": "https://www.tagesschau.de/ausland/asien/brand-kinderkrankenhaus-islamabad-100.html"
-    },
-    {
-      "title": "Trauer um Ikone Dolly Parton: \"Sie schuf Lieder und Glück\"",
-      "link": "https://www.tagesschau.de/kultur/dolly-parton-nachruf-100.html"
-    },
-    {
-      "title": "Russlands Raketen zerstören die ukrainische Wirtschaft",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-wirtschaft-100.html"
-    },
-    {
-      "title": "Kommentar: Die Verwirrung um die Briefwahl nützt Trump",
-      "link": "https://www.tagesschau.de/kommentar/usa-briefwahl-112.html"
-    },
-    {
-      "title": "Schattendatenbank: Der Schufa droht eine Sammelklage",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/schufa-klage-100.html"
-    },
-    {
-      "title": "Beginnt in Namibia der großflächige Phosphatabbau im Meer?",
-      "link": "https://www.tagesschau.de/ausland/afrika/namibia-proteste-phosphatabbau-100.html"
-    },
-    {
-      "title": "Kurdische SDF in Syrien verkündet Auflösung",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-sdf-104.html"
-    },
-    {
-      "title": "SpaceX plant neuen Raketen-Startplatz in Louisiana",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-weltraumbahnhof-100.html"
     }
   ]
 }
