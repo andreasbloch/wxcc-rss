@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Nvidias Quartalsbilanz hebt die Stimmung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-102.html"
+    },
+    {
+      "title": "Nach dem Brexit: Briten sollen Schweden verlassen",
+      "link": "https://www.tagesschau.de/ausland/europa/briten-in-schweden-ausweisung-100.html"
+    },
+    {
+      "title": "Was über die Flutwelle in Nepal bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-102.html"
+    },
+    {
+      "title": "Klausurtagung der Fraktionsvorstände: Unter Erfolgszwang",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-union-fraktion-treffen-muenster-100.html"
+    },
+    {
+      "title": "Avantgarde-Künstlerin Yayoi Kusama gestorben",
+      "link": "https://www.tagesschau.de/kultur/yayoi-kusama-gestorben-100.html"
+    },
+    {
+      "title": "Wie Waldbrände künftig mit weniger Wasser bekämpft werden können",
+      "link": "https://www.tagesschau.de/wissen/waldbrand-ohne-wasser-loeschen-100.html"
+    },
+    {
+      "title": "Wie sich Uruguay auf einen \"Super-El-Niño\" vorbereitet",
+      "link": "https://www.tagesschau.de/ausland/amerika/uruguay-el-nino-ueberschwemmungen-100.html"
+    },
+    {
       "title": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
       "link": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "Britisches Königshaus: Prinz Harry und Meghan wieder zurück in England",
       "link": "https://www.tagesschau.de/ausland/europa/england-harry-meghan-100.html"
-    },
-    {
-      "title": "Klingbeil: \"Keine Zuckersteuer auf zuckerfreie Getränke\"",
-      "link": "https://www.tagesschau.de/inland/zuckersteuer-172.html"
-    },
-    {
-      "title": "Zweifel wegen des KI-Booms: SAP-Aktie tief im Minus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-sap-100.html"
-    },
-    {
-      "title": "Nach Kabinettsklausur: Merz fordert eine \"neue Zuversicht\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-abschluss-100.html"
-    },
-    {
-      "title": "Aufbruchstimmung in Syrien nach Auflösung von kurdischem Militärbündnis",
-      "link": "https://www.tagesschau.de/ausland/asien/syrien-sdf-aufbruch-100.html"
-    },
-    {
-      "title": "Russisches Haus in Berlin - Spionage getarnt als Kulturpflege?",
-      "link": "https://www.tagesschau.de/investigativ/wdr/russisches-haus-spionage-verdacht-russland-berlin-100.html"
-    },
-    {
-      "title": "Einnahmen des Staates aus Erbschaftssteuer auf Rekordniveau",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/erbschaftssteuer-staatseinnahmen-100.html"
-    },
-    {
-      "title": "Deutschlands Exporteure fassen Mut",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/exporte-zuversicht-eu-100.html"
     }
   ]
 }
