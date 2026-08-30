@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Nepal und China: Opferzahl steigt, Suche nach Vermissten geht weiter",
+      "link": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html"
+    },
+    {
+      "title": "Westjordanland: Netanjahu verurteilt Siedlergewalt ungewöhnlich scharf",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-westjordanland-siedlergewalt-100.html"
+    },
+    {
       "title": "Haakon hält erste emotionale Ansprache als König von Norwegen",
       "link": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Rettungsteams im Himalaya kämpfen sich durch Katastrophengebiet",
       "link": "https://www.tagesschau.de/ausland/asien/nepal-tibet-flut-100.html"
-    },
-    {
-      "title": "Iran-Krieg: Der Unmut der Republikaner über Trump wird lauter",
-      "link": "https://www.tagesschau.de/ausland/amerika/republikaner-kritik-trump-100.html"
-    },
-    {
-      "title": "USA: Trump verkündet Öl-Abkommen mit Venezuela",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-trump-100.html"
     }
   ]
 }
