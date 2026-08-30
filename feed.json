@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Klingbeil fordert vor G20-Treffen in den USA ein Ende des Iran-Kriegs",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html"
+    },
+    {
+      "title": "Mit Russlands Hilfe: Junta in Niger schlägt Aufstand von Soldaten nieder",
+      "link": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-russland-100.html"
+    },
+    {
+      "title": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
+      "link": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html"
+    },
+    {
+      "title": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html"
+    },
+    {
+      "title": "Knappes Rennen bei EU-Referendum in Island",
+      "link": "https://www.tagesschau.de/ausland/europa/island-referendum-auszaehlung-100.html"
+    },
+    {
+      "title": "Superreiche in New York: \"Wir wollen mehr Steuern zahlen\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/new-york-reichensteuer-millionaere-100.html"
+    },
+    {
+      "title": "Antisemitismusbeauftragter: Wer folgt auf Felix Klein?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/antisemitismus-beauftragter-bundesregierung-100.html"
+    },
+    {
       "title": "Nepal und China: Opferzahl steigt, Suche nach Vermissten geht weiter",
       "link": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "Ex-Kohlekraftwerk Frimmersdorf: RWE sprengt riesigen Schornstein",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rwe-sprengung-schornstein-frimmersdorf-100.html"
-    },
-    {
-      "title": "Estland als Testlabor für neue synthetische Drogen",
-      "link": "https://www.tagesschau.de/ausland/europa/estland-drogen-100.html"
-    },
-    {
-      "title": "Sturzflut in Nepal und Tibet: Zahl der Toten steigt auf über 670",
-      "link": "https://www.tagesschau.de/ausland/asien/himalaya-sturzflut-nepal-100.html"
-    },
-    {
-      "title": "Interview: Was den Erfolg der AfD antreibt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-rechtsextremismus-quent-100.html"
-    },
-    {
-      "title": "Was steckt hinter dem Öl-Abkommen mit Venezuela?",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-oel-faq-100.html"
-    },
-    {
-      "title": "Bas stellt Krankschreibung ab erstem Tag infrage und stellt Bedingungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-attestpflicht-erster-krankheitstag-abschlagsfreie-rente-100.html"
-    },
-    {
-      "title": "Was die energetische Sanierung von Häusern beschleunigen könnte",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/haus-sanierung-tempo-umbau-100.html"
-    },
-    {
-      "title": "Rettungsteams im Himalaya kämpfen sich durch Katastrophengebiet",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-tibet-flut-100.html"
     }
   ]
 }
