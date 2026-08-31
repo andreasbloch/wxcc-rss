@@ -1,16 +1,60 @@
 {
   "items": [
     {
+      "title": "Pflegekassen im ersten Halbjahr mit 770 Millionen Euro Minus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/pflegeversicherung-defizit-ausgaben-100.html"
+    },
+    {
+      "title": "Bilanz des DWD: Zweitwärmster Sommer seit Aufzeichnungsbeginn",
+      "link": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html"
+    },
+    {
+      "title": "Schüsse auf ein Café in Köln",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-cafe-koeln-100.html"
+    },
+    {
+      "title": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-niedrigwasser-100.html"
+    },
+    {
+      "title": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
+      "link": "https://www.tagesschau.de/ausland/europa/wiederaufbauprogramm-italien-102.html"
+    },
+    {
+      "title": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html"
+    },
+    {
+      "title": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/iw-auslaendische-investitionen-100.html"
+    },
+    {
+      "title": "Statistik: Mehr Männer in jüngeren Altersgruppen",
+      "link": "https://www.tagesschau.de/inland/junge-maenner-ueberschuss-statistik-100.html"
+    },
+    {
+      "title": "Abschnitt des Highway 1 wegen Bränden in Kalifornien gesperrt",
+      "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-highway-1-braende-100.html"
+    },
+    {
+      "title": "Marktbericht: Der Kater nach dem DAX-Rekord?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html"
+    },
+    {
+      "title": "Bericht: Korallenriffe haben kaum noch Zeit zur Erholung",
+      "link": "https://www.tagesschau.de/wissen/korallenriffe-zustand-100.html"
+    },
+    {
       "title": "USA greifen Iran erneut an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html"
+      "link": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-gegenangriffe-100.html"
+    },
+    {
+      "title": "Fährunglück vor Nordzypern: Schwere Vorwürfe gegen Schiffsbesatzung",
+      "link": "https://www.tagesschau.de/ausland/europa/nordzypern-faehrunglueck-vorwuerfe-besatzung-100.html"
     },
     {
       "title": "Nach Sturzflut im Himalaya: Kinder allein nach Flut",
       "link": "https://www.tagesschau.de/ausland/asien/nepal-erdrutsch-gerettete-kinder-100.html"
-    },
-    {
-      "title": "Marktbericht: Steigende Ölpreise belasten Aktienmarkt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html"
     },
     {
       "title": "Nach Sturzflut im Grand Canyon: Ein Toter und mehrere Vermisste",
@@ -35,50 +79,6 @@
     {
       "title": "Merz im ARD-Sommerinterview: \"Es wird am Ende zusammengezählt\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-kanzler-merz-100.html"
-    },
-    {
-      "title": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
-      "link": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html"
-    },
-    {
-      "title": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html"
-    },
-    {
-      "title": "Warum türkische TV-Serien so erfolgreich sind",
-      "link": "https://www.tagesschau.de/wirtschaft/tv-serien-tuerkei-100.html"
-    },
-    {
-      "title": "Angriffe gegen NATO-Staaten: \"Putin eskaliert\"",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-putin-eskalation-100.html"
-    },
-    {
-      "title": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html"
-    },
-    {
-      "title": "Neues Weltraumteleskop ins All gestartet",
-      "link": "https://www.tagesschau.de/wissen/nancy-grace-roman-weltraum-teleskop-100.html"
-    },
-    {
-      "title": "Ebola-Impfungen in der DR Kongo: \"Hoffnung auf weniger schwere Krankheitsverläufe\"",
-      "link": "https://www.tagesschau.de/wissen/interview-ebola-kongo-impfungen-charite-sander-100.html"
-    },
-    {
-      "title": "Nepal und China: Opferzahl steigt, Suche nach Vermissten geht weiter",
-      "link": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html"
-    },
-    {
-      "title": "Nach Sturzflut in Nepal: Die lange Suche nach Gewissheit",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-100.html"
-    },
-    {
-      "title": "Deutschland hat unter G20-Staaten die höchsten Strompreise",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschland-strompreise-vergleich-100.html"
-    },
-    {
-      "title": "Klingbeil fordert vor G20-Treffen in den USA ein Ende des Iran-Kriegs",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html"
     }
   ]
 }
