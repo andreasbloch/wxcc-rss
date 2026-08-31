@@ -1,8 +1,24 @@
 {
   "items": [
     {
-      "title": "USA greifen offenbar iranische Raketenwerfer an",
+      "title": "USA greifen Iran erneut an",
       "link": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html"
+    },
+    {
+      "title": "Nach Sturzflut im Himalaya: Kinder allein nach Flut",
+      "link": "https://www.tagesschau.de/ausland/asien/nepal-erdrutsch-gerettete-kinder-100.html"
+    },
+    {
+      "title": "Marktbericht: Steigende Ölpreise belasten Aktienmarkt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html"
+    },
+    {
+      "title": "Nach Sturzflut im Grand Canyon: Ein Toter und mehrere Vermisste",
+      "link": "https://www.tagesschau.de/ausland/amerika/sturzflut-100.html"
+    },
+    {
+      "title": "Nach Schüssen bei Rave: Deutsche unter Verletzten des Schweizer Raves",
+      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html"
     },
     {
       "title": "Das ARD-Sommerinterview mit Bundeskanzler und CDU-Chef Merz im Faktencheck",
@@ -63,22 +79,6 @@
     {
       "title": "Klingbeil fordert vor G20-Treffen in den USA ein Ende des Iran-Kriegs",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html"
-    },
-    {
-      "title": "Mit Russlands Hilfe: Junta in Niger schlägt Aufstand von Soldaten nieder",
-      "link": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-russland-100.html"
-    },
-    {
-      "title": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
-      "link": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html"
-    },
-    {
-      "title": "Knappes Rennen bei EU-Referendum in Island",
-      "link": "https://www.tagesschau.de/ausland/europa/island-referendum-auszaehlung-100.html"
-    },
-    {
-      "title": "Superreiche in New York: \"Wir wollen mehr Steuern zahlen\"",
-      "link": "https://www.tagesschau.de/ausland/amerika/new-york-reichensteuer-millionaere-100.html"
     }
   ]
 }
