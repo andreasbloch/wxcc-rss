@@ -1,8 +1,68 @@
 {
   "items": [
     {
-      "title": "Marktbericht: Geldpolitik und Ölpreis belasten die Anlegerlaune",
+      "title": "Russischer Angriff auf die Ukraine - mindestens 12 Tote",
+      "link": "https://www.tagesschau.de/ausland/europa/russische-angriffe-ukraine-108.html"
+    },
+    {
+      "title": "Gedenkort für Opfer von CSD-Anschlag: Regenbogen-Bank im Berliner Tiergarten zerstört",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-gedenken-csd-anschlag-100.html"
+    },
+    {
+      "title": "Deutsche Post nennt sich nur noch DHL",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dhl-deutschepost-100.html"
+    },
+    {
+      "title": "Mutmaßlicher antisemitischer Angriff auf Grünen-Politiker in Berlin",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/antisemitismus-angriff-gruenen-politiker-berlin-100.html"
+    },
+    {
+      "title": "Drohnenvorfall: Bundesregierung macht offenbar Russland verantwortlich",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-vorfall-forderungen-100.html"
+    },
+    {
+      "title": "Mieterbund: 1,4 Millionen Wohnungen fehlen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/mehr-als-eine-million-wohnungen-fehlen-100.html"
+    },
+    {
+      "title": "Wie schwer sich Künstliche Intelligenz noch mit Dialekten tut",
+      "link": "https://www.tagesschau.de/wissen/forschung/kuenstliche-intelligenz-dialekt-bayrisch-100.html"
+    },
+    {
+      "title": "Ruheständler im Osten haben weniger Eigentum und kleineres Einkommen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ruhestaendler-ost-west-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX-Korrektur nach dem Rekord hält an",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html"
+    },
+    {
+      "title": "Abnehmspritze Wegovy auch als Pille - die Nebenwirkungen bleiben",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-abnehmpille-wegovy-100.html"
+    },
+    {
+      "title": "Neue US-Studie: Verursachen Abnehmspritzen Haarausfall?",
+      "link": "https://www.tagesschau.de/wissen/wissen-abnehmspritze-glp1-haarausfall-100.html"
+    },
+    {
+      "title": "John Ternus übernimmt bei Apple",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-ceo-ternus-100.html"
+    },
+    {
+      "title": "Schuljahr in der Ukraine beginnt inmitten russischer Angriffe",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-schulbeginn-100.html"
+    },
+    {
+      "title": "Zahl der Toten nach Sturzflut im Himalaya steigt auf 1.000",
+      "link": "https://www.tagesschau.de/ausland/asien/himalaya-nepal-sturzflut-tote-100.html"
+    },
+    {
+      "title": "Pflegebeauftragte: \"Die Pflegekassen werden nicht pleitegehen\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegekassen-defizit-bundesregierung-100.html"
+    },
+    {
+      "title": "Shein startet mit deutlichem Minus an Hongkonger Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/shein-ipo-boersengang-hongkong-100.html"
     },
     {
       "title": "E-Mail-Störung bei Microsoft: Systeme laufen wieder an",
@@ -19,66 +79,6 @@
     {
       "title": "Außenminister Wadephul in Nordafrika: Migration statt Wirtschaft",
       "link": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-reise-100.html"
-    },
-    {
-      "title": "Supreme Court: Trump darf Ballsaal im Weißen Haus vorerst weiterbauen",
-      "link": "https://www.tagesschau.de/ausland/amerika/weisses-haus-ballsaal-100.html"
-    },
-    {
-      "title": "Kein Handys mehr an Frankreichs Schulen - auch nicht in der Oberstufe",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-handyverbot-schule-100.html"
-    },
-    {
-      "title": "Öl-Deal mit den USA: Was das Abkommen für Venezuela bedeutet",
-      "link": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html"
-    },
-    {
-      "title": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html"
-    },
-    {
-      "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
-      "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html"
-    },
-    {
-      "title": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html"
-    },
-    {
-      "title": "Nach Sturzflut im Grand Canyon: Zwei Tote und mehrere Vermisste",
-      "link": "https://www.tagesschau.de/ausland/amerika/grand-canyon-sturzflut-100.html"
-    },
-    {
-      "title": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-angriff-bundesregierung-reaktion-100.html"
-    },
-    {
-      "title": "Flut im Himalaya: Hunderte Arbeiter in Wasserkraftwerken eingeschlossen",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html"
-    },
-    {
-      "title": "Warntag, Steuer, Garantie: Was sich im September ändert",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/neuerungen-september-100.html"
-    },
-    {
-      "title": "Vor 50 Jahren gab es den ersten Indexfonds für Privatanleger",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/wallstreet-dax-indexfonds-boerse-100.html"
-    },
-    {
-      "title": "Wadephul in Tunesien und Algerien: Mehr Stabilität - für weniger Migration",
-      "link": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-100.html"
-    },
-    {
-      "title": "\"Europa macht sich abhängig von nicht lupenreinen Demokratien\"",
-      "link": "https://www.tagesschau.de/ausland/afrika/migration-tunesien-interview-kohlenberger-100.html"
-    },
-    {
-      "title": "Marktbericht: Herbe Verluste zum Monatsende",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html"
-    },
-    {
-      "title": "Griechenlands Feuerwehr: Zwischen Saisonarbeit und Arbeitslosigkeit",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-athen-proteste-feuerwehr-100.html"
     }
   ]
 }
