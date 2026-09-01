@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Geldpolitik und Ölpreis belasten die Anlegerlaune",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-inflation-100.html"
+    },
+    {
+      "title": "E-Mail-Störung bei Microsoft: Systeme laufen wieder an",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/microsoft-stoerung-100.html"
+    },
+    {
+      "title": "US-Behörde FTC und Bundesstaaten verklagen Amazon",
+      "link": "https://www.tagesschau.de/ausland/amerika/klage-amazon-werbeeinnahmen-100.html"
+    },
+    {
+      "title": "Mord an Rapper Tupac Shakur: Angeklagter schuldig gesprochen",
+      "link": "https://www.tagesschau.de/ausland/amerika/tupac-prozess-mord-urteil-100.html"
+    },
+    {
+      "title": "Außenminister Wadephul in Nordafrika: Migration statt Wirtschaft",
+      "link": "https://www.tagesschau.de/ausland/afrika/wadephul-tunesien-algerien-reise-100.html"
+    },
+    {
+      "title": "Supreme Court: Trump darf Ballsaal im Weißen Haus vorerst weiterbauen",
+      "link": "https://www.tagesschau.de/ausland/amerika/weisses-haus-ballsaal-100.html"
+    },
+    {
+      "title": "Kein Handys mehr an Frankreichs Schulen - auch nicht in der Oberstufe",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-handyverbot-schule-100.html"
+    },
+    {
+      "title": "Öl-Deal mit den USA: Was das Abkommen für Venezuela bedeutet",
+      "link": "https://www.tagesschau.de/ausland/amerika/oel-deal-usa-venezuela-100.html"
+    },
+    {
       "title": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html"
     },
@@ -47,38 +79,6 @@
     {
       "title": "Griechenlands Feuerwehr: Zwischen Saisonarbeit und Arbeitslosigkeit",
       "link": "https://www.tagesschau.de/ausland/europa/griechenland-athen-proteste-feuerwehr-100.html"
-    },
-    {
-      "title": "Siedlergewalt im Westjordanland: Netanjahu versucht den Balanceakt",
-      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-siedlergewalt-100.html"
-    },
-    {
-      "title": "Apfel-Produzenten unter Druck",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/aepfel-ernte-deutschland-apfelsaft-100.html"
-    },
-    {
-      "title": "Landtagswahl in Sachsen-Anhalt: CDU vor der Zerreißprobe?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-landtagswahl-cdu-100.html"
-    },
-    {
-      "title": "Wenn der Festivalplatz zur Müllkippe wird",
-      "link": "https://www.tagesschau.de/kultur/festivals-muell-100.html"
-    },
-    {
-      "title": "Bilanz des DWD: Zweitwärmster Sommer seit Aufzeichnungsbeginn",
-      "link": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html"
-    },
-    {
-      "title": "USA greifen Iran erneut an",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-gegenangriffe-100.html"
-    },
-    {
-      "title": "Streit über Ceuta: Italien und Spanien verlängern Grenzkontrollen",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-spanien-ceuta-grenzkontrollen-100.html"
-    },
-    {
-      "title": "Marktbericht: Ölpreise klettern wieder",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-iran-venezuela-100.html"
     }
   ]
 }
