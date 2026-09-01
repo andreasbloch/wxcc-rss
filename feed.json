@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Öl-Deal der USA mit Venezuela: Experten bezweifeln Trumps Versprechen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-venezuela-oel-deal-100.html"
+    },
+    {
+      "title": "Klingbeil kritisiert Präsenz von russischem Finanzminister bei G20-Treffen",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-finanzminister-treffen-100.html"
+    },
+    {
+      "title": "Merz warnt vor Folgen eines \"Wutbürger\"-Experiments in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahlen-osten-merz-100.html"
+    },
+    {
+      "title": "Nach Sturzflut im Grand Canyon: Zwei Tote und mehrere Vermisste",
+      "link": "https://www.tagesschau.de/ausland/amerika/grand-canyon-sturzflut-100.html"
+    },
+    {
+      "title": "Drohnenvorfall in Leipzig: Wann und wie reagiert die Bundesregierung?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-angriff-bundesregierung-reaktion-100.html"
+    },
+    {
       "title": "Flut im Himalaya: Hunderte Arbeiter in Wasserkraftwerken eingeschlossen",
       "link": "https://www.tagesschau.de/ausland/asien/nepal-flut-erdrutsch-suche-ueberlebende-100.html"
     },
@@ -37,10 +57,6 @@
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/aepfel-ernte-deutschland-apfelsaft-100.html"
     },
     {
-      "title": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html"
-    },
-    {
       "title": "Landtagswahl in Sachsen-Anhalt: CDU vor der Zerreißprobe?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-landtagswahl-cdu-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Marktbericht: Ölpreise klettern wieder",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-iran-venezuela-100.html"
-    },
-    {
-      "title": "Deutsche Inflationsrate steigt auch im August - auf 2,9 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-august-anstieg-100.html"
-    },
-    {
-      "title": "Schüsse auf ein Café in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-cafe-koeln-100.html"
-    },
-    {
-      "title": "Verdächtiger nach Schüssen bei Rave in der Schweiz festgenommen",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-festnahme-100.html"
-    },
-    {
-      "title": "Pflegekassen im ersten Halbjahr mit 770 Millionen Euro Minus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/pflegeversicherung-defizit-ausgaben-100.html"
     }
   ]
 }
