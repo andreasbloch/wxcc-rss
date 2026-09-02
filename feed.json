@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Verletzte nach Explosion in Augsburger Innenstadt",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/augsburg-explosion-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX vor weiteren Verlusten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html"
+    },
+    {
+      "title": "Großeinsatz am Umspannwerk in Bergheim in Nordrhein-Westfalen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/moeglicher-anschlag-umspannwerk-nordrhein-westfalen-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Russlands Menschenjagd - Drohnenangriffe in Cherson",
+      "link": "https://www.tagesschau.de/podcast-11km-russland-drohnen-cherson-100.html"
+    },
+    {
+      "title": "Mutmaßlichem Kirk-Attentäter droht die Todesstrafe",
+      "link": "https://www.tagesschau.de/ausland/amerika/charliekirk-mordprozess-100.html"
+    },
+    {
+      "title": "Kaputte Regierungsmaschine verhindert Klingbeil-Rückreise",
+      "link": "https://www.tagesschau.de/ausland/amerika/klingbeil-g20-flugbereitschaft-100.html"
+    },
+    {
+      "title": "Filmfestfan wartet seit Tagen am roten Teppich in Venedig",
+      "link": "https://www.tagesschau.de/kultur/filmfestival-venedig-lido-100.html"
+    },
+    {
+      "title": "Putin bezeichnet deutsche Strafmaßnahmen als schweren Fehler",
+      "link": "https://www.tagesschau.de/ausland/asien/putin-ukraine-deutschland-100.html"
+    },
+    {
       "title": "USA und Iran melden erneut heftige Angriffe",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html"
     },
@@ -47,38 +79,6 @@
     {
       "title": "Merz setzt Leitplanken für Kooperation mit der Linken",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-linke-sachsen-anhalt-100.html"
-    },
-    {
-      "title": "Landtagswahl in Sachsen-Anhalt: Wie viel Macht hätte eine AfD-Regierung?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-afd-102.html"
-    },
-    {
-      "title": "Bundesregierung ist uneins bei der Einkommensteuerreform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/einkommensteuer-klingbeil-reiche-100.html"
-    },
-    {
-      "title": "Verband reicht Klage gegen sogenannte Schienenmaut ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/verband-klage-schienenmaut-100.html"
-    },
-    {
-      "title": "Gedenkort für Opfer von CSD-Anschlag: Regenbogen-Bank im Berliner Tiergarten zerstört",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-gedenken-csd-anschlag-100.html"
-    },
-    {
-      "title": "Israels Ex-Vize-Polizeiminister wechselt zu arabischer Partei",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-paukenschlag-wechsel-arabische-partei-100.html"
-    },
-    {
-      "title": "Marktbericht: Warum fällt der DAX?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-kursverluste-gruende-100.html"
-    },
-    {
-      "title": "König Haakon VIII. legt Eid im norwegischen Parlament ab",
-      "link": "https://www.tagesschau.de/ausland/europa/koenig-norwegen-eid-100.html"
-    },
-    {
-      "title": "Erstes Treffen der \"Mekka-Allianz\": Eine neue Ordnung im Nahen Osten",
-      "link": "https://www.tagesschau.de/ausland/asien/treffen-mekka-pakt-100.html"
     }
   ]
 }
