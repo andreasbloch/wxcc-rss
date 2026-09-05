@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Warum Schweden seine Gefangenen in Estland unterbringt",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-estland-haeftlinge-100.html"
+    },
+    {
+      "title": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html"
+    },
+    {
+      "title": "So ist die Stimmung vor der Landtagswahl in Sachsen-Anhalt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-stimmung-themen-100.html"
+    },
+    {
+      "title": "Friedensbemühungen - Trump-Gesandte reisen nach Moskau und Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-witkoff-kushner-100.html"
+    },
+    {
       "title": "UN stimmen für neue Weltkarte - Afrika wächst",
       "link": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html"
     },
@@ -61,24 +77,8 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-thueringen-abgeordnete-verlassen-fraktion-100.html"
     },
     {
-      "title": "Das sind die Punkte des VW-Sparplans",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-sparplan-102.html"
-    },
-    {
       "title": "Mit den Kämpfen im Jemen wächst die Gefahr einer Hungerkrise",
       "link": "https://www.tagesschau.de/ausland/asien/jemen-hunger-krise-100.html"
-    },
-    {
-      "title": "Weltweite Lebensmittelpreise steigen auf höchsten Stand seit 2022",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/un-lebensmittelpreise-anstieg-weltweit-100.html"
-    },
-    {
-      "title": "Tatverdächtiger bekennt sich zu Anschlägen auf Stromversorgung",
-      "link": "https://www.tagesschau.de/inland/bekennerschreiben-anschlaege-stromversorgung-100.html"
-    },
-    {
-      "title": "Wohl Sabotageversuch in Dormagen - Vorfälle in Aachen und Ganderkesee",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sabotage-stromnetz-dormagen-aachen-ganderkesee-100.html"
     }
   ]
 }
