@@ -1,8 +1,48 @@
 {
   "items": [
     {
-      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Die Tücken der Umfragen ++",
+      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Auch Berlin schaut auf die Wahl ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html"
+    },
+    {
+      "title": "Bundespolitiker fordern Konsequenzen nach Hackerangriff in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hackerangriff-berlin-102.html"
+    },
+    {
+      "title": "Hambacher Forst: Großfahndung nach mutmaßlichem Stromnetz-Saboteur",
+      "link": "https://www.tagesschau.de/inland/fahndung-sabotage-infrastruktur-100.html"
+    },
+    {
+      "title": "Dobrindt plant Schutzschirme gegen russische Drohnen- und Cyberattacken",
+      "link": "https://www.tagesschau.de/inland/drohnenabwehr-leipzig-regierung-100.html"
+    },
+    {
+      "title": "Ist das Leben in New York für junge Berufstätige noch bezahlbar?",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/lebenshaltungskosten-new-york-100.html"
+    },
+    {
+      "title": "Landtagswahl in Sachsen-Anhalt: Sorgen um Wirtschaft und steigende Preise",
+      "link": "https://www.tagesschau.de/inland/wahlen/sachsen-anhalt-wahl-wirtschaft-100.html"
+    },
+    {
+      "title": "Wie Kairos Müllstadt vom Iran-Krieg profitiert",
+      "link": "https://www.tagesschau.de/ausland/afrika/muellstadt-kairo-108.html"
+    },
+    {
+      "title": "US-Gesandte in Russland und der Ukraine: Krieg und Friedensgespräche",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-vermittlungsversuch-100.html"
+    },
+    {
+      "title": "Tote und Verletzte bei neuen Angriffen Israels im Libanon",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-libanon-angriffe-130.html"
+    },
+    {
+      "title": "Iran meldet Angriffe auf mehrere US-Tanker in Straße von Hormus",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-usa-krieg-tanker-100.html"
+    },
+    {
+      "title": "Polizisten bei Demo mit Metallkugeln beschossen",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rheinmetall-entwaffnen-anti-ruestungsdemo-koeln-100.html"
     },
     {
       "title": "Zu viele Touristen - wie Dubrovnik gegensteuert",
@@ -39,46 +79,6 @@
     {
       "title": "Welche Gefahren drohen durch die Veröffentlichung gestohlener Daten?",
       "link": "https://www.tagesschau.de/inland/faq-hackerangriff-berlin-folgen-100.html"
-    },
-    {
-      "title": "USA greifen iranische Öltanker an",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-tanker-100.html"
-    },
-    {
-      "title": "Deutscher Schauspieler Michael Mendl mit 82 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/tod-michael-mendl-100.html"
-    },
-    {
-      "title": "Wahl in Sachsen-Anhalt: Welche Koalitionsoptionen gibt es?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html"
-    },
-    {
-      "title": "Vermummte legen Hafen im südenglischen Dover lahm",
-      "link": "https://www.tagesschau.de/ausland/europa/blockade-hafen-dover-100.html"
-    },
-    {
-      "title": "Vor den Wahlen in Ostdeutschland: Engagiert - und trotzdem machtlos",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlen-osten-stimmung-100.html"
-    },
-    {
-      "title": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
-      "link": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html"
-    },
-    {
-      "title": "50 Jahre Muppet Show: Die Kunst des gepflegten Unsinns",
-      "link": "https://www.tagesschau.de/kultur/muppet-show-geburtstag-100.html"
-    },
-    {
-      "title": "Kolumbien: Die harte Hand des Präsidenten fordert erste Opfer",
-      "link": "https://www.tagesschau.de/ausland/amerika/kolumbien-gewalt-104.html"
-    },
-    {
-      "title": "Hacker veröffentlichen Daten nach Angriff auf Berliner Landesnetz",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/hackergruppe-berlin-daten-veroeffentlichung-100.html"
-    },
-    {
-      "title": "US-Sondergesandte Witkoff und Kushner zu Gesprächen in Moskau angekommen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-witkoff-kushner-100.html"
     }
   ]
 }
