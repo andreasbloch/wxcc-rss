@@ -1,28 +1,52 @@
 {
   "items": [
     {
-      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Stiftung Gedenkstätten warnt vor Folgen von AfD-Regierung ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html"
-    },
-    {
-      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: CDU gewinnt kein einziges Direktmandat ++",
+      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Warken hält Personaldebatte über Merz für falsch ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html"
     },
     {
-      "title": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
-      "link": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html"
+      "title": "Landtagswahl: \"Erstmal ist es ein Ergebnis für Sachsen-Anhalt\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-gruende-100.html"
+    },
+    {
+      "title": "Signal an die USA: EU plant mehr Investitionen in Grönland",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-investitionen-groenland-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX muss sich auf hohem Niveau behaupten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html"
+    },
+    {
+      "title": "Gegenseitige Angriffe: Schiffsverkehr in Straße von Hormus eingebrochen",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-strasse-von-hormus-100.html"
+    },
+    {
+      "title": "Nach der Wahl: Wie geht es weiter?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-faq-100.html"
+    },
+    {
+      "title": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html"
+    },
+    {
+      "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html"
     },
     {
       "title": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
       "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html"
     },
     {
-      "title": "Kommentar zur Wahl in Sachsen-Anhalt: Ratlos mit Ansage",
-      "link": "https://www.tagesschau.de/kommentar/landtagswahl-sachsen-anhalt-afd-104.html"
+      "title": "++ Liveticker zur Sachsen-Anhalt-Wahl: Stiftung Gedenkstätten warnt vor Folgen von AfD-Regierung ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html"
     },
     {
-      "title": "Reaktionen auf Wahl in Sachsen-Anhalt: AfD-Chefs sehen \"klaren Regierungsauftrag\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html"
+      "title": "Mindestens fünf Tote nach Unfall mit Amazon-Frachtflugzeug in Miami",
+      "link": "https://www.tagesschau.de/ausland/amerika/flugzeugunglueck-miami-100.html"
+    },
+    {
+      "title": "Kommentar zur Wahl in Sachsen-Anhalt: Ratlos mit Ansage",
+      "link": "https://www.tagesschau.de/kommentar/landtagswahl-sachsen-anhalt-afd-104.html"
     },
     {
       "title": "Sorge bei jüdischen Organisationen und Kirchen nach AfD-Erfolg",
@@ -55,30 +79,6 @@
     {
       "title": "US-Sondergesandte in Kiew: Noch kein Durchbruch bei Friedensgesprächen",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-kushner-witkoff-100.html"
-    },
-    {
-      "title": "Wer Die Linke in Sachsen-Anhalt wählte und warum",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-linke-landtagswahl-sachsen-anhalt-2026-100.html"
-    },
-    {
-      "title": "Wie die Wählenden in Sachsen-Anhalt über das BSW denken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-bsw-landtagswahl-sachsen-anhalt-2026-100.html"
-    },
-    {
-      "title": "Wahlverhalten bei der Landtagswahl in Sachsen-Anhalt 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-landtagswahl-sachsen-anhalt-2026-102.html"
-    },
-    {
-      "title": "Hambacher Forst: Suche nach mutmaßlichem Saboteur beendet",
-      "link": "https://www.tagesschau.de/inland/fahndung-sabotage-infrastruktur-100.html"
-    },
-    {
-      "title": "Warum konnte die AfD in Sachsen-Anhalt so stark zulegen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/umfragen-afd-landtagswahl-sachsen-anhalt-2026-100.html"
-    },
-    {
-      "title": "Wie die Wählenden in Sachsen-Anhalten wanderten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-landtagswahl-sachsen-anhalt-2026-102.html"
     }
   ]
 }
