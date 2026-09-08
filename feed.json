@@ -1,16 +1,72 @@
 {
   "items": [
     {
-      "title": "Liveblog zu Sachsen-Anhalt: ++ BSW-Chefin sieht wenig Gemeinsames mit AfD ++",
+      "title": "Einbruch in Museum in Südfrankreich: Renoir-Gemälde gestohlen",
+      "link": "https://www.tagesschau.de/ausland/europa/renoir-gemaelde-diebstahl-100.html"
+    },
+    {
+      "title": "Liveblog zu Sachsen-Anhalt: ++ BSW will auch mit AfD Gespräche führen ++",
       "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html"
+    },
+    {
+      "title": "IKEA setzt sich vor Gericht gegen rechtsextreme Partei durch",
+      "link": "https://www.tagesschau.de/ausland/europa/ikea-eugh-markenstreit-rechtsextreme-partei-100.html"
+    },
+    {
+      "title": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-beisetzung-mladic-kritik-eu-100.html"
+    },
+    {
+      "title": "Kräftiges Auftragsplus: Deutschlands Elektroindustrie brummt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-elektroindustrie-ifo-100.html"
+    },
+    {
+      "title": "Strafverfahren gegen Sänger Xavier Naidoo",
+      "link": "https://www.tagesschau.de/inland/strafverfahren-saenger-xavier-naidoo-100.html"
+    },
+    {
+      "title": "Viele Verletzte bei Angriffen der Huthi-Miliz auf Saudi-Arabien",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-angriff-saudi-arabien-100.html"
+    },
+    {
+      "title": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
+      "link": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html"
+    },
+    {
+      "title": "EU-Rechnungshof: Defizite bei Bekämpfung von illegalem Tabakhandel",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/eu-rechnungshof-zigaretten-100.html"
+    },
+    {
+      "title": "Landtagswahl Sachsen-Anhalt: BSW sieht wenig Gemeinsamkeiten mit der AfD",
+      "link": "https://www.tagesschau.de/inland/sachsen-anhalt-bsw-regierungsbildung-100.html"
+    },
+    {
+      "title": "Deutscher Buchpreis 2026: Diese sechs Romane sind nominiert",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/shortlist-deutscher-buchpreis-102.html"
+    },
+    {
+      "title": "Amazon-Flugzeug in Miami: Ermittler bergen beide Flugschreiber",
+      "link": "https://www.tagesschau.de/ausland/amerika/miami-flugzeug-unfall-amazon-cargo-blackbox-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX gibt zu Handelsbeginn leicht nach",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html"
+    },
+    {
+      "title": "Französisches KI-Start-up Mistral sammelt drei Milliarden Euro ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mistral-kuenstliche-intelligenz-start-up-100.html"
+    },
+    {
+      "title": "Deutsche Schüler schneiden bei der PISA-Studie schlecht ab",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pisa-deutschland-schueler-100.html"
+    },
+    {
+      "title": "Handelskonflikt mit den USA: Kanadas Gegenzölle in Kraft",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-usa-gegenzoelle-100.html"
     },
     {
       "title": "Ende der Amtszeit: Was Baerbock bei den UN angestoßen hat",
       "link": "https://www.tagesschau.de/ausland/amerika/baerbock-un-amtszeit-ende-100.html"
-    },
-    {
-      "title": "Marktbericht: Hohe Ölpreise haben Aktienmarkt im Griff",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html"
     },
     {
       "title": "Wie viel Geld der Bund 2027 ausgeben will - und wofür",
@@ -23,62 +79,6 @@
     {
       "title": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
       "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html"
-    },
-    {
-      "title": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html"
-    },
-    {
-      "title": "Liveticker zur Sachsen-Anhalt-Wahl: ++ Sepp Müller will als CDU-Landeschef kandidieren ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html"
-    },
-    {
-      "title": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html"
-    },
-    {
-      "title": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-reaktionen-afd-sachsen-anhalt-100.html"
-    },
-    {
-      "title": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-groenland-100.html"
-    },
-    {
-      "title": "AfD-Wahlerfolg: Polen fürchtet Instabilität und Geschichtsrelativierung",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-afd-wahlsieg-reaktionen-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX verteidigt runde Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html"
-    },
-    {
-      "title": "Proteste gegen Aufnahme von Migranten im südenglischen Portsmouth",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-portsmouth-ausschreitungen-gegen-migranten-100.html"
-    },
-    {
-      "title": "Russland schließt deutsches Konsulat in St. Petersburg",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-schliessung-konsulat-100.html"
-    },
-    {
-      "title": "Strafverfahren gegen Sänger Xavier Naidoo eröffnet",
-      "link": "https://www.tagesschau.de/inland/strafverfahren-saenger-xavier-naidoo-100.html"
-    },
-    {
-      "title": "Regierungsparteien ringen um Strategie nach Landtagswahl",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-sachsen-anhalt-reaktionen-bund-100.html"
-    },
-    {
-      "title": "Nord- und Ostsee waren im Sommer deutlich zu warm",
-      "link": "https://www.tagesschau.de/wissen/klima/nordsee-ostsee-temperaturen-104.html"
-    },
-    {
-      "title": "Reporter ohne Grenzen: AfD greift Infrastruktur der Demokratie an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-landtagswahl-sachsen-anhalt-kirche-gesellschaft-100.html"
-    },
-    {
-      "title": "Wahl in Sachsen-Anhalt: Arbeitgeber warnen vor \"Klima der Abschottung\"",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-100.html"
     }
   ]
 }
