@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "title": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html"
+    },
+    {
+      "title": "Rekord-Etat: Jeder fünfte Euro für die Verteidigung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/verteidigung-ausgaben-bundestag-100.html"
+    },
+    {
+      "title": "Harald V. beigesetzt - Trauerfeier für einen geliebten König",
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-harald-trauerfeier-100.html"
+    },
+    {
+      "title": "Bundesgerichtshof: Kaskoversicherte tragen \"Werkstattrisiko\"",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bgh-urteil-autoversicherungen-100.html"
+    },
+    {
+      "title": "Sachsen-Anhalts CDU sucht ihren Kurs - und ihren Chef",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-landtagswahl-niederlage-100.html"
+    },
+    {
+      "title": "Bericht über Warnung vor Hamas-Überfall: Netanjahu plant Klage",
+      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-klage-hamas-ueberfall-100.html"
+    },
+    {
+      "title": "Marktbericht: Ölpreis über 100 Dollar belastet DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html"
+    },
+    {
+      "title": "Kommentar zu Generaldebatte: Die AfD hat eine Erzählung - der Kanzler nicht",
+      "link": "https://www.tagesschau.de/kommentar/generaldebatte-148.html"
+    },
+    {
+      "title": "Zehntausende Lkw-Fahrer fehlen - was hilft den Speditionen?",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/lkw-fahrer-mangel-102.html"
+    },
+    {
+      "title": "\"Wohnungskrise\" in Europa: EU nimmt Airbnb und Co ins Visier",
+      "link": "https://www.tagesschau.de/wirtschaft/eu-kommission-kurzzeitvermietung-regeln-100.html"
+    },
+    {
+      "title": "Ein Register für mehr Leistung - mit Daten gegen den PISA-Schock?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pisa-schueler-102.html"
+    },
+    {
+      "title": "Parteitag der Republikaner: Gute Stimmung für die Zwischenwahlen?",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-republikaner-parteitag-102.html"
+    },
+    {
+      "title": "PISA-Ergebnisse zeigen laut Schülervertretung \"politisches Versagen\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/debatte-pisa-ergebnisse-schule-100.html"
+    },
+    {
+      "title": "Norwegen nimmt Abschied von König Harald",
+      "link": "https://www.tagesschau.de/ausland/europa/beerdigung-koenig-harald-100.html"
+    },
+    {
+      "title": "Nach dem Bruch des BSW: Wie stabil ist Thüringens Regierung noch?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/thueringen-bsw-fraktion-100.html"
+    },
+    {
+      "title": "Merz verschiebt Telefonat mit Trump - Zusammenhang mit Trumps AfD-Post unklar",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-telefonat-trump-100.html"
+    },
+    {
       "title": "Nach Sachsen-Anhalt-Wahl: Wer entscheidet bei der AfD, wie es weitergeht?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-regierungsbildung-100.html"
     },
@@ -15,70 +79,6 @@
     {
       "title": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
       "link": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html"
-    },
-    {
-      "title": "Airlines fordern Konsequenzen nach Flugchaos in Großbritannien",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/flughaefen-grossbritannien-ausfaelle-chaos-100.html"
-    },
-    {
-      "title": "Liveblog zur Generaldebatte: ++ Miersch fordert Demokraten auf, an einem Strang zu ziehen ++",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-generaldebatte-106.html"
-    },
-    {
-      "title": "Marktbericht: Ölpreis steigt erstmals seit Juli über 100 Dollar",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-brent-100.html"
-    },
-    {
-      "title": "Merz gegen die AfD im Bundestag: \"Sie sind eine destruktive Kraft\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-weidel-merz-100.html"
-    },
-    {
-      "title": "Aufnahmeprogramme für Afghanen: Erneut Geld für Ausstieg geboten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesaufnahmeprogramm-afghanistan-abwicklung-100.html"
-    },
-    {
-      "title": "Boom der Batteriespeicher",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html"
-    },
-    {
-      "title": "Eskalation im Iran-Krieg: DAX driftet nach unten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html"
-    },
-    {
-      "title": "Handels-Gastronomie: Imbisse in Geschäften gefragt wie nie",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handelsgastronomie-umsatzrekord-100.html"
-    },
-    {
-      "title": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html"
-    },
-    {
-      "title": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-krieg-angriff-tanker-100.html"
-    },
-    {
-      "title": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/apple-aktie-siri-iphone-ki-100.html"
-    },
-    {
-      "title": "11KM-Podcast: CDU nach Sachsen-Anhalt - was nun, Herr Merz?",
-      "link": "https://www.tagesschau.de/podcast-11km-cdu-merz-100.html"
-    },
-    {
-      "title": "Norwegens König Harald V. wird in Oslo beigesetzt",
-      "link": "https://www.tagesschau.de/ausland/europa/norwegen-beerdigung-koenig-harald-100.html"
-    },
-    {
-      "title": "Wie der Konflikt im Jemen wieder aufflammt",
-      "link": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-100.html"
-    },
-    {
-      "title": "Generaldebatte mit Wahldesaster im Rücken",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-bundeskanzler-wahl-sachsen-anhalt-100.html"
-    },
-    {
-      "title": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/niederlande-streik-bahnverkehr-100.html"
     }
   ]
 }
