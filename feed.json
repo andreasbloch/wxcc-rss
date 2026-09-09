@@ -1,16 +1,60 @@
 {
   "items": [
     {
-      "title": "Liveblog: ++ Schlagabtausch im Bundestag - Start der Generaldebatte ++",
+      "title": "Nach Sachsen-Anhalt-Wahl: Wer entscheidet bei der AfD, wie es weitergeht?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-regierungsbildung-100.html"
+    },
+    {
+      "title": "Tote nach russischen Angriffen in mehreren Regionen der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-142.html"
+    },
+    {
+      "title": "Regionalklassen: Wo die Kfz-Versicherung am teuersten ist",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kfz-versicherung-regionalklassen-schadensbilanz-100.html"
+    },
+    {
+      "title": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html"
+    },
+    {
+      "title": "Airlines fordern Konsequenzen nach Flugchaos in Großbritannien",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/flughaefen-grossbritannien-ausfaelle-chaos-100.html"
+    },
+    {
+      "title": "Liveblog zur Generaldebatte: ++ Miersch fordert Demokraten auf, an einem Strang zu ziehen ++",
       "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-generaldebatte-106.html"
+    },
+    {
+      "title": "Marktbericht: Ölpreis steigt erstmals seit Juli über 100 Dollar",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oel-brent-100.html"
+    },
+    {
+      "title": "Merz gegen die AfD im Bundestag: \"Sie sind eine destruktive Kraft\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-weidel-merz-100.html"
+    },
+    {
+      "title": "Aufnahmeprogramme für Afghanen: Erneut Geld für Ausstieg geboten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesaufnahmeprogramm-afghanistan-abwicklung-100.html"
+    },
+    {
+      "title": "Boom der Batteriespeicher",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/batterie-speicher-108.html"
+    },
+    {
+      "title": "Eskalation im Iran-Krieg: DAX driftet nach unten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html"
+    },
+    {
+      "title": "Handels-Gastronomie: Imbisse in Geschäften gefragt wie nie",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handelsgastronomie-umsatzrekord-100.html"
+    },
+    {
+      "title": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html"
     },
     {
       "title": "USA zerstören fünf iranische Öltanker - Iran reagiert mit Angriffen",
       "link": "https://www.tagesschau.de/ausland/asien/usa-iran-krieg-angriff-tanker-100.html"
-    },
-    {
-      "title": "Eskalation im Iran-Krieg: DAX dürfte unter 26.000 Punkte fallen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-102.html"
     },
     {
       "title": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
@@ -19,10 +63,6 @@
     {
       "title": "11KM-Podcast: CDU nach Sachsen-Anhalt - was nun, Herr Merz?",
       "link": "https://www.tagesschau.de/podcast-11km-cdu-merz-100.html"
-    },
-    {
-      "title": "USA kündigen Einfuhrverbot für einige kanadische Waren an",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-usa-zollstreit-102.html"
     },
     {
       "title": "Norwegens König Harald V. wird in Oslo beigesetzt",
@@ -39,46 +79,6 @@
     {
       "title": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/niederlande-streik-bahnverkehr-100.html"
-    },
-    {
-      "title": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html"
-    },
-    {
-      "title": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html"
-    },
-    {
-      "title": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
-      "link": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html"
-    },
-    {
-      "title": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-siedler-westjordanland-100.html"
-    },
-    {
-      "title": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
-      "link": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html"
-    },
-    {
-      "title": "Sachsen-Anhalt: Viele AfD-Maßnahmen zur Migration wären rechtlich unzulässig",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-migration-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX schafft eine Punktlandung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html"
-    },
-    {
-      "title": "Sexualisiertes Fehlverhalten: Fast 2000 Verdachtsfälle bei der Bundeswehr",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/verdachtsfaelle-sexualisiertes-fehlverhalten-bundeswehr-100.html"
-    },
-    {
-      "title": "Zahl der Opfer durch Streubomben laut Hilfsorganisationen verdreifacht",
-      "link": "https://www.tagesschau.de/ausland/europa/streubomben-monitor-100.html"
-    },
-    {
-      "title": "PISA-Ergebnisse entfachen neue Bildungsdebatte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pisa-reaktionen-100.html"
     }
   ]
 }
