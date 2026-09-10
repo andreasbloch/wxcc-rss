@@ -1,8 +1,36 @@
 {
   "items": [
     {
+      "title": "Ukraine: Staatsanwaltschaft an Betrug über \"Callcenter\" beteiligt?",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruptionsermittlungen-staatsanwaltschaft-100.html"
+    },
+    {
+      "title": "Bundesweiter Test von Alarmsystemen an Warntag",
+      "link": "https://www.tagesschau.de/inland/bundesweiter-warntag-130.html"
+    },
+    {
+      "title": "Falkland-Konflikt mit Rückendeckung von Trump",
+      "link": "https://www.tagesschau.de/ausland/amerika/argentinien-falkland-trump-100.html"
+    },
+    {
+      "title": "Fernsehpreis-Verleihung mit politischen Botschaften",
+      "link": "https://www.tagesschau.de/kultur/deutscher-fernsehpreis-verleihung-100.html"
+    },
+    {
+      "title": "BSW geht in Sachsen-Anhalt in Gespräche mit AfD",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/bsw-gespraeche-sachsen-anhalt-100.html"
+    },
+    {
       "title": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
       "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html"
+    },
+    {
+      "title": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/apple-iphone-faltbar-100.html"
+    },
+    {
+      "title": "Bundeskanzler Merz: AfD-Verbot löst das Problem nicht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-afd-verbot-102.html"
     },
     {
       "title": "Rekord-Etat: Jeder fünfte Euro für die Verteidigung",
@@ -51,34 +79,6 @@
     {
       "title": "PISA-Ergebnisse zeigen laut Schülervertretung \"politisches Versagen\"",
       "link": "https://www.tagesschau.de/inland/gesellschaft/debatte-pisa-ergebnisse-schule-100.html"
-    },
-    {
-      "title": "Norwegen nimmt Abschied von König Harald",
-      "link": "https://www.tagesschau.de/ausland/europa/beerdigung-koenig-harald-100.html"
-    },
-    {
-      "title": "Nach dem Bruch des BSW: Wie stabil ist Thüringens Regierung noch?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/thueringen-bsw-fraktion-100.html"
-    },
-    {
-      "title": "Merz verschiebt Telefonat mit Trump - Zusammenhang mit Trumps AfD-Post unklar",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-telefonat-trump-100.html"
-    },
-    {
-      "title": "Nach Sachsen-Anhalt-Wahl: Wer entscheidet bei der AfD, wie es weitergeht?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-regierungsbildung-100.html"
-    },
-    {
-      "title": "Tote nach russischen Angriffen in mehreren Regionen der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-ukraine-142.html"
-    },
-    {
-      "title": "Regionalklassen: Wo die Kfz-Versicherung am teuersten ist",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kfz-versicherung-regionalklassen-schadensbilanz-100.html"
-    },
-    {
-      "title": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-foerdermittel-sachsen-anhalt-100.html"
     }
   ]
 }
