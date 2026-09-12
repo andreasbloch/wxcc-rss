@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "China fordert auf BRICS-Treffen in Neu-Delhi mehr Einsatz für Frieden",
+      "link": "https://www.tagesschau.de/ausland/brics-treffen-neu-delhi-china-100.html"
+    },
+    {
+      "title": "CDU-Generalsekretärin Hoppermann verteidigt Bundeskanzler Merz",
+      "link": "https://www.tagesschau.de/inland/merz-kritik-hoppermann-100.html"
+    },
+    {
+      "title": "Versuchter Drohnenanschlag: Die Spur führt zum russischen Geheimdienst",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/leipzig-drohnenvorfall-russischer-geheimdienst-100.html"
+    },
+    {
+      "title": "Zug entgleist in Frankreich - Ermittler schließen Sabotage nicht aus",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html"
+    },
+    {
+      "title": "Hubig will Verstöße gegen Mietpreisbremse mit Bußgeldern bestrafen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-mietpreisbremse-102.html"
+    },
+    {
+      "title": "Brasilien: Bolsonaros Sohn greift nach der Macht",
+      "link": "https://www.tagesschau.de/ausland/brasilien-bolsonaro-sohn-100.html"
+    },
+    {
+      "title": "Alaska: 15-Jähriger nach Tagen auf gekentertem Boot gerettet",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-alaska-junge-rettung-boot-100.html"
+    },
+    {
+      "title": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
+      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-160.html"
+    },
+    {
       "title": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
       "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-stellt-betrieb-von-oelpipeline-ein-100.html"
     },
@@ -47,38 +79,6 @@
     {
       "title": "Huthi-Miliz greift nach wichtiger Meerenge Bab al-Mandab",
       "link": "https://www.tagesschau.de/ausland/huthi-eroberung-inseln-100.html"
-    },
-    {
-      "title": "25 Jahre nach den Anschlägen - 9/11 ist nicht vorbei",
-      "link": "https://www.tagesschau.de/kommentar/11-september-usa-afghanistan-100.html"
-    },
-    {
-      "title": "Gegenwind im Bundestag - Arbeitsministerin Bas verteidigt Reformen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html"
-    },
-    {
-      "title": "Was New Yorks Muslime nach 9/11 durchmachen mussten",
-      "link": "https://www.tagesschau.de/ausland/amerika/muslime-new-york-9-11-100.html"
-    },
-    {
-      "title": "KI-Entwickler Anthropic blockiert Biowaffen-Recherchen",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-gefahren-risiko-100.html"
-    },
-    {
-      "title": "Anschlagspläne: Hamas-Unterstützer in Berlin angeklagt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/anklage-bundesanwaltschaft-hamas-100.html"
-    },
-    {
-      "title": "Huthi-Miliz erobert Insel in wichtiger Meerenge Bab al-Mandab",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-rebellen-100.html"
-    },
-    {
-      "title": "Was eine AfD-Regierung für den Verfassungsschutz bedeuten könnte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-verfassungsschutz-100.html"
-    },
-    {
-      "title": "Firmenpleiten in Deutschland auf höchstem Stand seit 2013",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-firmenpleiten-100.html"
     }
   ]
 }
