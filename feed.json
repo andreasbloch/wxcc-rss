@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html"
+    },
+    {
       "title": "Seenotretter in England als Ziel rechter Anfeindung",
       "link": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html"
-    },
-    {
-      "title": "Oktoberfest: So gut schützen Impfungen vor Atemwegsinfekten",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/oktoberfest-grippe-corona-100.html"
     }
   ]
 }
