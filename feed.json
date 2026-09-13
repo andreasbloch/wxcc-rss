@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Welt-Sepsis-Tag: Warum bei Blutvergiftungen oft zu viel Zeit vergeht",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-sepsis-100.html"
+    },
+    {
+      "title": "Wie eine explodierende Erbpacht Familien überfordern kann",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html"
+    },
+    {
+      "title": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html"
+    },
+    {
+      "title": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html"
+    },
+    {
+      "title": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html"
+    },
+    {
       "title": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
       "link": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html"
     },
@@ -17,7 +37,7 @@
       "link": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html"
     },
     {
-      "title": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
+      "title": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
       "link": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html"
     },
     {
@@ -59,26 +79,6 @@
     {
       "title": "Brasilien: Bolsonaros Sohn greift nach der Macht",
       "link": "https://www.tagesschau.de/ausland/brasilien-bolsonaro-sohn-100.html"
-    },
-    {
-      "title": "Alaska: 15-Jähriger nach Tagen auf gekentertem Boot gerettet",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-alaska-junge-rettung-boot-100.html"
-    },
-    {
-      "title": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
-      "link": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-160.html"
-    },
-    {
-      "title": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-stellt-betrieb-von-oelpipeline-ein-100.html"
-    },
-    {
-      "title": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
-      "link": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html"
-    },
-    {
-      "title": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html"
     }
   ]
 }
