@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html"
+    },
+    {
+      "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html"
+    },
+    {
+      "title": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
+      "link": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html"
+    },
+    {
       "title": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
       "link": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html"
-    },
-    {
-      "title": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html"
-    },
-    {
-      "title": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html"
-    },
-    {
-      "title": "Seenotretter in England als Ziel rechter Anfeindung",
-      "link": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html"
     }
   ]
 }
