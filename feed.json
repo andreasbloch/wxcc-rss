@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Prognosen sehen Mitte-Links-Block in Schweden knapp vorn",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html"
+    },
+    {
+      "title": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bab-6378.html"
+    },
+    {
+      "title": "Abschluss des BRICS-Treffens: Wenig Konfrontation, wenig geklärt",
+      "link": "https://www.tagesschau.de/ausland/asien/brics-zweiter-tag-100.html"
+    },
+    {
+      "title": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html"
+    },
+    {
+      "title": "Ukraine: Russische Drohne trifft Passagierzug nach Warschau",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-nahe-polnischer-grenze-100.html"
+    },
+    {
+      "title": "Sachsen-Anhalt: Wie realistisch sind die Rundfunk-Pläne der AfD?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mdr-rundfunk-100.html"
+    },
+    {
+      "title": "Festnahmen bei Razzien gegen LGBTQ-Vereine in der Türkei",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-razzien-lgbtq-vereine-100.html"
+    },
+    {
       "title": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
       "link": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html"
-    },
-    {
-      "title": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html"
-    },
-    {
-      "title": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
-      "link": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html"
-    },
-    {
-      "title": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
-      "link": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html"
-    },
-    {
-      "title": "Protest in vielen Städten: Zehntausende demonstrieren gegen Rechtsextremismus",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html"
-    },
-    {
-      "title": "Droht der nächste Ölpreis-Schock?",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html"
-    },
-    {
-      "title": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
-      "link": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html"
-    },
-    {
-      "title": "Zug entgleist in Frankreich: Ermittler gehen Sabotage-Verdacht nach",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html"
     }
   ]
 }
