@@ -1,12 +1,44 @@
 {
   "items": [
     {
+      "title": "Trump gegen Regulierung: \"Wer bei KI gewinnt, gewinnt\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-ai-kritik-100.html"
+    },
+    {
+      "title": "Nach Angriff auf Zug in der Ukraine: Polen wirft Russland Eskalation vor",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-krisenstab-ukraine-100.html"
+    },
+    {
+      "title": "Parlamentswahl in Schweden: Keine strahlenden Sieger und ein Verlierer",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-110.html"
+    },
+    {
+      "title": "Marktbericht: Hoher Ölpreis verhagelt den Wochenstart",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html"
+    },
+    {
+      "title": "Hitze, Feuer, Fluten: Wie das Mittelmeer Europas Wetter verändert",
+      "link": "https://www.tagesschau.de/podcast-11km-mittelmeer-klima-100.html"
+    },
+    {
+      "title": "Linke legt Fünf-Punkte-Plan für Berlin vor",
+      "link": "https://www.tagesschau.de/inland/linkspartei-berlin-100.html"
+    },
+    {
+      "title": "Nach Sachsen-Anhalt: Ist die Brandmauer jetzt Geschichte?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-brandmauer-afd-100.html"
+    },
+    {
+      "title": "Wahl in Schweden: Sozialdemokraten vorn - aber reicht es zur Macht?",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-142.html"
+    },
+    {
       "title": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
       "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html"
     },
     {
       "title": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bab-6378.html"
+      "link": "https://www.tagesschau.de/inland/innenpolitik/debatte-merz-nathusius-union-100.html"
     },
     {
       "title": "Abschluss des BRICS-Treffens: Wenig Konfrontation, wenig geklärt",
@@ -47,38 +79,6 @@
     {
       "title": "Tote und Vermisste nach Fährunglück in Indonesien",
       "link": "https://www.tagesschau.de/ausland/asien/faehre-indonesien-seenot-100.html"
-    },
-    {
-      "title": "Söder zu Kanzlersturz-Spekulationen: \"Von der CSU auf keinen Fall\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/soeder-merz-kanzlerwechsel-100.html"
-    },
-    {
-      "title": "Bilger drängt auf Wiedereinführung der Familienreservierung bei der Bahn",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/bilger-bahn-familienreservierung-100.html"
-    },
-    {
-      "title": "Welt-Sepsis-Tag: Warum bei Blutvergiftungen oft zu viel Zeit vergeht",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-sepsis-100.html"
-    },
-    {
-      "title": "Wie eine explodierende Erbpacht Familien überfordern kann",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html"
-    },
-    {
-      "title": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html"
-    },
-    {
-      "title": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html"
-    },
-    {
-      "title": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html"
-    },
-    {
-      "title": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html"
     }
   ]
 }
