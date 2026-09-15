@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-emissionsvorschriften-kraftwerke-100.html"
+    },
+    {
+      "title": "Litauen: NATO-Kampfjets schießen Drohne ab",
+      "link": "https://www.tagesschau.de/ausland/europa/drohne-litauen-102.html"
+    },
+    {
+      "title": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html"
+    },
+    {
       "title": "Schock und Trotz nach Razzien gegen LGBTQ-Vereine in der Türkei",
       "link": "https://www.tagesschau.de/ausland/tuerkei-razzien-102.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html"
-    },
-    {
-      "title": "Trump kündigt Ende der Zölle auf irischen Whiskey an",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-whiskey-irland-100.html"
-    },
-    {
-      "title": "Bundesanwaltschaft: Anklage gegen mutmaßliche Russland-Spionin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/anklage-spionin-russland-100.html"
-    },
-    {
-      "title": "Berlin-Wahl: Wie Stefan Evers zum CDU-Spitzenkandidaten wurde",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-evers-100.html"
     }
   ]
 }
