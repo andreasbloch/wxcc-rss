@@ -1,6 +1,58 @@
 {
   "items": [
     {
+      "title": "Bundeskanzler Merz kündigt Entlastungen bei Spritpreisen an",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-entlastungen-spritpreise-100.html"
+    },
+    {
+      "title": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html"
+    },
+    {
+      "title": "Zinserwartungen verfestigt: US-Rendite auf Niveau der Finanzkrise",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/marktbericht-renditen-100.html"
+    },
+    {
+      "title": "Apotheken sollen stärker zu medizinischen Dienstleistern werden",
+      "link": "https://www.tagesschau.de/wirtschaft/apotheken-apothekertag-linnemann-100.html"
+    },
+    {
+      "title": "Wie sich \"Female Body Horror\" mit Schönheitsidealen auseinandersetzt",
+      "link": "https://www.tagesschau.de/kultur/female-body-horror-100.html"
+    },
+    {
+      "title": "BKA-Lagebild: Kriminelle Gruppen werden digitaler und brutaler",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeslagebild-bandenkriminalitaet-100.html"
+    },
+    {
+      "title": "Mutmaßliche Saboteure behindern Zugverkehr in den Niederlanden",
+      "link": "https://www.tagesschau.de/ausland/europa/sabotage-bahn-niederlande-100.html"
+    },
+    {
+      "title": "Schwieriger Umstieg der Speditionen auf Elektro-Lkw",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umstieg-e-lkw-100.html"
+    },
+    {
+      "title": "Marktbericht: US-Zinsentscheid zwingt Anleger zur Vorsicht",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html"
+    },
+    {
+      "title": "Russische Fregatte feuert Leuchtraketen auf dänischen Helikopter",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-leuchtkugeln-russische-fregatte-100.html"
+    },
+    {
+      "title": "Russischer Oligarch hat Hochzeit von Trump Jr. mitfinanziert",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-oligarch-trump-jr-hochzeitsfeier-100.html"
+    },
+    {
+      "title": "Unter Wasser mit ukrainischen Kampftauchern",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-spezialeinheit-taucher-100.html"
+    },
+    {
+      "title": "Paul Ehrlich-Preis für australischen Immunforscher Goodnow",
+      "link": "https://www.tagesschau.de/wissen/forschung/preis-immunforscher-100.html"
+    },
+    {
       "title": "US-Fernsehpreise: \"Widow's Bay\" und \"The Pitt\" räumen bei Emmys ab",
       "link": "https://www.tagesschau.de/kultur/emmy-verleihung-130.html"
     },
@@ -13,10 +65,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-mecklenburg-vorpommern-104.html"
     },
     {
-      "title": "Marktbericht: DAX-Schwäche dürfte anhalten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html"
-    },
-    {
       "title": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
       "link": "https://www.tagesschau.de/ausland/eu-russland-sanktionen-slowakei-100.html"
     },
@@ -25,60 +73,12 @@
       "link": "https://www.tagesschau.de/ausland/europa/drohne-litauen-102.html"
     },
     {
-      "title": "Supreme Court: Niederlage für Trump im Streit um Briefwahl",
+      "title": "Supreme Court: Niederlage für Trump im Streit über Briefwahl",
       "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html"
     },
     {
       "title": "Noch nie so viele Start-ups gegründet wie im ersten Halbjahr 2026",
       "link": "https://www.tagesschau.de/wirtschaft/konjunktur/startup-boom-gruendung-100.html"
-    },
-    {
-      "title": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-emissionsvorschriften-kraftwerke-100.html"
-    },
-    {
-      "title": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-dokumentarfilm-naza-100.html"
-    },
-    {
-      "title": "Schock und Trotz nach Razzien gegen LGBTQ-Vereine in der Türkei",
-      "link": "https://www.tagesschau.de/ausland/tuerkei-razzien-102.html"
-    },
-    {
-      "title": "Klingbeil stellt Bedingungen für Commerzbank-Übernahme",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klingbeil-bedingungen-unicredit-commerzbank-100.html"
-    },
-    {
-      "title": "Was steckt hinter der Debatte über eine KI-Bremse?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/diskussion-ki-regulierung-faq-100.html"
-    },
-    {
-      "title": "Wirbel nach Rekordspenden für Farages Reform-UK-Partei",
-      "link": "https://www.tagesschau.de/ausland/europa/rekordspende-reform-uk-100.html"
-    },
-    {
-      "title": "Oasis kündigt Konzerte in Deutschland an",
-      "link": "https://www.tagesschau.de/kultur/oasis-konzerte-deutschland-100.html"
-    },
-    {
-      "title": "Arktis-Gipfel: Die EU richtet ihren Blick Richtung Norden",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-gipfel-abschluss-100.html"
-    },
-    {
-      "title": "Marktbericht: KI- und Zinssorgen bremsen DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html"
-    },
-    {
-      "title": "Pistorius will Soldaten zum Dienst in Litauen auch verpflichten",
-      "link": "https://www.tagesschau.de/ausland/europa/litauen-brigade-verpflichtung-100.html"
-    },
-    {
-      "title": "Tankstellenverband erwartet Spritpreise um die drei Euro",
-      "link": "https://www.tagesschau.de/wirtschaft/oel-spritpreise-tanken-100.html"
-    },
-    {
-      "title": "Drängt Moskau Schüler wegen Fachkräftemangel in den Arbeitsmarkt?",
-      "link": "https://www.tagesschau.de/ausland/europa/fachkraeftemangel-russland-schueler-100.html"
     }
   ]
 }
