@@ -1,12 +1,40 @@
 {
   "items": [
     {
-      "title": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-emissionsvorschriften-kraftwerke-100.html"
+      "title": "US-Fernsehpreise: \"Widow's Bay\" und \"The Pitt\" räumen bei Emmys ab",
+      "link": "https://www.tagesschau.de/kultur/emmy-verleihung-130.html"
+    },
+    {
+      "title": "Wadephul wirbt für Kandidatur Deutschlands beim UN-Menschenrechtsrat",
+      "link": "https://www.tagesschau.de/ausland/europa/wadephul-bewerbung-deutschland-un-menschenrechtsrat-100.html"
+    },
+    {
+      "title": "Mecklenburg-Vorpommern: Wahlkampf zwischen Euphorie und Entgeisterung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-mecklenburg-vorpommern-104.html"
+    },
+    {
+      "title": "Marktbericht: DAX-Schwäche dürfte anhalten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html"
+    },
+    {
+      "title": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
+      "link": "https://www.tagesschau.de/ausland/eu-russland-sanktionen-slowakei-100.html"
     },
     {
       "title": "Litauen: NATO-Kampfjets schießen Drohne ab",
       "link": "https://www.tagesschau.de/ausland/europa/drohne-litauen-102.html"
+    },
+    {
+      "title": "Supreme Court: Niederlage für Trump im Streit um Briefwahl",
+      "link": "https://www.tagesschau.de/ausland/amerika/supreme-court-briefwahl-102.html"
+    },
+    {
+      "title": "Noch nie so viele Start-ups gegründet wie im ersten Halbjahr 2026",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/startup-boom-gruendung-100.html"
+    },
+    {
+      "title": "US-Regierung hebt Klimaregeln für Kraftwerke auf",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-emissionsvorschriften-kraftwerke-100.html"
     },
     {
       "title": "Israel: Aufgeladene Debatte über Gaza-Doku \"Naza\"",
@@ -51,34 +79,6 @@
     {
       "title": "Drängt Moskau Schüler wegen Fachkräftemangel in den Arbeitsmarkt?",
       "link": "https://www.tagesschau.de/ausland/europa/fachkraeftemangel-russland-schueler-100.html"
-    },
-    {
-      "title": "Berliner CSD-Attentäter soll Bekennervideo an IS-Kontakt geschickt haben",
-      "link": "https://www.tagesschau.de/investigativ/wdr/csd-attentaeter-bekennervideo-100.html"
-    },
-    {
-      "title": "Israelische NGO kritisiert Israels Politik im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-ngo-israel-100.html"
-    },
-    {
-      "title": "Schweden steht nach Parlamentswahl vor schwieriger Regierungsbildung",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-112.html"
-    },
-    {
-      "title": "EU-Staaten wollen Interessen in der Arktis schützen",
-      "link": "https://www.tagesschau.de/ausland/europa/arktis-gipfel-eu-100.html"
-    },
-    {
-      "title": "Rückendeckung für Merz - aber die Debatte reißt nicht ab",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-merz-debatte-100.html"
-    },
-    {
-      "title": "Bund und UniCredit verhandeln über Commerzbank-Übernahme",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-commerzbank-unicredit-100.html"
-    },
-    {
-      "title": "Russische Drohnenangriffe - Vor allem Kiew ist im Visier",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-134.html"
     }
   ]
 }
