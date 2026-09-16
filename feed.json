@@ -1,12 +1,68 @@
 {
   "items": [
     {
-      "title": "Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/bluttest-bauspeicheldruesenkrebs-100.html"
+      "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html"
+    },
+    {
+      "title": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/gutzeit-102.html"
+    },
+    {
+      "title": "Syrien: Größte Proteste seit Sturz von Assad",
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-proteste-energiepreise-100.html"
+    },
+    {
+      "title": "Vier Jahre \"Frau, Leben, Freiheit\": Was von Irans Protesten geblieben ist",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-jahrestag-frau-leben-freiheit-100.html"
+    },
+    {
+      "title": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-mehrwertsteuer-100.html"
     },
     {
       "title": "Gazastreifen: Tote bei Einsturz von ausgebombtem Wohnhaus",
       "link": "https://www.tagesschau.de/ausland/europa/gaza-tote-hauseinsturz-100.html"
+    },
+    {
+      "title": "Streit um Kultureinrichtung: Trump verweigert Kennedy Center Renovierung",
+      "link": "https://www.tagesschau.de/ausland/amerika/kennedy-center-120.html"
+    },
+    {
+      "title": "Südukraine: Mehrere Tote nach russischem Angriff auf Linienbus",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russische-angriffe-verkehrsmittel-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX schließt im Plus - Fed im Fokus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html"
+    },
+    {
+      "title": "Berliner Grünen-Spitzenkandidat Graf: Pragmatisch - und wenig bekannt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhauswahl-berlin-werner-graf-100.html"
+    },
+    {
+      "title": "Von der Leyen will neuen transatlantischen Bund mit Kanada",
+      "link": "https://www.tagesschau.de/ausland/europa/grundsatzrede-kommission-bruessel-eu-100.html"
+    },
+    {
+      "title": "Wegen Flüchtlingsunterkunft: Dorf in England stimmt symbolisch für Unabhängigkeit",
+      "link": "https://www.tagesschau.de/ausland/europa/piddington-abstimmung-unabhaengigkeit-100.html"
+    },
+    {
+      "title": "Nach Gesprächen mit den USA: Belarus entlässt 25 politische Häftlinge",
+      "link": "https://www.tagesschau.de/ausland/asien/belarus-freilassung-haeftlinge-100.html"
+    },
+    {
+      "title": "Zollreform: EU führt neue Gebühr für kleine Online-Pakete ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/online-shops-pakete-gebuehr-100.html"
+    },
+    {
+      "title": "Saudi-Arabien wehrt offenbar Huthi-Drohne bei Mekka ab",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-mekka-100.html"
+    },
+    {
+      "title": "Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/bluttest-bauspeicheldruesenkrebs-100.html"
     },
     {
       "title": "Mindestens 60 Tote bei Einsturz von Goldmine im Sudan",
@@ -23,62 +79,6 @@
     {
       "title": "US-Senat stoppt Gesetz - Kryptowährungen unter Druck",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/krypto-us-senat-100.html"
-    },
-    {
-      "title": "Regierung legt Aktionsplan gegen Sozialbetrug vor",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-plan-sozialmissbrauch-100.html"
-    },
-    {
-      "title": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
-      "link": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html"
-    },
-    {
-      "title": "Kreditkarten-Schulden: Der Alltag der Amerikaner läuft auf Pump",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-kreditkarten-100.html"
-    },
-    {
-      "title": "Warum der Dollar trotz höherer US-Zinsen schwach bleibt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dollar-trump-fed-zinserhoehung-100.html"
-    },
-    {
-      "title": "Gemeinsame Erklärung: CDU-Ministerpräsidenten stellen sich hinter Merz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-ministerpraesidenten-merz-100.html"
-    },
-    {
-      "title": "Regierung legt Zehn-Punkte-Plan gegen Terror vor",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/massnahmen-islamistischer-terror-100.html"
-    },
-    {
-      "title": "Von der Leyen zur Lage der Union: Neuer Krisenmechanismus und mehr Bündnisse",
-      "link": "https://www.tagesschau.de/ausland/europa/von-der-leyen-russland-ukraine-kanada-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX startet mit Gewinnen vor US-Zinsentscheid",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-zinsen-dow-jones-100.html"
-    },
-    {
-      "title": "ADAC: Mehr Staus in den Sommerferien 2026",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/adac-stauradar-100.html"
-    },
-    {
-      "title": "Ozonloch über der Antarktis schrumpft 2025 weiter",
-      "link": "https://www.tagesschau.de/wissen/klima/ozonloch-114.html"
-    },
-    {
-      "title": "Saudi-Arabien wehrt offenbar Huthi-Drohne bei Mekka ab",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-mekka-100.html"
-    },
-    {
-      "title": "Russlands Satellitenpläne: Bundeswehr warnt vor Putins Starlink-Alternative",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-satelliten-starlink-100.html"
-    },
-    {
-      "title": "Drei Tote bei Absturz von TV-Helikopter in Los Angeles",
-      "link": "https://www.tagesschau.de/ausland/amerika/absturz-helikopter-losangeles-100.html"
-    },
-    {
-      "title": "Debatte über Spritpreis-Entlastungen: Reiche gegen Preisdeckel und Übergewinnsteuer",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/diskussion-entlastungen-hohe-spritpreise-100.html"
     }
   ]
 }
