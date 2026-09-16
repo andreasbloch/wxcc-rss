@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Streit um Umbenennung: Trump kündigt Schließung des Kennedy Centers an",
+      "link": "https://www.tagesschau.de/ausland/europa/trump-usa-kennedy-center-100.html"
+    },
+    {
+      "title": "Russland und Dänemark beschuldigen sich nach Leuchtraketen-Beschuss",
+      "link": "https://www.tagesschau.de/ausland/europa/daenemark-russland-fregatte-100.html"
+    },
+    {
+      "title": "Humanitäre Not im Jemen wächst durch Vormarsch der Huthi",
+      "link": "https://www.tagesschau.de/ausland/asien/humanitaere-not-jemen-huthi-vormarsch-100.html"
+    },
+    {
       "title": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
       "link": "https://www.tagesschau.de/inland/sprit-taskforce-bundesregierung-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Wie Forscher den Strombedarf von KI senken wollen",
       "link": "https://www.tagesschau.de/wissen/technologie/strombedarf-ki-rechenzentren-100.html"
-    },
-    {
-      "title": "Bundesanwaltschaft: Mutmaßliche Mitglieder von Eritrea-Terrorgruppe festgenommen",
-      "link": "https://www.tagesschau.de/inland/bundesanwaltschaft-festnahme-eritrea-terrorgruppe-100.html"
-    },
-    {
-      "title": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-munition-knappheit-100.html"
-    },
-    {
-      "title": "Zinserwartungen verfestigt: US-Rendite auf Niveau der Finanzkrise",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/marktbericht-renditen-100.html"
     }
   ]
 }
