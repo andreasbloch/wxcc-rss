@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Kongress stimmt für schärfere Sanktionen gegen Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/usa-russland-sanktionen-136.html"
+    },
+    {
       "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Social Media erst ab 13 Jahren - was die EU plant",
       "link": "https://www.tagesschau.de/ausland/europa/eu-kommission-social-media-100.html"
-    },
-    {
-      "title": "US-Senat stoppt Gesetz - Kryptowährungen unter Druck",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/krypto-us-senat-100.html"
     }
   ]
 }
