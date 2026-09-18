@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "title": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
+      "link": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html"
+    },
+    {
+      "title": "Volkswagen verliert Platz in Europas wichtigster Börsenliga",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/vw-aktie-europa-100.html"
+    },
+    {
+      "title": "Mecklenburg-Vorpommern: Wer könnte nach der Wahl regieren?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahl-mecklenburg-vorpommern-wahlkampf-102.html"
+    },
+    {
+      "title": "Renommierter Körber-Preis für Zellforscherin Wickström",
+      "link": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html"
+    },
+    {
+      "title": "Italien erwägt Marinemission im Roten Meer zum Schutz von Frachtern",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-erwaegt-marineeinsatz-rotes-meer-100.html"
+    },
+    {
+      "title": "Anschlag auf Synagoge in NRW: Ermittler vermuten antisemitisches Motiv",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brandanschlag-synagoge-wuppertal-100.html"
+    },
+    {
+      "title": "Putin stellt Nestlé in Russland unter Zwangsverwaltung",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-russland-100.html"
+    },
+    {
+      "title": "FAQ: Wie gefährlich sind die aktuellen Malaria-Fälle?",
+      "link": "https://www.tagesschau.de/wissen/faq-malaria-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger trotz sinkender Ölpreise zurückhaltend",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html"
+    },
+    {
+      "title": "EU-Verpackungsverordnung - für kleine Händler ein \"bürokratisches Monster\"?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verpackungsverordnung-104.html"
+    },
+    {
+      "title": "Juristentag plädiert für Schutzkonzept bei Sterbehilfe",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/juristentag-sterbehilfe-100.html"
+    },
+    {
       "title": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energiekosten-strom-oel-gas-100.html"
     },
@@ -9,16 +53,8 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-spritpreise-100.html"
     },
     {
-      "title": "Malaria-Fälle im Umfeld des Frankfurter Flughafens festgestellt",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/faq-flughafen-malaria-100.html"
-    },
-    {
       "title": "Studie: In der EU sinkt die Impfquote bei Kindern",
       "link": "https://www.tagesschau.de/wissen/gesundheit/impfungen-impfgegner-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX dürfte zum Wochenschluss zurückfallen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html"
     },
     {
       "title": "Mehr Pflanzen, weniger Fleisch: Schweiz stimmt über Ernährungsinitiative ab",
@@ -27,10 +63,6 @@
     {
       "title": "Duma-Wahl in Russland: Alles unter Kontrolle - und doch ein Stresstest?",
       "link": "https://www.tagesschau.de/ausland/europa/russland-duma-wahl-auftakt-100.html"
-    },
-    {
-      "title": "Renommierter Körber-Preis für Zellforscherin Wickström",
-      "link": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html"
     },
     {
       "title": "EU-Finanzminister beraten in Dublin über mögliche Übergewinnsteuer",
@@ -47,38 +79,6 @@
     {
       "title": "Erneut Läden in Frankfurt am Main durch Explosionen beschädigt",
       "link": "https://www.tagesschau.de/inland/regional/hessen/explosionen-frankfurt-laeden-100.html"
-    },
-    {
-      "title": "Wie Russland den ukrainischen Buchmarkt angreift",
-      "link": "https://www.tagesschau.de/kultur/ukraine-verbrannte-buecher-100.html"
-    },
-    {
-      "title": "Hybride Angriffe: Polens Regierungschef Tusk warnt vor \"russischem Plan\"",
-      "link": "https://www.tagesschau.de/ausland/europa/tusk-warnung-russland-100.html"
-    },
-    {
-      "title": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
-      "link": "https://www.tagesschau.de/ausland/europa/bruessel-carney-eu-besuch-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX schließt nach US-Zinserhöhung im Plus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-154.html"
-    },
-    {
-      "title": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
-      "link": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-ruecktritt-100.html"
-    },
-    {
-      "title": "Forscher zur KI-Entwicklung: Risiken ernst nehmen, aber nicht dramatisieren",
-      "link": "https://www.tagesschau.de/wissen/technologie/ki-risiken-forscher-100.html"
-    },
-    {
-      "title": "Frankfurt am Main: An Malaria erkrankte Person gestorben",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/malaria-faelle-frankfurt-100.html"
-    },
-    {
-      "title": "Warum die SPD jetzt auf Manuela Schwesig hofft",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-wahl-mecklenburg-vorpommern-schwesig-100.html"
     }
   ]
 }
