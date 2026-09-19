@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Auch Googles KI hackte Unternehmen",
+      "link": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html"
+    },
+    {
+      "title": "Wie geht China mit den Gefahren durch Künstliche Intelligenz um?",
+      "link": "https://www.tagesschau.de/ausland/asien/china-ki-wettlauf-100.html"
+    },
+    {
+      "title": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html"
+    },
+    {
+      "title": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html"
+    },
+    {
+      "title": "Wie sich Lokaljournalismus weiterentwickelt",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/lokaljournalismus-zeitung-herausforderungen-100.html"
+    },
+    {
+      "title": "Was ist über das mögliche Grönland-Abkommen bekannt?",
+      "link": "https://www.tagesschau.de/ausland/amerika/groenland-abkommen-usa-daenemark-100.html"
+    },
+    {
+      "title": "Abgeordnetenhauswahl: So lief der Wahlkampf in Berlin",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/wahlkampf-berlin-abgeordnetenhaus-100.html"
+    },
+    {
+      "title": "Vier Kinofilme und eine neue Serie über die Beatles",
+      "link": "https://www.tagesschau.de/kultur/beatles-kino-serie-100.html"
+    },
+    {
       "title": "Trump will CNN und andere Medien aus dem Weißen Haus verbannen",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-102.html"
     },
@@ -47,38 +79,6 @@
     {
       "title": "Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer",
       "link": "https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html"
-    },
-    {
-      "title": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
-      "link": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html"
-    },
-    {
-      "title": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
-      "link": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html"
-    },
-    {
-      "title": "Bolivien: Forscher entdecken neue Katzenart \"Leopardus tilcayo\"",
-      "link": "https://www.tagesschau.de/wissen/bolivien-neue-katzenart-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX gibt am großen Verfallstag nach",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html"
-    },
-    {
-      "title": "Berlin-Wahl - Kristin Brinker von der AfD: Spitzenkandidatin ohne Regierungschancen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-afd-brinker-100.html"
-    },
-    {
-      "title": "Investor Warren Buffett übergibt an seinen Sohn",
-      "link": "https://www.tagesschau.de/wirtschaft/buffett-warren-howard-100.html"
-    },
-    {
-      "title": "Anschlag auf Synagoge in NRW: Ermittler vermuten antisemitisches Motiv",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brandanschlag-synagoge-wuppertal-100.html"
-    },
-    {
-      "title": "Die AfD und ihr Spitzenpersonal: Zwischen Volksnähe und Krawall",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mecklenburg-vorpommern-strategie-100.html"
     }
   ]
 }
