@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Saudi-Arabien: Explosionen nahe dem Flughafen Riad",
+      "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-100.html"
+    },
+    {
+      "title": "Duma-Wahl: Warum Snegowskij keine Chance gegen Tolstoj hat",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-direktkandidat-jabloko-100.html"
+    },
+    {
+      "title": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html"
+    },
+    {
+      "title": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html"
+    },
+    {
+      "title": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html"
+    },
+    {
+      "title": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien haben Wahlkampf beendet ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html"
+    },
+    {
+      "title": "USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-sanktionen-100.html"
+    },
+    {
       "title": "Auch Googles KI hackte Unternehmen",
       "link": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html"
     },
@@ -11,10 +39,6 @@
     {
       "title": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
       "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html"
-    },
-    {
-      "title": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html"
     },
     {
       "title": "Wie sich Lokaljournalismus weiterentwickelt",
@@ -55,30 +79,6 @@
     {
       "title": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html"
-    },
-    {
-      "title": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html"
-    },
-    {
-      "title": "Entlastungen: Spritpreisdeckel dürfte für Diskussionen sorgen",
-      "link": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html"
-    },
-    {
-      "title": "Dänemark und USA verkünden Einigung im Grönland-Streit",
-      "link": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html"
-    },
-    {
-      "title": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
-      "link": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html"
-    },
-    {
-      "title": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html"
-    },
-    {
-      "title": "Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer",
-      "link": "https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html"
     }
   ]
 }
