@@ -1,16 +1,44 @@
 {
   "items": [
     {
-      "title": "Ukrainische Drohnenangriffe auf Moskau - mehrere Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html"
+      "title": "Ungewisser Wahlausgang: Wann wird es wie eng für den Kanzler?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html"
     },
     {
-      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Wahllokale sind geöffnet ++",
+      "title": "++ Liveticker zur Berlin-Wahl: Hohe Wahlbeteiligung zeichnet sich ab  ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html"
+    },
+    {
+      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Was würden die unter 16-Jährigen wählen? ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html"
     },
     {
-      "title": "++ Liveticker zur Berlin-Wahl: Wahllokale sind geöffnet ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html"
+      "title": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-fordert-europaeische-unterstuetzung-im-roten-meer-100.html"
+    },
+    {
+      "title": "Ludwig-Maximilians-Universität München von Hackerangriff betroffen",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-lmu-muenchen-100.html"
+    },
+    {
+      "title": "Kenias Präsident setzt auf Stimmung gegen Migranten",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-ruto-migranten-100.html"
+    },
+    {
+      "title": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ruhestand-vermoegen-rente-altersvorsorge-100.html"
+    },
+    {
+      "title": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html"
+    },
+    {
+      "title": "Künstliche Intelligenz: US-Präsident Trump kündigt \"AI Force\" an",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ki-taskforce-100.html"
+    },
+    {
+      "title": "US-Militär meldet erneut Tote bei Angriff auf angebliches Schmugglerboot",
+      "link": "https://www.tagesschau.de/ausland/usa-angriffe-drogenboote-100.html"
     },
     {
       "title": "Wirtschaftsweise Veronika Grimm nennt neuen Tankrabatt \"zynisch\"",
@@ -51,34 +79,6 @@
     {
       "title": "Saudi-Arabien: Explosionen nahe dem Flughafen Riad",
       "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-100.html"
-    },
-    {
-      "title": "Duma-Wahl: Warum Snegowskij keine Chance gegen Tolstoj hat",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-direktkandidat-jabloko-100.html"
-    },
-    {
-      "title": "Generalinspekteur Breuer wird Vorsitzender des NATO-Militärausschusses",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/breuer-nato-militaerausschuss-100.html"
-    },
-    {
-      "title": "Weißes Haus verweigert Journalisten von CNN, MS NOW und Politico Zugang",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html"
-    },
-    {
-      "title": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html"
-    },
-    {
-      "title": "USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-sanktionen-100.html"
-    },
-    {
-      "title": "Auch Googles KI hackte Unternehmen",
-      "link": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html"
-    },
-    {
-      "title": "Wie geht China mit den Gefahren durch Künstliche Intelligenz um?",
-      "link": "https://www.tagesschau.de/ausland/asien/china-ki-wettlauf-100.html"
     }
   ]
 }
