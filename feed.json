@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html"
+    },
+    {
+      "title": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
+      "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html"
+    },
+    {
+      "title": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien haben Wahlkampf beendet ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html"
+    },
+    {
       "title": "Saudi-Arabien: Explosionen nahe dem Flughafen Riad",
       "link": "https://www.tagesschau.de/ausland/asien/riad-angriffe-100.html"
     },
@@ -19,10 +31,6 @@
     {
       "title": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html"
-    },
-    {
-      "title": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien haben Wahlkampf beendet ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html"
     },
     {
       "title": "USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft",
@@ -71,14 +79,6 @@
     {
       "title": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html"
-    },
-    {
-      "title": "Oktoberfest beginnt - München für zwei Wochen in Feierlaune",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/eroeffnung-oktoberfest-102.html"
-    },
-    {
-      "title": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html"
     }
   ]
 }
