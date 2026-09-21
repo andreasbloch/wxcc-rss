@@ -1,16 +1,36 @@
 {
   "items": [
     {
+      "title": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html"
+    },
+    {
+      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html"
+    },
+    {
+      "title": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html"
+    },
+    {
+      "title": "Berlin: Karte mit den Ergebnissen der Abgeordnetenhauswahl 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-abgeordnetenhaus-berlin-2026-100.html"
+    },
+    {
+      "title": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html"
+    },
+    {
       "title": "Nach Landtagswahlen: Zwischen Desaster und Jubel",
       "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html"
     },
     {
-      "title": "++ Liveblog zur Berlin-Wahl: BSW verpasst Einzug ins Abgeordnetenhaus wohl knapp ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html"
+      "title": "Mecklenburg-Vorpommern: Wahlkarte zur Landtagswahl 2026",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html"
     },
     {
-      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schult verteidigt Direktmandat ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html"
+      "title": "Russland: Kremlpartei liegt bei Duma-Wahl vorne - wie erwartet",
+      "link": "https://www.tagesschau.de/ausland/europa/wahlen-russland-148.html"
     },
     {
       "title": "Nach den Landtagswahlen: Merz spielt auf Zeit",
@@ -49,7 +69,7 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsrechner-mecklenburg-vorpommern-2026-100.html"
     },
     {
-      "title": "Livestream: Sondersendung zu den Wahlen in MV und Berlin",
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
       "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html"
     },
     {
@@ -59,26 +79,6 @@
     {
       "title": "Ungewisser Wahlausgang: Wann wird es wie eng für den Kanzler?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-szenarien-union-100.html"
-    },
-    {
-      "title": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-fordert-europaeische-unterstuetzung-im-roten-meer-100.html"
-    },
-    {
-      "title": "Ludwig-Maximilians-Universität München von Hackerangriff betroffen",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-lmu-muenchen-100.html"
-    },
-    {
-      "title": "Kenias Präsident setzt auf Stimmung gegen Migranten",
-      "link": "https://www.tagesschau.de/ausland/afrika/kenia-ruto-migranten-100.html"
-    },
-    {
-      "title": "Ruhestand: Wie viel Vermögen Rentner wirklich ausgeben können",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/ruhestand-vermoegen-rente-altersvorsorge-100.html"
-    },
-    {
-      "title": "Ukrainische Drohnenangriffe auf Region Moskau - mehrere Tote",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html"
     }
   ]
 }
