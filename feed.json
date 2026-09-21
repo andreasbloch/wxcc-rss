@@ -1,11 +1,67 @@
 {
   "items": [
     {
-      "title": "++ Liveticker: Parteispitze laut CDU-Vize Laumann hinter Kanzler ++",
+      "title": "Liveticker: ++ Kleiner Parteitag der SPD im Dezember  ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html"
     },
     {
-      "title": "Livestream: Sondersendung zu den Wahlen in MV und Berlin auf tagesschau24",
+      "title": "Datenschutz-Verstöße: Google muss 400 Millionen Euro Strafe zahlen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-eu-strafe-datenschutz-100.html"
+    },
+    {
+      "title": "Unternehmen sehen Bürokratie als größtes Standortproblem",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ifo-standort-buerokratie-100.html"
+    },
+    {
+      "title": "Kanzler Merz nach Wahlniederlagen \"dankbar\", dass SPD in Koalition bleibt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-158.html"
+    },
+    {
+      "title": "Fake-Videos aus Russland sollen Vertrauen in Wahlen erschüttern",
+      "link": "https://www.tagesschau.de/faktenfinder/fakes-wahlen-mecklenburg-vorpommern-berlin-100.html"
+    },
+    {
+      "title": "Nach Berlin-Wahl: Enteignungs-Sorgen belasten Immobilienaktien",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-vonovia-deutsche-wohnen-100.html"
+    },
+    {
+      "title": "Berlin-Wahl: Giffey verpasst Einzug ins Abgeordnetenhaus",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-wahl-2026-giffey-100.html"
+    },
+    {
+      "title": "IG Metall macht mobil gegen Kahlschlag in der Autoindustrie",
+      "link": "https://www.tagesschau.de/wirtschaft/ig-metall-automobil-102.html"
+    },
+    {
+      "title": "Kremlpartei Geeintes Russland gewinnt Duma-Wahl",
+      "link": "https://www.tagesschau.de/ausland/asien/wahlergebnis-duma-russland-100.html"
+    },
+    {
+      "title": "Was ein Notschalter für KI bringen könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/notschalter-ki-100.html"
+    },
+    {
+      "title": "CDU sortiert sich nach Wahlniederlagen neu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-nach-wahlen-100.html"
+    },
+    {
+      "title": "Marktbericht: Für Anleger sind Ölpreise wichtiger als die Wahlen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html"
+    },
+    {
+      "title": "Spirituosen-Hersteller Berentzen vor Übernahme durch US-Konzern",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/berentzen-uebernahme-us-konzern-sazerac-100.html"
+    },
+    {
+      "title": "CDU nach den Wahlen: Merz hat keine Chance - die könnte er nutzen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-landtagswahlen-mecklenburg-vorpommern-berlin-100.html"
+    },
+    {
+      "title": "Russland: Kremlpartei liegt bei Duma-Wahl vorne - wie erwartet",
+      "link": "https://www.tagesschau.de/ausland/europa/wahlen-russland-148.html"
+    },
+    {
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
       "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html"
     },
     {
@@ -17,68 +73,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/ig-metall-automobil-100.html"
     },
     {
-      "title": "Marktbericht: Anleger nehmen Wahlausgang gelassen auf",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html"
-    },
-    {
       "title": "11KM-Podcast: Scheuer vor Gericht - Das Maut-Debakel",
       "link": "https://www.tagesschau.de/podcast-11km-scheuer-prozess-100.html"
     },
     {
       "title": "Immer mehr Produktrückrufe bei Lebensmitteln",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/lebensmittel-rueckrufe-100.html"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern und Berlin: Fünf Erkenntnisse aus den Wahlen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/erkenntnisse-landtagswahlen-mecklenburg-vorpommern-berlin-100.html"
-    },
-    {
-      "title": "Selenskyj kündigt Treffen mit Trump diese Woche in New York an",
-      "link": "https://www.tagesschau.de/ausland/amerika/treffen-selenskyj-trump-100.html"
-    },
-    {
-      "title": "Ex-Verkehrsminister Scheuer vor Gericht: Vorwurf der Falschaussage",
-      "link": "https://www.tagesschau.de/inland/pkw-maut-scheuer-104.html"
-    },
-    {
-      "title": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
-      "link": "https://www.tagesschau.de/ausland/europa/deutsche-welle-griechenland-100.html"
-    },
-    {
-      "title": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html"
-    },
-    {
-      "title": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html"
-    },
-    {
-      "title": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html"
-    },
-    {
-      "title": "Berlin: Karte mit den Ergebnissen der Abgeordnetenhauswahl 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-abgeordnetenhaus-berlin-2026-100.html"
-    },
-    {
-      "title": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html"
-    },
-    {
-      "title": "Reaktionen auf die Landtagswahlen: Zwischen Desaster und Jubel",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html"
-    },
-    {
-      "title": "Mecklenburg-Vorpommern: Wahlkarte zur Landtagswahl 2026",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html"
-    },
-    {
-      "title": "Russland: Kremlpartei liegt bei Duma-Wahl vorne - wie erwartet",
-      "link": "https://www.tagesschau.de/ausland/europa/wahlen-russland-148.html"
-    },
-    {
-      "title": "Nach den Landtagswahlen: Merz spielt auf Zeit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-nach-den-wahlen-100.html"
     }
   ]
 }
