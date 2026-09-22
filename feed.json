@@ -1,20 +1,64 @@
 {
   "items": [
     {
-      "title": "Antisemitismus-Debatte bei der Linkspartei in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-wahlerfolg-antisemitismus-100.html"
+      "title": "Merz und die Krankenkassen - was meinte der Kanzler?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-duales-system-krankenkassen-100.html"
     },
     {
-      "title": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
-      "link": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html"
+      "title": "Kommentar zum Grönland-Abkommen: Ein alter Deal in neuer Verpackung",
+      "link": "https://www.tagesschau.de/kommentar/groenland-abkommen-trump-100.html"
+    },
+    {
+      "title": "EU streicht zwei russische Oligarchen von Sanktionsliste",
+      "link": "https://www.tagesschau.de/ausland/europa/sanktionen-eu-oligarchen-100.html"
+    },
+    {
+      "title": "Marktbericht: Die Märkte hoffen auf Frieden",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html"
+    },
+    {
+      "title": "US-Präsident Trump erwartet Abkommen mit Iran nach den Midterms",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-generalversammlung-trump-rede-100.html"
+    },
+    {
+      "title": "Wahlparty in Berlin: Linken-Politiker Kocak distanziert sich von Remmo",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/linken-politiker-kocak-remmo-100.html"
+    },
+    {
+      "title": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen",
+      "link": "https://www.tagesschau.de/ausland/amerika/abkommen-zu-groenland-unterzeichnet-100.html"
+    },
+    {
+      "title": "Frauengesundheit: Wenn der Herzinfarkt übersehen wird",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/frauengesundheit-forschung-allianz-100.html"
+    },
+    {
+      "title": "Union und SPD wollen noch mal über Reformen verhandeln",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/union-spd-beratungen-reformen-100.html"
+    },
+    {
+      "title": "Zweieinhalb Jahre Haft für österreichischen Investor Benko",
+      "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-urteil-100.html"
+    },
+    {
+      "title": "Abgestürzte Drohne in Wunstorf - Ermittler finden offenbar Sprengstoff",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/wunstorf-drohne-sprengstoff-100.html"
     },
     {
       "title": "Nach Berlin-Wahl: SPD-Fraktionschef Saleh will nicht erneut kandidieren",
       "link": "https://www.tagesschau.de/inland/regional/berlin/spd-fraktionschef-saleh-100.html"
     },
     {
-      "title": "Wahlparty in Berlin: Linken-Politiker Kocak distanziert sich von Remmo",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/linken-politiker-kocak-remmo-100.html"
+      "title": "UNHCR rechnet bald mit 230.000 Vertriebenen im Jemen",
+      "link": "https://www.tagesschau.de/ausland/asien/hunderttausende-vertriebene-jemen-100.html"
+    },
+    {
+      "title": "Antisemitismus-Debatte bei der Linkspartei in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-wahlerfolg-antisemitismus-100.html"
+    },
+    {
+      "title": "Künstliche Intelligenz: Staatschefs fordern mehr Kontrolle",
+      "link": "https://www.tagesschau.de/ausland/aufruf-staatschefs-ki-regulierung-100.html"
     },
     {
       "title": "Krieg gegen die Ukraine: Tote bei russischen Angriffen auf Industriestädte",
@@ -35,50 +79,6 @@
     {
       "title": "\"Swan Song\": Warum ein Buch über Prinzessin Diana für Furore sorgt",
       "link": "https://www.tagesschau.de/ausland/europa/prinzessin-diana-buch-bruder-100.html"
-    },
-    {
-      "title": "Anteil von E-Autos bei Neuzulassungen in EU erreicht neuen Rekord",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-e-autos-neuwagen-zulassungen-100.html"
-    },
-    {
-      "title": "EU und Philippinen einigen sich auf Freihandelsabkommen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-philippinen-freihandelsabkommen-102.html"
-    },
-    {
-      "title": "Los Angeles: Lucas Museum of Narrative Art wird eröffnet",
-      "link": "https://www.tagesschau.de/ausland/amerika/lucas-arts-museum-100.html"
-    },
-    {
-      "title": "UN wollen neues \"Rolltreppen-Gate\" mit Trump verhindern",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-un-128.html"
-    },
-    {
-      "title": "Die erfolgreiche Neobank Revolut und das Glücksspielproblem",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/onlinebank-revolut-100.html"
-    },
-    {
-      "title": "Marktbericht: Anleger warten auf Trumps UN-Auftritt",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html"
-    },
-    {
-      "title": "Merz in der Unionsfraktion: Ein weiterer ungemütlicher Arbeitstag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-fraktion-nach-wahldebakel-100.html"
-    },
-    {
-      "title": "Heizkosten steigen 2026 laut Prognose an",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/prognose-heizkosten-2026-100.html"
-    },
-    {
-      "title": "Kabinett bringt Tankrabatt auf den Weg",
-      "link": "https://www.tagesschau.de/wirtschaft/tankrabatt-254.html"
-    },
-    {
-      "title": "Ficos Balanceakt zwischen Kreml-Nähe und NATO-Verpflichtungen",
-      "link": "https://www.tagesschau.de/ausland/slowakei-fico-110.html"
-    },
-    {
-      "title": "EU-Staaten streiten über Russland-Sanktionen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-210.html"
     }
   ]
 }
