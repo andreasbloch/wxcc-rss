@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "title": "Kabinett bringt Tankrabatt auf den Weg",
+      "link": "https://www.tagesschau.de/wirtschaft/tankrabatt-254.html"
+    },
+    {
+      "title": "Ficos Balanceakt zwischen Kreml-Nähe und NATO-Verpflichtungen",
+      "link": "https://www.tagesschau.de/ausland/slowakei-fico-110.html"
+    },
+    {
+      "title": "EU-Staaten streiten über Russland-Sanktionen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-210.html"
+    },
+    {
+      "title": "Klaus J. Behrendt hört beim Kölner Tatort auf",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/behrendt-ballauf-koelner-tatortkommissar-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX könnte Erholung fortsetzen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-160.html"
+    },
+    {
+      "title": "Trumps Streit mit den Medien in den USA eskaliert",
+      "link": "https://www.tagesschau.de/ausland/usa-medien-trump-102.html"
+    },
+    {
+      "title": "Unfall auf Oktoberfest: Mitarbeiter tödlich verunglückt",
+      "link": "https://www.tagesschau.de/inland/oktoberfest-unfall-104.html"
+    },
+    {
+      "title": "Tote und Vermisste nach Taifun \"Dujuan\" in Japan",
+      "link": "https://www.tagesschau.de/ausland/japan-taifun-108.html"
+    },
+    {
+      "title": "Windenergiebranche: Milliardenpoker um Offshore-Parks",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bp-offshore-windparks-100.html"
+    },
+    {
+      "title": "Was die Wahlergebnisse für die Regierungsbildungen bedeuten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-berlin-mecklenburg-vorpommern-100.html"
+    },
+    {
+      "title": "Reaktionen auf Wahlen: Deutschland sorgt gerade viele in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-afd-100.html"
+    },
+    {
       "title": "UN-Generaldebatte in New York - Rede von Trump geplant",
       "link": "https://www.tagesschau.de/ausland/un-trump-102.html"
     },
@@ -35,50 +79,6 @@
     {
       "title": "Marktbericht: Entspannung am Ölmarkt stützt den DAX",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-158.html"
-    },
-    {
-      "title": "Duma-Wahl: Putins Sieg an der Zahlenfront",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-nach-duma-wahl-100.html"
-    },
-    {
-      "title": "Berlin-Wahl: Giffey verpasst Einzug ins Abgeordnetenhaus",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-wahl-2026-giffey-100.html"
-    },
-    {
-      "title": "Japan wappnet sich für Taifun \"Dujuan\"",
-      "link": "https://www.tagesschau.de/ausland/asien/taifun-dujuan-100.html"
-    },
-    {
-      "title": "Was Beschäftigte in der Autoindustrie dem Management vorwerfen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/autoindustrie-protest-aktionstag-mercedes-100.html"
-    },
-    {
-      "title": "Bayern Landesregierung bekommt neue Minister für Justiz und Jugend",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/neue-minister-in-bayern-100.html"
-    },
-    {
-      "title": "Planetary Health Check: Patientin Erde ist schwer angeschlagen",
-      "link": "https://www.tagesschau.de/wissen/forschung/planetary-health-check-100.html"
-    },
-    {
-      "title": "SPD nach den Wahlen: Das neue Machtzentrum Schwesig?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-wahlen-berlin-mecklenburg-vorpommern-folgen-100.html"
-    },
-    {
-      "title": "Scheuer weist Vorwurf der Falschaussage zu Pkw-Maut zurück",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pkw-maut-scheuer-106.html"
-    },
-    {
-      "title": "IG Metall macht mobil gegen Kahlschlag in der Autoindustrie",
-      "link": "https://www.tagesschau.de/wirtschaft/ig-metall-automobil-102.html"
-    },
-    {
-      "title": "Kanzler Merz nach Wahlniederlagen \"dankbar\", dass SPD in Koalition bleibt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-cdu-158.html"
-    },
-    {
-      "title": "MV und Berlin: CDU-Aus und andere historische Ergebnisse",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/historisches-ltw-mv-berlin-100.html"
     }
   ]
 }
