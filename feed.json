@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "title": "UN-Generaldebatte in New York - Rede von Trump geplant",
+      "link": "https://www.tagesschau.de/ausland/un-trump-102.html"
+    },
+    {
+      "title": "SPD-Vize Rehlinger fordert \"echte Reformen und nicht nur Kürzungsvorschläge\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlen-regierung-rehlinger-100.html"
+    },
+    {
       "title": "Liveticker: ++ Schwesig-SPD will mit Linken und Grünen sondieren ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-nach-wahlen-berlin-mecklenburg-vorpommern-100.html"
+    },
+    {
+      "title": "\"Gerechtigkeitsproblem\": Merz tritt Debatte über Krankenkassen los",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-private-krankenversicherung-100.html"
     },
     {
       "title": "Nach Rauswurf durch Trump - Sender schränken Berichterstattung ein",
@@ -67,18 +79,6 @@
     {
       "title": "MV und Berlin: CDU-Aus und andere historische Ergebnisse",
       "link": "https://www.tagesschau.de/inland/innenpolitik/historisches-ltw-mv-berlin-100.html"
-    },
-    {
-      "title": "Datenschutz-Verstöße: Google muss 400 Millionen Euro Strafe zahlen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/google-eu-strafe-datenschutz-100.html"
-    },
-    {
-      "title": "Unternehmen sehen Bürokratie als größtes Standortproblem",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ifo-standort-buerokratie-100.html"
-    },
-    {
-      "title": "Fake-Videos aus Russland sollen Vertrauen in Wahlen erschüttern",
-      "link": "https://www.tagesschau.de/faktenfinder/fakes-wahlen-mecklenburg-vorpommern-berlin-100.html"
     }
   ]
 }
