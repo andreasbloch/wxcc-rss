@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "title": "Steht die CDU vor ihrem Ende als Volkspartei?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-cdu-volkspartei-100.html"
+    },
+    {
+      "title": "Macht- und Gewinnstreben gefährden KI-Sicherheit",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-regulierung-100.html"
+    },
+    {
+      "title": "Hunderttausende Hektar Wald brennen in Indonesien",
+      "link": "https://www.tagesschau.de/ausland/asien/indonesien-braende-100.html"
+    },
+    {
+      "title": "Preisgekrönter Schriftsteller soll mit KI geschrieben haben",
+      "link": "https://www.tagesschau.de/ausland/europa/prix-goncourt-ki-100.html"
+    },
+    {
+      "title": "Nach Wahl in Berlin: Özdemir warnt Grüne vor Koalition mit Linkspartei",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/oezdemir-linke-warnung-100.html"
+    },
+    {
+      "title": "Marktbericht: Boeing muss um neue China-Bestellungen bangen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-boeing-bestellungen-china-100.html"
+    },
+    {
+      "title": "Wie Lotte Reiniger den ersten Animationsfilm drehte",
+      "link": "https://www.tagesschau.de/kultur/lotte-reiniger-trickfilm-100.html"
+    },
+    {
+      "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/herbstprognose-konjunktur-aufschwung-100.html"
+    },
+    {
+      "title": "Frontstadt in der Ukraine: \"Jetzt beginnt dort echter Hunger\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-humanitaere-lage-100.html"
+    },
+    {
+      "title": "Kontroverse Debatte um Reform der Nachrichtendienste im Bundestag",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reform-bnd-bundestag-100.html"
+    },
+    {
+      "title": "Wieder Tote bei russischen Angriffen auf die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html"
+    },
+    {
+      "title": "Immobilienpreise in Deutschland steigen nicht mehr so stark",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/immobilienpreise-haeuser-wohnungen-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX startet mit Verlusten",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html"
+    },
+    {
+      "title": "Marokko: Wahlbeteiligung auf niedrigstem Stand seit 2007",
+      "link": "https://www.tagesschau.de/ausland/afrika/marokko-parlamentswahl-100.html"
+    },
+    {
       "title": "KI-Agent hackt australisches Regierungsportal",
       "link": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html"
     },
@@ -13,16 +69,8 @@
       "link": "https://www.tagesschau.de/ausland/amerika/usa-gericht-medien-weisses-haus-100.html"
     },
     {
-      "title": "Wieder Tote bei russischen Angriffen auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html"
-    },
-    {
       "title": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor",
       "link": "https://www.tagesschau.de/ausland/amerika/wadephul-russland-eskalation-100.html"
-    },
-    {
-      "title": "Marktbericht: Ölpreis und Zinsängste belasten die Börsen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html"
     },
     {
       "title": "11KM-Podcast: Wie das überlastete Stromnetz die Energiewende ausbremst ",
@@ -31,54 +79,6 @@
     {
       "title": "Staatsbesuch in den USA: Xi bringt schwierige Themen mit",
       "link": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-102.html"
-    },
-    {
-      "title": "Organspende: Argumente für und gegen die Widerspruchslösung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/transplantation-organspende-bundestag-100.html"
-    },
-    {
-      "title": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
-      "link": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html"
-    },
-    {
-      "title": "Reform der Nachrichtendienste - Revolution oder Tabubruch?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-bundestag-100.html"
-    },
-    {
-      "title": "Hoffen auf Israel: die Drusen auf den Golanhöhen",
-      "link": "https://www.tagesschau.de/ausland/asien/drusen-golanhoehen-100.html"
-    },
-    {
-      "title": "Techbosse warnen UN-Sicherheitsrat vor KI",
-      "link": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html"
-    },
-    {
-      "title": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html"
-    },
-    {
-      "title": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html"
-    },
-    {
-      "title": "Iran wehrt sich vor UN gegen Trump-Drohungen",
-      "link": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html"
-    },
-    {
-      "title": "Ex-Hollywood-Produzent Harvey Weinstein erneut verurteilt",
-      "link": "https://www.tagesschau.de/ausland/usa-weinstein-haft-100.html"
-    },
-    {
-      "title": "Berliner Polizei geht gegen illegalen Schusswaffenhandel vor",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-schusswaffenhandel-durchsuchungen-100.html"
-    },
-    {
-      "title": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-142.html"
-    },
-    {
-      "title": "Berlin zieht Olympia-Bewerbung zurück",
-      "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html"
     }
   ]
 }
