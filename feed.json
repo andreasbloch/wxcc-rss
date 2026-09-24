@@ -1,11 +1,55 @@
 {
   "items": [
     {
+      "title": "KI-Agent hackt australisches Regierungsportal",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/openai-australien-regierungsportal-100.html"
+    },
+    {
+      "title": "Hitze schwächt Europas Wirtschaftsleistung",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/hitze-senkt-europas-wirtschaftsleistung-allianz-100.html"
+    },
+    {
+      "title": "Gericht hebt Ausschluss von Medien aus Weißem Haus vorerst auf",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-gericht-medien-weisses-haus-100.html"
+    },
+    {
+      "title": "Wieder Tote bei russischen Angriffen auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-kiew-106.html"
+    },
+    {
+      "title": "Wadephul wirft Moskau Eskalation in Europa durch Hybrid-Angriffe vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/wadephul-russland-eskalation-100.html"
+    },
+    {
+      "title": "Marktbericht: Ölpreis und Zinsängste belasten die Börsen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Wie das überlastete Stromnetz die Energiewende ausbremst ",
+      "link": "https://www.tagesschau.de/podcast-11km-energiewende-strom-100.html"
+    },
+    {
+      "title": "Staatsbesuch in den USA: Xi bringt schwierige Themen mit",
+      "link": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-102.html"
+    },
+    {
+      "title": "Organspende: Argumente für und gegen die Widerspruchslösung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/transplantation-organspende-bundestag-100.html"
+    },
+    {
+      "title": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
+      "link": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html"
+    },
+    {
+      "title": "Reform der Nachrichtendienste - Revolution oder Tabubruch?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-bundestag-100.html"
+    },
+    {
       "title": "Hoffen auf Israel: die Drusen auf den Golanhöhen",
       "link": "https://www.tagesschau.de/ausland/asien/drusen-golanhoehen-100.html"
     },
     {
-      "title": "Tech-Bosse warnen UN-Sicherheitsrat vor KI",
+      "title": "Techbosse warnen UN-Sicherheitsrat vor KI",
       "link": "https://www.tagesschau.de/ausland/amerika/ki-un-sicherheitsrat-100.html"
     },
     {
@@ -35,50 +79,6 @@
     {
       "title": "Berlin zieht Olympia-Bewerbung zurück",
       "link": "https://www.tagesschau.de/sport/olympia-bewerbung-berlin-102.html"
-    },
-    {
-      "title": "Marktbericht: DAX baut Verluste aus",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html"
-    },
-    {
-      "title": "Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil",
-      "link": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html"
-    },
-    {
-      "title": "Große Staubwolke durch massiven Felssturz an der Zugspitze",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/br-felssturz-zugspitze-100.html"
-    },
-    {
-      "title": "Wieder Tote bei russischen Angriffen auf zivile Infrastruktur in der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-auf-ukraine-100.html"
-    },
-    {
-      "title": "Kabinett beschließt Gesetzentwurf für digitalen Kassenbon ab 2028",
-      "link": "https://www.tagesschau.de/inland/kassenbon-digital-104.html"
-    },
-    {
-      "title": "Xi in den USA: Trump und Chinas Staatschef vor schwierigen Gesprächen",
-      "link": "https://www.tagesschau.de/ausland/asien/usa-xi-jinping-treffen-trump-washington-100.html"
-    },
-    {
-      "title": "Versandapotheke der Drogeriemarktkette dm vor Gericht",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/dm-med-apotheke-klage-100.html"
-    },
-    {
-      "title": "Nach einer Studie investieren immer mehr Deutsche in Aktien",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktienmarkt-investieren-dax-ing-bank-marktbericht-100.html"
-    },
-    {
-      "title": "Staubwolke durch massiven Felssturz an der Zugspitze",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/felssturz-zugspitze-102.html"
-    },
-    {
-      "title": "Wie die Gebärdensprache Teilhabe ermöglicht",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gebaerdensprache-160.html"
-    },
-    {
-      "title": "OECD hebt Konjunkturprognose für deutsche Wirtschaft deutlich an",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-bip-prognose-oecd-100.html"
     }
   ]
 }
