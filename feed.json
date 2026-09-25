@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Berliner CDU-Fraktion wählt Evers an ihre Spitze",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/evers-cdu-fraktion-berlin-100.html"
+    },
+    {
       "title": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
       "link": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Preisgekrönter Schriftsteller soll mit KI geschrieben haben",
       "link": "https://www.tagesschau.de/ausland/europa/prix-goncourt-ki-100.html"
-    },
-    {
-      "title": "Nach Wahl in Berlin: Özdemir warnt Grüne vor Koalition mit Linkspartei",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/oezdemir-linke-warnung-100.html"
     }
   ]
 }
