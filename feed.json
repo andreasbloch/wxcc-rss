@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Berliner Linke entscheidet auf Parteitag über Sondierungen",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html"
+    },
+    {
+      "title": "Entlastung im Bundestag: So schnell soll der Tankrabatt kommen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html"
+    },
+    {
+      "title": "Marktbericht: Stoppt der DAX seine Verlustserie?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html"
+    },
+    {
+      "title": "Xi bei Trump: Fanfaren, Spalier, Bankett - aber kaum Lösungen",
+      "link": "https://www.tagesschau.de/ausland/amerika/xi-staatsbesuch-usa-104.html"
+    },
+    {
+      "title": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
+      "link": "https://www.tagesschau.de/ausland/europa/macron-soldaten-saudi-arabien-100.html"
+    },
+    {
+      "title": "Manipulationsskandal an der türkischen Börse",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/manipulation-skandal-boerse-istanbul-100.html"
+    },
+    {
+      "title": "Schulen in Singapur: Den Lernerfolg nicht der KI überlassen",
+      "link": "https://www.tagesschau.de/ausland/asien/singapur-ki-schulunterricht-100.html"
+    },
+    {
+      "title": "Ägäis: Spannungen zwischen Griechenland und der Türkei nehmen zu",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-tuerkei-spannungen-100.html"
+    },
+    {
       "title": "Berliner CDU-Fraktion wählt Evers an ihre Spitze",
       "link": "https://www.tagesschau.de/inland/regional/berlin/evers-cdu-fraktion-berlin-100.html"
     },
@@ -47,38 +79,6 @@
     {
       "title": "Trotz vorläufigen Richterspruchs: Weißes Haus weist Reporter weiter ab",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-medien-cnn-trump-100.html"
-    },
-    {
-      "title": "Staatsanwaltschaft Dortmund ermittelt gegen 105-jährigen NS-Wachmann",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/ermittlungen-gegen-105-jaehrigen-frueheren-ns-wachmann-100.html"
-    },
-    {
-      "title": "Nächster Anlauf im Bundestag zu umstrittenen Organspende-Regeln",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestagsdebatte-organspende-100.html"
-    },
-    {
-      "title": "Israelisches Wahlkomitee schließt arabische Parteien von Parlamentswahl aus",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-schliesst-arabische-parteien-aus-100.html"
-    },
-    {
-      "title": "Banken in Deutschland bewähren sich im Stresstest - mit Ausnahmen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/banken-stresstest-bafin-bundesbank-100.html"
-    },
-    {
-      "title": "Steht die CDU vor ihrem Ende als Volkspartei?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-cdu-volkspartei-100.html"
-    },
-    {
-      "title": "Macht- und Gewinnstreben gefährden KI-Sicherheit",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/kuenstliche-intelligenz-regulierung-100.html"
-    },
-    {
-      "title": "Hunderttausende Hektar Wald brennen in Indonesien",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-braende-100.html"
-    },
-    {
-      "title": "Preisgekrönter Schriftsteller soll mit KI geschrieben haben",
-      "link": "https://www.tagesschau.de/ausland/europa/prix-goncourt-ki-100.html"
     }
   ]
 }
