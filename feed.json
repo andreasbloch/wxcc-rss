@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Berliner SPD will mit Linken und Grünen sondieren",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-spd-linke-gruene-sondierungen-100.html"
+    },
+    {
+      "title": "Wadephul trifft überraschend Lawrow in New York",
+      "link": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html"
+    },
+    {
+      "title": "Kommentar zur deutschen Olympiabewerbung: München ist qualifizierter Außenseiter",
+      "link": "https://www.tagesschau.de/kommentar/olympia-bewerbung-deutschland-kommentar-100.html"
+    },
+    {
+      "title": "Papst Leo XIV. feiert Messe mit 800.000 Menschen in Paris",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-paris-messe-100.html"
+    },
+    {
+      "title": "Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
+      "link": "https://www.tagesschau.de/ausland/asien/iran-krieg-hormus-trump-lehnt-vorschlag-ab-100.html"
+    },
+    {
+      "title": "Pflege in Schweden: So lange wie möglich zu Hause",
+      "link": "https://www.tagesschau.de/ausland/europa/schweden-pflege-100.html"
+    },
+    {
+      "title": "Dobrindt will schnelle Eingreiftruppe der EU-Grenzschutzagentur Frontex",
+      "link": "https://www.tagesschau.de/inland/dobrindt-munich-migration-meeting-frontex-100.html"
+    },
+    {
       "title": "Zehntausende protestieren in mehreren Städten gegen Sozialreformen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html"
     },
@@ -51,34 +79,6 @@
     {
       "title": "OpenAI informiert über weiteres Fehlverhalten von KI",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-ki-openai-regierungswebseiten-100.html"
-    },
-    {
-      "title": "Iran macht Vorschlag für Öffnung der Straße von Hormus",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-usa-100.html"
-    },
-    {
-      "title": "Weltraumspiegel: Satelliten sollen nachts die Erde erhellen",
-      "link": "https://www.tagesschau.de/wissen/technologie/satellitenspiegel-nacht-100.html"
-    },
-    {
-      "title": "Berliner Linkspartei stimmt für Gespräche mit Grünen und SPD",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-parteitag-100.html"
-    },
-    {
-      "title": "SPD stoppt vorerst Pflegereform: \"Das lassen wir nicht zu\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegeversicherung-spd-kabinett-100.html"
-    },
-    {
-      "title": "Muss Spahn nun auch um seinen Platz im Haushaltsausschuss bangen?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spahn-haushaltsausschuss-100.html"
-    },
-    {
-      "title": "Diego Garcia - Streit um einen Militärstützpunkt",
-      "link": "https://www.tagesschau.de/ausland/afrika/afrika-indischer-ozean-chagos-usa-mauritius-100.html"
-    },
-    {
-      "title": "Rückruf bei VW, Audi und Seat: Das müssen Besitzer jetzt wissen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html"
     }
   ]
 }
