@@ -1,12 +1,44 @@
 {
   "items": [
     {
-      "title": "Wie eine Brücke ein Dorf belebt",
-      "link": "https://www.tagesschau.de/inland/mittendrin/haengeseilbruecke-geierlay-dorf-moersdorf-tourismus-100.html"
+      "title": "Zehntausende protestieren in mehreren Städten gegen Sozialreformen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html"
     },
     {
       "title": "Überschwemmungen: Behörden rufen Katastrophenfall in Bangkok aus",
       "link": "https://www.tagesschau.de/ausland/asien/thailand-unwetter-regen-100.html"
+    },
+    {
+      "title": "Exklusiv: SPD will Eigenanteil für Pflegeheimkosten deckeln",
+      "link": "https://www.tagesschau.de/inland/pflegekosten-deckel-100.html"
+    },
+    {
+      "title": "Bildungsministerin Prien: \"Verbot von Stolpersteinen ist Skandal\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/heidenau-stolpersteine-prien-100.html"
+    },
+    {
+      "title": "Jubiläum des Comics \"Tim und Struppi\": Beliebt wie eh und je",
+      "link": "https://www.tagesschau.de/kultur/tim-struppi-comics-jubilaeum-100.html"
+    },
+    {
+      "title": "Durchtrennte Kabel in Gelsenkirchen: Zugausfälle und Umleitungen im Ruhrgebiet",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/kabelklau-gelsenkirchen-zugausfaelle--umleitungen-ruhrgebiet-100.html"
+    },
+    {
+      "title": "Wie lange gibt es diesen Gletscher noch? Weltkarte zeigt Schmelze",
+      "link": "https://www.tagesschau.de/wissen/klima/karte-gletscher-104.html"
+    },
+    {
+      "title": "Kann die Linke in der Hauptstadt regieren?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-104.html"
+    },
+    {
+      "title": "Außenminister Wadephul spricht vor UN-Generalversammlung",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-versammlung-wadephul-lawrow-100.html"
+    },
+    {
+      "title": "Wie eine Brücke ein Dorf belebt",
+      "link": "https://www.tagesschau.de/inland/mittendrin/haengeseilbruecke-geierlay-dorf-moersdorf-tourismus-100.html"
     },
     {
       "title": "US-Präsident Trump schließt CNN von Reise aus",
@@ -47,38 +79,6 @@
     {
       "title": "Rückruf bei VW, Audi und Seat: Das müssen Besitzer jetzt wissen",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-audi-seat-lenkungsausfall-100.html"
-    },
-    {
-      "title": "Marktbericht: Neue Friedenshoffnungen machen DAX-Anlegern Mut",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-oel-anleihen-dax-dow-jones-100.html"
-    },
-    {
-      "title": "BASF wirft ein Auge auf Konkurrent Evonik",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-100.html"
-    },
-    {
-      "title": "Bundestag und Bundesrat beschließen erneuten \"Tankrabatt\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-bundesrat-beschlossen-100.html"
-    },
-    {
-      "title": "Proteste gegen Wehrpflicht - Tausende Schüler demonstrieren bundesweit",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wehrpflicht-proteste-schueler-100.html"
-    },
-    {
-      "title": "Entlastung im Bundestag: So schnell soll der \"Tankrabatt\" kommen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/entlastungen-spritpreise-bundestag-100.html"
-    },
-    {
-      "title": "Papst Leo XIV. in Frankreich: Treffen mit Macron in Paris",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-reise-frankreich-100.html"
-    },
-    {
-      "title": "Bundestag beschließt erneuten \"Tankrabatt\"- auch Bundesrat stimmt zu",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-bundestag-beschluss-100.html"
-    },
-    {
-      "title": "Bundestag berät erstmals über \"Frühstartrente\" ab sechs Jahren",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/fruehstartrente-bundestag-debatte-100.html"
     }
   ]
 }
