@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
+      "link": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html"
+    },
+    {
+      "title": "Serbiens Präsident Vucic tritt zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html"
+    },
+    {
       "title": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen ",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "EU stellt 710 Millionen Euro für weltweite Krisenhilfe bereit",
       "link": "https://www.tagesschau.de/ausland/europa/eu-krisenhilfe-100.html"
-    },
-    {
-      "title": "Sturm an der US-Ostküste: Ein Toter, viele Haushalte ohne Strom",
-      "link": "https://www.tagesschau.de/ausland/amerika/sturm-usa-144.html"
-    },
-    {
-      "title": "EU geht gegen \"Greenwashing\" in der Werbung vor",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-greenwashing-100.html"
     }
   ]
 }
