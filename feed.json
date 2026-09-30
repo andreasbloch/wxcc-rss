@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Ukrainische Wirtschaft durch Krieg unter Druck",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-unternehmen-trotz-krieg-100.html"
+    },
+    {
+      "title": "Bundesfamilienministerin erwägt Kehrtwende bei Elterngeldreform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-kuerzungen-elterngeld-100.html"
+    },
+    {
+      "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html"
+    },
+    {
       "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
       "link": "https://www.tagesschau.de/ausland/europa/burnham-parteitag-labour-102.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "EU: Pro Bürger landen jährlich 129 Kilo Lebensmittel im Müll",
       "link": "https://www.tagesschau.de/ausland/europa/eu-lebensmittel-muell-100.html"
-    },
-    {
-      "title": "KI außer Kontrolle: Wer haftet in so einem Fall eigentlich?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-ausbrueche-haftung-faq-100.html"
-    },
-    {
-      "title": "Hitzesommer schlägt sich auch an der Börse nieder",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hitzesommer-100.html"
-    },
-    {
-      "title": "Militär greift Markt in Myanmar an - mindestens 50 Tote",
-      "link": "https://www.tagesschau.de/ausland/asien/luftangriffe-myanmar-100.html"
     }
   ]
 }
