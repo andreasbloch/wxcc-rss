@@ -1,8 +1,68 @@
 {
   "items": [
     {
+      "title": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
+      "link": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html"
+    },
+    {
+      "title": "Linke-Politiker Kocak gibt Sitz im Innenausschuss des Bundestages auf",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-kocak-innenausschuss-100.html"
+    },
+    {
+      "title": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
+      "link": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html"
+    },
+    {
+      "title": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
+      "link": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html"
+    },
+    {
+      "title": "Verträge gekündigt: Volkswagen steht vor neuer Tarifschlacht",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-tarifvertraege-sparkurs-100.html"
+    },
+    {
+      "title": "Unter einem Dach: Wie Kita-Kinder und Senioren voneinander lernen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/pflegeheim-kita-100.html"
+    },
+    {
+      "title": "Frankreich: Antisemitismus-Vorwürfe gegen LePens Parteichef Bardella",
+      "link": "https://www.tagesschau.de/ausland/europa/bardella-vorwuerfe-antisemitismus-100.html"
+    },
+    {
+      "title": "Marktbericht: Zinsängste schrecken DAX-Anleger ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html"
+    },
+    {
+      "title": "Übung der Heimatschutzdivision: Spannungsfall an der Autobahnbrücke",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/heimatschutzdivision-bundeswehr-100.html"
+    },
+    {
+      "title": "Versuchter Terror? Gewaltvorfall in Cockpit von Flydubai-Maschine",
+      "link": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-terrorverdacht-100.html"
+    },
+    {
+      "title": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html"
+    },
+    {
+      "title": "Kommentar zur Pflegereform: Regierung setzt wieder mal aufs Vertagen",
+      "link": "https://www.tagesschau.de/kommentar/pflegereform-kabinett-104.html"
+    },
+    {
       "title": "Berlin: Gericht verbietet Schweinehaltung im vierten Stock",
       "link": "https://www.tagesschau.de/inland/regional/berlin/gericht-schweinehaltung-vierter-stock-verbot-100.html"
+    },
+    {
+      "title": "Erste Reformschritte beschlossen: Was sich bei der Pflege ändern soll",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/faq-pflegereform-100.html"
+    },
+    {
+      "title": "Pflegegesetz im Kabinett: Die große Reform ist erstmal vertagt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-102.html"
+    },
+    {
+      "title": "EU will krisenfeste Kommunikation für Europas Rettungsdienste",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-plan-kommunikation-krisenfall-100.html"
     },
     {
       "title": "Preis für Deutschlandticket steigt im Januar auf 66,80 Euro",
@@ -19,66 +79,6 @@
     {
       "title": "Ostbeauftragte Kaiser will mehr Ostdeutsche in Führungspositionen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-beauftragte-bundesregierung-ostdeutschland-100.html"
-    },
-    {
-      "title": "Flydubai-Maschine muss nach Vorfall an Bord notlanden",
-      "link": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-106.html"
-    },
-    {
-      "title": "Inflationsrate steigt im September auf 3,3 Prozent",
-      "link": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html"
-    },
-    {
-      "title": "Marktbericht: Commerzbank-Aktie gerät unter Druck",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/schwerpunkt-commerzbank-aktie-uebernahme-unicredit-100.html"
-    },
-    {
-      "title": "Pläne der Bundesregierung - Härtere Strafen für Angriffe gegen Einsatzkräfte",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/strafe-angriffe-zugbegleiter-100.html"
-    },
-    {
-      "title": "Bundesregierung bringt Pflegereform auf den Weg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-100.html"
-    },
-    {
-      "title": "Wohnen wird für Studierende auch 2026 teurer",
-      "link": "https://www.tagesschau.de/inland/wohnkosten-studierende-steigen-100.html"
-    },
-    {
-      "title": "Wenn Lina Beckmann spielt, stellen sich die Härchen auf",
-      "link": "https://www.tagesschau.de/kultur/schauspielerin-lina-beckmann-100.html"
-    },
-    {
-      "title": "Marktbericht: KI sorgt für Rückenwind bei Tech-Werten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html"
-    },
-    {
-      "title": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html"
-    },
-    {
-      "title": "Reformdebatte in der schwarz-roten Koalition",
-      "link": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html"
-    },
-    {
-      "title": "Arbeitslosenzahl sinkt leicht unter Marke von drei Millionen",
-      "link": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-arbeitsmarkt-september-100.html"
-    },
-    {
-      "title": "Tanken in Deutschland war noch nie so teuer wie im September",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/september-tanken-100.html"
-    },
-    {
-      "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html"
-    },
-    {
-      "title": "US-Truppen ziehen ab - Im Irak beginnt eine neue Ära",
-      "link": "https://www.tagesschau.de/ausland/asien/irak-usa-truppenabzug-100.html"
-    },
-    {
-      "title": "Vergewaltigungsvorwürfe an US-Elite-Uni Cornell werden neu untersucht",
-      "link": "https://www.tagesschau.de/ausland/amerika/kritik-cornell-vorwuerfe-vergewaltigung-100.html"
     }
   ]
 }
