@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html"
+    },
+    {
+      "title": "Von Stechmücken übertragen: Erstmals Sindbis-Virus in Deutschland",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/sindbis-virus-100.html"
+    },
+    {
+      "title": "Viele mutige Motive beim Jugendfotopreis 2026",
+      "link": "https://www.tagesschau.de/kultur/deutscher-jugendfotopreis-junge-fotografie-100.html"
+    },
+    {
+      "title": "Wahl-Panne in Berlin: Abgeordnetenhaus wird kleiner",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/rbb-wahl-panne-in-spandau-abgeordnetenhaus-wird-doch-kleiner-100.html"
+    },
+    {
+      "title": "Schwedens Wahlsiegerin Andersson unternimmt zweiten Anlauf zur Regierungsbildung",
+      "link": "https://www.tagesschau.de/ausland/europa/schwedische-regierungsbildung-andersson-100.html"
+    },
+    {
+      "title": "Israels Oberstes Gericht lässt arabische Parteien bei Parlamentswahl zu",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-gericht-100.html"
+    },
+    {
+      "title": "Was es mit Melonis Schul-Dekret auf sich hat",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-schuldekret-meloni-100.html"
+    },
+    {
+      "title": "Marktbericht: Nikes Schwäche nutzt Konkurrenten wie Adidas",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nike-adidas-dax-100.html"
+    },
+    {
+      "title": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
+      "link": "https://www.tagesschau.de/ausland/europa/angriff-kiew-bruecke-100.html"
+    },
+    {
+      "title": "Kaufhauskette Galeria taumelt in die vierte Insolvenz",
+      "link": "https://www.tagesschau.de/wirtschaft/galeria-insolvenz-100.html"
+    },
+    {
+      "title": "Inflation im Euroraum steigt stärker als erwartet - auf 3,8 Prozent",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-anstieg-102.html"
+    },
+    {
+      "title": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
+      "link": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html"
+    },
+    {
+      "title": "Deutschland zum Tag der Deutschen Einheit zu Gast in Bremen",
+      "link": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html"
+    },
+    {
+      "title": "Tankrabatt für Autofahrer, aber kein Nachlass beim Heizen: ungerecht?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizen-tankrabatt-debatte-100.html"
+    },
+    {
+      "title": "Nach BGH-Urteil - Amazon senkt Preis für langjährige Prime-Kunden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-102.html"
+    },
+    {
       "title": "Marktbericht: DAX wieder über 25.000 Punkten",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html"
     },
@@ -17,68 +77,8 @@
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-uebernahmerecht-deutschland-100.html"
     },
     {
-      "title": "Luftangriffe auf Kiew dauern an - Brücken gesperrt",
-      "link": "https://www.tagesschau.de/ausland/europa/angriff-kiew-bruecke-100.html"
-    },
-    {
-      "title": "Abgeordnetenhauswahl in Berlin: Erstes Vorgespräch Rot-Grün-Rot ergebnislos",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-regierungsbildung-vorgespraeche-100.html"
-    },
-    {
       "title": "Gescheiterte Hinrichtung heizt Debatte über Todesstrafe neu an",
       "link": "https://www.tagesschau.de/ausland/amerika/hinrichtung-tennessee-giftspritze-100.html"
-    },
-    {
-      "title": "Astronauten erreichen ISS in Rekordzeit",
-      "link": "https://www.tagesschau.de/ausland/amerika/iss-crew-im-all-angekommen-100.html"
-    },
-    {
-      "title": "Datenpannen von Top-Spionen - Handynummer von BND-Vize im Internet",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/datenpanne-bnd-geheimdienst-100.html"
-    },
-    {
-      "title": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-maricarmen-100.html"
-    },
-    {
-      "title": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-sparmassnahmen-proteste-100.html"
-    },
-    {
-      "title": "Netanjahu schreibt dem Flydubai-Co-Piloten islamistische Gesinnung zu",
-      "link": "https://www.tagesschau.de/ausland/asien/netanjahu-flydubai-copilot-islamistisch-100.html"
-    },
-    {
-      "title": "Merz' verleiht Friedenspreis an die NATO - \"Moskau Einhalt gebieten\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-grundsatzrede-friedenspreis-muenster-100.html"
-    },
-    {
-      "title": "Gescheiterte Hinrichtung in den USA sorgt für Entsetzen - Debatte über Todesstrafe",
-      "link": "https://www.tagesschau.de/ausland/amerika/ende-der-todesstrafe-in-den-usa-gefordert-100.html"
-    },
-    {
-      "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html"
-    },
-    {
-      "title": "Bundeswehr reagiert mit erstem Drohnenregiment auf Ukraine-Krieg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX schließt unter 25.000 Punkten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-inflation-100.html"
-    },
-    {
-      "title": "Bundeswehr-Einsatz im Irak beendet - Soldaten kehren zurück",
-      "link": "https://www.tagesschau.de/ausland/asien/letzte-bundeswehr-soldaten-aus-irak-zurueckgekehrt-100.html"
-    },
-    {
-      "title": "ARD-DeutschlandTrend: Drei Viertel der Deutschen spüren vor allem Belastungen",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-oktober-110.html"
-    },
-    {
-      "title": "BGH kippt Preiserhöhung bei Amazon Prime",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html"
     }
   ]
 }
