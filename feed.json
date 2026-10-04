@@ -1,12 +1,60 @@
 {
   "items": [
     {
-      "title": "Wahl in Lettland: Partei von Ministerpräsident in Führung",
-      "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html"
+      "title": "Wahl in Brasilien: Kommen die Bolsonaros zurück?",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-160.html"
+    },
+    {
+      "title": "Zahl der Asylanträge in der EU offenbar deutlich gesunken",
+      "link": "https://www.tagesschau.de/ausland/europa/asylantraege-europa-102.html"
+    },
+    {
+      "title": "Merz-Besuch in Kiew: Eine Milliarde Militärhilfe für die Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html"
+    },
+    {
+      "title": "Mehrere Verletzte bei Campingplatz-Brand am Gardasee",
+      "link": "https://www.tagesschau.de/ausland/europa/gardasee-brand-campingplatz-102.html"
+    },
+    {
+      "title": "Rekord-Wiesn: 7,4 Millionen Besucher auf dem Oktoberfest",
+      "link": "https://www.tagesschau.de/inland/oktoberfest-bilanz-110.html"
+    },
+    {
+      "title": "Rhein will AfD Ausschussvorsitze ermöglichen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html"
     },
     {
       "title": "Schneider fordert anderen Umgang mit Wasser",
       "link": "https://www.tagesschau.de/inland/innenpolitik/schneider-niedrigwasser-100.html"
+    },
+    {
+      "title": "Baskenland und Katalonien: Tote bei schweren Unwettern in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html"
+    },
+    {
+      "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html"
+    },
+    {
+      "title": "Influencer werden für ethische Jagd zum Problem",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/jagd-hobby-lifestyle-100.html"
+    },
+    {
+      "title": "Jemens Militär greift Huthi-Hochburgen an",
+      "link": "https://www.tagesschau.de/ausland/asien/angriffe-jemen-102.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
+      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html"
+    },
+    {
+      "title": "Tory-Parteitag: Wie Kemi Badenoch die Tories retten will",
+      "link": "https://www.tagesschau.de/ausland/europa/tories-parteitag-badenoch-100.html"
+    },
+    {
+      "title": "Wahl in Lettland: Partei von Ministerpräsident in Führung",
+      "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html"
     },
     {
       "title": "Lula gegen Bolsonaro: Ein Duell bekannter Namen in Brasilien",
@@ -25,60 +73,12 @@
       "link": "https://www.tagesschau.de/ausland/europa/bosnien-und-herzegowina-wahl-100.html"
     },
     {
-      "title": "Hessischer Ministerpräsident Rhein will AfD Ausschussvorsitze ermöglichen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html"
-    },
-    {
       "title": "Deutsche Bahn will Familienticket dauerhaft anbieten",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html"
     },
     {
       "title": "Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html"
-    },
-    {
-      "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
-      "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html"
-    },
-    {
-      "title": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
-      "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html"
-    },
-    {
-      "title": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html"
-    },
-    {
-      "title": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
-      "link": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html"
-    },
-    {
-      "title": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html"
-    },
-    {
-      "title": "Landesweit große Demos gegen Wohnungsnot in Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html"
-    },
-    {
-      "title": "Bundesweite Aktion: Menschenketten für Gerechtigkeit und Klima",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/menschenkette-klima-100.html"
-    },
-    {
-      "title": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-bremen-100.html"
-    },
-    {
-      "title": "Freigabe von G7-Energiereserven stößt auf gemischte Reaktionen",
-      "link": "https://www.tagesschau.de/ausland/europa/freigabe-oelreserven-reaktionen-100.html"
-    },
-    {
-      "title": "Steinmeier: \"Es geht um die Selbstbehauptung der Demokratie\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html"
-    },
-    {
-      "title": "Walfang-Konferenz in Australien: Schutzgebiet scheitert erneut",
-      "link": "https://www.tagesschau.de/ausland/ozeanien/australien-walschutz-konferenz-100.html"
     }
   ]
 }
