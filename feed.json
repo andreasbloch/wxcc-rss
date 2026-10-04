@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Hessischer Ministerpräsident Rhein will AfD-Ausschussvorsitze ermöglichen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html"
+    },
+    {
+      "title": "Deutsche Bahn will Familienticket dauerhaft anbieten",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html"
+    },
+    {
+      "title": "Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html"
+    },
+    {
       "title": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
       "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Lula vor Wahl in Brasilien: 80 Jahre und noch nicht müde",
       "link": "https://www.tagesschau.de/ausland/brasilien-lula-praesidentenwahl-100.html"
-    },
-    {
-      "title": "US-Medienberichte: Flydubai-Co-Pilot galt zuvor als Sicherheitsrisiko",
-      "link": "https://www.tagesschau.de/ausland/flydubai-co-pilot-sicherheitsrisiko-100.html"
-    },
-    {
-      "title": "Mysteriöse Einbruchserie bei Abgeordneten in Finnland",
-      "link": "https://www.tagesschau.de/ausland/europa/finnland-einbrueche-abgeordnete-100.html"
-    },
-    {
-      "title": "Gefahren nach der Flutkatastrophe für Überlebende in Nepal",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-nach-katastrophe-100.html"
     }
   ]
 }
