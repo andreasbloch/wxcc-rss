@@ -1,7 +1,31 @@
 {
   "items": [
     {
-      "title": "Hessischer Ministerpräsident Rhein will AfD-Ausschussvorsitze ermöglichen",
+      "title": "Wahl in Lettland: Partei von Ministerpräsident in Führung",
+      "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html"
+    },
+    {
+      "title": "Schneider fordert anderen Umgang mit Wasser",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schneider-niedrigwasser-100.html"
+    },
+    {
+      "title": "Lula gegen Bolsonaro: Ein Duell bekannter Namen in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-lula-bolsonaro-100.html"
+    },
+    {
+      "title": "140 Jahre Seemannsmission: Eine Pause von den Weltmeeren",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/seemannsmission-hamburg-seefahrer-100.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Kanzler Merz besucht Kiew",
+      "link": "https://www.tagesschau.de/ausland/europa/eilmeldung-merz-kiew-100.html"
+    },
+    {
+      "title": "Bosnien und Herzegowina: Mit neuer Technik mehr Vertrauen in die Wahlen",
+      "link": "https://www.tagesschau.de/ausland/europa/bosnien-und-herzegowina-wahl-100.html"
+    },
+    {
+      "title": "Hessischer Ministerpräsident Rhein will AfD Ausschussvorsitze ermöglichen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html"
     },
     {
@@ -11,10 +35,6 @@
     {
       "title": "Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
       "link": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html"
-    },
-    {
-      "title": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
-      "link": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html"
     },
     {
       "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
@@ -59,26 +79,6 @@
     {
       "title": "Walfang-Konferenz in Australien: Schutzgebiet scheitert erneut",
       "link": "https://www.tagesschau.de/ausland/ozeanien/australien-walschutz-konferenz-100.html"
-    },
-    {
-      "title": "Frankreich: Seit Montag mehr als 5.000 Festnahmen bei Schülerprotesten",
-      "link": "https://www.tagesschau.de/ausland/frankreich-schuelerproteste-festnahmen-100.html"
-    },
-    {
-      "title": "Wohnungsnot: Kommunen fordern Konzept für ländlichen Raum",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wohnungsnot-168.html"
-    },
-    {
-      "title": "Großbritanniens Zusammenarbeit mit der EU: Bye-bye, Brexit?",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html"
-    },
-    {
-      "title": "Fall Widdecombe: Möglicherweise auch Anschlag auf Farage geplant",
-      "link": "https://www.tagesschau.de/ausland/europa/mord-ann-widdecombe-100.html"
-    },
-    {
-      "title": "Lula vor Wahl in Brasilien: 80 Jahre und noch nicht müde",
-      "link": "https://www.tagesschau.de/ausland/brasilien-lula-praesidentenwahl-100.html"
     }
   ]
 }
