@@ -1,7 +1,71 @@
 {
   "items": [
     {
-      "title": "Pfefferspray-Angriff auf Linken-Geschäftsstelle in Oranienburg",
+      "title": "Solidarität mit Studentin \"Jane Doe\" nach Vergewaltigungsklage",
+      "link": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-100.html"
+    },
+    {
+      "title": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html"
+    },
+    {
+      "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+      "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX mit angezogener Handbremse",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html"
+    },
+    {
+      "title": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html"
+    },
+    {
+      "title": "Australien: Alge kann Methan-Ausstoß von Rindern reduzieren",
+      "link": "https://www.tagesschau.de/wissen/klima/australien-methan-kuehe-futter-100.html"
+    },
+    {
+      "title": "Ukraine: Neuer deutscher Besuch, neue russische Angriffe",
+      "link": "https://www.tagesschau.de/ausland/europa/prien-besuch-ukraine-100.html"
+    },
+    {
+      "title": "Seit Mai: E-Auto-Prämie an 100.000 Antragsteller ausgezahlt",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-auto-praemie-126.html"
+    },
+    {
+      "title": "Stichwahl nötig: Brasilien rückt weiter nach rechts",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-ergebnis-100.html"
+    },
+    {
+      "title": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
+      "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html"
+    },
+    {
+      "title": "Linke zieht gegen Reiche vor Bundesverfassungsgericht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html"
+    },
+    {
+      "title": "Österreichs Vizekanzler und SPÖ-Chef Babler kündigt Rückzug an",
+      "link": "https://www.tagesschau.de/ausland/europa/oesterreich-rueckzug-vizekanzler-100.html"
+    },
+    {
+      "title": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html"
+    },
+    {
+      "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
+      "link": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html"
+    },
+    {
+      "title": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html"
+    },
+    {
+      "title": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
+      "link": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html"
+    },
+    {
+      "title": "Pfefferspray-Angriff in Linken-Geschäftsstelle in Oranienburg",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-oranienburg-angriff-auf-linken-veranstaltung-in-parteibuero-reizgas-versprueht-100.html"
     },
     {
@@ -15,70 +79,6 @@
     {
       "title": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
       "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html"
-    },
-    {
-      "title": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html"
-    },
-    {
-      "title": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
-      "link": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html"
-    },
-    {
-      "title": "Hamburg behält Vorsitz der Justizministerkonferenz",
-      "link": "https://www.tagesschau.de/inland/justizministerkonferenz-vorsitz-100.html"
-    },
-    {
-      "title": "Wahl in Brasilien: Kommen die Bolsonaros zurück?",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-160.html"
-    },
-    {
-      "title": "Zahl der Asylanträge in der EU offenbar deutlich gesunken",
-      "link": "https://www.tagesschau.de/ausland/europa/asylantraege-europa-102.html"
-    },
-    {
-      "title": "Merz-Besuch in Kiew: Eine Milliarde Militärhilfe für die Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-106.html"
-    },
-    {
-      "title": "Mehrere Verletzte bei Campingplatz-Brand am Gardasee",
-      "link": "https://www.tagesschau.de/ausland/europa/gardasee-brand-campingplatz-102.html"
-    },
-    {
-      "title": "Rekord-Wiesn: 7,4 Millionen Besucher auf dem Oktoberfest",
-      "link": "https://www.tagesschau.de/inland/oktoberfest-bilanz-110.html"
-    },
-    {
-      "title": "Rhein will AfD Ausschussvorsitze ermöglichen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html"
-    },
-    {
-      "title": "Schneider fordert anderen Umgang mit Wasser",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/schneider-niedrigwasser-100.html"
-    },
-    {
-      "title": "Baskenland und Katalonien: Tote bei schweren Unwettern in Spanien",
-      "link": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html"
-    },
-    {
-      "title": "Holocaust-Überlebende Irene Butter in den USA verstorben",
-      "link": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html"
-    },
-    {
-      "title": "Influencer werden für ethische Jagd zum Problem",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/jagd-hobby-lifestyle-100.html"
-    },
-    {
-      "title": "Jemens Militär greift Huthi-Hochburgen an",
-      "link": "https://www.tagesschau.de/ausland/asien/angriffe-jemen-102.html"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Merz besucht Kiew - Russland greift Brücke an",
-      "link": "https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html"
-    },
-    {
-      "title": "Tory-Parteitag: Wie Kemi Badenoch die Tories retten will",
-      "link": "https://www.tagesschau.de/ausland/europa/tories-parteitag-badenoch-100.html"
     }
   ]
 }
