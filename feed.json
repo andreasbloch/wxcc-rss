@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Jüdische Kulturvermittlung: Ein Bus gegen den Hass",
+      "link": "https://www.tagesschau.de/kultur/antisemitismus-bus-juedisches-museum-berlin-100.html"
+    },
+    {
+      "title": "Sachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident",
+      "link": "https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html"
+    },
+    {
+      "title": "Schülerproteste in Frankreich erreichen neuen Höhepunkt",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html"
+    },
+    {
+      "title": "Nobelpreis für Physik geht an Neutrinoforscher Francis Halzen",
+      "link": "https://www.tagesschau.de/wissen/nobelpreis-physik-francis-halzen-100.html"
+    },
+    {
+      "title": "Separatistenführer Puigdemont kann nach Spanien zurückkehren",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-puigdemont-verfassungsgericht-100.html"
+    },
+    {
+      "title": "Tankstellen: Verstöße gegen die 12-Uhr-Regel werden weniger",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/zwoelf-uhr-tank-regel-100.html"
+    },
+    {
+      "title": "Rheinmetall erschließt sich das Weltall",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-rheinmetall-weltall-100.html"
+    },
+    {
+      "title": "Bundesweit erster AfD-Landtagspräsident in Sachsen-Anhalt gewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/landtagspraesident-sachsen-anhalt-102.html"
+    },
+    {
+      "title": "Livestream: Die Nachrichten auf tagesschau24",
+      "link": "https://www.tagesschau.de/multimedia/livestreams/livestream-ts24-104.html"
+    },
+    {
+      "title": "Drohnenangriffe im Schwarzen Meer: Frachter vor Bulgarien gesunken",
+      "link": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-drohnenangriff-100.html"
+    },
+    {
+      "title": "US-Bundesstaat Pennsylvania meldet mehr als 1.000 Masern-Fälle",
+      "link": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html"
+    },
+    {
+      "title": "Abwehrkampf der Ukraine: Massiver Drohnenangriff auf Moskau",
+      "link": "https://www.tagesschau.de/ausland/europa/drohnenangriff-moskau-104.html"
+    },
+    {
       "title": "Südböhmen in Tschechien: Trockenheit legt deutsche Gräber in Stausee frei",
       "link": "https://www.tagesschau.de/ausland/europa/tschechien-trockenheit-graeber-100.html"
     },
@@ -31,54 +79,6 @@
     {
       "title": "Reformdruck nicht nur auf Beitrittskandidaten - auch auf die EU",
       "link": "https://www.tagesschau.de/ausland/europa/eu-erweiterungsbericht-100.html"
-    },
-    {
-      "title": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html"
-    },
-    {
-      "title": "Debatte über Meinungsfreiheit: Warum viele ihre Meinung lieber für sich behalten",
-      "link": "https://www.tagesschau.de/ausland/amerika/free-speech-usa-100.html"
-    },
-    {
-      "title": "\"Hallo\" statt \"Privjet\": An Lettlands Schulen ist Russisch verboten",
-      "link": "https://www.tagesschau.de/ausland/europa/lettland-schulen-russisch-deutsch-100.html"
-    },
-    {
-      "title": "Warum ein Studium keine Jobgarantie mehr ist",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ausbildung-oder-studium-was-lohnt-sich-100.html"
-    },
-    {
-      "title": "Frankfurter Buchmesse von Existenzangst und KI-Sorgen überschattet",
-      "link": "https://www.tagesschau.de/kultur/frankfurter-buchmesse-2026-ausblick-100.html"
-    },
-    {
-      "title": "Wie starre Hierarchien in Kliniken Machtmissbrauch ermöglichen",
-      "link": "https://www.tagesschau.de/investigativ/ndr/medtoo-machtmissbrauch-krankenhaus-100.html"
-    },
-    {
-      "title": "Neuer Wehrdienst: Zahl der Kriegsdienstverweigerer stark angestiegen",
-      "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-124.html"
-    },
-    {
-      "title": "Konstituierende Sitzung in Sachsen-Anhalt: Die AfD und die ganz große Bühne",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-konstituierende-sitzung-100.html"
-    },
-    {
-      "title": "Türkei und Pakistan entsenden Truppen nach Saudi-Arabien",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-pakistan-saudi-arabien-102.html"
-    },
-    {
-      "title": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
-      "link": "https://www.tagesschau.de/wissen/forschung/tagesthemen-interview-hegemann-100.html"
-    },
-    {
-      "title": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
-      "link": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html"
-    },
-    {
-      "title": "Frankfurter Buchmesse: Shida Bazyar erhält Deutschen Buchpreis 2026",
-      "link": "https://www.tagesschau.de/inland/regional/hessen/hr-shida-bazyar-buchpreis-2026-100.html"
     }
   ]
 }
