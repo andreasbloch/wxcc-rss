@@ -1,6 +1,70 @@
 {
   "items": [
     {
+      "title": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html"
+    },
+    {
+      "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
+      "link": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html"
+    },
+    {
+      "title": "Berlin: Hunderte Menschen gedenken der Opfer des Hamas-Anschlags",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/hamas-anschlag-auf-israel-gedenken-in-berlin-100.html"
+    },
+    {
+      "title": "Neue Staatspräsidentin des Kosovos: Ein politischer Deal in letzter Minute",
+      "link": "https://www.tagesschau.de/ausland/europa/kosovo-staatspraesidentin-wahl-100.html"
+    },
+    {
+      "title": "20 Jahre Mord an Politkowskaja: \"In Russland gibt es keine Presse\"",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-nowaja-gaseta-politkowskaja-100.html"
+    },
+    {
+      "title": "Hamas-Überfall auf Israel: Der Strand, an dem der 7. Oktober begann",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-ueberfall-hamas-zikim-100.html"
+    },
+    {
+      "title": "3. Jahrestag des Hamas-Überfalls auf Israel: \"Der Schmerz sitzt tief\"",
+      "link": "https://www.tagesschau.de/ausland/asien/dritter-jahrestag-hamas-israel-gedenken-100.html"
+    },
+    {
+      "title": "Steinmeiers Abschiedsbesuch in Paris in stürmischen Zeiten",
+      "link": "https://www.tagesschau.de/inland/steinmeier-staatsbesuch-frankreich-100.html"
+    },
+    {
+      "title": "Themen im Koalitionsausschuss: Was Schwarz-Rot jetzt vor sich hat",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-106.html"
+    },
+    {
+      "title": "EU plant Beitritt in Stufen - und Ende der Einstimmigkeit",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-regeln-mitgliedschaft-100.html"
+    },
+    {
+      "title": "DAX fällt wieder zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html"
+    },
+    {
+      "title": "Mutmaßliches Mitglied russischer Qilin-Hacker festgenommen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/nordrhein-westfalen-russische-hackergruppe-festnahme-100.html"
+    },
+    {
+      "title": "Jahrestag des Hamas-Überfalls: Deutschlands schwieriger Balanceakt mit Israel",
+      "link": "https://www.tagesschau.de/inland/beziehungen-deutschland-israel-100.html"
+    },
+    {
+      "title": "Ukraine: Viele Tote bei russischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html"
+    },
+    {
+      "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html"
+    },
+    {
+      "title": "Lungenpest-Verdacht in Russland - WHO und USA fordern Aufklärung",
+      "link": "https://www.tagesschau.de/ausland/asien/todesfall-lungenpest-russland-100.html"
+    },
+    {
       "title": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",
       "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-kagan-soai-100.html"
     },
@@ -15,70 +79,6 @@
     {
       "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html"
-    },
-    {
-      "title": "Früherer BND-Präsident Hanning muss in Untersuchungshaft",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html"
-    },
-    {
-      "title": "Bundeskabinett bringt besseren Schutz vor digitaler Gewalt auf den Weg",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-digitalegewalt-gesetzgebung-100.html"
-    },
-    {
-      "title": "AfD-Erfolg in Sachsen-Anhalt: \"Schwerer Schlag\" für die Christdemokraten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-100.html"
-    },
-    {
-      "title": "Marktbericht: Porsche zieht die Reißleine",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/porsche-mittags-mb-100.html"
-    },
-    {
-      "title": "Sicherheitsstudie: Wenn die Drohne längst verschwunden ist",
-      "link": "https://www.tagesschau.de/inland/sicherheit-drohnen-100.html"
-    },
-    {
-      "title": "Chemie-Nobelpreis geht an Franzosen Kagan und Japaner Soai",
-      "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-fuer-kagan-und-soai-100.html"
-    },
-    {
-      "title": "Bund untersagt Zippel-Übernahme durch chinesische Cosco",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zippel-cosco-china-aussenhandel-100.html"
-    },
-    {
-      "title": "Themen im Koalitionsausschuss: Was Schwarz-Rot jetzt vor sich hat",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-106.html"
-    },
-    {
-      "title": "Wie sich ein in Israel untergetauchter Palästinenser durchschlägt",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-palaestinenser-108.html"
-    },
-    {
-      "title": "Ukraine: Viele Tote bei russischen Angriffen",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html"
-    },
-    {
-      "title": "Pflege-Reform: Regierung verschiebt Einsetzung einer Kommission",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-sozialpolitik-100.html"
-    },
-    {
-      "title": "Deutsche Unternehmen fahren Produktion überraschend deutlich hoch",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/produktion-industrie-bau-august-plus-100.html"
-    },
-    {
-      "title": "Konservative Meinungsmacht: US-Sender Fox News wird 30",
-      "link": "https://www.tagesschau.de/ausland/amerika/fox-news-usa-medien-100.html"
-    },
-    {
-      "title": "SPD-Bundesspitze fordert von der CDU Aufklärung zu Sachsen-Anhalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-reaktion-koalition-sachsenanhalt-100.html"
-    },
-    {
-      "title": "Israel gedenkt der Opfer des Hamas-Überfalls am 7. Oktober 2023",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-gedenken-hamas-ueberfall-102.html"
-    },
-    {
-      "title": "Verkehrsausschuss stimmt für Bahn-Neubaustrecke Hamburg-Hannover",
-      "link": "https://www.tagesschau.de/wirtschaft/bahn-neubaustrecke-100.html"
     }
   ]
 }
