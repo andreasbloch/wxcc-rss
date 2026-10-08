@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand",
+      "link": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html"
+    },
+    {
+      "title": "Italien: Melonis Machtpoker um das Wahlrecht",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-wahlrechtsreform-100.html"
+    },
+    {
+      "title": "Dritter Jahrestag des 7. Oktober: Ein emotionaler Gedenktag in Israel geht zu Ende",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-hamas-ueberfall-100.html"
+    },
+    {
+      "title": "Suche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres?",
+      "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html"
+    },
+    {
+      "title": "Sozialdemokraten: Mit dem \"Projekt 2045\" für den Klimaschutz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-klimapolitik-100.html"
+    },
+    {
+      "title": "Vier Stunden - dann ist der Koalitionsausschuss zu Ende",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-108.html"
+    },
+    {
       "title": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
       "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Ukraine: Viele Tote bei russischen Angriffen",
       "link": "https://www.tagesschau.de/ausland/europa/russland-greift-kiew-an-100.html"
-    },
-    {
-      "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html"
-    },
-    {
-      "title": "Lungenpest-Verdacht in Russland - WHO und USA fordern Aufklärung",
-      "link": "https://www.tagesschau.de/ausland/asien/todesfall-lungenpest-russland-100.html"
-    },
-    {
-      "title": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",
-      "link": "https://www.tagesschau.de/wissen/forschung/chemie-nobelpreis-kagan-soai-100.html"
-    },
-    {
-      "title": "Die Affäre Hanning: BND vor einem Scherbenhaufen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/fall-hanning-bnd-100.html"
-    },
-    {
-      "title": "Türkei: Izmir-Bürgermeister wechselt zu Erdoğans AKP",
-      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-izmir-buergermeister-akp-100.html"
-    },
-    {
-      "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html"
     }
   ]
 }
