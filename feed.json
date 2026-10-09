@@ -1,12 +1,64 @@
 {
   "items": [
     {
-      "title": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html"
+      "title": "Friedensnobelpreis geht an Navanethem \"Navi\" Pillay",
+      "link": "https://www.tagesschau.de/ausland/europa/eilmeldung-friedensnobelpreis-navi-pillay-100.html"
     },
     {
-      "title": "Berngau in der Oberpfalz: Zwei Toter nach Schüssen bei Waffenkontrolle",
+      "title": "Nobelpreisträgerin Machado: Weiter im Exil - mit wenig Einfluss",
+      "link": "https://www.tagesschau.de/ausland/amerika/machado-venezuela-100.html"
+    },
+    {
+      "title": "Führerschein könnte laut Verkehrsminister Bilger viel billiger werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/fuehrerschein-kosten-156.html"
+    },
+    {
+      "title": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html"
+    },
+    {
+      "title": "Finanzaufsicht verhängt 1,2-Millionen-Euro-Strafe gegen Volkswagen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-millionenstrafe-bafin-veroeffentlichungspflicht-100.html"
+    },
+    {
+      "title": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html"
+    },
+    {
+      "title": "Arbeiten für die ukrainische Bahn - in ständiger Gefahr",
+      "link": "https://www.tagesschau.de/ausland/ukraine-eisenbahn-100.html"
+    },
+    {
+      "title": "KI-Firmen müssen sich nach KI-Angriff in Australien erklären",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/ki-anhoerung-australien-100.html"
+    },
+    {
+      "title": "Warum Deutschland bei Betriebsrenten Nachholbedarf hat",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/betriebsrente-deutschland-100.html"
+    },
+    {
+      "title": "Mann durch Schüsse während ICE-Einsatz in New York verletzt",
+      "link": "https://www.tagesschau.de/ausland/amerika/newyork-ice-schuesse-100.html"
+    },
+    {
+      "title": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
+      "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html"
+    },
+    {
+      "title": "Startchancengesetz: Bildungschancen für Kinder sollen verbessert werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/startchancengesetz-im-bundestag-100.html"
+    },
+    {
+      "title": "Berngau in der Oberpfalz: Zwei Tote nach Schüssen bei Waffenkontrolle",
       "link": "https://www.tagesschau.de/inland/regional/bayern/schuesse-bei-waffenkontrolle-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Kämpfe in Äthiopien - Droht ein neuer Flächenbrand?",
+      "link": "https://www.tagesschau.de/podcast-11km-kaempfe-aethiopien-100.html"
+    },
+    {
+      "title": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html"
     },
     {
       "title": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
@@ -27,58 +79,6 @@
     {
       "title": "USA klagen venezolanischen Ex-Präsidenten Maduro wegen Folter an",
       "link": "https://www.tagesschau.de/ausland/amerika/maduro-wegen-folter-angeklagt-100.html"
-    },
-    {
-      "title": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html"
-    },
-    {
-      "title": "Down-Syndrom: Bundestag will Anwendung von Pränataltests prüfen",
-      "link": "https://www.tagesschau.de/inland/bundestag-schwangerschaft-diagnostik-100.html"
-    },
-    {
-      "title": "Mindestens 30 Tote bei russischen Angriffen auf Busse in der Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-bus-kramatorsk-100.html"
-    },
-    {
-      "title": "Sondierungsgespräche in Berlin: Praxis-Test für die rot-grün-rote Theorie",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungsgespraeche-rot-gruen-rot-berlin-100.html"
-    },
-    {
-      "title": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
-      "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html"
-    },
-    {
-      "title": "Steinmeier auf Abschiedsbesuch bei Macron: \"Hand in Hand\" durch die Stürme",
-      "link": "https://www.tagesschau.de/ausland/europa/steinmeier-paris-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX fällt unter 25.000 Punkte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-oel-100.html"
-    },
-    {
-      "title": "Anne Carson: Die Punk-Philosophin unter den Nobelpreisträgern",
-      "link": "https://www.tagesschau.de/kultur/literaturnobelpreis-2026-anne-carson-100.html"
-    },
-    {
-      "title": "Nach Wahl in Berlin: Linke, Grüne und SPD vor Einigung auf Sondierungsgespräche",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-gruene--spd-sondierungen-100.html"
-    },
-    {
-      "title": "Kommentar: Eine Reform zum Vorteil Melonis",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-wahlgesetz-100.html"
-    },
-    {
-      "title": "Huthi greifen erneut Ziele in Saudi-Arabien an - auch Gegenangriffe gemeldet",
-      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-huthi-angriffe-100.html"
-    },
-    {
-      "title": "Großbritannien: Burnham bietet Deutschland Kampfjet-Kooperation an",
-      "link": "https://www.tagesschau.de/ausland/europa/burnham-besuch-berlin-kooperation-100.html"
-    },
-    {
-      "title": "Gericht: Fernverkehrsbeschluss der Netzagentur ist rechtswidrig",
-      "link": "https://www.tagesschau.de/wirtschaft/deutsche-bahn-netzagentur-klage-trassen-100.html"
     }
   ]
 }
