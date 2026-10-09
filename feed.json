@@ -1,8 +1,32 @@
 {
   "items": [
     {
-      "title": "Berngau in der Oberpfalz: Ein Toter nach Schüssen bei Waffenkontrolle",
+      "title": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html"
+    },
+    {
+      "title": "Berngau in der Oberpfalz: Zwei Toter nach Schüssen bei Waffenkontrolle",
       "link": "https://www.tagesschau.de/inland/regional/bayern/schuesse-bei-waffenkontrolle-100.html"
+    },
+    {
+      "title": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
+      "link": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html"
+    },
+    {
+      "title": "Geringe Chancen: Donald Trump will den Friedensnobelpreis",
+      "link": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html"
+    },
+    {
+      "title": "Verkündung in Oslo: Wer macht das Rennen um den Friedensnobelpreis?",
+      "link": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html"
+    },
+    {
+      "title": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html"
+    },
+    {
+      "title": "USA klagen venezolanischen Ex-Präsidenten Maduro wegen Folter an",
+      "link": "https://www.tagesschau.de/ausland/amerika/maduro-wegen-folter-angeklagt-100.html"
     },
     {
       "title": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
@@ -55,30 +79,6 @@
     {
       "title": "Gericht: Fernverkehrsbeschluss der Netzagentur ist rechtswidrig",
       "link": "https://www.tagesschau.de/wirtschaft/deutsche-bahn-netzagentur-klage-trassen-100.html"
-    },
-    {
-      "title": "Eritreische Truppen rücken offenbar in Äthiopien ein",
-      "link": "https://www.tagesschau.de/ausland/afrika/eritrea-aethiopien-tigray-100.html"
-    },
-    {
-      "title": "Berlin-Wahl: Linke, Grüne und SPD kündigen Sondierungsgespräche an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsgespraeche-100.html"
-    },
-    {
-      "title": "Reform der Kinder- und Jugendhilfe: Diskussion über Schulassistenzen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/jugend-kinder-hilfe-reform-100.html"
-    },
-    {
-      "title": "Italiens Parlament billigt umstrittene Wahlrechtsreform von Meloni",
-      "link": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html"
-    },
-    {
-      "title": "Nach bestätigtem Todesfall: Auch in Kenia wächst die Sorge vor Ebola",
-      "link": "https://www.tagesschau.de/ausland/afrika/ebola-kenia-100.html"
-    },
-    {
-      "title": "Hohe Erwartungen an Besuch von EU-Handelskommissar Sefcovic in Peking",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-china-sefcovic-100.html"
     }
   ]
 }
