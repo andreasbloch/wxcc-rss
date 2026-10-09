@@ -1,8 +1,56 @@
 {
   "items": [
     {
+      "title": "Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht",
+      "link": "https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html"
+    },
+    {
+      "title": "Altkanzler Schröder bei Putins Geburtstag: Kopfschütteln, Wut, Empörung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/russland-altkanzler-schroeder-putin-geburtstag-kritik-100.html"
+    },
+    {
+      "title": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html"
+    },
+    {
+      "title": "Ist die Deutsche Bahn unter Konzernchefin Palla auf dem richtigen Weg?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-palla-bilanz-100.html"
+    },
+    {
+      "title": "Bayerns Innenminister gibt Details über Schützen in Berngau bekannt",
+      "link": "https://www.tagesschau.de/inland/berngau-schuesse-100.html"
+    },
+    {
+      "title": "Große Empörung über Putin-Besuch von Altkanzler Schröder",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html"
+    },
+    {
       "title": "Friedensnobelpreis geht an Navanethem \"Navi\" Pillay",
-      "link": "https://www.tagesschau.de/ausland/europa/eilmeldung-friedensnobelpreis-navi-pillay-100.html"
+      "link": "https://www.tagesschau.de/ausland/europa/friedensnobelpreis-navi-pillay-100.html"
+    },
+    {
+      "title": "Bahn will bis 2031 weniger wichtige Strecken sanieren bisher geplant",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-saniert-weniger-wichtige-strecken-100.html"
+    },
+    {
+      "title": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
+      "link": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html"
+    },
+    {
+      "title": "Marktbericht: Elon Musk kauft US-Mobilfunklizenzen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/telekom-starlink-mittags-mb-100.html"
+    },
+    {
+      "title": "So fordert die Verleihung des Literaturnobelpreises die Buchbranche",
+      "link": "https://www.tagesschau.de/kultur/literatur-nobelpreis-effekt-100.html"
+    },
+    {
+      "title": "Umsätze von Shein, Temu und AliExpress brechen in Deutschland ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umsatzeinbruch-shein-temu-zoll-100.html"
+    },
+    {
+      "title": "Baupreise steigen besonders stark",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bauen-teuer-baukosten-bauzinsen-100.html"
     },
     {
       "title": "Nobelpreisträgerin Machado: Weiter im Exil - mit wenig Einfluss",
@@ -31,54 +79,6 @@
     {
       "title": "KI-Firmen müssen sich nach KI-Angriff in Australien erklären",
       "link": "https://www.tagesschau.de/ausland/ozeanien/ki-anhoerung-australien-100.html"
-    },
-    {
-      "title": "Warum Deutschland bei Betriebsrenten Nachholbedarf hat",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/betriebsrente-deutschland-100.html"
-    },
-    {
-      "title": "Mann durch Schüsse während ICE-Einsatz in New York verletzt",
-      "link": "https://www.tagesschau.de/ausland/amerika/newyork-ice-schuesse-100.html"
-    },
-    {
-      "title": "Nach gescheiterter Hinrichtung: Wie geht es weiter im Fall Pike?",
-      "link": "https://www.tagesschau.de/ausland/amerika/christa-pike-gescheiterte-hinrichtung-folgen-100.html"
-    },
-    {
-      "title": "Startchancengesetz: Bildungschancen für Kinder sollen verbessert werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/startchancengesetz-im-bundestag-100.html"
-    },
-    {
-      "title": "Berngau in der Oberpfalz: Zwei Tote nach Schüssen bei Waffenkontrolle",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/schuesse-bei-waffenkontrolle-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Kämpfe in Äthiopien - Droht ein neuer Flächenbrand?",
-      "link": "https://www.tagesschau.de/podcast-11km-kaempfe-aethiopien-100.html"
-    },
-    {
-      "title": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html"
-    },
-    {
-      "title": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
-      "link": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html"
-    },
-    {
-      "title": "Geringe Chancen: Donald Trump will den Friedensnobelpreis",
-      "link": "https://www.tagesschau.de/ausland/trump-friedensnobelpreis-100.html"
-    },
-    {
-      "title": "Verkündung in Oslo: Wer macht das Rennen um den Friedensnobelpreis?",
-      "link": "https://www.tagesschau.de/wissen/friedensnobelpreis-2026-vergabe-100.html"
-    },
-    {
-      "title": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html"
-    },
-    {
-      "title": "USA klagen venezolanischen Ex-Präsidenten Maduro wegen Folter an",
-      "link": "https://www.tagesschau.de/ausland/amerika/maduro-wegen-folter-angeklagt-100.html"
     }
   ]
 }
