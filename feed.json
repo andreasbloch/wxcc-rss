@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html"
+    },
+    {
+      "title": "Huthi-Miliz greift offenbar Flughafen in Riad an",
+      "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html"
+    },
+    {
+      "title": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html"
+    },
+    {
+      "title": "Serie von Messerattacken an Schulen in Polen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html"
+    },
+    {
+      "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html"
+    },
+    {
       "title": "CDU diskutiert über Umgang mit der AfD",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html"
     },
@@ -19,10 +39,6 @@
     {
       "title": "Grippe- und Erkältungssaison 2026/27: Was Deutschland erwartet",
       "link": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html"
-    },
-    {
-      "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html"
     },
     {
       "title": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
@@ -63,22 +79,6 @@
     {
       "title": "Aufwachsen ohne Eltern: Wie Ehrenamtliche eine Lücke schließen",
       "link": "https://www.tagesschau.de/inland/mittendrin/ehrenamt-wegbegleitung-kinder-100.html"
-    },
-    {
-      "title": "Anthropic-KI stellt Visaanträge bei US-Außenministerium",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html"
-    },
-    {
-      "title": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html"
-    },
-    {
-      "title": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html"
-    },
-    {
-      "title": "Trump kündigt russische Diesellieferungen an",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html"
     }
   ]
 }
