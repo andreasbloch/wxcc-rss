@@ -1,7 +1,43 @@
 {
   "items": [
     {
-      "title": "Trump kündigt russische Diesel-Lieferungen an",
+      "title": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html"
+    },
+    {
+      "title": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
+      "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html"
+    },
+    {
+      "title": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html"
+    },
+    {
+      "title": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html"
+    },
+    {
+      "title": "Immobilienmarkt: Steigende Preise trotz sinkender Nachfrage",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hauskauf-wohnungskauf-kaufkraft-100.html"
+    },
+    {
+      "title": "Aufwachsen ohne Eltern: Wie Ehrenamtliche eine Lücke schließen",
+      "link": "https://www.tagesschau.de/inland/mittendrin/ehrenamt-wegbegleitung-kinder-100.html"
+    },
+    {
+      "title": "Anthropic-KI stellt Visaanträge bei US-Außenministerium",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html"
+    },
+    {
+      "title": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html"
+    },
+    {
+      "title": "Auch Republikaner über geplante Live-Hinrichtung entsetzt",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-todesstrafe-106.html"
+    },
+    {
+      "title": "Trump kündigt russische Diesellieferungen an",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html"
     },
     {
@@ -43,42 +79,6 @@
     {
       "title": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html"
-    },
-    {
-      "title": "Altkanzler Schröder bei Putins Geburtstag: Kopfschütteln, Wut, Empörung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/russland-altkanzler-schroeder-putin-geburtstag-kritik-100.html"
-    },
-    {
-      "title": "Ist die Deutsche Bahn unter Konzernchefin Palla auf dem richtigen Weg?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-palla-bilanz-100.html"
-    },
-    {
-      "title": "Bayerns Innenminister gibt Details über Schützen in Berngau bekannt",
-      "link": "https://www.tagesschau.de/inland/berngau-schuesse-100.html"
-    },
-    {
-      "title": "Große Empörung über Putin-Besuch von Altkanzler Schröder",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html"
-    },
-    {
-      "title": "Friedensnobelpreis geht an Navanethem \"Navi\" Pillay",
-      "link": "https://www.tagesschau.de/ausland/europa/friedensnobelpreis-navi-pillay-100.html"
-    },
-    {
-      "title": "Bahn will bis 2031 weniger wichtige Strecken sanieren bisher geplant",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-saniert-weniger-wichtige-strecken-100.html"
-    },
-    {
-      "title": "USA wollen Hinrichtung von Attentäter per Livestream übertragen",
-      "link": "https://www.tagesschau.de/ausland/amerika/pentagon-hinrichtung-livestream-100.html"
-    },
-    {
-      "title": "Marktbericht: Elon Musk kauft US-Mobilfunklizenzen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/telekom-starlink-mittags-mb-100.html"
-    },
-    {
-      "title": "So fordert die Verleihung des Literaturnobelpreises die Buchbranche",
-      "link": "https://www.tagesschau.de/kultur/literatur-nobelpreis-effekt-100.html"
     }
   ]
 }
