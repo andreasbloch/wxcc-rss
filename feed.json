@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Trump kündigt russische Diesel-Lieferungen an",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html"
+    },
+    {
+      "title": "Schweres Erdbeben erschüttert Panama",
+      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html"
+    },
+    {
+      "title": "China sagt EU weniger Exporte von Hybridautos zu",
+      "link": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html"
+    },
+    {
       "title": "Nobelpreisträgerin Pillay in den tagesthemen: \"Die Nürnberger Prozesse haben mich inspiriert\"",
       "link": "https://www.tagesschau.de/ausland/afrika/tagesthemen-interview-friedensnobelpreis-pillay-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "So fordert die Verleihung des Literaturnobelpreises die Buchbranche",
       "link": "https://www.tagesschau.de/kultur/literatur-nobelpreis-effekt-100.html"
-    },
-    {
-      "title": "Umsätze von Shein, Temu und AliExpress brechen in Deutschland ein",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/umsatzeinbruch-shein-temu-zoll-100.html"
-    },
-    {
-      "title": "Baupreise steigen besonders stark",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bauen-teuer-baukosten-bauzinsen-100.html"
-    },
-    {
-      "title": "Nobelpreisträgerin Machado: Weiter im Exil - mit wenig Einfluss",
-      "link": "https://www.tagesschau.de/ausland/amerika/machado-venezuela-100.html"
     }
   ]
 }
