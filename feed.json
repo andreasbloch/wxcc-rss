@@ -1,16 +1,40 @@
 {
   "items": [
     {
+      "title": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
+      "link": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html"
+    },
+    {
+      "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+      "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html"
+    },
+    {
+      "title": "Schutzstatus in Deutschland: Asylklagen dauern wieder länger",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html"
+    },
+    {
+      "title": "Bürgermeisterwahl: Entscheidung in Krakau - Stimmungstest für Polen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-buergermeister-wahlen-100.html"
+    },
+    {
+      "title": "Gespräche in Athen: Rubio umwirbt die Gas-Drehscheibe Griechenland",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-usa-gas-100.html"
+    },
+    {
+      "title": "Seehofer sieht \"Glaubwürdigkeitsverlust\" bei Merz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html"
+    },
+    {
+      "title": "Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck",
+      "link": "https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html"
+    },
+    {
       "title": "Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html"
     },
     {
       "title": "Berliner Sondierungen sorgen für Ärger in der Koalition",
       "link": "https://www.tagesschau.de/inland/innenpolitik/weimer-kluessendorf-berlin-100.html"
-    },
-    {
-      "title": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
-      "link": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html"
     },
     {
       "title": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
@@ -55,30 +79,6 @@
     {
       "title": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-einhorn-deutschland-100.html"
-    },
-    {
-      "title": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html"
-    },
-    {
-      "title": "\"Ragebait\" ist Jugendwort des Jahres 2026",
-      "link": "https://www.tagesschau.de/kultur/jugendwort-des-jahres-ragebait-102.html"
-    },
-    {
-      "title": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
-      "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html"
-    },
-    {
-      "title": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html"
-    },
-    {
-      "title": "Schweres Erdbeben erschüttert Panama",
-      "link": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html"
-    },
-    {
-      "title": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html"
     }
   ]
 }
