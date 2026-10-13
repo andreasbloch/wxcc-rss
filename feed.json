@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "1,3 Prozent: IWF hebt Prognose für deutsche Wirtschaft deutlich an",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html"
+    },
+    {
+      "title": "Schauspieler und \"Breaking Bad\"-Star RJ Mitte mit 34 Jahren gestorben",
+      "link": "https://www.tagesschau.de/kultur/rj-mitte-breaking-bad-tod-100.html"
+    },
+    {
+      "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html"
+    },
+    {
+      "title": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html"
+    },
+    {
       "title": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
       "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriff-100.html"
     },
@@ -9,7 +25,7 @@
       "link": "https://www.tagesschau.de/ausland/polen-starlink-brand-festnahmen-100.html"
     },
     {
-      "title": "Papst geht Dienstag für Lungenoperation ins Krankenhaus",
+      "title": "Papst für Lungenoperation im Krankenhaus",
       "link": "https://www.tagesschau.de/ausland/papst-leo-op-lunge-100.html"
     },
     {
@@ -63,22 +79,6 @@
     {
       "title": "Reformagenda: Was Schweitzer als Arbeitsminister erwartet",
       "link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-arbeitsminister-reformen-rente-100.html"
-    },
-    {
-      "title": "Nach Rücktritt von Bas: Schweitzer soll neuer Arbeitsminister werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/alexander-schweitzer-arbeitsminister-100.html"
-    },
-    {
-      "title": "Klingbeil will SPD-Führung neu wählen lassen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-parteifuehrung-100.html"
-    },
-    {
-      "title": "Brexit: Premier Burnham wirft Russland Einmischung vor",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-brexit-burnham-wirft-russland-einmischung-vor-100.html"
-    },
-    {
-      "title": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-china-hybridautos-102.html"
     }
   ]
 }
