@@ -1,16 +1,68 @@
 {
   "items": [
     {
+      "title": "Papst Leo XIV. hat Lungenkrebs",
+      "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html"
+    },
+    {
+      "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html"
+    },
+    {
+      "title": "40 Jahre Gefängnis für Angeklagten in Tupac-Prozess",
+      "link": "https://www.tagesschau.de/ausland/angeklagter-tupac-40-jahre-haft-100.html"
+    },
+    {
+      "title": "Cyberattacken auf Hunderte französische Supermärkte",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html"
+    },
+    {
+      "title": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
+      "link": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html"
+    },
+    {
+      "title": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
+      "link": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html"
+    },
+    {
+      "title": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html"
+    },
+    {
+      "title": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-sondierungen-unterbrochen-102.html"
+    },
+    {
+      "title": "Schwarzes Meer: Bulgarien nennt Drohnenangriffe \"absolut inakzeptabel\"",
+      "link": "https://www.tagesschau.de/ausland/schwarzes-meer-schiffe-drohnen-100.html"
+    },
+    {
+      "title": "Immer mehr Suizide in Deutschland - Experten fordern Prävention",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/suizide-deutschland-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX driftet ins Minus",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html"
+    },
+    {
+      "title": "Nach Rücktritt von Bas: SPD sucht neue Vorsitzende",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-debatte-vorsitz-100.html"
+    },
+    {
+      "title": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
+      "link": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html"
+    },
+    {
+      "title": "Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker",
+      "link": "https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html"
+    },
+    {
       "title": "Ungarn streicht Anti-LGBTQ-Regeln aus Orbans Kinderschutzgesetz",
       "link": "https://www.tagesschau.de/ausland/europa/ungarn-kippt-umstrittenes-anti-lgbtq-gesetz-100.html"
     },
     {
       "title": "Alexander Schweitzer: Vom Wahlverlierer zum Bundesminister",
       "link": "https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html"
-    },
-    {
-      "title": "Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker",
-      "link": "https://www.tagesschau.de/ausland/frankreich-schueler-studenten-proteste-100.html"
     },
     {
       "title": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
@@ -27,58 +79,6 @@
     {
       "title": "Kann es die Berichtssaison richten?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-berichtssaison-q3-100.html"
-    },
-    {
-      "title": "Bei diesen drei Themen stockt die Rentenreform",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-empfehlungen-knackpunkte-100.html"
-    },
-    {
-      "title": "Missbrauchsbeauftragte Claus: \"Risiken im digitalen Raum explodieren\"",
-      "link": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html"
-    },
-    {
-      "title": "Papst Leo XIV. für Lungenoperation im Krankenhaus eingetroffen",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-operation-100.html"
-    },
-    {
-      "title": "Entwarnung am Flughafen Nürnberg nach vermeintlicher Flugzeugentführung",
-      "link": "https://www.tagesschau.de/inland/sperrung-flughafen-nuernberg-100.html"
-    },
-    {
-      "title": "Bahn-Fahrplan: Neue ICE-Sprinter, aber weiter viele Baustellen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-fahrplan-zugverkehr-100.html"
-    },
-    {
-      "title": "Türkische Regierung erhöht Druck auf Medien im Internet",
-      "link": "https://www.tagesschau.de/ausland/asien/internetsperren-tuerkei-100.html"
-    },
-    {
-      "title": "CDU fordert Tempo vom neuen Arbeitsminister Schweitzer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-tempo-reformen-koalition-100.html"
-    },
-    {
-      "title": "Weinlese: Winzer rechnen mit kleinster Ernte seit 2010",
-      "link": "https://www.tagesschau.de/wirtschaft/weinlese-2026-deutschland-100.html"
-    },
-    {
-      "title": "Marktbericht: Anleger bleiben zuversichtlich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html"
-    },
-    {
-      "title": "Spaniens König in Ceuta: Spuren beseitigt, Problem weggeschoben",
-      "link": "https://www.tagesschau.de/ausland/afrika/spanien-marokko-besuch-felipe-ceuta-100.html"
-    },
-    {
-      "title": "Schwarzes Meer: Erneut Frachter vor bulgarischer Küste gesunken",
-      "link": "https://www.tagesschau.de/ausland/europa/drohnenangriff-frachter-schwarzes-meer-100.html"
-    },
-    {
-      "title": "Wechseljahre verändern Körper laut neuer Studie früher als gedacht",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/menopause-koerper-veraenderungen-100.html"
-    },
-    {
-      "title": "\"Breaking Bad\"-Schauspieler RJ Mitte mit 34 Jahren gestorben",
-      "link": "https://www.tagesschau.de/kultur/rj-mitte-breaking-bad-tod-100.html"
     }
   ]
 }
