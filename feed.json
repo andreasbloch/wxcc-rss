@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Rüstungsindustrie: Engere deutsch-türkische Zusammenarbeit?",
+      "link": "https://www.tagesschau.de/ausland/asien/deutsch-tuerkische-wirtschaftskonferenz-100.html"
+    },
+    {
+      "title": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html"
+    },
+    {
+      "title": "Finnland: KI-Boom auf Kosten der Natur?",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html"
+    },
+    {
       "title": "Papst Leo XIV. hat Lungenkrebs",
       "link": "https://www.tagesschau.de/ausland/papst-erfolgreich-operiert-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html"
-    },
-    {
-      "title": "Königspaar zu Besuch - Spanien will Unterstützung für Ceuta zeigen",
-      "link": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-koenigspaar-100.html"
-    },
-    {
-      "title": "Mutmaßlicher Sabotageakt in Polen: Wadephul fordert engere Zusammenarbeit",
-      "link": "https://www.tagesschau.de/inland/wadephul-polen-starlink-brand-100.html"
-    },
-    {
-      "title": "Kann es die Berichtssaison richten?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-berichtssaison-q3-100.html"
     }
   ]
 }
