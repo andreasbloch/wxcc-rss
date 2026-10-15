@@ -1,16 +1,64 @@
 {
   "items": [
     {
+      "title": "Spyware-Methode aufgedeckt: Spionagesoftware per Onlinewerbung",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/spionage-software-werbung-100.html"
+    },
+    {
+      "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html"
+    },
+    {
+      "title": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
+      "link": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html"
+    },
+    {
       "title": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
       "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html"
     },
     {
-      "title": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html"
+      "title": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html"
+    },
+    {
+      "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html"
+    },
+    {
+      "title": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-fico-russland-102.html"
+    },
+    {
+      "title": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-288.html"
     },
     {
       "title": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html"
+    },
+    {
+      "title": "11KM-Podcast: EU-Comeback für Großbritannien?",
+      "link": "https://www.tagesschau.de/ausland/europa/podcast-11km-burnham-eu-comeback-100.html"
+    },
+    {
+      "title": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html"
+    },
+    {
+      "title": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html"
+    },
+    {
+      "title": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
+      "link": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html"
+    },
+    {
+      "title": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html"
     },
     {
       "title": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen",
@@ -31,54 +79,6 @@
     {
       "title": "Kanzler setzt auf gute Regierungsarbeit gegen Extremismus",
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html"
-    },
-    {
-      "title": "Was über die Krebs-Erkrankung von Papst Leo XIV. bekannt ist",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-xiv-krebserkrankung-100.html"
-    },
-    {
-      "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html"
-    },
-    {
-      "title": "Nepal: Erneut schwere Überschwemmungen nach Unwettern",
-      "link": "https://www.tagesschau.de/ausland/asien/nepal-neue-flut-waehrend-des-wiederaufbaus-100.html"
-    },
-    {
-      "title": "Haushaltsdebatte in Frankreich: Die politische Quadratur des Kreises",
-      "link": "https://www.tagesschau.de/ausland/europa/haushalt-frankreich-102.html"
-    },
-    {
-      "title": "Studentenproteste in albanischer Hauptstadt Tirana eskalieren",
-      "link": "https://www.tagesschau.de/ausland/europa/unruhen-albanien-102.html"
-    },
-    {
-      "title": "Marktbericht: Europa wertvollster Konzern ASML macht KI-Boom möglich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html"
-    },
-    {
-      "title": "Trotz Warnungen: EU-Fördertopf für freiwillige Ausreisen ist leer",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/foerdertopf-ausreisen-abgelehnte-asylbewerber-100.html"
-    },
-    {
-      "title": "Pflegekommission eingesetzt: Was Experten jetzt klären sollen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html"
-    },
-    {
-      "title": "Portugal erlaubt Einstieg der Lufthansa bei staatlicher Airline TAP",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-tap-lufthansa-100.html"
-    },
-    {
-      "title": "Mehr Jugendschutz: Kabinett beschließt Eckpunkte für Social-Media-Beschränkungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/kabinett-beschluss-jugendschutz-social-media-100.html"
-    },
-    {
-      "title": "100 Jahre Pu der Bär: Ein bisschen Honig und ganz viel Freundschaft",
-      "link": "https://www.tagesschau.de/kultur/winnie-pu-100-jahre-100.html"
-    },
-    {
-      "title": "Nord Stream: Ein legitimes militärisches Ziel für die Ukraine?",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-nord-stream-100.html"
     }
   ]
 }
