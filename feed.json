@@ -1,8 +1,40 @@
 {
   "items": [
     {
+      "title": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
+      "link": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html"
+    },
+    {
+      "title": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
+      "link": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html"
+    },
+    {
+      "title": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html"
+    },
+    {
+      "title": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
+      "link": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html"
+    },
+    {
+      "title": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html"
+    },
+    {
+      "title": "Warum sich die Ukraine ohne die Aufklärungsdaten der USA kaum verteidigen kann",
+      "link": "https://www.tagesschau.de/ukraine-usa-starlink-geheimdienste-100.html"
+    },
+    {
+      "title": "Psychotherapie-Reform: Bundestag beschließt Korrekturen",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/psychotherapie-reform-korrekturen-100.html"
+    },
+    {
       "title": "Reiche muss Instagram-Video mit Vorwurf gegen Linke löschen",
       "link": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html"
     },
     {
       "title": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
@@ -11,10 +43,6 @@
     {
       "title": "Das sind die Pläne für den Ausweis auf dem Smartphone",
       "link": "https://www.tagesschau.de/inland/innenpolitik/digitaler-personalausweis-100.html"
-    },
-    {
-      "title": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html"
     },
     {
       "title": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
@@ -49,36 +77,8 @@
       "link": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html"
     },
     {
-      "title": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html"
-    },
-    {
       "title": "Flughafen Frankfurt: Lufthansa bereitet sich auf Kerosin-Mangel vor",
       "link": "https://www.tagesschau.de/inland/regional/hessen/frankfurt-lufthansa-kerosin-versorgung-100.html"
-    },
-    {
-      "title": "Bundeswehr: Pistorius will Reservedienst verpflichtend machen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html"
-    },
-    {
-      "title": "Schwere Schäden nach Unwetter auf Rhodos",
-      "link": "https://www.tagesschau.de/ausland/europa/rhodos-unwetter-100.html"
-    },
-    {
-      "title": "Viele Tote bei Einsturz von Schuldach in Pakistan",
-      "link": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html"
-    },
-    {
-      "title": "Spyware-Methode aufgedeckt: Spionagesoftware per Onlinewerbung",
-      "link": "https://www.tagesschau.de/investigativ/br-recherche/spionage-software-werbung-100.html"
-    },
-    {
-      "title": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html"
-    },
-    {
-      "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html"
     }
   ]
 }
