@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html"
+    },
+    {
+      "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html"
+    },
+    {
+      "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
+      "link": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html"
+    },
+    {
       "title": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
       "link": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html"
     },
@@ -23,14 +35,6 @@
     {
       "title": "Rechtsruck - auch bei Israels linken Parteien?",
       "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html"
-    },
-    {
-      "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html"
-    },
-    {
-      "title": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html"
     },
     {
       "title": "Unbekannte feuern auf Wohnhaus und Restaurant in Köln",
@@ -75,10 +79,6 @@
     {
       "title": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
       "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html"
-    },
-    {
-      "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gkv-arzttermine-100.html"
     }
   ]
 }
