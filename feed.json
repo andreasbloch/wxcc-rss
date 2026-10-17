@@ -1,32 +1,48 @@
 {
   "items": [
     {
-      "title": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html"
+      "title": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html"
+    },
+    {
+      "title": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html"
+    },
+    {
+      "title": "Schwere Ausschreitungen bei Massenprotesten in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html"
+    },
+    {
+      "title": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html"
+    },
+    {
+      "title": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html"
+    },
+    {
+      "title": "Rechtsruck - auch bei Israels linken Parteien?",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html"
     },
     {
       "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
       "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html"
     },
     {
-      "title": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html"
-    },
-    {
-      "title": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html"
-    },
-    {
-      "title": "Papst Leo XIV. hat das Krankenhaus nach Lungen-OP verlassen",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html"
-    },
-    {
-      "title": "Zusammenstöße zwischen Polizei und Demonstranten bei Protesten in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-212.html"
+      "title": "Sondierungen in Berlin: Linke, Grüne und SPD erzielen offenbar Einigung",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/sondierungen-berlin-112.html"
     },
     {
       "title": "Unbekannte feuern auf Wohnhaus und Restaurant in Köln",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-koeln-102.html"
+    },
+    {
+      "title": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html"
+    },
+    {
+      "title": "Papst Leo XIV. hat das Krankenhaus nach Lungen-OP verlassen",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html"
     },
     {
       "title": "Leben ohne Krankenversicherung - immer mehr Menschen sind betroffen",
@@ -62,23 +78,7 @@
     },
     {
       "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html"
-    },
-    {
-      "title": "Wie sich Bundespolitiker auf Social Media schlagen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html"
-    },
-    {
-      "title": "\"Rente mit 63\": Arbeitsminister Schweitzer fordert Kompromiss",
-      "link": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html"
-    },
-    {
-      "title": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html"
-    },
-    {
-      "title": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
-      "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html"
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gkv-arzttermine-100.html"
     }
   ]
 }
