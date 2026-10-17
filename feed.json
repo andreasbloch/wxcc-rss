@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Tanker im Persischen Golf attackiert",
+      "link": "https://www.tagesschau.de/ausland/asien/persischer-golf-tanker-angriffe-100.html"
+    },
+    {
+      "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html"
+    },
+    {
+      "title": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html"
+    },
+    {
+      "title": "Nach Lungen-OP: Papst kann Klinik verlassen",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-op-100.html"
+    },
+    {
+      "title": "Steigende Preise für Benzin, Heizöl, Gas - wie teuer wird der Winter?",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energie-heizen-winter-100.html"
+    },
+    {
+      "title": "Nach dem Ende des \"Tankrabatts\": Bilger hält weitere Entlastungen für möglich",
+      "link": "https://www.tagesschau.de/inland/bilger-tankrabatt-100.html"
+    },
+    {
+      "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
+      "link": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html"
+    },
+    {
+      "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html"
+    },
+    {
       "title": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
       "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html"
     },
@@ -47,38 +79,6 @@
     {
       "title": "Berlin: Linken-Vorstand distanziert sich von Abgeordneter Emde",
       "link": "https://www.tagesschau.de/inland/regional/berlin/beratungen-vorstand-linksfraktion-berlin-100.html"
-    },
-    {
-      "title": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html"
-    },
-    {
-      "title": "Papst bittet Putin um Waffenruhe in Oleschky",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html"
-    },
-    {
-      "title": "Angriff auf NS-Dokumentationszentrum in Köln",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/angriff-auf-ns-dokumentationszentrum-in-koeln-100.html"
-    },
-    {
-      "title": "EU-Regeln: Berlin und Paris wollen Verbrenner-Aus aufweichen",
-      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html"
-    },
-    {
-      "title": "Eurowings streicht Flüge und prüft Kurzarbeit",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html"
-    },
-    {
-      "title": "Starlink-Anschlag: Hat Russland die türkische Mafia beauftragt?",
-      "link": "https://www.tagesschau.de/investigativ/starlink-polen-tuerkei-mafia-100.html"
-    },
-    {
-      "title": "Wirtschaftsministerin Reiche für Direktzahlungen nach \"Tankrabatt\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/katherina-reiche-tankrabatt-entlastungen-100.html"
     }
   ]
 }
