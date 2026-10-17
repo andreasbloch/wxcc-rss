@@ -1,16 +1,52 @@
 {
   "items": [
     {
+      "title": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
+      "link": "https://www.tagesschau.de/ausland/asien/gaza-tote-bergungen-100.html"
+    },
+    {
+      "title": "Winkel als Vorsitzender der Jungen Union wiedergewählt",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-vorsitzender-100.html"
+    },
+    {
+      "title": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
+      "link": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html"
+    },
+    {
+      "title": "Online Challenges: Bundesrat fordert mehr Schutz von Minderjährigen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/soziale-medien-challenges-100.html"
+    },
+    {
+      "title": "Berlin: Linken-Vorstand distanziert sich von Abgeordneter Emde",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/beratungen-vorstand-linksfraktion-berlin-100.html"
+    },
+    {
+      "title": "Selenskyj beim EU-Gipfel: Unterstützung für die Ukraine ohne USA?",
+      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-eu-gipfel-102.html"
+    },
+    {
+      "title": "Papst bittet Putin um Waffenruhe in Oleschky",
+      "link": "https://www.tagesschau.de/ausland/europa/papst-telefonat-putin-100.html"
+    },
+    {
+      "title": "Angriff auf NS-Dokumentationszentrum in Köln",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/angriff-auf-ns-dokumentationszentrum-in-koeln-100.html"
+    },
+    {
+      "title": "EU-Regeln: Berlin und Paris wollen Verbrenner-Aus aufweichen",
+      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-paris-berlin-100.html"
+    },
+    {
+      "title": "Eurowings streicht Flüge und prüft Kurzarbeit",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html"
+    },
+    {
       "title": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html"
     },
     {
       "title": "Starlink-Anschlag: Hat Russland die türkische Mafia beauftragt?",
       "link": "https://www.tagesschau.de/investigativ/starlink-polen-tuerkei-mafia-100.html"
-    },
-    {
-      "title": "Berlin: Linken-Vorstand distanziert sich von Abgeordneter Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/beratungen-vorstand-linksfraktion-berlin-100.html"
     },
     {
       "title": "Wirtschaftsministerin Reiche für Direktzahlungen nach \"Tankrabatt\"",
@@ -43,42 +79,6 @@
     {
       "title": "Streit über Wehrdienst für Ultraorthodoxe in Israel",
       "link": "https://www.tagesschau.de/ausland/asien/israel-wehrpflicht-ultraorthodox-100.html"
-    },
-    {
-      "title": "Noch mehr Eigentum westlicher Firmen unter Kreml-Kontrolle",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/russland-vermoegen-deutscher-firmen-staatliche-kontrolle-100.html"
-    },
-    {
-      "title": "Welche Tabakware wie viel teurer wird",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/ueberblick-tabaksteuer-100.html"
-    },
-    {
-      "title": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html"
-    },
-    {
-      "title": "\"Deutschlandtag\" der Jungen Union - der Parteinachwuchs als Antreiber",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/junge-union-deutschlandtag-112.html"
-    },
-    {
-      "title": "Wie Anleger bei ETFs den Überblick behalten",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/etf-geldanlage-kosten-risiken-100.html"
-    },
-    {
-      "title": "Vergabe der Wiesn-Zelte laut Gerichtsbeschluss rechtmäßig",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gerichtsentscheidung-wiesn-zelte-100.html"
-    },
-    {
-      "title": "Zweifel an Qualifikation: Trumps Sprecherin bei Prüfung durchgefallen",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecherin-zacharia-100.html"
-    },
-    {
-      "title": "Giftige Rauchwolken durch Waldbrände in Indonesien treffen auch Nachbarländer",
-      "link": "https://www.tagesschau.de/ausland/asien/indonesien-malaysia-waldbraende-100.html"
-    },
-    {
-      "title": "EU-Spitzen stärken Selenskyj den Rücken",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-ukraine-selenskyj-100.html"
     }
   ]
 }
