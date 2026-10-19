@@ -1,8 +1,32 @@
 {
   "items": [
     {
+      "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+      "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html"
+    },
+    {
+      "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html"
+    },
+    {
+      "title": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html"
+    },
+    {
+      "title": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html"
+    },
+    {
+      "title": "Jemen: Mehr als 50 Tote bei Huthi-Angriff auf Militärlager",
+      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html"
+    },
+    {
       "title": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html"
+    },
+    {
+      "title": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html"
     },
     {
       "title": "Marktbericht: Neue Woche, neue Sorgen",
@@ -11,10 +35,6 @@
     {
       "title": "Durchbruch im Fall Langley: Vermisste wurde Opfer einer Gewalttat",
       "link": "https://www.tagesschau.de/inland/regional/bayern/verbrechen-kerstin-langley-vermisste-opfer-gewalttat-100.html"
-    },
-    {
-      "title": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html"
     },
     {
       "title": "Frankreich-Proteste: \"Macron hat nicht die richtigen Antworten gefunden\"",
@@ -59,26 +79,6 @@
     {
       "title": "Volkswagen will offenbar Gehälter einfrieren",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html"
-    },
-    {
-      "title": "Bringt der Aufschwung in Deutschland auch mehr Jobs?",
-      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-konjunktur-industrie-100.html"
-    },
-    {
-      "title": "COP17 in Armenien: Weltnaturkonferenz startet mit großen Aufgaben",
-      "link": "https://www.tagesschau.de/wissen/klima/weltnaturkonferenz-in-armenien-startet-100.html"
-    },
-    {
-      "title": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html"
-    },
-    {
-      "title": "Russland greift Kiew offenbar erneut mit Raketen an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-200.html"
-    },
-    {
-      "title": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
-      "link": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html"
     }
   ]
 }
