@@ -1,12 +1,76 @@
 {
   "items": [
     {
+      "title": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html"
+    },
+    {
+      "title": "Flugausfälle: EU regelt Erstattung bei Buchung über Drittanbieter",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-reiserechte-100.html"
+    },
+    {
+      "title": "Mit wem will die SPD wohin?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-kurs-vorsitz-100.html"
+    },
+    {
+      "title": "Die Deutsche Post will 2027 das Porto für Briefe erhöhen",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html"
+    },
+    {
+      "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html"
+    },
+    {
+      "title": "Berliner Linke vertagt Entscheidung über umstrittene Abgeordnete Emde",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berliner-linke-abgeordnete-emde-100.html"
+    },
+    {
+      "title": "Unruhen in Frankreich: Festnahme nach Brand von Rathaus in Limoges",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-limoges-brandstiftung-festnahme-100.html"
+    },
+    {
+      "title": "US-Midterms: Wie Preise die Zwischenwahlen beeinflussen könnten",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-zwischenwahlen-wirtschaft-100.html"
+    },
+    {
+      "title": "Neuer Reaktorblock am Netz: Slowakei überholt Frankreich beim Atomstrom",
+      "link": "https://www.tagesschau.de/ausland/europa/slowakei-atomreaktor-100.html"
+    },
+    {
+      "title": "Bundesregierung spricht von Investitionszusagen in Milliardenhöhe",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html"
+    },
+    {
+      "title": "Deutschlands schwindende Anziehungskraft für Investoren",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/investoren-118.html"
+    },
+    {
+      "title": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html"
+    },
+    {
+      "title": "Deutsche mögen Nudeln - am liebsten aus dem Ausland",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/nudeln-hersteller-eu-100.html"
+    },
+    {
+      "title": "Verkehrsminister planen Deutschlandticket für Gelegenheitsfahrer",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-316.html"
+    },
+    {
+      "title": "Selenskyj trifft sich mit US-Gesandtem Witkoff zu Gesprächen in Oslo",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html"
+    },
+    {
+      "title": "Neue EU-Strategie: Ein eigener Plan für die Arktis",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-100.html"
+    },
+    {
       "title": "Vor Wahl in Israel: Ex-General Eisenkot könnte Netanjahu schlagen",
       "link": "https://www.tagesschau.de/ausland/israel-wahlkampf-eisenkot-100.html"
     },
     {
       "title": "Abkehr vom Verbrenner-Aus: Unterhändler im Europaparlament finden Kompromiss",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-verbrenner-klima-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verbrenner-klima-100.html"
     },
     {
       "title": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
@@ -15,70 +79,6 @@
     {
       "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html"
-    },
-    {
-      "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html"
-    },
-    {
-      "title": "Chance oder Risiko: Zusammenarbeit deutscher Unternehmen mit Big Tech",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-microsoft-ki-100.html"
-    },
-    {
-      "title": "Marktbericht: \"Unsicherheitscocktail\" belastet die Aktienbörsen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html"
-    },
-    {
-      "title": "Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html"
-    },
-    {
-      "title": "Immobilienkredite so teuer wie seit 2009 nicht mehr",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkredite-zinsen-darlehen-100.html"
-    },
-    {
-      "title": "Wahlen in den USA: Was zu den Midterms wichtig ist",
-      "link": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html"
-    },
-    {
-      "title": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html"
-    },
-    {
-      "title": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird ",
-      "link": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html"
-    },
-    {
-      "title": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html"
-    },
-    {
-      "title": "Uruguay: Ein Land, fast unabhängig von Öl und Gas",
-      "link": "https://www.tagesschau.de/ausland/amerika/uruguay-erneuerbare-energie-klima-100.html"
-    },
-    {
-      "title": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
-      "link": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html"
-    },
-    {
-      "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/bund-nvidia-zusammenarbeit-ki-100.html"
-    },
-    {
-      "title": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
-      "link": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html"
-    },
-    {
-      "title": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html"
-    },
-    {
-      "title": "Jemen: Mehr als 50 Tote bei Huthi-Angriff auf Militärlager",
-      "link": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html"
-    },
-    {
-      "title": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html"
     }
   ]
 }
