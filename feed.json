@@ -1,8 +1,36 @@
 {
   "items": [
     {
+      "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
+      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html"
+    },
+    {
       "title": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
       "link": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html"
+    },
+    {
+      "title": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html"
+    },
+    {
+      "title": "EU-Rechnungshof-Bericht: Kaum Fortschritte bei Digitalisierung",
+      "link": "https://www.tagesschau.de/ausland/europa/europaeischer-rechnungshof-corona-gelder-100.html"
+    },
+    {
+      "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html"
+    },
+    {
+      "title": "Marktbericht: Kurswende am Nachmittag",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html"
+    },
+    {
+      "title": "Angriffe auf Brücken in Kiew: \"Man muss ja irgendwie weiterleben\"",
+      "link": "https://www.tagesschau.de/ausland/europa/angriffe-bruecken-kiew-100.html"
+    },
+    {
+      "title": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-102.html"
     },
     {
       "title": "Flugausfälle: EU regelt Erstattung bei Buchung über Drittanbieter",
@@ -15,10 +43,6 @@
     {
       "title": "Die Deutsche Post will 2027 das Porto für Briefe erhöhen",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html"
-    },
-    {
-      "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html"
     },
     {
       "title": "Berliner Linke vertagt Entscheidung über umstrittene Abgeordnete Emde",
@@ -55,30 +79,6 @@
     {
       "title": "Verkehrsminister planen Deutschlandticket für Gelegenheitsfahrer",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschlandticket-316.html"
-    },
-    {
-      "title": "Selenskyj trifft sich mit US-Gesandtem Witkoff zu Gesprächen in Oslo",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-treffen-witkoff-100.html"
-    },
-    {
-      "title": "Neue EU-Strategie: Ein eigener Plan für die Arktis",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-100.html"
-    },
-    {
-      "title": "Vor Wahl in Israel: Ex-General Eisenkot könnte Netanjahu schlagen",
-      "link": "https://www.tagesschau.de/ausland/israel-wahlkampf-eisenkot-100.html"
-    },
-    {
-      "title": "Abkehr vom Verbrenner-Aus: Unterhändler im Europaparlament finden Kompromiss",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-verbrenner-klima-100.html"
-    },
-    {
-      "title": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
-      "link": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html"
-    },
-    {
-      "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html"
     }
   ]
 }
