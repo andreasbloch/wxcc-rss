@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Vor Wahl in Israel: Ex-General Eisenkot könnte Netanjahu schlagen",
+      "link": "https://www.tagesschau.de/ausland/israel-wahlkampf-eisenkot-100.html"
+    },
+    {
+      "title": "Abkehr vom Verbrenner-Aus: Unterhändler im Europaparlament finden Kompromiss",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-verbrenner-klima-100.html"
+    },
+    {
+      "title": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
+      "link": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html"
+    },
+    {
+      "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html"
+    },
+    {
+      "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html"
+    },
+    {
+      "title": "Chance oder Risiko: Zusammenarbeit deutscher Unternehmen mit Big Tech",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-microsoft-ki-100.html"
+    },
+    {
+      "title": "Marktbericht: \"Unsicherheitscocktail\" belastet die Aktienbörsen",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html"
+    },
+    {
+      "title": "Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html"
+    },
+    {
+      "title": "Immobilienkredite so teuer wie seit 2009 nicht mehr",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkredite-zinsen-darlehen-100.html"
+    },
+    {
+      "title": "Wahlen in den USA: Was zu den Midterms wichtig ist",
+      "link": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html"
+    },
+    {
       "title": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html"
     },
@@ -22,7 +62,7 @@
     },
     {
       "title": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html"
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/bund-nvidia-zusammenarbeit-ki-100.html"
     },
     {
       "title": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
@@ -39,46 +79,6 @@
     {
       "title": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html"
-    },
-    {
-      "title": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html"
-    },
-    {
-      "title": "Marktbericht: Neue Woche, neue Sorgen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html"
-    },
-    {
-      "title": "Durchbruch im Fall Langley: Vermisste wurde Opfer einer Gewalttat",
-      "link": "https://www.tagesschau.de/inland/regional/bayern/verbrechen-kerstin-langley-vermisste-opfer-gewalttat-100.html"
-    },
-    {
-      "title": "Frankreich-Proteste: \"Macron hat nicht die richtigen Antworten gefunden\"",
-      "link": "https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html"
-    },
-    {
-      "title": "Merz lädt zu Investitionsgipfel in Berlin",
-      "link": "https://www.tagesschau.de/wirtschaft/wirtschaft-investitionsgipfel-nvidia-ki-100.html"
-    },
-    {
-      "title": "Auschwitz-Überlebender Höllenreiner im Alter von 92 gestorben",
-      "link": "https://www.tagesschau.de/inland/auschwitz-ueberlebender-hoellenreiner-gestorben-100.html"
-    },
-    {
-      "title": "Reiche verspricht Milliarden für Wasserstoff-Ausbau",
-      "link": "https://www.tagesschau.de/wirtschaft/reiche-wasserstoff-ausbau-millarden-100.html"
-    },
-    {
-      "title": "Anteil weiblicher Führungskräfte in Deutschland weiterhin niedrig",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/frauen-anteil-fuehrungspositionen-100.html"
-    },
-    {
-      "title": "Zwölf Migranten bei zwei Bootsunglücken in der Ägäis gestorben",
-      "link": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html"
-    },
-    {
-      "title": "Marktbericht: Sorgen um Frankreich belasten den Euro",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-frankreich-proteste-euro-100.html"
     }
   ]
 }
