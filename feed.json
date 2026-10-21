@@ -1,8 +1,68 @@
 {
   "items": [
     {
+      "title": "Krieg gegen die Ukraine: Putin stimmt neuen Gesprächen zu",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html"
+    },
+    {
+      "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html"
+    },
+    {
+      "title": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
+      "link": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html"
+    },
+    {
+      "title": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
+      "link": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html"
+    },
+    {
+      "title": "Aus Versehen in Kraft: Wie es zum Fehler bei der Tabaksteuer kam ",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html"
+    },
+    {
+      "title": "Brasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen",
+      "link": "https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html"
+    },
+    {
+      "title": "Das abgespaltene Russlandgeschäft von Globus wirft neue Fragen auf",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-globus-handel-100.html"
+    },
+    {
+      "title": "BGH-Urteil: Schufa muss über Score-Berechnung informieren",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-schufa-114.html"
+    },
+    {
+      "title": "Polens Parlament für Lockerung des Abtreibungsrechts",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-abtreibungsrecht-lockerung-100.html"
+    },
+    {
+      "title": "Was eine Fusion von Tesla und SpaceX bedeuten würde",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-tesla-spacex-zusammenschluss-folgen-100.html"
+    },
+    {
+      "title": "Gewinnprognose erhöht: Rekordgewinn für Adidas",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-adidas-100.html"
+    },
+    {
       "title": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei",
       "link": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html"
+    },
+    {
+      "title": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html"
+    },
+    {
+      "title": "Ukraine-Krieg: Putin schlägt Treffen mit Trump und Xi vor",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-106.html"
+    },
+    {
+      "title": "Häuser sollen besser gegen Naturgefahren versichert werden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/versicherungen-naturkatastrophen-100.html"
+    },
+    {
+      "title": "Fake Hotelanzeigen - Brüssel ermittelt gegen Booking.com",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-betrug-bookingcom-eu-100.html"
     },
     {
       "title": "UN-Konferenz: Delegationen bemühen sich um Frieden im Sudan",
@@ -19,66 +79,6 @@
     {
       "title": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
       "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html"
-    },
-    {
-      "title": "Wer an den Ausschreitungen in Frankreich beteiligt war",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html"
-    },
-    {
-      "title": "Marktbericht: DAX startet kaum verändert",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html"
-    },
-    {
-      "title": "Alice Schwarzer stellt Magazin \"Emma\" ein",
-      "link": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html"
-    },
-    {
-      "title": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html"
-    },
-    {
-      "title": "UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu",
-      "link": "https://www.tagesschau.de/wissen/klima/erderwaermung-un-bericht-102.html"
-    },
-    {
-      "title": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html"
-    },
-    {
-      "title": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html"
-    },
-    {
-      "title": "Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an",
-      "link": "https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html"
-    },
-    {
-      "title": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html"
-    },
-    {
-      "title": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html"
-    },
-    {
-      "title": "Interne Lageeinschätzung - Bundeswehr warnt vor russischen Anschlägen",
-      "link": "https://www.tagesschau.de/investigativ/wdr/bundeswehr-russland-102.html"
-    },
-    {
-      "title": "El Salvadors Präsident kündigt an, Tausende Häftlinge freizulassen",
-      "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html"
-    },
-    {
-      "title": "Nigeria bestätigt ersten Ebola-Fall",
-      "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html"
-    },
-    {
-      "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
-      "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html"
-    },
-    {
-      "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html"
     }
   ]
 }
