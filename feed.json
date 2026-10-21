@@ -1,12 +1,32 @@
 {
   "items": [
     {
-      "title": "Krieg gegen die Ukraine: Putin stimmt neuen Gesprächen zu",
+      "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
       "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html"
+    },
+    {
+      "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html"
     },
     {
       "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html"
+    },
+    {
+      "title": "Verhältnis zu Israel: Ein heikles Thema für Demokraten und Republikaner",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX startet dank KI durch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html"
+    },
+    {
+      "title": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober",
+      "link": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html"
     },
     {
       "title": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
@@ -29,7 +49,7 @@
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-globus-handel-100.html"
     },
     {
-      "title": "BGH-Urteil: Schufa muss über Score-Berechnung informieren",
+      "title": "BGH-Urteil: Entscheidung zu Transparenz bei Schufa",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-schufa-114.html"
     },
     {
@@ -59,26 +79,6 @@
     {
       "title": "Häuser sollen besser gegen Naturgefahren versichert werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/versicherungen-naturkatastrophen-100.html"
-    },
-    {
-      "title": "Fake Hotelanzeigen - Brüssel ermittelt gegen Booking.com",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/reisen-betrug-bookingcom-eu-100.html"
-    },
-    {
-      "title": "UN-Konferenz: Delegationen bemühen sich um Frieden im Sudan",
-      "link": "https://www.tagesschau.de/ausland/afrika/sudan-konferenz-108.html"
-    },
-    {
-      "title": "US-Vermittler Witkoff berät mit Putin über Ukraine",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html"
-    },
-    {
-      "title": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html"
-    },
-    {
-      "title": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
-      "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html"
     }
   ]
 }
