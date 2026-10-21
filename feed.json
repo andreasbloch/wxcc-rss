@@ -1,8 +1,56 @@
 {
   "items": [
     {
-      "title": "Marktbericht: DAX mit leichten Gewinnen erwartet",
+      "title": "Russland lässt inhaftierten US-Bürger Stephen Hubbard frei",
+      "link": "https://www.tagesschau.de/ausland/hubbard-freilassung-usa-russland-100.html"
+    },
+    {
+      "title": "UN-Konferenz: Delegationen bemühen sich um Frieden im Sudan",
+      "link": "https://www.tagesschau.de/ausland/afrika/sudan-konferenz-108.html"
+    },
+    {
+      "title": "US-Vermittler Witkoff berät mit Putin über Ukraine",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html"
+    },
+    {
+      "title": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html"
+    },
+    {
+      "title": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
+      "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html"
+    },
+    {
+      "title": "Wer an den Ausschreitungen in Frankreich beteiligt war",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html"
+    },
+    {
+      "title": "Marktbericht: DAX startet kaum verändert",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html"
+    },
+    {
+      "title": "Alice Schwarzer stellt Magazin \"Emma\" ein",
+      "link": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html"
+    },
+    {
+      "title": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html"
+    },
+    {
+      "title": "UN-Bericht: Erde steuert auf 2,8 Grad Erwärmung zu",
+      "link": "https://www.tagesschau.de/wissen/klima/erderwaermung-un-bericht-102.html"
+    },
+    {
+      "title": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html"
+    },
+    {
+      "title": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html"
+    },
+    {
+      "title": "Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an",
+      "link": "https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html"
     },
     {
       "title": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
@@ -31,54 +79,6 @@
     {
       "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html"
-    },
-    {
-      "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
-      "link": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html"
-    },
-    {
-      "title": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html"
-    },
-    {
-      "title": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html"
-    },
-    {
-      "title": "EU-Rechnungshof-Bericht: Kaum Fortschritte bei Digitalisierung",
-      "link": "https://www.tagesschau.de/ausland/europa/europaeischer-rechnungshof-corona-gelder-100.html"
-    },
-    {
-      "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html"
-    },
-    {
-      "title": "Marktbericht: Kurswende am Nachmittag",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html"
-    },
-    {
-      "title": "Angriffe auf Brücken in Kiew: \"Man muss ja irgendwie weiterleben\"",
-      "link": "https://www.tagesschau.de/ausland/europa/angriffe-bruecken-kiew-100.html"
-    },
-    {
-      "title": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-102.html"
-    },
-    {
-      "title": "Flugausfälle: EU regelt Erstattung bei Buchung über Drittanbieter",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-reiserechte-100.html"
-    },
-    {
-      "title": "Mit wem will die SPD wohin?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-kurs-vorsitz-100.html"
-    },
-    {
-      "title": "Die Deutsche Post will 2027 das Porto für Briefe erhöhen",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html"
-    },
-    {
-      "title": "Berliner Linke vertagt Entscheidung über umstrittene Abgeordnete Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berliner-linke-abgeordnete-emde-100.html"
     }
   ]
 }
