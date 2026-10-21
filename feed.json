@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX mit leichten Gewinnen erwartet",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html"
+    },
+    {
+      "title": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html"
+    },
+    {
+      "title": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html"
+    },
+    {
+      "title": "Interne Lageeinschätzung - Bundeswehr warnt vor russischen Anschlägen",
+      "link": "https://www.tagesschau.de/investigativ/wdr/bundeswehr-russland-102.html"
+    },
+    {
+      "title": "El Salvadors Präsident kündigt an, Tausende Häftlinge freizulassen",
+      "link": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html"
+    },
+    {
+      "title": "Nigeria bestätigt ersten Ebola-Fall",
+      "link": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html"
+    },
+    {
       "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
       "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html"
     },
@@ -55,30 +79,6 @@
     {
       "title": "Berliner Linke vertagt Entscheidung über umstrittene Abgeordnete Emde",
       "link": "https://www.tagesschau.de/inland/regional/berlin/berliner-linke-abgeordnete-emde-100.html"
-    },
-    {
-      "title": "Unruhen in Frankreich: Festnahme nach Brand von Rathaus in Limoges",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-limoges-brandstiftung-festnahme-100.html"
-    },
-    {
-      "title": "US-Midterms: Wie Preise die Zwischenwahlen beeinflussen könnten",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-zwischenwahlen-wirtschaft-100.html"
-    },
-    {
-      "title": "Neuer Reaktorblock am Netz: Slowakei überholt Frankreich beim Atomstrom",
-      "link": "https://www.tagesschau.de/ausland/europa/slowakei-atomreaktor-100.html"
-    },
-    {
-      "title": "Bundesregierung spricht von Investitionszusagen in Milliardenhöhe",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html"
-    },
-    {
-      "title": "Deutschlands schwindende Anziehungskraft für Investoren",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/investoren-118.html"
-    },
-    {
-      "title": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html"
     }
   ]
 }
