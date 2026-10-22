@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Datenschutzerklärung von tagesschau.de",
+      "link": "https://www.tagesschau.de/datenschutz"
+    },
+    {
+      "title": "Marktbericht: DAX fällt wieder zurück",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html"
+    },
+    {
+      "title": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
+      "link": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html"
+    },
+    {
+      "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html"
+    },
+    {
+      "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html"
+    },
+    {
+      "title": "Neues Plattenlabel von Igor Levit: \"Mein Leben ist No Silence\"",
+      "link": "https://www.tagesschau.de/kultur/musik-igor-levit-neues-plattenlabel-100.html"
+    },
+    {
+      "title": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/extremismusklausel-laenderfinanzausgleich-soeder-100.html"
+    },
+    {
+      "title": "Marktbericht: SAP-Umbau trägt Früchte",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html"
+    },
+    {
       "title": "Internationaler Strafgerichtshof erhält Sacharow-Preis",
       "link": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html"
     },
@@ -41,44 +73,12 @@
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-ahornsirup-exporte-usa-deutschland-100.html"
     },
     {
-      "title": "Marktbericht: Anleger zweifeln an KI-Rally",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html"
-    },
-    {
       "title": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten",
       "link": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html"
     },
     {
       "title": "Tote nach Angriff auf Flughafen in Saudi-Arabien",
       "link": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html"
-    },
-    {
-      "title": "Warum Meta eine Rekordstrafe zahlen soll",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytica-100.html"
-    },
-    {
-      "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html"
-    },
-    {
-      "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html"
-    },
-    {
-      "title": "Republikaner kritisieren Trumps Ukraine-Kurs",
-      "link": "https://www.tagesschau.de/ausland/kritik-trump-ukraine-100.html"
-    },
-    {
-      "title": "Wasserzeichen markieren bald auch KI-Texte von ChatGPT",
-      "link": "https://www.tagesschau.de/wissen/ki-texte-wasserzeichen-100.html"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Russische Raketen schlagen erneut in Kiew ein",
-      "link": "https://www.tagesschau.de/ausland/europa/raketen-kiew-ukraine-100.html"
-    },
-    {
-      "title": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
-      "link": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html"
     }
   ]
 }
