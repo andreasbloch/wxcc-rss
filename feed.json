@@ -1,19 +1,71 @@
 {
   "items": [
     {
-      "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html"
+      "title": "Internationaler Strafgerichtshof erhält Sacharow-Preis",
+      "link": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html"
     },
     {
-      "title": "Marktbericht: Tech-Bilanzen schieben den DAX nicht weiter an",
+      "title": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
+      "link": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html"
+    },
+    {
+      "title": "Was beim neuen Altersvorsorgedepot zu beachten ist",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-100.html"
+    },
+    {
+      "title": "SPD will Pflegereform nachbessern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html"
+    },
+    {
+      "title": "Livekultur als Geschäftsmodell - Wem gehören unsere Festivals?",
+      "link": "https://www.tagesschau.de/kultur/wem-gehoeren-festivals-100.html"
+    },
+    {
+      "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html"
+    },
+    {
+      "title": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html"
+    },
+    {
+      "title": "Die Gelbe Wiesenraute ist Blume des Jahres 2027",
+      "link": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html"
+    },
+    {
+      "title": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html"
+    },
+    {
+      "title": "Kanada gehen die Ahornsirup-Reserven aus",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-ahornsirup-exporte-usa-deutschland-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger zweifeln an KI-Rally",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html"
+    },
+    {
+      "title": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html"
+    },
+    {
+      "title": "Tote nach Angriff auf Flughafen in Saudi-Arabien",
+      "link": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html"
+    },
+    {
+      "title": "Warum Meta eine Rekordstrafe zahlen soll",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-strafe-cambridge-analytica-100.html"
+    },
+    {
+      "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html"
     },
     {
       "title": "US-Zwischenwahlen: Wie verlässlich sind die Umfragen vor den Midterms?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-umfragen-100.html"
     },
     {
-      "title": "Auch Republikaner kritisieren Trumps Ukraine-Kurs",
+      "title": "Republikaner kritisieren Trumps Ukraine-Kurs",
       "link": "https://www.tagesschau.de/ausland/kritik-trump-ukraine-100.html"
     },
     {
@@ -27,58 +79,6 @@
     {
       "title": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
       "link": "https://www.tagesschau.de/wirtschaft/verbrenner-aus-124.html"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Putin stimmt Wiederaufnahme von Gesprächen zu",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-krieg-putin-gespraeche-100.html"
-    },
-    {
-      "title": "Datenschutzskandal: Facebook-Konzern Meta soll Milliardenstrafe zahlen",
-      "link": "https://www.tagesschau.de/ausland/meta-cambrigde-skandal-milliardenstrafe-100.html"
-    },
-    {
-      "title": "Papst Leo braucht nach Lungenkrebs-OP keine weitere Behandlung",
-      "link": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html"
-    },
-    {
-      "title": "Osteuropa-Experte über Ukraine-Gespräche: \"Keine großen Hoffnungen\"",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-102.html"
-    },
-    {
-      "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/macron-rede-112.html"
-    },
-    {
-      "title": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html"
-    },
-    {
-      "title": "Verhältnis zu Israel: Ein heikles Thema für Demokraten und Republikaner",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX startet dank KI durch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html"
-    },
-    {
-      "title": "Polizei und Behörden beobachten Demo-Aufrufe für den 31. Oktober",
-      "link": "https://www.tagesschau.de/inland/aufruf-demos-sicherheitsbehoerden-100.html"
-    },
-    {
-      "title": "Nahverkehr: \"Deutschlandticket light\" kommt vorerst nicht",
-      "link": "https://www.tagesschau.de/inland/deutschlandticket-light-kommt-nicht-100.html"
-    },
-    {
-      "title": "Huthi-Attacken auf Saudi-Arabien: Angriff auf bin Salmans Vision",
-      "link": "https://www.tagesschau.de/ausland/asien/huthi-saudi-arabien-104.html"
-    },
-    {
-      "title": "Aus Versehen in Kraft: Wie es zum Fehler bei der Tabaksteuer kam ",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/panne-tabaksteuer-gesetz-100.html"
-    },
-    {
-      "title": "Brasilien: Lula und Bolsonaro wollen Ausschluss des jeweils anderen",
-      "link": "https://www.tagesschau.de/ausland/amerika/lula-bolsonaro-ausschluss-stichwahl-100.html"
     }
   ]
 }
