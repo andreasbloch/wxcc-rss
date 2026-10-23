@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "title": "Marktbericht: Nasdaq kommt unter die Räder",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html"
+    },
+    {
+      "title": "Erneut mutmaßlicher Drohnenangriff auf Schiff vor Rumäniens Küste",
+      "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnenangriff-handelsschiff-100.html"
+    },
+    {
+      "title": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
+      "link": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html"
+    },
+    {
+      "title": "Ein Toter und mehrere Verletzte nach Schüssen bei Paris",
+      "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html"
+    },
+    {
+      "title": "Deutsche Baubranche verzeichnet Rekordanstieg bei Großaufträgen",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugewerbe-grossauftraege-100.html"
+    },
+    {
+      "title": "CSU-Chef und Ministerpräsident: Der doppelte Söder",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-union-soeder-bundespolitik-100.html"
+    },
+    {
+      "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html"
+    },
+    {
+      "title": "Finnland genehmigt unterirdisches Atommüll-Endlager",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html"
+    },
+    {
+      "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html"
+    },
+    {
+      "title": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html"
+    },
+    {
+      "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html"
+    },
+    {
+      "title": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html"
+    },
+    {
+      "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html"
+    },
+    {
+      "title": "Pferdekutschen im New Yorker Central Park sollen abgeschafft werden",
+      "link": "https://www.tagesschau.de/ausland/amerika/new-york-pferdekutschen-100.html"
+    },
+    {
+      "title": "Erste schwerere Herbststürme in Deutschland erwartet",
+      "link": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html"
+    },
+    {
+      "title": "Weihnachtsbäume könnten teurer werden",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbaum-saison-preise-anstieg-100.html"
+    },
+    {
+      "title": "Illegale Spenden aus der Schweiz - Hat Weidel nicht die ganze Wahrheit gesagt?",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-weidel-100.html"
+    },
+    {
       "title": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
       "link": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html"
     },
@@ -11,74 +79,6 @@
     {
       "title": "Wadephul reist in die Türkei: Ein halber Tag für die großen Krisen",
       "link": "https://www.tagesschau.de/ausland/europa/tuerkei-besuch-wadephul-100.html"
-    },
-    {
-      "title": "\"Top-Gun\"-Darsteller Skerritt stirbt mit 93",
-      "link": "https://www.tagesschau.de/ausland/amerika/tom-skerritt-gestorben-100.html"
-    },
-    {
-      "title": "11KM-Podcast: Studierende fordern Serbiens Präsident Vucic heraus",
-      "link": "https://www.tagesschau.de/podcast-11km-parlamentswahl-serbien-100.html"
-    },
-    {
-      "title": "Marktbericht: Tech-Ausverkauf drückt auf die Anlegerstimmung",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html"
-    },
-    {
-      "title": "Brustkrebs bei Männern ist selten und wird meist spät entdeckt",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/brustkrebs-mann-100.html"
-    },
-    {
-      "title": "Studentenbewegung: Zehntausende protestieren vor Neuwahl in Serbien",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html"
-    },
-    {
-      "title": "In 28 Städten: Demonstrationen für liberaleres Abtreibungsrecht in Polen",
-      "link": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html"
-    },
-    {
-      "title": "\"Operation Chargeback\": Merkur-Tochterfirma wickelte Zahlungen ab",
-      "link": "https://www.tagesschau.de/investigativ/br-recherche/gluecksspiel-geldwaesche-wirecard-100.html"
-    },
-    {
-      "title": "Trotz Gesetzesverschärfung - Mehr Extremisten mit Waffenerlaubnis",
-      "link": "https://www.tagesschau.de/investigativ/ndr/waffen-extremisten-102.html"
-    },
-    {
-      "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
-      "link": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html"
-    },
-    {
-      "title": "Trump soll Musk gebeten haben, Drosselung aufzuheben",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html"
-    },
-    {
-      "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html"
-    },
-    {
-      "title": "Klimawandel: Fast alle Korallenriffe weltweit vom Absterben bedroht",
-      "link": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html"
-    },
-    {
-      "title": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
-      "link": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html"
-    },
-    {
-      "title": "Datenschutzerklärung von tagesschau.de",
-      "link": "https://www.tagesschau.de/datenschutz"
-    },
-    {
-      "title": "Marktbericht: DAX fällt wieder zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html"
-    },
-    {
-      "title": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
-      "link": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html"
-    },
-    {
-      "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html"
     }
   ]
 }
