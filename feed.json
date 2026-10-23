@@ -1,16 +1,56 @@
 {
   "items": [
     {
-      "title": "Trump soll Musk gebeten haben, die Starlink-Drosselung aufzuheben",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html"
+      "title": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
+      "link": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html"
     },
     {
-      "title": "Studentenbewegung: Tausende auf Straße in Serbien vor Neuwahl",
+      "title": "Venezuela: Tausende fordern Rückkehr von Machado",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-demonstrationen-machado-100.html"
+    },
+    {
+      "title": "Wadephul reist in die Türkei: Ein halber Tag für die großen Krisen",
+      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-besuch-wadephul-100.html"
+    },
+    {
+      "title": "\"Top-Gun\"-Darsteller Skerritt stirbt mit 93",
+      "link": "https://www.tagesschau.de/ausland/amerika/tom-skerritt-gestorben-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Studierende fordern Serbiens Präsident Vucic heraus",
+      "link": "https://www.tagesschau.de/podcast-11km-parlamentswahl-serbien-100.html"
+    },
+    {
+      "title": "Marktbericht: Tech-Ausverkauf drückt auf die Anlegerstimmung",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html"
+    },
+    {
+      "title": "Brustkrebs bei Männern ist selten und wird meist spät entdeckt",
+      "link": "https://www.tagesschau.de/wissen/gesundheit/brustkrebs-mann-100.html"
+    },
+    {
+      "title": "Studentenbewegung: Zehntausende protestieren vor Neuwahl in Serbien",
       "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html"
+    },
+    {
+      "title": "In 28 Städten: Demonstrationen für liberaleres Abtreibungsrecht in Polen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-abtreibung-protest-100.html"
+    },
+    {
+      "title": "\"Operation Chargeback\": Merkur-Tochterfirma wickelte Zahlungen ab",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/gluecksspiel-geldwaesche-wirecard-100.html"
+    },
+    {
+      "title": "Trotz Gesetzesverschärfung - Mehr Extremisten mit Waffenerlaubnis",
+      "link": "https://www.tagesschau.de/investigativ/ndr/waffen-extremisten-102.html"
     },
     {
       "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
       "link": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html"
+    },
+    {
+      "title": "Trump soll Musk gebeten haben, Drosselung aufzuheben",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html"
     },
     {
       "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
@@ -39,46 +79,6 @@
     {
       "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
       "link": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html"
-    },
-    {
-      "title": "Steuerschätzung 2027: Mehr Geld, aber \"keine neuen Spielräume\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html"
-    },
-    {
-      "title": "Neues Plattenlabel von Igor Levit: \"Mein Leben ist No Silence\"",
-      "link": "https://www.tagesschau.de/kultur/musik-igor-levit-neues-plattenlabel-100.html"
-    },
-    {
-      "title": "Ausschluss einiger Länder vom Finanzausgleich - ginge das?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/extremismusklausel-laenderfinanzausgleich-soeder-100.html"
-    },
-    {
-      "title": "Marktbericht: SAP-Umbau trägt Früchte",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html"
-    },
-    {
-      "title": "Internationaler Strafgerichtshof erhält Sacharow-Preis",
-      "link": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html"
-    },
-    {
-      "title": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
-      "link": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html"
-    },
-    {
-      "title": "Was beim neuen Altersvorsorgedepot zu beachten ist",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-100.html"
-    },
-    {
-      "title": "SPD will Pflegereform nachbessern",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html"
-    },
-    {
-      "title": "Livekultur als Geschäftsmodell - Wem gehören unsere Festivals?",
-      "link": "https://www.tagesschau.de/kultur/wem-gehoeren-festivals-100.html"
-    },
-    {
-      "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html"
     }
   ]
 }
