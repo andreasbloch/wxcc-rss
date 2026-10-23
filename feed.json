@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "title": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html"
+    },
+    {
+      "title": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
+      "link": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html"
+    },
+    {
+      "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
+      "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html"
+    },
+    {
+      "title": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX-Anleger meiden das Risiko",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html"
+    },
+    {
+      "title": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
+      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html"
+    },
+    {
+      "title": "Griechenland verbietet Social Media für unter 15-Jährige",
+      "link": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html"
+    },
+    {
+      "title": "Ein Toter und Verletze: Innenminister spricht von Terror-Tat bei Paris",
+      "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html"
+    },
+    {
+      "title": "Nicht nur wegen Ryanair-Abzug: Der BER bleibt ein Sorgenflughafen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ryanair-ber-100.html"
+    },
+    {
+      "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html"
+    },
+    {
+      "title": "Russland und Ukraine tauschen erneut Gefangene aus",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html"
+    },
+    {
       "title": "Marktbericht: Nasdaq kommt unter die Räder",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html"
     },
@@ -11,10 +55,6 @@
     {
       "title": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
       "link": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html"
-    },
-    {
-      "title": "Ein Toter und mehrere Verletzte nach Schüssen bei Paris",
-      "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html"
     },
     {
       "title": "Deutsche Baubranche verzeichnet Rekordanstieg bei Großaufträgen",
@@ -33,52 +73,12 @@
       "link": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html"
     },
     {
-      "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html"
-    },
-    {
       "title": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
       "link": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html"
     },
     {
       "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html"
-    },
-    {
-      "title": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html"
-    },
-    {
-      "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html"
-    },
-    {
-      "title": "Pferdekutschen im New Yorker Central Park sollen abgeschafft werden",
-      "link": "https://www.tagesschau.de/ausland/amerika/new-york-pferdekutschen-100.html"
-    },
-    {
-      "title": "Erste schwerere Herbststürme in Deutschland erwartet",
-      "link": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html"
-    },
-    {
-      "title": "Weihnachtsbäume könnten teurer werden",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbaum-saison-preise-anstieg-100.html"
-    },
-    {
-      "title": "Illegale Spenden aus der Schweiz - Hat Weidel nicht die ganze Wahrheit gesagt?",
-      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-weidel-100.html"
-    },
-    {
-      "title": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
-      "link": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html"
-    },
-    {
-      "title": "Venezuela: Tausende fordern Rückkehr von Machado",
-      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-demonstrationen-machado-100.html"
-    },
-    {
-      "title": "Wadephul reist in die Türkei: Ein halber Tag für die großen Krisen",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-besuch-wadephul-100.html"
     }
   ]
 }
