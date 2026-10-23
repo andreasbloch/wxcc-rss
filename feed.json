@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Trump soll Musk gebeten haben, die Starlink-Drosselung aufzuheben",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html"
+    },
+    {
+      "title": "Studentenbewegung: Tausende auf Straße in Serbien vor Neuwahl",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html"
+    },
+    {
+      "title": "Tote und Verletzte: Erdbeben erschüttert Norden Tibets",
+      "link": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html"
+    },
+    {
       "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Schnieder besorgt über mögliche AfD-Beteiligung an Ministerpräsidentenkonferenz",
       "link": "https://www.tagesschau.de/inland/innenpolitik/schnieder-afd-ministerpraesidentenkonferenz-100.html"
-    },
-    {
-      "title": "Die Kapitalrente - Befreiungsschlag oder Risiko?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html"
-    },
-    {
-      "title": "Die Gelbe Wiesenraute ist Blume des Jahres 2027",
-      "link": "https://www.tagesschau.de/wissen/klima/blume-des-jahres-100.html"
-    },
-    {
-      "title": "Nach Treffen mit Witkoff - Russland greift Kiew erneut mit Raketen an",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html"
     }
   ]
 }
