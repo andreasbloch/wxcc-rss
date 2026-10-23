@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Frankreich rüstet sich für nächsten Protesttag",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-paris-100.html"
+    },
+    {
+      "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html"
+    },
+    {
+      "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html"
+    },
+    {
       "title": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
       "link": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html"
     },
@@ -29,7 +41,7 @@
       "link": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html"
     },
     {
-      "title": "Ein Toter und Verletze: Innenminister spricht von Terror-Tat bei Paris",
+      "title": "Ein Toter und Verletzte: Innenminister spricht von Terror-Tat bei Paris",
       "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html"
     },
     {
@@ -67,18 +79,6 @@
     {
       "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
       "link": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html"
-    },
-    {
-      "title": "Finnland genehmigt unterirdisches Atommüll-Endlager",
-      "link": "https://www.tagesschau.de/ausland/europa/finnland-endlager-atommuell-100.html"
-    },
-    {
-      "title": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html"
-    },
-    {
-      "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html"
     }
   ]
 }
