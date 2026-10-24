@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Israelische Armee startet Einsatz in Hebron",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
+    },
+    {
+      "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html"
+    },
+    {
+      "title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html"
+    },
+    {
+      "title": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-chef-klingbeil-debatte-100.html"
+    },
+    {
+      "title": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html"
+    },
+    {
+      "title": "Massive Waldbrände in Indonesien - Kritik an Regierung",
+      "link": "https://www.tagesschau.de/ausland/asien/braende-indonesien-100.html"
+    },
+    {
       "title": "Verletzte und Schäden nach \"Sturmtief\" Luise",
       "link": "https://www.tagesschau.de/inland/herbststurm-104.html"
     },
@@ -15,10 +43,6 @@
     {
       "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html"
-    },
-    {
-      "title": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html"
     },
     {
       "title": "Brasilien vor der Stichwahl: Die Macht der Influencer",
@@ -55,30 +79,6 @@
     {
       "title": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
       "link": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html"
-    },
-    {
-      "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
-      "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html"
-    },
-    {
-      "title": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX-Anleger meiden das Risiko",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html"
-    },
-    {
-      "title": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
-      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html"
-    },
-    {
-      "title": "Griechenland verbietet Social Media für unter 15-Jährige",
-      "link": "https://www.tagesschau.de/ausland/europa/griechenland-social-media-100.html"
-    },
-    {
-      "title": "Ein Toter und Verletzte: Innenminister spricht von Terror-Tat bei Paris",
-      "link": "https://www.tagesschau.de/ausland/frankreich-schuesse-terrorverdacht-100.html"
     }
   ]
 }
