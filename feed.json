@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html"
+    },
+    {
+      "title": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html"
+    },
+    {
+      "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html"
+    },
+    {
       "title": "Israelische Armee startet Einsatz in Hebron",
       "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
     },
@@ -9,12 +25,20 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html"
     },
     {
-      "title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html"
+      "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html"
     },
     {
-      "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html"
+      "title": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html"
+    },
+    {
+      "title": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
+    },
+    {
+      "title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html"
     },
     {
       "title": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
@@ -55,30 +79,6 @@
     {
       "title": "Wie sieht die Zukunft der Raffinerien aus?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html"
-    },
-    {
-      "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html"
-    },
-    {
-      "title": "Frankreich rüstet sich für nächsten Protesttag",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-paris-100.html"
-    },
-    {
-      "title": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html"
-    },
-    {
-      "title": "CSU-Parteitag: Söder fordert Kampf gegen AfD und Linke",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-parteitag-100.html"
-    },
-    {
-      "title": "Bürgergeld und Einsparungen: Geschichte eines Irrtums",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/buergergeld-einsparungen-100.html"
-    },
-    {
-      "title": "Wadephul zieht positive Bilanz nach Außenministertreffen in Istanbul",
-      "link": "https://www.tagesschau.de/ausland/istanbul-wadephul-100.html"
     }
   ]
 }
