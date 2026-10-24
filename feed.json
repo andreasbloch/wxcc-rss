@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Brasilien vor der Stichwahl: Die Macht der Influencer",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html"
+    },
+    {
+      "title": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html"
+    },
+    {
+      "title": "Wie sieht die Zukunft der Raffinerien aus?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html"
+    },
+    {
+      "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+      "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html"
+    },
+    {
       "title": "Frankreich rüstet sich für nächsten Protesttag",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-paris-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Erneut mutmaßlicher Drohnenangriff auf Schiff vor Rumäniens Küste",
       "link": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnenangriff-handelsschiff-100.html"
-    },
-    {
-      "title": "Nach Krawallen führt Italien auch eine Sicherheitsdebatte",
-      "link": "https://www.tagesschau.de/ausland/europa/italien-proteste-124.html"
-    },
-    {
-      "title": "Deutsche Baubranche verzeichnet Rekordanstieg bei Großaufträgen",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/baugewerbe-grossauftraege-100.html"
-    },
-    {
-      "title": "CSU-Chef und Ministerpräsident: Der doppelte Söder",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-union-soeder-bundespolitik-100.html"
-    },
-    {
-      "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html"
     }
   ]
 }
