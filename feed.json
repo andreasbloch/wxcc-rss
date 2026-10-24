@@ -1,16 +1,20 @@
 {
   "items": [
     {
+      "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
+    },
+    {
+      "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
+    },
+    {
       "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
       "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html"
     },
     {
       "title": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
       "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html"
-    },
-    {
-      "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
     },
     {
       "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
@@ -31,10 +35,6 @@
     {
       "title": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html"
-    },
-    {
-      "title": "Viele Kontrollen und Festnahmen am Protesttag in Frankreich",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
     },
     {
       "title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
