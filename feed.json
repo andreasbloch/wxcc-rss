@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html"
+    },
+    {
+      "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html"
+    },
+    {
+      "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
+      "link": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html"
+    },
+    {
+      "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+      "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html"
+    },
+    {
+      "title": "Sturmtief \"Manja\" fegt über Deutschland",
+      "link": "https://www.tagesschau.de/inland/wetter-sturm-112.html"
+    },
+    {
+      "title": "Gaza droht eine neue Ernährungskrise",
+      "link": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html"
+    },
+    {
+      "title": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
+      "link": "https://www.tagesschau.de/inland/umweltpreis-142.html"
+    },
+    {
       "title": "Proteste in Europa - auch mit Gewalt",
       "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html"
     },
@@ -13,16 +41,8 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/wahlrecht-reform-104.html"
     },
     {
-      "title": "Sturmtief \"Manja\" fegt über Deutschland",
-      "link": "https://www.tagesschau.de/inland/wetter-sturm-112.html"
-    },
-    {
       "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html"
-    },
-    {
-      "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-      "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html"
     },
     {
       "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
@@ -59,26 +79,6 @@
     {
       "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
       "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
-    },
-    {
-      "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html"
-    },
-    {
-      "title": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html"
-    },
-    {
-      "title": "Israelische Armee startet Einsatz in Hebron",
-      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
-    },
-    {
-      "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html"
     }
   ]
 }
