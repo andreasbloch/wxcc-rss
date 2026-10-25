@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
+      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html"
+    },
+    {
+      "title": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
+      "link": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html"
+    },
+    {
       "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
       "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
       "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html"
-    },
-    {
-      "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
-    },
-    {
-      "title": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html"
     }
   ]
 }
