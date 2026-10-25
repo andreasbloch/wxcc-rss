@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
+      "link": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html"
+    },
+    {
       "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html"
-    },
-    {
-      "title": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html"
     }
   ]
 }
