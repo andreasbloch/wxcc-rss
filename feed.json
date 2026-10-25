@@ -1,7 +1,23 @@
 {
   "items": [
     {
-      "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
+      "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+      "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html"
+    },
+    {
+      "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html"
+    },
+    {
+      "title": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html"
+    },
+    {
+      "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"
+    },
+    {
+      "title": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
       "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html"
     },
     {
@@ -63,22 +79,6 @@
     {
       "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
       "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html"
-    },
-    {
-      "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html"
-    },
-    {
-      "title": "Brasilien vor der Stichwahl: Die Macht der Influencer",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html"
-    },
-    {
-      "title": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html"
-    },
-    {
-      "title": "Wie sieht die Zukunft der Raffinerien aus?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html"
     }
   ]
 }
