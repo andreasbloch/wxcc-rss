@@ -1,8 +1,40 @@
 {
   "items": [
     {
+      "title": "Proteste in Europa - auch mit Gewalt",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html"
+    },
+    {
+      "title": "Wie ein Dorf in Brandenburg seinen Gasthof retten will",
+      "link": "https://www.tagesschau.de/wirtschaft/dorfkneipe-rettung-brandenburg-100.html"
+    },
+    {
+      "title": "Pläne der Koalition: Wahlrechtsreform kommt kaum voran",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlrecht-reform-104.html"
+    },
+    {
+      "title": "Sturmtief \"Manja\" fegt über Deutschland",
+      "link": "https://www.tagesschau.de/inland/wetter-sturm-112.html"
+    },
+    {
+      "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html"
+    },
+    {
       "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
       "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html"
+    },
+    {
+      "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html"
+    },
+    {
+      "title": "Israel will Westjordanland am Wahltag abriegeln",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html"
+    },
+    {
+      "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+      "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html"
     },
     {
       "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
@@ -47,38 +79,6 @@
     {
       "title": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
       "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html"
-    },
-    {
-      "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html"
-    },
-    {
-      "title": "Stichwahl in Brasilien: Flávio Bolsonaro - der Kandidat des Vaters",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-bolsonaro-106.html"
-    },
-    {
-      "title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html"
-    },
-    {
-      "title": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-chef-klingbeil-debatte-100.html"
-    },
-    {
-      "title": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html"
-    },
-    {
-      "title": "Massive Waldbrände in Indonesien - Kritik an Regierung",
-      "link": "https://www.tagesschau.de/ausland/asien/braende-indonesien-100.html"
-    },
-    {
-      "title": "Verletzte und Schäden nach \"Sturmtief\" Luise",
-      "link": "https://www.tagesschau.de/inland/herbststurm-104.html"
-    },
-    {
-      "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html"
     }
   ]
 }
