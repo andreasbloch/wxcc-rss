@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Lula gewinnt Wahl in Brasilien",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+    },
+    {
       "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
       "link": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
       "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html"
-    },
-    {
-      "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html"
     }
   ]
 }
