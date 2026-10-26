@@ -1,20 +1,60 @@
 {
   "items": [
     {
-      "title": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+      "title": "Kreuzfahrtschiff rammt Containerschiffe - Polizei ermittelt gegen Kapitän",
+      "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html"
+    },
+    {
+      "title": "Demonstrationen für Pressefreiheit in der Türkei",
+      "link": "https://www.tagesschau.de/ausland/europa/demo-pressefreiheit-tuerkei-100.html"
+    },
+    {
+      "title": "Brasiliens Kapitalmärkte stürzen ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-brasilien-wahl-100.html"
+    },
+    {
+      "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+    },
+    {
+      "title": "Massenproteste gegen Rundfunkreform in Tschechien",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html"
     },
     {
       "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
       "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
     },
     {
-      "title": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html"
+      "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html"
     },
     {
-      "title": "Marktbericht: Anleger versuchen DAX zu stabilisieren",
+      "title": "Oxford Street in London wird zur Fußgängerzone",
+      "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html"
+    },
+    {
+      "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html"
+    },
+    {
+      "title": "Netanjahus Gegenkandidaten bei der Israel-Wahl: Gemeinsam für den Neuanfang?",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-netanjahu-100.html"
+    },
+    {
+      "title": "Wie die Ukraine einen Soldaten per Drohne rettete",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html"
+    },
+    {
+      "title": "Umfragen vor den Midterms: Trumps frühere Wähler wenden sich von ihm ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-umfragen-trump-100.html"
+    },
+    {
+      "title": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+    },
+    {
+      "title": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html"
     },
     {
       "title": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
@@ -25,16 +65,12 @@
       "link": "https://www.tagesschau.de/podcast-11km-frauen-bundeswehr-100.html"
     },
     {
-      "title": "Deutsche Geheimdienste setzen auf Cloud-System von Google",
+      "title": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
       "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html"
     },
     {
       "title": "Reisen in die Boom-Region: Merz und Steinmeier gleichzeitig in Asien ",
       "link": "https://www.tagesschau.de/ausland/asien/asien-reise-merz-steinmeier-100.html"
-    },
-    {
-      "title": "Massenproteste gegen Rundfunkreform in Tschechien",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html"
     },
     {
       "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
@@ -43,42 +79,6 @@
     {
       "title": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html"
-    },
-    {
-      "title": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
-      "link": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html"
-    },
-    {
-      "title": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
-      "link": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html"
-    },
-    {
-      "title": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
-      "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html"
-    },
-    {
-      "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html"
-    },
-    {
-      "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
-      "link": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html"
-    },
-    {
-      "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-      "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html"
-    },
-    {
-      "title": "Sturmtief \"Manja\" fegt über Deutschland",
-      "link": "https://www.tagesschau.de/inland/wetter-sturm-112.html"
-    },
-    {
-      "title": "Gaza droht eine neue Ernährungskrise",
-      "link": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html"
-    },
-    {
-      "title": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
-      "link": "https://www.tagesschau.de/inland/umweltpreis-142.html"
     }
   ]
 }
