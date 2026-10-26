@@ -1,8 +1,40 @@
 {
   "items": [
     {
-      "title": "Lula gewinnt Wahl in Brasilien",
+      "title": "Lula gewinnt Wahl in Brasilien - Bolsonaro erkennt Niederlage nicht an",
       "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html"
+    },
+    {
+      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
+    },
+    {
+      "title": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html"
+    },
+    {
+      "title": "Marktbericht: Anleger versuchen DAX zu stabilisieren",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html"
+    },
+    {
+      "title": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
+      "link": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Frauen in der Bundeswehr - belästigt, gemobbt, missbraucht",
+      "link": "https://www.tagesschau.de/podcast-11km-frauen-bundeswehr-100.html"
+    },
+    {
+      "title": "Deutsche Geheimdienste setzen auf Cloud-System von Google",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html"
+    },
+    {
+      "title": "Reisen in die Boom-Region: Merz und Steinmeier gleichzeitig in Asien ",
+      "link": "https://www.tagesschau.de/ausland/asien/asien-reise-merz-steinmeier-100.html"
+    },
+    {
+      "title": "Massenproteste gegen Rundfunkreform in Tschechien",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html"
     },
     {
       "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
@@ -23,10 +55,6 @@
     {
       "title": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
       "link": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html"
-    },
-    {
-      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
     },
     {
       "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
@@ -51,34 +79,6 @@
     {
       "title": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
       "link": "https://www.tagesschau.de/inland/umweltpreis-142.html"
-    },
-    {
-      "title": "Proteste in Europa - auch mit Gewalt",
-      "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html"
-    },
-    {
-      "title": "Wie ein Dorf in Brandenburg seinen Gasthof retten will",
-      "link": "https://www.tagesschau.de/wirtschaft/dorfkneipe-rettung-brandenburg-100.html"
-    },
-    {
-      "title": "Pläne der Koalition: Wahlrechtsreform kommt kaum voran",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/wahlrecht-reform-104.html"
-    },
-    {
-      "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html"
-    },
-    {
-      "title": "Vor Midterms: Ex-US-Präsident Obama schaltet sich mit Trump-Kritik in Wahlkampf ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-wahl-102.html"
-    },
-    {
-      "title": "Israel will Westjordanland am Wahltag abriegeln",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html"
-    },
-    {
-      "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-      "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html"
     }
   ]
 }
