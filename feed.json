@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Keine klare Mehrheit bei Parlamentswahl in Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html"
+    },
+    {
+      "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html"
+    },
+    {
       "title": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
       "link": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html"
     },
@@ -11,10 +19,6 @@
     {
       "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
       "link": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html"
-    },
-    {
-      "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
-      "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html"
     },
     {
       "title": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
@@ -75,10 +79,6 @@
     {
       "title": "Jordanische Luftwaffe greift Ziele in Syrien an",
       "link": "https://www.tagesschau.de/ausland/asien/jordanische-angriffe-syrien-100.html"
-    },
-    {
-      "title": "Pflegekommission der Bundesregierung nimmt ihre Arbeit auf",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pflegekommission-pflegereform-100.html"
     }
   ]
 }
