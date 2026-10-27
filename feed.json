@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Bericht der Weltwetterorganisation: Treibhausgase so hoch wie nie",
+      "link": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html"
+    },
+    {
+      "title": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
+      "link": "https://www.tagesschau.de/inland/windkraft-reiche-100.html"
+    },
+    {
+      "title": "US-Parteien: Nicht mehr selbstverständlich an der Seite Israels",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-102.html"
+    },
+    {
+      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
+    },
+    {
+      "title": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html"
+    },
+    {
+      "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"
+    },
+    {
+      "title": "Nach Präsidentenwahl in Brasilien: Ausreiseverbot für Flávio Bolsonaro",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-bolsonaro-ausreiseverbot-100.html"
+    },
+    {
+      "title": "Marktbericht: Zurückhaltung nach starkem Wochenstart",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Wer gewinnt die Wahl in Israel?",
+      "link": "https://www.tagesschau.de/podcast-11km-wahl-israel-100.html"
+    },
+    {
+      "title": "Muss Facebook rechtswidrige Memes aufspüren?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html"
+    },
+    {
+      "title": "Junge Menschen im Sog der Sekten",
+      "link": "https://www.tagesschau.de/investigativ/swr/junge-menschen-sekten-100.html"
+    },
+    {
+      "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html"
+    },
+    {
       "title": "Knesset-Wahl 2026: Israel vor der Entscheidung",
       "link": "https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html"
     },
@@ -17,10 +65,6 @@
       "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html"
     },
     {
-      "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html"
-    },
-    {
       "title": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
       "link": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html"
     },
@@ -35,50 +79,6 @@
     {
       "title": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html"
-    },
-    {
-      "title": "Marktbericht: Klare Gewinne zum Wochenstart",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html"
-    },
-    {
-      "title": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-      "link": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html"
-    },
-    {
-      "title": "Welche Folgen das Wahlergebnis für Brasilien haben könnte",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-126.html"
-    },
-    {
-      "title": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html"
-    },
-    {
-      "title": "Wahl des Bundespräsidenten: Wer folgt auf Steinmeier?",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html"
-    },
-    {
-      "title": "Kreuzfahrtschiff rammt Containerschiffe - Polizei ermittelt gegen Kapitän",
-      "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html"
-    },
-    {
-      "title": "Demonstrationen für Pressefreiheit in der Türkei",
-      "link": "https://www.tagesschau.de/ausland/europa/demo-pressefreiheit-tuerkei-100.html"
-    },
-    {
-      "title": "Brasiliens Kapitalmärkte stürzen ab",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-brasilien-wahl-100.html"
-    },
-    {
-      "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
-    },
-    {
-      "title": "Massenproteste gegen Rundfunkreform in Tschechien",
-      "link": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html"
-    },
-    {
-      "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
     }
   ]
 }
