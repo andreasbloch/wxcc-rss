@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Knesset-Wahl 2026: Israel vor der Entscheidung",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html"
+    },
+    {
+      "title": "Brasilien nach der Stichwahl: Was jetzt auf Lula zukommt",
+      "link": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html"
+    },
+    {
+      "title": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html"
+    },
+    {
       "title": "Harry Kane gewinnt Ballon d'Or",
       "link": "https://www.tagesschau.de/sport/eilmeldung-9588.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
       "link": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html"
-    },
-    {
-      "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html"
-    },
-    {
-      "title": "Oxford Street in London wird zur Fußgängerzone",
-      "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html"
-    },
-    {
-      "title": "Netanjahus Gegenkandidaten bei der Israel-Wahl: Gemeinsam für den Neuanfang?",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-netanjahu-100.html"
     }
   ]
 }
