@@ -1,8 +1,48 @@
 {
   "items": [
     {
-      "title": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar in USA eingetroffen",
+      "title": "Mindestens zehn Tote nach Zugunglück in Spanien",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html"
+    },
+    {
+      "title": "Marktbericht: DAX noch unentschieden",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html"
+    },
+    {
+      "title": "Liveblog zur Israel-Wahl: ++ Wachsender Vorsprung für das Netanjahu-Lager ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html"
+    },
+    {
+      "title": "Brasilien: Bolsonaro trotz Ausreiseverbots laut US-Medien in USA eingetroffen",
       "link": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html"
+    },
+    {
+      "title": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
+      "link": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html"
+    },
+    {
+      "title": "Knesset-Wahl in Israel: Prognosen zeigen Patt-Situation in Israel",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html"
+    },
+    {
+      "title": "Nach Wahl zur Knesset: So könnte es in Israel nun weitergehen",
+      "link": "https://www.tagesschau.de/ausland/israel-wahl-szenarien-100.html"
+    },
+    {
+      "title": "Berliner Linksfraktion vertagt Entscheidung über Abgeordnete Emde erneut",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
+    },
+    {
+      "title": "Nachfolge für Steinmeier: Merz beharrt auf CDU-Vorschlagsrecht",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html"
+    },
+    {
+      "title": "Israel - Eine Nacht ohne klaren Gewinner",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-patt-wahl-100.html"
+    },
+    {
+      "title": "Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen",
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html"
     },
     {
       "title": "Keine klare Mehrheit bei Parlamentswahl in Israel",
@@ -11,10 +51,6 @@
     {
       "title": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
       "link": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html"
-    },
-    {
-      "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
     },
     {
       "title": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
@@ -43,42 +79,6 @@
     {
       "title": "Tarifverhandlungen: IG Metall lehnt Angebot ab - Warnstreiks drohen",
       "link": "https://www.tagesschau.de/wirtschaft/ig-metall-wirtschaftsmeldung-oktober2026-100.html"
-    },
-    {
-      "title": "Mehr Personal und Befugnisse: EU will Frontex massiv ausbauen",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-will-fuer-frontex-mehr-befugnisse-und-personal-100.html"
-    },
-    {
-      "title": "Was die Israel-Wahl für Deutschland bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/deutschland-israel-154.html"
-    },
-    {
-      "title": "Psychologin zur Lage in Israel: \"Jeder von uns ist irgendwie kaputtgegangen\"",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-trauma-interview-100.html"
-    },
-    {
-      "title": "Seltenes Naturphänomen: Vier Tote nach Tornado im Süden der Türkei",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-antalya-tornado-vier-tote-100.html"
-    },
-    {
-      "title": "Bundesgerichtshof verweist Streit um falsches Künast-Zitat an EuGH",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/kuenast-meta-eugh-100.html"
-    },
-    {
-      "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html"
-    },
-    {
-      "title": "Stubb und Störe sprechen mit Putin",
-      "link": "https://www.tagesschau.de/ausland/europa/putin-telefonat-stubb-stoere-100.html"
-    },
-    {
-      "title": "Beiersdorf-Zahlen: Nivea und Tesa schrumpfen weiter",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-beiersdorf-100.html"
-    },
-    {
-      "title": "Jordanische Luftwaffe greift Ziele in Syrien an",
-      "link": "https://www.tagesschau.de/ausland/asien/jordanische-angriffe-syrien-100.html"
     }
   ]
 }
