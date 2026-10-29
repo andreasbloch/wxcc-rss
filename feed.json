@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+      "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html"
+    },
+    {
       "title": "Wie konnte es zu dem schweren Zugunglück kommen?",
       "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Mercedes hat noch größere Probleme im chinesischen Markt",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-automobilindustrie-quartalszahlen-100.html"
-    },
-    {
-      "title": "Diskussion vor Zwischenwahlen: Sind die USA noch eine Demokratie?",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-100.html"
     }
   ]
 }
