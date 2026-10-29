@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
+      "link": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html"
+    },
+    {
+      "title": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
+      "link": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html"
+    },
+    {
+      "title": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
+      "link": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html"
+    },
+    {
       "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
       "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Wie Kanada unter Trumps Zöllen leidet",
       "link": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-trump-eu-100.html"
-    },
-    {
-      "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html"
-    },
-    {
-      "title": "Opiumproduktion in Afghanistan stark gestiegen",
-      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-zunahme-opiumproduktion-100.html"
-    },
-    {
-      "title": "Wer am Samstag auf die Straße geht - und was zu erwarten ist",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-100.html"
     }
   ]
 }
