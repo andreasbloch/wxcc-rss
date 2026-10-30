@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Oppositionspolitikerin Machado: Was bedeutet ihre Rückkehr für Venezuela?",
+      "link": "https://www.tagesschau.de/ausland/amerika/venezuela-machado-106.html"
+    },
+    {
+      "title": "Frankreich bereitet sich auf neue Schülerproteste vor",
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html"
+    },
+    {
+      "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html"
+    },
+    {
       "title": "Bosnien-Herzegowina: Militär-Hubschrauber abgestürzt - vier Tote",
       "link": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Zahlreiche Tote bei Angriff auf Bahnhof in Dnipro",
       "link": "https://www.tagesschau.de/ausland/europa/russland-ukraine-angriffe-120.html"
-    },
-    {
-      "title": "Marktbericht: Warum Autoreparaturen immer teurer werden",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-autoreparaturen-100.html"
-    },
-    {
-      "title": "Was bringt eine EU-Allianz mit Kanada den Verbrauchern in Europa?",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-eu-allianz-folgen-verbraucher-100.html"
-    },
-    {
-      "title": "Wie Kanada unter Trumps Zöllen leidet",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-trump-eu-100.html"
     }
   ]
 }
