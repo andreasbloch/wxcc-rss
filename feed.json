@@ -1,8 +1,36 @@
 {
   "items": [
     {
+      "title": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html"
+    },
+    {
+      "title": "GenZ-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html"
+    },
+    {
+      "title": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html"
+    },
+    {
+      "title": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html"
+    },
+    {
+      "title": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat",
+      "link": "https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html"
+    },
+    {
       "title": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
       "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html"
+    },
+    {
+      "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
+      "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
+    },
+    {
+      "title": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html"
     },
     {
       "title": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
@@ -51,34 +79,6 @@
     {
       "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
       "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html"
-    },
-    {
-      "title": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
-      "link": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html"
-    },
-    {
-      "title": "Jugendproteste in mehr als 30 Städten geplant",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
-    },
-    {
-      "title": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html"
-    },
-    {
-      "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html"
-    },
-    {
-      "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
-      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html"
-    },
-    {
-      "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html"
-    },
-    {
-      "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html"
     }
   ]
 }
