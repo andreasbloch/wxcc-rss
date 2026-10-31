@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html"
+    },
+    {
       "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Kampf gegen Ebola - Studie macht Hoffnung auf Impfstoff",
       "link": "https://www.tagesschau.de/wissen/gesundheit/ebola-afrika-studie-100.html"
-    },
-    {
-      "title": "Wie der VW-Vorstand die Laune bei den Skoda-Mitarbeitern drückt",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/skoda-144.html"
     }
   ]
 }
