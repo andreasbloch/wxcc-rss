@@ -1,16 +1,32 @@
 {
   "items": [
     {
-      "title": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
+      "title": "Jugendproteste in mehr als 30 Städten geplant",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html"
+    },
+    {
+      "title": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html"
+    },
+    {
+      "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
+      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html"
+    },
+    {
+      "title": "Polen: Tumult und Protest vor dem Verfassungsgericht",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html"
+    },
+    {
+      "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
+      "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html"
+    },
+    {
+      "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
       "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html"
     },
     {
       "title": "Binance will alle Verluste nach Hackerangriff ersetzen",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html"
-    },
-    {
-      "title": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-      "link": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html"
     },
     {
       "title": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
@@ -63,22 +79,6 @@
     {
       "title": "Vorschlag für mehr Pünktlichkeit der Bahn: Weniger Züge auf der Strecke",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-puenktlichkeit-expertenkommission-100.html"
-    },
-    {
-      "title": "Nach Eralp-Interview: Müssen sich Medien an Absprachen halten?",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/autorisierung-medien-100.html"
-    },
-    {
-      "title": "Wahl-Patt in Israel: Regierungsbildung nicht in Sicht",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahlergebnis-korri-100.html"
-    },
-    {
-      "title": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html"
-    },
-    {
-      "title": "Kampf gegen Ebola - Studie macht Hoffnung auf Impfstoff",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/ebola-afrika-studie-100.html"
     }
   ]
 }
