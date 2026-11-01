@@ -1,16 +1,48 @@
 {
   "items": [
     {
-      "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-      "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html"
-    },
-    {
       "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
       "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html"
     },
     {
-      "title": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
+      "title": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+      "link": "https://www.tagesschau.de/ausland/portugal-protest-100.html"
+    },
+    {
+      "title": "\"Gen Z regelt\" will Demos fortsetzen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html"
+    },
+    {
+      "title": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html"
+    },
+    {
+      "title": "Microcars boomen - aber wie sicher sind sie?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html"
+    },
+    {
+      "title": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html"
+    },
+    {
+      "title": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html"
+    },
+    {
+      "title": "Bunte \"Tag der Toten\"-Parade zieht durch Mexiko-Stadt",
+      "link": "https://www.tagesschau.de/ausland/mexiko-feierlichkeiten-november-100.html"
+    },
+    {
+      "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+      "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html"
+    },
+    {
+      "title": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html"
+    },
+    {
+      "title": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html"
     },
     {
       "title": "Erneut Proteste und Zusammenstöße in Frankreich",
@@ -47,38 +79,6 @@
     {
       "title": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
       "link": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html"
-    },
-    {
-      "title": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat",
-      "link": "https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html"
-    },
-    {
-      "title": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-      "link": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html"
-    },
-    {
-      "title": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
-      "link": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html"
-    },
-    {
-      "title": "Merz nach Asienreise: \"Hat sich in mehrfacher Hinsicht gelohnt\"",
-      "link": "https://www.tagesschau.de/ausland/asien/merz-asienreise-abschluss-100.html"
-    },
-    {
-      "title": "Ebola-Virus: Mehr als 5.000 Tote in der Demokratischen Republik Kongo",
-      "link": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html"
-    },
-    {
-      "title": "Warum Horror-Serien die Streaming-Charts dominieren",
-      "link": "https://www.tagesschau.de/kultur/horror-serien-hype-100.html"
-    },
-    {
-      "title": "Zwei Sullivans in Alaska - wollen Demokraten die Wahl manipulieren?",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-alaska-sullivan-100.html"
-    },
-    {
-      "title": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html"
     }
   ]
 }
