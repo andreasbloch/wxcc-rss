@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+      "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html"
+    },
+    {
+      "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+      "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html"
+    },
+    {
+      "title": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html"
+    },
+    {
       "title": "Erneut Proteste und Zusammenstöße in Frankreich",
       "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
       "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html"
-    },
-    {
-      "title": "Chip im Kopf: Wenn Computer Gedanken verstehen lernen",
-      "link": "https://www.tagesschau.de/wissen/computer-chip-gehirn-100.html"
-    },
-    {
-      "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html"
-    },
-    {
-      "title": "Arabische Parteien in Israel stecken in einem Dilemma",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html"
     }
   ]
 }
