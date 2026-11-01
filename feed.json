@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Bulgariens amtierende Präsidentin Jotowa liegt bei Stichwahl vorn",
+      "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
+    },
+    {
+      "title": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"
+    },
+    {
+      "title": "Wildberger bestätigt ARD-Bericht zu Hackerangriff",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"
+    },
+    {
+      "title": "NASA-Experiment: Mars-Simulation nach einem Jahr beendet",
+      "link": "https://www.tagesschau.de/ausland/nasa-mars-108.html"
+    },
+    {
       "title": "FAQ: Was die neue Gebühr auf Sendungen aus Nicht-EU-Ländern bedeutet",
       "link": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Microcars boomen - aber wie sicher sind sie?",
       "link": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html"
-    },
-    {
-      "title": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html"
-    },
-    {
-      "title": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html"
-    },
-    {
-      "title": "Bunte \"Tag der Toten\"-Parade zieht durch Mexiko-Stadt",
-      "link": "https://www.tagesschau.de/ausland/mexiko-feierlichkeiten-november-100.html"
-    },
-    {
-      "title": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
-      "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html"
     }
   ]
 }
