@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
+    },
+    {
+      "title": "Jüdische Akademie in Frankfurt eröffnet",
+      "link": "https://www.tagesschau.de/inland/regional/hessen/juedische-akademie-frankfurt-100.html"
+    },
+    {
+      "title": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html"
+    },
+    {
+      "title": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
+      "link": "https://www.tagesschau.de/ausland/bushby-lauf-100.html"
+    },
+    {
+      "title": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
+      "link": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html"
+    },
+    {
+      "title": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
+      "link": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX legt zu - Anleger bleiben vorsichtig",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html"
+    },
+    {
+      "title": "Handel mit Merchandise: Nicht mehr viel los im Trump-Shop",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-stores-fanshop-100.html"
+    },
+    {
+      "title": "Koalitionsverhandlungen in Berlin: Das Rumoren in der SPD",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/spd-rot-gruen-rot-linke-berlin-100.html"
+    },
+    {
+      "title": "Ministerin Reiche legt ersten Entwurf für Spritpreisdeckel-Gesetz vor",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html"
+    },
+    {
+      "title": "Hubig legt Gesetzentwurf zur Verschärfung des Sexualstrafrechts vor",
+      "link": "https://www.tagesschau.de/inland/hubig-sexualstrafrecht-102.html"
+    },
+    {
       "title": "Nadeln und Nägel in Halloween-Süßigkeiten entdeckt",
       "link": "https://www.tagesschau.de/inland/nadeln-suessigkeiten-halloween-100.html"
     },
@@ -11,10 +55,6 @@
     {
       "title": "Landgericht Potsdam: Kinderarzt gesteht Taten in Missbrauchsprozess",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/prozess-kinderarzt-100.html"
-    },
-    {
-      "title": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
-      "link": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html"
     },
     {
       "title": "Afghanistans Kindern droht ein tödlicher Winter",
@@ -37,48 +77,8 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/extremismus-linke-afd-100.html"
     },
     {
-      "title": "Ministerin Reiche legt ersten Entwurf für Spritpreisdeckel-Gesetz vor",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html"
-    },
-    {
       "title": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html"
-    },
-    {
-      "title": "Neun Tote bei Flugzeugabsturz in Florida",
-      "link": "https://www.tagesschau.de/ausland/amerika/flugzeugabsturz-usa-florida-100.html"
-    },
-    {
-      "title": "Rot-grün-rote Koalitionsgespräche in Berlin gestartet",
-      "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"
-    },
-    {
-      "title": "Vor den US-Zwischenwahlen: Wie ist Trumps Wirtschaftsbilanz?",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zwischenstand-us-wirtschaft-entwicklung-100.html"
-    },
-    {
-      "title": "Bas beklagt im ARD-Interview mangelnde Menschlichkeit im Politikbetrieb",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-feldenkirchen-100.html"
-    },
-    {
-      "title": "Kreuzfahrt-Weltreise endet vorzeitig in Kambodscha",
-      "link": "https://www.tagesschau.de/ausland/asien/kambodscha-kreuzfahrt-odyssey-100.html"
-    },
-    {
-      "title": "Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html"
-    },
-    {
-      "title": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
-      "link": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
-    },
-    {
-      "title": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html"
-    },
-    {
-      "title": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html"
     }
   ]
 }
