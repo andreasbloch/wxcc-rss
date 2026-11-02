@@ -1,7 +1,35 @@
 {
   "items": [
     {
-      "title": "100 Tage im Amt: Spürbar anders - Ukraines Armee unter Chef Drapatyj",
+      "title": "Was das Rennen bei den Midterms entscheiden könnte",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-demokraten-republikaner-100.html"
+    },
+    {
+      "title": "11KM-Podcast: Verliert Trump bei den Midterms die Stimmen der Farmer?",
+      "link": "https://www.tagesschau.de/podcast-11km-3998.html"
+    },
+    {
+      "title": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
+      "link": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html"
+    },
+    {
+      "title": "Kritik an Ammoniak-Importen: Die EU, Russland und die Sprengstoffindustrie",
+      "link": "https://www.tagesschau.de/investigativ/swr/ammoniak-eu-russland-100.html"
+    },
+    {
+      "title": "Digitalgipfel der Bundesregierung: Ist der KI-Zug in Deutschland schon abgefahren?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html"
+    },
+    {
+      "title": "Fall Imgart im AfD-Leak: Trotz Rassismus-Vorwürfen Verfassungsrichter",
+      "link": "https://www.tagesschau.de/investigativ/br-recherche/afd-verfassungsrichter-bayern-100.html"
+    },
+    {
+      "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html"
+    },
+    {
+      "title": "Wie sich die ukrainische Armee unter ihrem neuen Chef Drapatyj verändert",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-kommandeur-100.html"
     },
     {
@@ -51,34 +79,6 @@
     {
       "title": "Nach mehr als 500 Produktionen: Filmproduzentin Regina Ziegler gestorben",
       "link": "https://www.tagesschau.de/kultur/ziegler-regina-gestorben-100.html"
-    },
-    {
-      "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-      "link": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html"
-    },
-    {
-      "title": "\"Gen Z regelt\" will Demos fortsetzen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html"
-    },
-    {
-      "title": "Israel: Demos für Einbindung der arabischen Parteien",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html"
-    },
-    {
-      "title": "Vor 40 Jahren: Als eine Chemiewolke über Basel zog",
-      "link": "https://www.tagesschau.de/ausland/europa/schweiz-40-jahre-chemieunfall-sandoz-100.html"
-    },
-    {
-      "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
-      "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html"
-    },
-    {
-      "title": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
-      "link": "https://www.tagesschau.de/ausland/portugal-protest-100.html"
-    },
-    {
-      "title": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html"
     }
   ]
 }
