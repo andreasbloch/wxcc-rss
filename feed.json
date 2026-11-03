@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "USA greifen iranische Ziele in Straße von Hormus an",
+      "link": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html"
+    },
+    {
+      "title": "US-Vermittler Witkoff kündigt Gespräche mit Russland und Ukraine an",
+      "link": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html"
+    },
+    {
+      "title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html"
+    },
+    {
+      "title": "Zwischenwahlen in den USA: Bleibt das Land regierbar?",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html"
+    },
+    {
       "title": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
       "link": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "Angeklagter räumt in Prozess um Misshandlung in Soest Beteiligung ein",
       "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/soest-misshandlung-prozess-100.html"
-    },
-    {
-      "title": "Merz verurteilt Krawalle am Rande der Jugendproteste",
-      "link": "https://www.tagesschau.de/inland/jugendproteste-gewalt-merz-100.html"
-    },
-    {
-      "title": "Massive Cyberattacke auf Linken-Abgeordnete in Berlin",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cyberattacke-linkspartei-mail-postfaecher-100.html"
-    },
-    {
-      "title": "AfD und Linke: Warum Extremismus-Vergleiche zu kurz greifen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/extremismus-linke-afd-100.html"
-    },
-    {
-      "title": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html"
     }
   ]
 }
