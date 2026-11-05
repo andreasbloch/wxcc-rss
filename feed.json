@@ -1,8 +1,20 @@
 {
   "items": [
     {
-      "title": "Liveblog zu den Midterms: ++ Vance sieht Iran-Krieg als Grund für Wahlschlappe ++",
+      "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html"
+    },
+    {
+      "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"
+    },
+    {
+      "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
+    },
+    {
+      "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html"
     },
     {
       "title": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
@@ -67,18 +79,6 @@
     {
       "title": "Wo die Menschen in Deutschland am längsten leben",
       "link": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html"
-    },
-    {
-      "title": "Wohngeldreform könnte Bedürftige doppelt treffen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html"
-    },
-    {
-      "title": "15 Jahre danach bleiben Schmerz und offene Fragen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/nsu-enttarnung-102.html"
-    },
-    {
-      "title": "Midterms: Eine historische Wahl mit vielen Premieren",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html"
     }
   ]
 }
