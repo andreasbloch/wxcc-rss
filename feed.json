@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Reaktionen auf Tod Aiwangers: Söder spricht von \"absoluter Tragödie\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html"
+    },
+    {
+      "title": "Rettungsmission gescheitert - NASA-Satellit stürzt auf Erde",
+      "link": "https://www.tagesschau.de/wissen/technologie/nasa-satellit-swift-100.html"
+    },
+    {
+      "title": "Hubert Aiwanger - das Gesicht der Freien Wähler",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/hubert-aiwanger-nachruf-100.html"
+    },
+    {
+      "title": "Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"
+    },
+    {
+      "title": "USA und Israel nach den Wahlen: Beziehungsstatus kompliziert",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-usa-wahlen-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX nähert sich dem Rekordhoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"
+    },
+    {
+      "title": "US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge",
+      "link": "https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html"
+    },
+    {
+      "title": "Bundestag debattiert über Pflegereform",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/pflege-reform-bundestag-100.html"
+    },
+    {
+      "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
+    },
+    {
+      "title": "Strafen gegen Vucic-Propagandasendungen bei Informer und Prva in Serbien",
+      "link": "https://www.tagesschau.de/ausland/europa/serbien-medienaufsicht-strafe-100.html"
+    },
+    {
+      "title": "Suche nach mehrheitsfähiger Kandidatin: Merz und die Bundespräsidentinnen-Frage",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-wahl-kandidatinnen-100.html"
+    },
+    {
+      "title": "Frankreich: Nach den Protesten sollen jetzt Streiks folgen",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-streiks-frankreich-100.html"
+    },
+    {
       "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html"
     },
@@ -9,15 +57,11 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"
     },
     {
-      "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
-    },
-    {
       "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
       "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html"
     },
     {
-      "title": "Gen-Z-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
+      "title": "\"Gen-Z\"-Protest: Bundestag debattiert über Konsequenzen nach Krawallen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/gen-z-aktuelle-stunde-100.html"
     },
     {
@@ -35,50 +79,6 @@
     {
       "title": "Nach Sieg bei den Midterms: Welche Optionen die Demokraten haben",
       "link": "https://www.tagesschau.de/ausland/demokraten-optionen-100.html"
-    },
-    {
-      "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html"
-    },
-    {
-      "title": "Bund fördert Schwimmenlernen mit 20 Millionen Euro",
-      "link": "https://www.tagesschau.de/inland/foerderprogramm-bund-schwimmen-100.html"
-    },
-    {
-      "title": "Reaktionen auf US-Wahlergebnis: Verhaltene Freude, vorsichtige Hoffnung",
-      "link": "https://www.tagesschau.de/ausland/amerika/midterms-usa-internationale-reaktionen-100.html"
-    },
-    {
-      "title": "Reaktionen auf Janoschs Tod: Er machte \"Kindern Mut zum Träumen\"",
-      "link": "https://www.tagesschau.de/kultur/janosch-reaktionen-tod-100.html"
-    },
-    {
-      "title": "Weitere Fälle von gehackten Kühlanlagen bekannt geworden",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/cyberangriff-kuehlanlagen-100.html"
-    },
-    {
-      "title": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html"
-    },
-    {
-      "title": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html"
-    },
-    {
-      "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html"
-    },
-    {
-      "title": "RNA-Medizin: Was kommt nach der Corona-Impfung?",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/rna-forschung-chancen-und-risiken-100.html"
-    },
-    {
-      "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html"
-    },
-    {
-      "title": "Wo die Menschen in Deutschland am längsten leben",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html"
     }
   ]
 }
