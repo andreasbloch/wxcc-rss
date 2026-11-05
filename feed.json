@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
+      "link": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html"
+    },
+    {
+      "title": "Häftling auf der Flucht: Fußfessel-Schlüssel gab es im Internet",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/fussfessel-schluessel-100.html"
+    },
+    {
+      "title": "Supermärkte: Warum Kühlregale leicht zu hacken sind",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hacker-kuehlsysteme-supermaerkte-100.html"
+    },
+    {
+      "title": "Paraguays Präsident tritt nach Bankenpleite zurück",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-ruecktritt-praesident-100.html"
+    },
+    {
+      "title": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html"
+    },
+    {
+      "title": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
+      "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX springt auf Rekordhoch",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"
+    },
+    {
+      "title": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html"
+    },
+    {
+      "title": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
+      "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html"
+    },
+    {
+      "title": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
+      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html"
+    },
+    {
+      "title": "Trump kritisiert die Midterms-Auszählung im Bundesstaat Alaska",
+      "link": "https://www.tagesschau.de/ausland/amerika/us-midterms-trump-alaska-100.html"
+    },
+    {
       "title": "Britischer Komiker Brand der Vergewaltigung schuldig gesprochen",
       "link": "https://www.tagesschau.de/ausland/europa/russell-brand-verurteilung-100.html"
     },
@@ -29,56 +73,12 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-pflegeversicherung-linnemann-100.html"
     },
     {
-      "title": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html"
-    },
-    {
       "title": "Litwinenko-Witwe: \"Der Westen hat einen großen Fehler gemacht\"",
       "link": "https://www.tagesschau.de/ausland/europa/20-jahre-mord-litwinenko-100.html"
     },
     {
       "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html"
-    },
-    {
-      "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
-      "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
-    },
-    {
-      "title": "Schäden an Unterseekabeln in der Ostsee: Urteil gegen russischen Kapitän",
-      "link": "https://www.tagesschau.de/ausland/europa/kapitaen-sabotage-urteil-100.html"
-    },
-    {
-      "title": "Straße von Hormus: Zwei Öltanker offenbar in Brand geraten",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html"
-    },
-    {
-      "title": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX springt auf Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"
-    },
-    {
-      "title": "Bundespräsidenten-Nachfolge: Unterstützung für Aigner nimmt zu",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/unterstuetzung-fuer-aigner-nimmt-zu-100.html"
-    },
-    {
-      "title": "Hongkongs Demokratie-Aktivist Wong zu weiteren zehn Jahren Haft verurteilt",
-      "link": "https://www.tagesschau.de/ausland/asien/hong-kong-wong-urteil-100.html"
-    },
-    {
-      "title": "Reaktionen auf Tod Aiwangers: Söder spricht von \"absoluter Tragödie\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-gestorben-reaktionen-100.html"
-    },
-    {
-      "title": "Bankenpleite stürzt Paraguay in eine Krise",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bankenkrise-paraguay-100.html"
-    },
-    {
-      "title": "Politikwissenschaftler: \"MAGA-Bewegung wird nicht über Nacht verschwinden\"",
-      "link": "https://www.tagesschau.de/politikwissenschaftler-mueller-midterms-100.html"
     }
   ]
 }
