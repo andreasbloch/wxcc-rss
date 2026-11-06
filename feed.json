@@ -1,8 +1,40 @@
 {
   "items": [
     {
+      "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html"
+    },
+    {
       "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
       "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html"
+    },
+    {
+      "title": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html"
+    },
+    {
+      "title": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+      "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html"
+    },
+    {
+      "title": "Erneut Hackerangriff auf Münchener Universität - TUM betroffen",
+      "link": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-tum-100.html"
+    },
+    {
+      "title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html"
+    },
+    {
+      "title": "Die gestohlenen Kinder von Oleschky",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-kinder-100.html"
+    },
+    {
+      "title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html"
+    },
+    {
+      "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html"
     },
     {
       "title": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
@@ -47,38 +79,6 @@
     {
       "title": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
       "link": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html"
-    },
-    {
-      "title": "Millionen Euro verschwunden: Vucic-nahe Bank in Serbien geschlossen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nationalbank-serbien-diebstahl-400-millionen-100.html"
-    },
-    {
-      "title": "Bundestag beschließt härtere Strafen für Einsatz von K.-o.-Tropfen",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/strafen-ko-tropfen-bundestag-100.html"
-    },
-    {
-      "title": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
-      "link": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html"
-    },
-    {
-      "title": "Industrieproduktion wächst überraschend - Autobranche legt zu",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html"
-    },
-    {
-      "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html"
-    },
-    {
-      "title": "Paraguay: Die Bankenkrise wird zur Staatskrise",
-      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX fällt im Sog der Nasdaq",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html"
-    },
-    {
-      "title": "Chipaktien an den internationalen Börsen im freien Fall",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html"
     }
   ]
 }
