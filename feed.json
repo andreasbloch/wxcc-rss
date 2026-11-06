@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "title": "Was Aiwangers Tod für Bayerns Koalition bedeutet",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-soeder-analyse-100.html"
+    },
+    {
+      "title": "Paraguay: Die Bankenkrise wird zur Staatskrise",
+      "link": "https://www.tagesschau.de/ausland/amerika/paraguay-pena-ruecktritt-ueno-bank-100.html"
+    },
+    {
+      "title": "Marktbericht: DAX fällt im Sog der Nasdaq",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html"
+    },
+    {
+      "title": "Chipaktien an den internationalen Börsen im freien Fall",
+      "link": "https://www.tagesschau.de/wirtschaft/boerse/tech-einbruch-ki-100.html"
+    },
+    {
+      "title": "Daimler Truck meldet deutlichen Gewinnsprung wegen USA-Geschäft",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/daimlertruck-100.html"
+    },
+    {
+      "title": "Israels Präsident nach Regierungskonsultationen mit ernüchterndem Fazit",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-konsultationen-auftrag-100.html"
+    },
+    {
+      "title": "Los Angeles bekommt linke Bürgermeisterin",
+      "link": "https://www.tagesschau.de/ausland/amerika/los-angeles-buergermeisterin-100.html"
+    },
+    {
+      "title": "Richtungsstreit bei US-Republikanern: Was kommt nach der Trump-Ära?",
+      "link": "https://www.tagesschau.de/ausland/amerika/amerika-midterms-republikaner-100.html"
+    },
+    {
+      "title": "Trump trifft Kreml-Vertreter und stellt Abkommen in Aussicht",
+      "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-russland-108.html"
+    },
+    {
+      "title": "Bundestag plant härtere Strafen für den Einsatz von K.o.-Tropfen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/ko-tropfen-gesetz-bundestag-100.html"
+    },
+    {
+      "title": "Ressourcenverbrauch vieler Rechenzentren nicht öffentlich einsehbar",
+      "link": "https://www.tagesschau.de/investigativ/swr/rechenzentren-transparenz-wasserverbrauch-stromverbrauch-100.html"
+    },
+    {
+      "title": "Kongress lehnt Peñas Rücktritt ab - Staatsanwalt ermittelt",
+      "link": "https://www.tagesschau.de/ausland/paraguay-ruecktritt-abgelehnt-100.html"
+    },
+    {
       "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html"
     },
@@ -31,54 +79,6 @@
     {
       "title": "Investor Benko wegen Millionenbetrugs zu weiterer Haftstrafe verurteilt",
       "link": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX springt auf Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"
-    },
-    {
-      "title": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html"
-    },
-    {
-      "title": "Ukraine: Korruption und Mafiastrukturen bei Geheimdienst und Polizei?",
-      "link": "https://www.tagesschau.de/ausland/ukraine-korruption-116.html"
-    },
-    {
-      "title": "ARD-DeutschlandTrend: Große Mehrheit hat Verständnis für Jugendproteste",
-      "link": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-november-108.html"
-    },
-    {
-      "title": "Trump kritisiert die Midterms-Auszählung im Bundesstaat Alaska",
-      "link": "https://www.tagesschau.de/ausland/amerika/us-midterms-trump-alaska-100.html"
-    },
-    {
-      "title": "Britischer Komiker Brand der Vergewaltigung schuldig gesprochen",
-      "link": "https://www.tagesschau.de/ausland/europa/russell-brand-verurteilung-100.html"
-    },
-    {
-      "title": "Wie der Führerschein günstiger werden soll",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-fuehrerschein-reform-100.html"
-    },
-    {
-      "title": "Aiwanger starb laut ersten Erkenntnissen ohne Fremdverschulden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html"
-    },
-    {
-      "title": "Großangelegter TV-Streich sorgt in Dänemark für Skandal",
-      "link": "https://www.tagesschau.de/ausland/daenemark-tv-skandal-100.html"
-    },
-    {
-      "title": "Mehrere Bombendrohungen gegen Passagierflüge in Europa",
-      "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html"
-    },
-    {
-      "title": "Bund und Eigentümerfamilien einigen sich auf Kaufpreis bei KNDS",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html"
-    },
-    {
-      "title": "Linnemann kündigt Nachbesserungen bei Pflegereform an",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-pflegeversicherung-linnemann-100.html"
     }
   ]
 }
