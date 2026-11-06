@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html"
+    },
+    {
+      "title": "Kalifornien wandelt Todesstrafen in lebenslange Haftstrafen um",
+      "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html"
+    },
+    {
       "title": "Hunderttausende protestieren in Frankreich für bessere Lebensbedingungen",
       "link": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Linnemann kündigt Nachbesserungen bei Pflegereform an",
       "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-pflegeversicherung-linnemann-100.html"
-    },
-    {
-      "title": "Litwinenko-Witwe: \"Der Westen hat einen großen Fehler gemacht\"",
-      "link": "https://www.tagesschau.de/ausland/europa/20-jahre-mord-litwinenko-100.html"
-    },
-    {
-      "title": "Ölpreise fallen weiter, DAX steigt auf Rekordhoch",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/oelpreise-sinken-100.html"
     }
   ]
 }
