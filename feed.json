@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html"
+    },
+    {
+      "title": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+      "link": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html"
+    },
+    {
+      "title": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+      "link": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html"
+    },
+    {
       "title": "Wofür Trumps neuer Stabschef Miller steht",
       "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
       "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html"
-    },
-    {
-      "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
-      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html"
-    },
-    {
-      "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html"
-    },
-    {
-      "title": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html"
     }
   ]
 }
