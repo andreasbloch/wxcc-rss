@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
+      "link": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html"
+    },
+    {
+      "title": "Papst Leo XIV. beginnt Südamerika-Reise in Uruguay",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerika-104.html"
+    },
+    {
+      "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+      "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html"
+    },
+    {
       "title": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
       "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Marktbericht: Zweifel am KI-Geschäft belasten die Branche",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-boom-unter-druck-100.html"
-    },
-    {
-      "title": "Tesla will Cybertruck-Produktion in Texas einstellen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-produktion-cybertruck-100.html"
-    },
-    {
-      "title": "EU-Dienst Copernicus: 1,5-Grad-Marke wird 2026 wohl überschritten",
-      "link": "https://www.tagesschau.de/wissen/klima/copernicus-klimakrise-1komma5-grad-100.html"
-    },
-    {
-      "title": "EU-Kommission wirft TikTok Gesundheitsgefährdung vor",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-tiktok-mentale-gesundheit-gefaehrdung-algorithmus-100.html"
     }
   ]
 }
