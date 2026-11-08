@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "title": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html"
+    },
+    {
       "title": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
       "link": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html"
     },
@@ -75,10 +79,6 @@
     {
       "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
       "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html"
-    },
-    {
-      "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
-      "link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html"
     }
   ]
 }
