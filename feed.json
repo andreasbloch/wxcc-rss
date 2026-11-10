@@ -1,7 +1,55 @@
 {
   "items": [
     {
-      "title": "Ticket-Zweitmarkt: Preisdeckel für Ticketbörsen in der Planung",
+      "title": "Börsengang von Anthropic - umstrittener Goldrausch in San Francisco",
+      "link": "https://www.tagesschau.de/ausland/amerika/goldrausch-san-fransisco-anthropic-vor-boersengang-100.html"
+    },
+    {
+      "title": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
+      "link": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html"
+    },
+    {
+      "title": "Marktbericht: Kursverluste nach KI-Crash fast aufgeholt",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html"
+    },
+    {
+      "title": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html"
+    },
+    {
+      "title": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html"
+    },
+    {
+      "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+      "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html"
+    },
+    {
+      "title": "Israels neu gewähltes Parlament kommt erstmals zusammen",
+      "link": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html"
+    },
+    {
+      "title": "Neun Männer in Manchester angeklagt - Auslöser sind NDR-Recherchen",
+      "link": "https://www.tagesschau.de/ausland/europa/manchester-prozess-sexualstraftaten-100.html"
+    },
+    {
+      "title": "Kalifornier lehnen Milliardärssteuer ab",
+      "link": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html"
+    },
+    {
+      "title": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-strafprozess-gegen-ehemalige-rbb-intendantin-schlesinger-beginnt-102.html"
+    },
+    {
+      "title": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html"
+    },
+    {
+      "title": "Republikaner Massie will Hegseth des Amtes entheben",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html"
+    },
+    {
+      "title": "Gesetz gegen überhöhte Preise: Deckel für Ticketbörsen in der Planung",
       "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html"
     },
     {
@@ -21,10 +69,6 @@
       "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
     },
     {
-      "title": "Republikaner Massie will Hegseth des Amtes entheben",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html"
-    },
-    {
       "title": "Buenos Aires: Papst Leo XIV. feiert Messe vor zwei Millionen Menschen",
       "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html"
     },
@@ -35,50 +79,6 @@
     {
       "title": "Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt",
       "link": "https://www.tagesschau.de/ausland/cop-136.html"
-    },
-    {
-      "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-      "link": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html"
-    },
-    {
-      "title": "Wadephul zweifelt an Russlands Verhandlungswillen",
-      "link": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html"
-    },
-    {
-      "title": "Marktbericht: DAX erholt sich kräftig",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html"
-    },
-    {
-      "title": "Russland: Letzte unabhängige Zeitung Nowaja Gaseta stellt Arbeit ein",
-      "link": "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html"
-    },
-    {
-      "title": "Frankreichs Linksradikale: \"Weniger polarisieren? Werde ich nicht tun\"",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-lfi-wahlkampf-100.html"
-    },
-    {
-      "title": "Frankreich erhöht Mindestlohn um 1,6 Prozent",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html"
-    },
-    {
-      "title": "Zucker-, Plastik- und Stromsteuer: Die offenen Baustellen im Haushalt",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html"
-    },
-    {
-      "title": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html"
-    },
-    {
-      "title": "Russell Brand zu mehr als zehn Jahren Haft verurteilt",
-      "link": "https://www.tagesschau.de/ausland/russell-brand-strafmass-100.html"
-    },
-    {
-      "title": "Steinmeier zu Novemberpogromen: \"Anlass, die Augen zu öffnen\"",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/novemberpogrome-jahrestag-100.html"
-    },
-    {
-      "title": "Warum Merz sich doch für Aigner als Bundespräsidentin stark macht",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html"
     }
   ]
 }
