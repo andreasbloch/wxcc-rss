@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Reform der Nachrichtendienste: \"Jahrhundertwerk\" oder \"Monster\"?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html"
+    },
+    {
+      "title": "Auch Outlook betroffen: Microsoft-Dienste weltweit mit Störungen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html"
+    },
+    {
+      "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
+      "link": "https://www.tagesschau.de/ausland/amerika/nvidia-trump-100.html"
+    },
+    {
+      "title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
+      "link": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html"
+    },
+    {
+      "title": "EPG-Treffen in Dublin: Momentum für Friedensverhandlungen?",
+      "link": "https://www.tagesschau.de/ausland/europa/epg-dublin-momentum-100.html"
+    },
+    {
       "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
       "link": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html"
     },
@@ -59,26 +79,6 @@
     {
       "title": "DAX auf Rekordhoch - Anleger vertrauen deutscher Wachstumsstory",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html"
-    },
-    {
-      "title": "EPG-Treffen in Irland: Europa will mit an den Tisch",
-      "link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html"
-    },
-    {
-      "title": "Neuausrichtung der Bundeszentrale für politische Bildung sorgt für Streit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-fuer-politische-bildung-ausrichtung-100.html"
-    },
-    {
-      "title": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
-      "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html"
-    },
-    {
-      "title": "Polen scheitert vor EuGH mit Klagen gegen EU-Klimapaket",
-      "link": "https://www.tagesschau.de/ausland/europa/eugh-polen-klage-eu-klimapaket-100.html"
-    },
-    {
-      "title": "Warum Filme aus Südkorea in Europa und den USA so gut ankommen",
-      "link": "https://www.tagesschau.de/kultur/suedkorea-kino-erfolge-100.html"
     }
   ]
 }
