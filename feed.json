@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "title": "Papst besucht bedrohte Lebensräume in den Anden und im Amazonasgebiet",
+      "link": "https://www.tagesschau.de/ausland/amerika/papst-suedamerikareise-100.html"
+    },
+    {
+      "title": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
+      "link": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html"
+    },
+    {
       "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
       "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html"
     },
@@ -71,14 +79,6 @@
     {
       "title": "Krise im Handwerk: \"Stilles Sterben der Betriebe\"",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html"
-    },
-    {
-      "title": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html"
-    },
-    {
-      "title": "Treibstoffmangel: Wie die Kubaner mit der Krise zurechtkommen",
-      "link": "https://www.tagesschau.de/ausland/amerika/kuba-energiekrise-alltag-100.html"
     }
   ]
 }
