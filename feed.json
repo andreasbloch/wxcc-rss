@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Krieg gegen die Ukraine: Europas Unterhändler bringen sich in Stellung",
+      "link": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html"
+    },
+    {
+      "title": "Nach Huang-Affäre: Bald alles neu in der KI-Chipindustrie?",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-chipindustrie-nvidia-100.html"
+    },
+    {
+      "title": "Proteste in Frankreich: Die Wut der Schüler, die Ohnmacht der Schulen",
+      "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-188.html"
+    },
+    {
+      "title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Cyberangriffen",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html"
+    },
+    {
       "title": "Tesla kündigt Milliarden-Investition in Werk in Brandenburg an",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html"
     },
@@ -63,22 +79,6 @@
     {
       "title": "EU-Außenminister wollen Ukraine-Strategie ausarbeiten",
       "link": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-ukraine-nahost-100.html"
-    },
-    {
-      "title": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
-    },
-    {
-      "title": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html"
-    },
-    {
-      "title": "WHO warnt vor wachsenden Antibiotika-Resistenzen",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/who-antibiotika-resistenzen-100.html"
-    },
-    {
-      "title": "Offshore-Windparks: Bundesregierung macht millionenschweres Angebot",
-      "link": "https://www.tagesschau.de/investigativ/ndr/offshore-bundesregierung-100.html"
     }
   ]
 }
