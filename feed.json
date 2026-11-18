@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
+      "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html"
+    },
+    {
+      "title": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
+      "link": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html"
+    },
+    {
+      "title": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
+      "link": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html"
+    },
+    {
+      "title": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
+      "link": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html"
+    },
+    {
+      "title": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-ukraine-unsterstuetzung-100.html"
+    },
+    {
+      "title": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html"
+    },
+    {
+      "title": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html"
+    },
+    {
+      "title": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
+      "link": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html"
+    },
+    {
+      "title": "Brasilianischer Regenwald: Indigene verlassen offenbar aus Not ihre Isolation",
+      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html"
+    },
+    {
+      "title": "Gericht: Preiserhöhungs-Klausel von DAZN unwirksam",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/dazn-preise-urteil-100.html"
+    },
+    {
       "title": "Kommentar zur Stromsteuer-Einigung: Fahren auf Sicht - aber wer sitzt eigentlich am Steuer?",
       "link": "https://www.tagesschau.de/kommentar/koalitionsausschuss-merz-stromsteuersenkung-100.html"
     },
@@ -39,46 +79,6 @@
     {
       "title": "VW-Chef Blume: \"Komplett verändertes Umfeld\" zwingt zum Sparkurs",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-volkswagen-blume-zukunftsstrategie-100.html"
-    },
-    {
-      "title": "Stromsteuersenkung und Spritpreisdeckel: Was die Entlastungen im Alltag bringen könnten",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/was-bringt-stromsteuer-senkung-koalitionsausschuss-100.html"
-    },
-    {
-      "title": "APEC-Gipfel in Shenzhen: Xi umarmt Trump - Putin schon da",
-      "link": "https://www.tagesschau.de/ausland/asien/apec-gipfel-shenzen-trump-xi-putin-100.html"
-    },
-    {
-      "title": "Sturm und Regen in Deutschland - viele Einsätze von Polizei und Feuerwehr",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html"
-    },
-    {
-      "title": "\"Kleiner Hüpfer\", \"überfällig\", \"abenteuerlich\" - Reaktionen auf Stromsteuersenkung",
-      "link": "https://www.tagesschau.de/inland/stromsteuer-reaktionen-100.html"
-    },
-    {
-      "title": "\"Keine Klimagerechtigkeit ohne Entmilitarisierung\"",
-      "link": "https://www.tagesschau.de/ausland/asien/cop31-krieg-emissionen-100.html"
-    },
-    {
-      "title": "Keine Neuauszählung: BSW scheitert mit Wahlprüfungsbeschwerde",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-beschwerde-abgelehnt-bundestagswahl-100.html"
-    },
-    {
-      "title": "Wie eine Zuckersteuer der Gesundheit helfen kann",
-      "link": "https://www.tagesschau.de/wissen/gesundheit/wie-eine-zuckersteuer-der-gesundheit-helfen-koennte-100.html"
-    },
-    {
-      "title": "Sorgerechtsreform: Kein Umgangsrecht mehr für gewalttätigen Elternteil",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/gesetzentwurf-sorgerecht-100.html"
-    },
-    {
-      "title": "Unions-Fraktionsvize sieht Nachholbedarf bei Politik für junge Menschen",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-union-100.html"
-    },
-    {
-      "title": "Wie riskant ist Nvidias Kurssturz für ETF-Sparer?",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html"
     }
   ]
 }
