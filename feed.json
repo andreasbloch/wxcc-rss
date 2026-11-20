@@ -1,8 +1,28 @@
 {
   "items": [
     {
-      "title": "Liveticker zu Gipfeln: ++ Kushner lobt Merz-Treffen - \"sehr produktiv\" ++",
+      "title": "Liveticker zu Gipfeln: ++ Wadephul sieht Chance auf Schritt Richtung Frieden ++",
       "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html"
+    },
+    {
+      "title": "Strafbefehl gegen Tesla-Werksleiter",
+      "link": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html"
+    },
+    {
+      "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html"
+    },
+    {
+      "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
+      "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html"
+    },
+    {
+      "title": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html"
+    },
+    {
+      "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html"
     },
     {
       "title": "Volkswagen will Nullrunden für zwei Jahre",
@@ -11,10 +31,6 @@
     {
       "title": "BASF bläst Evonik-Übernahme ab",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html"
-    },
-    {
-      "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html"
     },
     {
       "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
@@ -63,22 +79,6 @@
     {
       "title": "BSI warnt vor erhöhter Gefahrenlage durch  KI-Angriffe",
       "link": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html"
-    },
-    {
-      "title": "Heizen wird wegen steigender Energiepreise immer teurer",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizkosten-anstieg-100.html"
-    },
-    {
-      "title": "Dänisches Parlament ratifiziert Grönland-Deal mit Trump",
-      "link": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html"
-    },
-    {
-      "title": "Marktbericht: Anthropic-Börsengang schiebt DAX an",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html"
-    },
-    {
-      "title": "Verteidigungsminister Pistorius wirbt in Polen für mehr Zusammenarbeit",
-      "link": "https://www.tagesschau.de/inland/pistorius-reise-polen-100.html"
     }
   ]
 }
