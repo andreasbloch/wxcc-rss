@@ -1,12 +1,64 @@
 {
   "items": [
     {
-      "title": "Liveticker zu Gipfeln: ++ Wadephul sieht Chance auf Schritt Richtung Frieden ++",
-      "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html"
+      "title": "Marktbericht: DAX-Talfahrt setzt sich fort",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html"
+    },
+    {
+      "title": "Was die Volkswagen-Forderungen für Beschäftigte bedeuten könnten",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html"
+    },
+    {
+      "title": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html"
+    },
+    {
+      "title": "Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten",
+      "link": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html"
+    },
+    {
+      "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html"
     },
     {
       "title": "Strafbefehl gegen Tesla-Werksleiter",
       "link": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html"
+    },
+    {
+      "title": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
+      "link": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html"
+    },
+    {
+      "title": "Warum Burnham die Nähe zur EU sucht",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-uk-gipfel-100.html"
+    },
+    {
+      "title": "COP31: Deutsche Politiker auf Kurssuche bei der Weltklimakonferenz",
+      "link": "https://www.tagesschau.de/ausland/asien/cop-antalya-deutschland-100.html"
+    },
+    {
+      "title": "WG-Mieten steigen stark: Kann sich die Gen Z Wohnen noch leisten?",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/wg-zimmer-gen-z-proteste-wohnungskrise-100.html"
+    },
+    {
+      "title": "Jugendliche wollen wieder deutschlandweit protestieren",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html"
+    },
+    {
+      "title": "Kritik aus den USA nach Treffen Trumps mit Xi und Putin",
+      "link": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html"
+    },
+    {
+      "title": "Pistorius will Militärpakt mit Polen ausbauen",
+      "link": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html"
+    },
+    {
+      "title": "Medienberichte: Lufthansa will 1.000 Stellen streichen",
+      "link": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html"
+    },
+    {
+      "title": "Liveticker zu Gipfeln: ++ Wadephul sieht Chance auf Schritt Richtung Frieden ++",
+      "link": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html"
     },
     {
       "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
@@ -27,58 +79,6 @@
     {
       "title": "Volkswagen will Nullrunden für zwei Jahre",
       "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html"
-    },
-    {
-      "title": "BASF bläst Evonik-Übernahme ab",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html"
-    },
-    {
-      "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
-      "link": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html"
-    },
-    {
-      "title": "18-jähriger Schüler soll Anschlag auf Moschee geplant haben",
-      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schueler-anschlagsplan-moschee-100.html"
-    },
-    {
-      "title": "EGMR-Urteil: Corona-Impfpflichten waren menschenrechtskonform",
-      "link": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html"
-    },
-    {
-      "title": "Cupic: Biobauer, Dozent und nun Serbiens Parlamentspräsident",
-      "link": "https://www.tagesschau.de/ausland/europa/cupic-parlamentspraesident-serbien-100.html"
-    },
-    {
-      "title": "Erstmals weltweit mehr Energie zum Kühlen als zum Heizen verbraucht",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energieverbrauch-weltweit-heizen-kuehlen-100.html"
-    },
-    {
-      "title": "KI-gestützter Cyberangriff auf EU-Kommission",
-      "link": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html"
-    },
-    {
-      "title": "Firmenporträt: Anthropics halsbrecherischer Aufstieg",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html"
-    },
-    {
-      "title": "Marktbericht: Deutsche Telekom steigt bei KI-Start-up Mistral ein",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html"
-    },
-    {
-      "title": "Internationaler Gerichtshof: Vorgehen Myanmars gegen Rohingya war Völkermord",
-      "link": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html"
-    },
-    {
-      "title": "Französische Soldaten in der Ukraine - aber nicht zum Kampf",
-      "link": "https://www.tagesschau.de/ausland/europa/frankreich-unterstuetzung-ukraine-militaer-100.html"
-    },
-    {
-      "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
-      "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
-    },
-    {
-      "title": "BSI warnt vor erhöhter Gefahrenlage durch  KI-Angriffe",
-      "link": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html"
     }
   ]
 }
