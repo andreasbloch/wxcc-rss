@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "title": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
+      "link": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html"
+    },
+    {
+      "title": "Tote und Verletzte bei Raketenangriff auf Krywyj Rih",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html"
+    },
+    {
+      "title": "Jugendliche erneut zu Tausenden auf den Straßen",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html"
+    },
+    {
       "title": "Mutmaßlicher Anschlagsplan: Dänen weisen russischen Diplomaten aus",
       "link": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html"
     },
@@ -67,18 +79,6 @@
     {
       "title": "Gespräche mit Russland ja - aber wo?",
       "link": "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html"
-    },
-    {
-      "title": "Galeria schließt drei Filialen - und noch viele mehr?",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/galerie-schliessung-filialen-100.html"
-    },
-    {
-      "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
-    },
-    {
-      "title": "Junge Menschen profitieren: EU und Großbritannien nähern sich wieder an",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-grossbritannien-abkommen-102.html"
     }
   ]
 }
