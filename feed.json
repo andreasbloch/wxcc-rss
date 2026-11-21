@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "title": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html"
+    },
+    {
+      "title": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html"
+    },
+    {
+      "title": "Erdbeben erschüttert Perus Andenregion",
+      "link": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html"
+    },
+    {
+      "title": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html"
+    },
+    {
+      "title": "Südafrikas vermeidbare Wasserkrise",
+      "link": "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html"
+    },
+    {
+      "title": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html"
+    },
+    {
+      "title": "\"Palisades Fire\" - Angeklagter im zweiten Anlauf schuldig gesprochen",
+      "link": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html"
+    },
+    {
+      "title": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
+      "link": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html"
+    },
+    {
+      "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html"
+    },
+    {
+      "title": "Happy Birthday \"Rocky\" - Philadelphia feiert 50 Jahre Italian Stallion",
+      "link": "https://www.tagesschau.de/kultur/50-jahre-rocky-100.html"
+    },
+    {
+      "title": "Verhandlungen dauern an - Weltklimakonferenz geht in die Verlängerung",
+      "link": "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html"
+    },
+    {
       "title": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
       "link": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html"
     },
@@ -9,7 +53,7 @@
       "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html"
     },
     {
-      "title": "Jugendliche erneut zu Tausenden auf den Straßen",
+      "title": "\"Gen Z regelt\": Jugendliche erneut zu Tausenden auf den Straßen",
       "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html"
     },
     {
@@ -25,7 +69,7 @@
       "link": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html"
     },
     {
-      "title": "Anzeige gegen Depardieu und Houellebecq wegen Vergewaltigungsvorwurfs",
+      "title": "Vergewaltigungsvorwurf: Anzeige gegen Depardieu und Houellebecq",
       "link": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html"
     },
     {
@@ -35,50 +79,6 @@
     {
       "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
       "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html"
-    },
-    {
-      "title": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
-      "link": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html"
-    },
-    {
-      "title": "Pistorius in Polen: Eine Reise im Zeichen der Erinnerungsarbeit",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/pistorius-polen-gedenken-100.html"
-    },
-    {
-      "title": "Merz: Unterstützung der Ukraine bringt uns Dividende",
-      "link": "https://www.tagesschau.de/wirtschaft/deutsch-ukrainisches-wirtschaftsforum-104.html"
-    },
-    {
-      "title": "Polen wirft Russland gezielte Provokation vor",
-      "link": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html"
-    },
-    {
-      "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
-      "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html"
-    },
-    {
-      "title": "Verhandlungen dauern an - Weltklimakonferenz geht in die Verlängerung",
-      "link": "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html"
-    },
-    {
-      "title": "Einer von Europols \"Most Wanted\" in Istanbul gefasst",
-      "link": "https://www.tagesschau.de/investigativ/ndr/festnahme-tuerkei-napoleon-kriminalitaet-100.html"
-    },
-    {
-      "title": "Prien verteidigt Kürzungen bei \"Demokratie leben!\"",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-demokratiefoerderung-100.html"
-    },
-    {
-      "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html"
-    },
-    {
-      "title": "Kritik an Ausnahmen bei Erbschaftsteuer nach Recherchen über Döpfner-Schenkung",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html"
-    },
-    {
-      "title": "Gespräche mit Russland ja - aber wo?",
-      "link": "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html"
     }
   ]
 }
