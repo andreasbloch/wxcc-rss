@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
+      "link": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html"
+    },
+    {
+      "title": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
+      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html"
+    },
+    {
+      "title": "TK-Chef Baas: Mehr Geld schafft keine Arzttermine",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html"
+    },
+    {
+      "title": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
+      "link": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html"
+    },
+    {
+      "title": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html"
+    },
+    {
       "title": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
       "link": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html"
     },
@@ -19,6 +39,10 @@
     {
       "title": "Türkischer Sender Sözcü TV: Journalismus unter Zwangsverwaltung",
       "link": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html"
+    },
+    {
+      "title": "NRW-AfD einigt sich auf Programm für Landtagswahl",
+      "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-nrw-wahlprogramm-100.html"
     },
     {
       "title": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
@@ -55,30 +79,6 @@
     {
       "title": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
       "link": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html"
-    },
-    {
-      "title": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
-      "link": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html"
-    },
-    {
-      "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
-      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html"
-    },
-    {
-      "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html"
-    },
-    {
-      "title": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
-      "link": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html"
-    },
-    {
-      "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
-      "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html"
-    },
-    {
-      "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-      "link": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html"
     }
   ]
 }
