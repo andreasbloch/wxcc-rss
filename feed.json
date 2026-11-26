@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Marktbericht: DAX macht einen Sprung nach vorn",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html"
+    },
+    {
+      "title": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
+      "link": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html"
+    },
+    {
+      "title": "Terrorverdacht - zwei Iraker in Köln und Heidelberg festgenommen",
+      "link": "https://www.tagesschau.de/inland/terrorverdacht-festnahmen-102.html"
+    },
+    {
+      "title": "SPD reagiert verhalten auf CDU-Vorstoß zur Rente",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html"
+    },
+    {
+      "title": "Familienministerin Prien für bildschirmfreie Zeit bei Kleinkindern",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html"
+    },
+    {
+      "title": "UniCredit beantragt Hauptversammlung bei Commerzbank",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-commerzbank-hauptversammlung-100.html"
+    },
+    {
+      "title": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html"
+    },
+    {
+      "title": "Digitaler Führerschein startet ab Mitte Dezember",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/digitaler-fuehrerschein-verspaetung-start-mitte-dezember-100.html"
+    },
+    {
+      "title": "13 Tote aus überfluteter Goldmine in Indonesien geborgen",
+      "link": "https://www.tagesschau.de/ausland/asien/tote-aus-gefluteter-goldmine-geborgen-indonesien-100.html"
+    },
+    {
+      "title": "Schlauchboote im Ärmelkanal: Deutscher Firmenchef soll Schleuser beliefert haben",
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html"
+    },
+    {
+      "title": "Deutschland verfehlt EU-Frist für besseren Schutz von Lieferfahrern",
+      "link": "https://www.tagesschau.de/investigativ/rbb/lieferdienste-subunternehmer-100.html"
+    },
+    {
+      "title": "Wetterchaos an Thanksgiving in USA befürchtet",
+      "link": "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html"
+    },
+    {
+      "title": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html"
+    },
+    {
+      "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html"
+    },
+    {
+      "title": "Mit 65 Jahren: Duran-Duran-Gitarrist Andy Taylor gestorben",
+      "link": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html"
+    },
+    {
       "title": "Ägypten: Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
       "link": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html"
     },
@@ -19,66 +79,6 @@
     {
       "title": "Expertenkommission fordert schärfere Regeln für Prostitution",
       "link": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html"
-    },
-    {
-      "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html"
-    },
-    {
-      "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
-      "link": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html"
-    },
-    {
-      "title": "Asteroiden-Abwehr - einfach schießen und hoffen reicht nicht",
-      "link": "https://www.tagesschau.de/wissen/sonde-hera-asteroid-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX fällt unter 25.000 Punkte-Marke",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html"
-    },
-    {
-      "title": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html"
-    },
-    {
-      "title": "KI-Ernüchterung an den Börsen greift um sich",
-      "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html"
-    },
-    {
-      "title": "Generaldebatte im Bundestag: Nachdenkliche Töne und ein Zugeständnis",
-      "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-generaldebatte-merz-100.html"
-    },
-    {
-      "title": "USA kündigen neue Zölle an - auch gegen EU und China",
-      "link": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html"
-    },
-    {
-      "title": "Tote und Vermisste nach Überflutung in Goldmine",
-      "link": "https://www.tagesschau.de/ausland/asien/unglueck-illegale-goldmine-indonesien-100.html"
-    },
-    {
-      "title": "Wenn der Partner zuschlägt",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/wenn-der-partner-zuschlaegt-gewalt-gegen-frauen-100.html"
-    },
-    {
-      "title": "Gewalt gegen Frauen in Brasilien: Auf Streife gegen Femizide",
-      "link": "https://www.tagesschau.de/ausland/amerika/brasilien-gewalt-gegen-frauen-100.html"
-    },
-    {
-      "title": "74 Peitschenhiebe für iranische Sängerin lösen Empörung aus",
-      "link": "https://www.tagesschau.de/ausland/asien/iran-saengerin-peitschenhiebe-100.html"
-    },
-    {
-      "title": "Discounter senken Butterpreis unter einen Euro",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/butter-preis-preiskampf-discounter-bauern-100.html"
-    },
-    {
-      "title": "EU-Parlament stimmt neuen Arzneimittelregeln zu",
-      "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html"
-    },
-    {
-      "title": "tagesschau in Einfacher Sprache startet WhatsApp-Kanal",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/einfache-sprache-102.html"
     }
   ]
 }
