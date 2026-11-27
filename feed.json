@@ -1,8 +1,60 @@
 {
   "items": [
     {
-      "title": "Wintereinbruch: Schneefall behindert Autoverkehr in Bayern",
+      "title": "Westjordanland: Israelische Politiker sprechen von \"jüdischem Terror\"",
+      "link": "https://www.tagesschau.de/ausland/asien/westjordanland-gewalt-100.html"
+    },
+    {
+      "title": "Marktbericht: Anleger nutzen günstige Kurse zum Einkauf",
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html"
+    },
+    {
+      "title": "Shopping: KI-Agenten werden beliebter",
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ki-agenten-einkaufen-handel-100.html"
+    },
+    {
+      "title": "Parteitag in Dresden: Wie hält es das BSW mit der AfD?",
+      "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.html"
+    },
+    {
+      "title": "Wintereinbruch: Mehr als 400 Unfälle im Süden Bayerns",
       "link": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html"
+    },
+    {
+      "title": "Textilbranche: Einigung auf Mindestlohn-Erhöhung in Bangladesch",
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bangladesch-fast-fashion-100.html"
+    },
+    {
+      "title": "Bundesregierung will KI-Anbieter zur Kasse bitten",
+      "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-urheberrecht-verguetung-100.html"
+    },
+    {
+      "title": "USA: Schwerer Sturm sorgt an Thanksgiving für massive Einschränkungen",
+      "link": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html"
+    },
+    {
+      "title": "SAP meldet verdächtige Aktivitäten",
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html"
+    },
+    {
+      "title": "Parlamentswahl: Wie Spaniens Volkspartei die Ära Sánchez abwickeln will",
+      "link": "https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html"
+    },
+    {
+      "title": "Neuseeland: Konservative verlieren Mehrheit - Labour hat auch keine",
+      "link": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html"
+    },
+    {
+      "title": "Rekordhohe Arbeitslosigkeit bei Menschen mit Schwerbehinderung",
+      "link": "https://www.tagesschau.de/inland/gesellschaft/schwerbehinderung-arbeitslose-100.html"
+    },
+    {
+      "title": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
+      "link": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html"
+    },
+    {
+      "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+      "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
     },
     {
       "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
@@ -27,58 +79,6 @@
     {
       "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
       "link": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html"
-    },
-    {
-      "title": "Marktbericht: DAX macht einen Sprung nach vorn",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html"
-    },
-    {
-      "title": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
-      "link": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
-    },
-    {
-      "title": "Rentenreform: Vom Gesamtkunstwerk zum Trümmerhaufen",
-      "link": "https://www.tagesschau.de/kommentar/respekt-rente-kommentar-schwarte-100.html"
-    },
-    {
-      "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
-      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html"
-    },
-    {
-      "title": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
-      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html"
-    },
-    {
-      "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
-      "link": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html"
-    },
-    {
-      "title": "Russland: Sieben von zehn ermordeten Frauen Opfer häuslicher Gewalt",
-      "link": "https://www.tagesschau.de/ausland/asien/mehr-frauen-in-russland-sterben-durch-gewalt-100.html"
-    },
-    {
-      "title": "Erzbistum Köln: Rekordschmerzensgeld für Missbrauchsopfer",
-      "link": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html"
-    },
-    {
-      "title": "BGH stärkt Rechte von Mietern bei Balkonkraftwerken",
-      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mietrecht-balkonkraftwerke-bgh-100.html"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
-      "link": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html"
-    },
-    {
-      "title": "Israel: Staatsanwältin im Netanjahu-Prozess vor Dilemma",
-      "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html"
-    },
-    {
-      "title": "Menschen in Hongkong gedenken der Opfer von Hochhausbrand",
-      "link": "https://www.tagesschau.de/ausland/asien/hongkong-gedenken-hochhausbrand-100.html"
-    },
-    {
-      "title": "Marktbericht: Aktieninvestoren blicken vorsichtig nach vorn",
-      "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-chancen-risiken-100.html"
     }
   ]
 }
